@@ -6,7 +6,7 @@ on:
     - cron: '35 4 * * *'
 
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
 
     steps:
