@@ -9772,6 +9772,21 @@
     ]
   },
   {
+    "id": "1457081",
+    "name": "ELDER, MIKAYLA",
+    "address": "1121 L STREET,STE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1369591",
     "name": "ELIRAN, SHARON",
     "address": "1251 AVENUE OF AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
@@ -14562,6 +14577,22 @@
     ]
   },
   {
+    "id": "1460447",
+    "name": "HASSLINGER , ALEX",
+    "address": "100 WILSHIRE BOULEVARD\nSANTA MONICA, CA 90401",
+    "phone": "(310) 356-0858",
+    "email": "compliance@gcp.com",
+    "registrationDate": "05/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLP CAPITAL PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "05/08/2023"
+      }
+    ]
+  },
+  {
     "id": "1409452",
     "name": "HATCH, ARIS R. ",
     "address": "12 TYNG HILL ROAD\nHOLLIS, NH 03049",
@@ -16031,6 +16062,22 @@
         "entityName": "ICONIQ CAPITAL, LLC",
         "type": "Employer",
         "effectiveDate": "01/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460451",
+    "name": "HUNT , SARAH",
+    "address": "100 WILSHIRE BOULEVARD\nSANTA MONICA, CA 90401",
+    "phone": "(310) 356-0858",
+    "email": "compliance@gcp.com",
+    "registrationDate": "05/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLP CAPITAL PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "05/08/2023"
       }
     ]
   },
@@ -18906,6 +18953,22 @@
     ]
   },
   {
+    "id": "1460449",
+    "name": "LAGONE , DOMINIC",
+    "address": "100 WILSHIRE BOULEVARD\nSANTA MONICA, CA 90401",
+    "phone": "(310) 356-0858",
+    "email": "compliance@gcp.com",
+    "registrationDate": "05/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLP CAPITAL PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "05/08/2023"
+      }
+    ]
+  },
+  {
     "id": "1456474",
     "name": "LAMIRANDE, ALEXANDRA",
     "address": "1215 K STREET, SUITE 1220\nSACRAMENTO, CA 95814",
@@ -19589,6 +19652,22 @@
         "entityName": "JACOBS LEVY EQUITY MANAGEMENT, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1354192",
+    "name": "LEIGH, BRITTON",
+    "address": "100 WILSHIRE BOULEVARD\nSANTA MONICA, CA 90401",
+    "phone": "(310) 356-0858",
+    "email": "compliance@gcp.com",
+    "registrationDate": "05/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLP CAPITAL PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "05/08/2023"
       }
     ]
   },
@@ -36199,6 +36278,22 @@
         "entityName": "BLACKROCK CORPORATION US INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460443",
+    "name": "WILSON , THADDEUS",
+    "address": "100 WILSHIRE BOULEVARD\nSANTA MONICA, CA 90401",
+    "phone": "(303) 784-5376",
+    "email": "compliance@gcp.com",
+    "registrationDate": "05/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLP CAPITAL PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "05/08/2023"
       }
     ]
   },
