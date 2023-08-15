@@ -2384,14 +2384,15 @@
     "address": "9 WEST 57TH STREET, 25TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 715-5100",
     "email": "bbeck@coatue.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/01/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COATUE MANAGEMENT, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/01/2023"
       }
     ]
   },
@@ -2763,6 +2764,22 @@
         "entityName": "BERRY; MARK",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1443452",
+    "name": "BERUTTI, JAMES",
+    "address": "63 EAST 55TH STREET, 28TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(646) 968-7146",
+    "email": "james.berutti@castlelake.com",
+    "registrationDate": "07/11/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
+        "type": "Employer",
+        "effectiveDate": "07/11/2023"
       }
     ]
   },
@@ -11877,6 +11894,21 @@
     ]
   },
   {
+    "id": "1381139",
+    "name": "GATES, JEFFREY R.",
+    "address": "601 CALIFORNIA STREET, SUITE 1750\nSAN FRANCISCO, CA 94108",
+    "phone": "(415) 536-2704",
+    "registrationDate": "08/03/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BERKSHIRE PROPERTY ADVISORS, L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "08/30/2023"
+      }
+    ]
+  },
+  {
     "id": "1435549",
     "name": "GAUDET, DAVID M.",
     "address": "1 LINCOLN STREET, 3RD FLOOR\nBOSTON, MA 02111",
@@ -16719,6 +16751,23 @@
     ]
   },
   {
+    "id": "1376654",
+    "name": "JENKINS, TIMOTHY",
+    "address": "395 9TH AVE,1 MANHATTAN WEST, 56 FLOOR\nNEW YORK, NY 10001",
+    "phone": "(332) 455-0422",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "04/05/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EISLER CAPITAL (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "04/05/2023"
+      }
+    ]
+  },
+  {
     "id": "1447077",
     "name": "JENNINGS, ALLISON",
     "address": "1 GREENWICH PLAZA, 3RD FLOOR\nGREENWICH, CT 06830",
@@ -17241,14 +17290,15 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/03/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA YIMBY",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/03/2023"
       }
     ]
   },
@@ -17973,6 +18023,23 @@
         "entityName": "VALENCIA GOVERNMENT RELATIONS, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1458547",
+    "name": "KHAN, SHAMAFA",
+    "address": "34 EAST 51ST STREET\nNEW YORK, NY 10022",
+    "phone": "(212) 634-3250",
+    "email": "skhan@crayhill.com",
+    "registrationDate": "01/26/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRAYHILL CAPITAL MANAGEMENT",
+        "type": "Employer",
+        "effectiveDate": "01/26/2023"
       }
     ]
   },
@@ -20226,6 +20293,22 @@
         "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462291",
+    "name": "LITTLE, MATT",
+    "address": "65 EAST 55TH STREET 28TH FLOOR \nNEW YORK , NY 10022",
+    "phone": "(917) 229-5350",
+    "email": "matt.little@castlelake.com",
+    "registrationDate": "07/11/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
+        "type": "Employer",
+        "effectiveDate": "07/11/2023"
       }
     ]
   },
@@ -22782,6 +22865,22 @@
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461531",
+    "name": "MCGUIRE, MICHAEL",
+    "address": "590 MADISON AVENUE, 42ND FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 906-0726",
+    "email": "mmcguire@crestview.com",
+    "registrationDate": "07/07/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRESTVIEW ADVISORS, L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "07/07/2023"
       }
     ]
   },
@@ -28237,14 +28336,15 @@
     "phone": "(415) 345-8667",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/28/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA ACADEMY OF FAMILY PHYSICIANS",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/28/2023"
       }
     ]
   },
@@ -28704,13 +28804,14 @@
     "name": "ROBINSON, LINDSAY",
     "address": "915 L STREET, SUITE C-407\nSACRAMENTO, CA 95814",
     "phone": "(323) 338-1803",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "04/20/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA CANNABIS INDUSTRY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/20/2023"
       }
     ]
   },
@@ -31456,6 +31557,22 @@
     ]
   },
   {
+    "id": "1459546",
+    "name": "SILVER, JESSE",
+    "address": "1 MANHATTAN WEST, 395 9TH AVE, 56TH FLOOR\nNEW YORK, NY 10001",
+    "phone": "(332) 445-0425",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "04/05/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EISLER CAPITAL (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "04/05/2023"
+      }
+    ]
+  },
+  {
     "id": "1420213",
     "name": "SILVERMAN, STACY",
     "address": "2000 AVENUE OF THE STARS, 11TH FLOOR\nLOS ANGELES, CA 90067",
@@ -33176,13 +33293,14 @@
     "address": "1517 L STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-2599",
     "email": "lswizer@cncda.org",
-    "registrationDate": "02/01/2023",
-    "status": "Active",
+    "registrationDate": "06/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA NEW CAR DEALERS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "02/01/2023"
+        "effectiveDate": "02/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
