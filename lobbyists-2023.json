@@ -769,13 +769,14 @@
     "address": "1 VANDERBILT AVENUE, 26TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(212) 303-4624",
     "email": "damacher@msdpartners.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "04/01/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MSD PARTNERS, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/01/2023"
       }
     ]
   },
@@ -1249,13 +1250,17 @@
   {
     "id": "1426324",
     "name": "ASPREC, NORLYN ",
-    "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
-    "phone": "(916) 327-7540",
-    "email": "admin@cheac.org",
-    "registrationDate": "03/31/2023",
+    "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95841",
+    "phone": "(916) 444-7464",
+    "registrationDate": "04/10/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "AXIOM ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "04/10/2023"
+      },
       {
         "entityName": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
         "type": "Employer",
@@ -5204,13 +5209,14 @@
     "phone": "(212) 981-5600",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "04/12/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SILVER LAKE TECHNOLOGY MANAGEMENT, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/12/2023"
       }
     ]
   },
@@ -5610,7 +5616,8 @@
       {
         "entityName": "FERNANDEZ JENSEN KIMMELSHUE GOVERNMENT AFFAIRS",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/15/2023"
       }
     ]
   },
@@ -7736,13 +7743,19 @@
   {
     "id": "1417802",
     "name": "CUNNINGHAM, PATRICK",
-    "address": "1285 AVENUE OF THE AMERICAS\nNEW YORK, NY 10019",
-    "phone": "(212) 713-3908",
-    "email": "pat.cunningham@ubs.com",
-    "registrationDate": "04/30/2023",
+    "address": "590 MADISON AVENUE, 34TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 287-2117",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAAMENTO, CA 95814",
+    "registrationDate": "05/18/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "DIGITALBRIDGE GROUP, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "05/18/2023"
+      },
       {
         "entityName": "UBS ASSET MANAGEMENT (AMERICAS) INC.",
         "type": "Employer",
@@ -11548,14 +11561,15 @@
     "address": "1800 DUKE STREET\nALEXANDRIA, VA 22314",
     "phone": "(916) 403-3465",
     "email": "jason.gabhart@shrm.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/31/2023",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SOCIETY FOR HUMAN RESOURCE MANAGEMENT",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2023"
       }
     ]
   },
@@ -13985,6 +13999,23 @@
         "entityName": "EMPIRICAL POLICY",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460480",
+    "name": "HAGEN, JOSHUA J.",
+    "address": "1512 14TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-1681",
+    "email": "joshua@collegecampaign.org",
+    "registrationDate": "05/23/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPAIGN FOR COLLEGE OPPORTUNITY; THE",
+        "type": "Employer",
+        "effectiveDate": "05/23/2023"
       }
     ]
   },
@@ -16904,13 +16935,14 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94301\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "03/31/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ECLIPSE VENTURES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2023"
       }
     ]
   },
@@ -21219,6 +21251,23 @@
     ]
   },
   {
+    "id": "1460150",
+    "name": "MAGUIRE, MOLLY J.",
+    "address": "1512 14TH STREET \nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-1681",
+    "email": "molly@collegecampaign.org",
+    "registrationDate": "05/23/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPAIGN FOR COLLEGE OPPORTUNITY; THE",
+        "type": "Employer",
+        "effectiveDate": "05/23/2023"
+      }
+    ]
+  },
+  {
     "id": "1442951",
     "name": "MAHAFFY, SHANNON",
     "address": "888 7TH AVENUE, 18TH FLOOR\nNEW YORK, NY 10019",
@@ -21455,6 +21504,21 @@
         "entityName": "STONE POINT CAPITAL LLC",
         "type": "Employer",
         "effectiveDate": "03/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460544",
+    "name": "MANNAA, STEEN",
+    "address": "32 DUKE STREET, 3RD FLOOR\nLONDON UK SW1Y 6DF",
+    "email": "mannaa@triton-partners",
+    "registrationDate": "05/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRITON INVESTMENTS ADVISERS LLP",
+        "type": "Employer",
+        "effectiveDate": "05/01/2023"
       }
     ]
   },
@@ -26734,6 +26798,7 @@
     "phone": "(212) 618-3491",
     "email": "helen.petrow@brookfiled.com",
     "registrationDate": "06/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -27306,6 +27371,20 @@
         "entityName": "ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460547",
+    "name": "PRAHL, PEDER",
+    "address": "32 DUKE STREET, 3RD FLOOR\nLONDON UK SW1Y 6DF, CA\n\t",
+    "registrationDate": "05/02/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRITON INVESTMENTS ADVISERS LLP",
+        "type": "Employer",
+        "effectiveDate": "05/02/2023"
       }
     ]
   },
@@ -31908,13 +31987,14 @@
     "phone": "(917) 280-0850",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (917) 280-0850",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "03/31/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EQT PARTNERS INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2023"
       }
     ]
   },
@@ -33379,13 +33459,14 @@
     "address": "101 CRAWFORDS CORDER ROAD, SUITE 2106\nHOLMDEL, NJ 07733",
     "phone": "(732) 978-7535",
     "email": "nicole.taetsch@zaisgroup.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "06/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ZAIS GROUP, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -36233,8 +36314,9 @@
     "name": "WHITE, THOMAS R.",
     "address": "555 CAPITOL MALL SUITE 180\nSACRAMENTO, CA 95814",
     "phone": "(949) 212-1031",
-    "email": "info@majorityadvisors.com",
+    "email": "tom@majorityadvisors.com",
     "registrationDate": "06/12/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -37418,6 +37500,23 @@
         "entityName": "ZAIS GROUP, LLC",
         "type": "Employer",
         "effectiveDate": "04/05/2023"
+      }
+    ]
+  },
+  {
+    "id": "1424961",
+    "name": "ZWEBNER, MARC",
+    "address": "11 WEST 42ND STREET, 9TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(212) 878-3596",
+    "email": "icrawford@avenuecapital.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AVENUE CAPITAL MANAGEMENT II, L.P. AND ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
       }
     ]
   }
