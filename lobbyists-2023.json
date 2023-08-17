@@ -3081,15 +3081,20 @@
     "phone": "(212) 922-6055",
     "email": "james.blake@newtonim.com",
     "mailingAddress": "500 GRANT STREET, SUITE 2245\nPITTSBURGH, PA 15258",
-    "registrationDate": "06/30/2023",
+    "registrationDate": "07/01/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "BNY MELLON SECURITIES CORP",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/30/2023"
+      },
+      {
+        "entityName": "NEWTON INVESTMENT MANAGEMENT NORTH AMERICA, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/01/2023"
       }
     ]
   },
@@ -7857,14 +7862,15 @@
     "phone": "(415) 903-2800",
     "email": "laura.curtis@doordash.com",
     "mailingAddress": "28 LIBERTY SHIP WAY, SUITE 2815\nSAUSALITO, CA 94965\nPhone: (415) 903-2800\nEmail: laura.curtis@doordash.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DOORDASH, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -10703,7 +10709,7 @@
   {
     "id": "1334637",
     "name": "FISHER, JULIE",
-    "address": "400 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10017",
+    "address": "575 BROADWAY, 3RD FLOOR\nNEW YORK, NY 10017",
     "phone": "(312) 683-1900",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
@@ -11813,7 +11819,7 @@
     "address": "400 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(312) 683-1900",
     "email": "info@keyslawcorp.com",
-    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
+    "mailingAddress": "575 BROADWAY, 3RD FLOOR\nNEW YORK, NY 10017\nPhone: (312) 683-1900\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
@@ -13440,7 +13446,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "WELLINGTON MANAGEMENT COMPANY LLP",
+        "entityName": "WELLINGTON MANAGEMENT COMPANY LLP AND AFFILIATE WELLINGTON FUNDS DISTRIBUTORS INC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -14614,7 +14620,7 @@
     "address": "400 MADISON AVENUE, 20TH FLOOR \nNEW YORK, NY 10017",
     "phone": "(312) 683-1900",
     "email": "jhaslip_valor@keyslawcorp.com",
-    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
+    "mailingAddress": "575 BROADWAY, 3RD FLOOR\nNEW YORK, NY 10012\nPhone: (312) 683-1900\nEmail: jhaslip_valor@keyslawcorp.com",
     "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
@@ -14653,7 +14659,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "GLP CAPITAL PARTNERS LP",
+        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "05/08/2023"
       }
@@ -15018,14 +15024,15 @@
     "name": "HELGET, CHARLES L.",
     "address": "980 9TH STREET, 16TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 449-9686",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/15/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "REPUBLIC SERVICES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/15/2023"
       }
     ]
   },
@@ -15884,6 +15891,23 @@
     ]
   },
   {
+    "id": "1460965",
+    "name": "HOROWITZ, JASON A.",
+    "address": "4 EMBARCADERO CENTER, SUITE 2610\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "2350 KERNER BOULEVARD SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "06/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WELLINGTON MANAGEMENT COMPANY LLP AND AFFILIATE WELLINGTON FUNDS DISTRIBUTORS INC",
+        "type": "Employer",
+        "effectiveDate": "06/08/2023"
+      }
+    ]
+  },
+  {
     "id": "1425178",
     "name": "HORTON, JEROME E.",
     "address": "444 SOUTH FLOWER STREET, FLOOR 18\nLOS ANGELES, CA 90071",
@@ -16126,7 +16150,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ICONIQ CAPITAL, LLC",
+        "entityName": "ICONIQ CAPITAL LLC AND ITS AFFILIATE IPI PARTNERS LLC",
         "type": "Employer",
         "effectiveDate": "01/20/2023"
       }
@@ -16142,7 +16166,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "GLP CAPITAL PARTNERS LP",
+        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "05/08/2023"
       }
@@ -19097,7 +19121,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "GLP CAPITAL PARTNERS LP",
+        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "05/08/2023"
       }
@@ -19614,7 +19638,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ICONIQ CAPITAL, LLC",
+        "entityName": "ICONIQ CAPITAL LLC AND ITS AFFILIATE IPI PARTNERS LLC",
         "type": "Employer",
         "effectiveDate": "01/20/2023"
       }
@@ -19800,7 +19824,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "GLP CAPITAL PARTNERS LP",
+        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "05/08/2023"
       }
@@ -22902,7 +22926,7 @@
   {
     "id": "1346826",
     "name": "MC RAY, KENNETH ",
-    "address": "2049 CENTURY PARK EAST, 16TH FLOOR\nLOS ANGELES, CA 90067",
+    "address": "2029 CENTURY PARK EAST, 16TH FLOOR\nLOS ANGELES, CA 90067",
     "phone": "(310) 552-8903",
     "email": "compliance_ca_nuveen_1@multistate.us",
     "registrationDate": "01/01/2023",
@@ -26339,7 +26363,7 @@
   {
     "id": "1431628",
     "name": "PARDEE, ALAN A.",
-    "address": "400 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10017",
+    "address": "575 BROADWAY, 3RD FLOOR\nNEW YORK, NY 10012",
     "phone": "(312) 683-1900",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412 \nC/O KEYS LAW\nSACRAMENTO, CA 95814",
@@ -27777,7 +27801,7 @@
   {
     "id": "1456722",
     "name": "RAMATICI, ROSS",
-    "address": "400 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10017",
+    "address": "575 BROADWAY, 3RD FLOOR\nNEW YORK, NY 10017",
     "phone": "(312) 683-1900",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
@@ -28292,14 +28316,15 @@
     "phone": "(315) 571-3203",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/26/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RIVERWOOD CAPITAL MANAGEMENT L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/26/2023"
       }
     ]
   },
@@ -33200,6 +33225,23 @@
     ]
   },
   {
+    "id": "1460530",
+    "name": "SULLIVAN, JESSICA",
+    "address": "330 RAILROAD AVENUE, SUITE 200\nGREENWICH, CT 06830",
+    "phone": "(203) 542-0750",
+    "email": "FPPC@BMHLAW.COM",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "04/03/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIGHTON PARK CAPITAL MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "04/03/2023"
+      }
+    ]
+  },
+  {
     "id": "1338096",
     "name": "SUPPLE, WILLIAM J.",
     "address": "1 BEACON STREET, 30TH FLOOR\nBOSTON, MA 02108",
@@ -33798,14 +33840,15 @@
     "address": "405 WEST 13TH STREET \nNEW YORK , NY 10014",
     "phone": "(917) 207-5144",
     "email": "lobbying@campaignlawyers.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENGINE NO. 1",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -34512,7 +34555,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "WELLINGTON MANAGEMENT COMPANY LLP",
+        "entityName": "WELLINGTON MANAGEMENT COMPANY LLP AND AFFILIATE WELLINGTON FUNDS DISTRIBUTORS INC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -34598,6 +34641,23 @@
         "entityName": "NIEMELA, PAPPAS AND ASSOCIATES",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1398328",
+    "name": "TURRO, HANNAH J.",
+    "address": "520 MADISON AVENUE 34TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 321-7960",
+    "email": "FPPC@BMHLAW.COM",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600,\nSACRAMENTO, CA 95814",
+    "registrationDate": "04/03/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VARDE PARTNERS, INC.",
+        "type": "Employer",
+        "effectiveDate": "04/03/2023"
       }
     ]
   },
@@ -36014,14 +36074,15 @@
     "address": "375 PARK AVENUE, 33RD FLOOR\nNEW YORK, NY 10152",
     "phone": "(212) 895-2280",
     "email": "lobbying@campaignlawyers.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SOUNDPOINT CAPITAL MANAGEMENT, LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -36562,7 +36623,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "GLP CAPITAL PARTNERS LP",
+        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "05/08/2023"
       }
