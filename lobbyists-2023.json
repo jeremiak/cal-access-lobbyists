@@ -268,6 +268,7 @@
     "phone": "(916) 718-9079",
     "email": "laguilar@serlinhaley.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -1130,23 +1131,6 @@
       {
         "entityName": "CHEVRON U.S.A., INC. AND AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1354234",
-    "name": "ARMSTRONG, BETSY A.",
-    "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
-    "phone": "(916) 327-7540",
-    "email": "admin@cheac.org",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ARMSTRONG; BETSY",
-        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -2159,6 +2143,7 @@
     "phone": "(818) 998-3850",
     "email": "john@thecriscomcompany.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -3431,6 +3416,22 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "01/31/2023"
+      }
+    ]
+  },
+  {
+    "id": "1439280",
+    "name": "BOND, MICHAEL J.",
+    "address": "540 MADISON AVENUE, 7TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 702-5235",
+    "email": "anathanson@suvcap.com",
+    "registrationDate": "07/11/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SUVRETTA CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/11/2023"
       }
     ]
   },
@@ -5950,6 +5951,7 @@
     "phone": "(916) 442-6977",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -6016,6 +6018,7 @@
     "phone": "(786) 436-0030",
     "email": "mchiodi@kpgcapitalpartners.com",
     "registrationDate": "03/28/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -6686,6 +6689,7 @@
     "phone": "(203) 340-7881",
     "email": "cc@crossoceanpartners.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -7054,6 +7058,7 @@
     "phone": "(916) 573-2337",
     "email": "evan@redwood-pa.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -8030,14 +8035,15 @@
     "address": "415 MISSION STREET, SUITE 5700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 788-5111",
     "email": "sdaniels@hf.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/15/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HELLMAN & FRIEDMAN LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/15/2023"
       }
     ]
   },
@@ -8724,6 +8730,7 @@
     "phone": "(415) 825-0133",
     "email": "allie@reimagine-power.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -9180,6 +9187,22 @@
         "entityName": "QEP ADVISERS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460026",
+    "name": "DOLD, JAMES L.",
+    "address": "1250 CONNECTICUT AVENUE NW, SUITE 700\nWASHINGTON, DC 20036",
+    "phone": "(202) 573-7758",
+    "email": "jdold@humanrightsforkids.org",
+    "registrationDate": "03/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HUMAN RIGHTS FOR KIDS",
+        "type": "Employer",
+        "effectiveDate": "03/27/2023"
       }
     ]
   },
@@ -10697,6 +10720,7 @@
     "phone": "(212) 326-1500",
     "email": "jfiscella@oakhilladvisors.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -11280,14 +11304,15 @@
     "address": "1603 ORRINGTON AVENUE, 13TH FLOOR\nEVANSTON, IL 60201",
     "phone": "(847) 905-4655",
     "email": "steven.freed@magnetar.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/07/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MAGNETAR CAPITAL LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/07/2023"
       }
     ]
   },
@@ -11399,6 +11424,7 @@
     "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 743-1500",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -11637,6 +11663,7 @@
     "phone": "(916) 337-9031",
     "email": "bill@gainesandassociates.net",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -12143,23 +12170,6 @@
       {
         "entityName": "ALZHEIMER'S ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1382122",
-    "name": "GIBBONS, MICHELLE L.",
-    "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
-    "phone": "(916) 327-7540",
-    "email": "admin@cheac.org",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "GIBBONS; MICHELLE",
-        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -12827,6 +12837,23 @@
       {
         "entityName": "GONZALEZ GOVERNMENT CONSULTING",
         "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1426671",
+    "name": "GONZALEZ, JACLYN M. ",
+    "address": "12651 SAN PABLO AVENUE, #5473\nRICHMOND, CA 94805",
+    "phone": "(510) 621-7223",
+    "email": "compliance@socialgoodfund.org",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOCIAL GOOD FUND, INC",
+        "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -15367,6 +15394,7 @@
     "phone": "(916) 266-4575",
     "email": "whickox@calstrat.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -15383,6 +15411,7 @@
     "phone": "(312) 377-8277",
     "email": "daniel.hidder@brookfield.com",
     "registrationDate": "07/10/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -16131,6 +16160,7 @@
     "email": "e.askcompliance@greystar.com",
     "mailingAddress": "300 SOUTH TRYON STREET, SUITE 2500\nCHARLOTTE, NC 28202",
     "registrationDate": "02/10/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17536,6 +17566,7 @@
     "phone": "(916) 476-5103",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -18530,6 +18561,7 @@
     "phone": "(212) 332-2494",
     "email": "tkirkpatrick@millburncorp.com",
     "registrationDate": "06/30/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Terminated",
     "relationships": [
       {
@@ -18747,6 +18779,7 @@
     "address": "1127 11TH STREET, SUITE 550\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-7500",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -18838,6 +18871,22 @@
         "entityName": "KOHLBERG & COMPANY, L.L.C.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1457646",
+    "name": "KOSIW, YULIA",
+    "address": "250 PARK AVENUE, 15TH FLOOR\nNEW YORK, NY 10177",
+    "phone": "(917) 589-3400",
+    "email": "yulia.kosiw@globalevolution.net",
+    "registrationDate": "01/19/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLOBAL EVOLUTION USA, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/19/2023"
       }
     ]
   },
@@ -18972,6 +19021,22 @@
         "entityName": "EQUILIBRIUM CAPITAL SERVICES, LLC AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1457648",
+    "name": "KUMAR, JANHAVI",
+    "address": "250 PARK AVENUE, 15TH FLOOR\nNEW YORK, NY 10177",
+    "phone": "(312) 451-4963",
+    "email": "janhavi.kumar@globalevolution.net",
+    "registrationDate": "01/19/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLOBAL EVOLUTION USA, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/19/2023"
       }
     ]
   },
@@ -19450,6 +19515,7 @@
     "phone": "(916) 442-5009",
     "email": "judco12000@yahoo.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -20762,17 +20828,23 @@
   {
     "id": "1448347",
     "name": "LUKAS, CARINA ",
-    "address": "2398 EAST CAMELBACK ROAD\nPHOENIX, AZ 85016",
-    "phone": "(602) 778-8700",
-    "email": "clukas@cimgroup.com",
-    "registrationDate": "06/13/2023",
+    "address": "1200 ENTREPRENEURIAL DRIVE\nBROOMFIELD, CO 80021",
+    "phone": "(303) 606-3600",
+    "email": "carina.lukas@partnersgroup.com",
+    "registrationDate": "06/21/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CIM GROUP L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/13/2023"
+      },
+      {
+        "entityName": "PARTNERS GROUP (USA) INC.",
+        "type": "Employer",
+        "effectiveDate": "06/21/2023"
       }
     ]
   },
@@ -21084,6 +21156,7 @@
     "phone": "(212) 849-9600",
     "email": "investorrelations@lonestarfunds.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -22164,6 +22237,22 @@
         "entityName": "TRUST FOR PUBLIC LAND; THE",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1366778",
+    "name": "MATSON, JONATHAN ",
+    "address": "152 WEST 57TH STREET, 56TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(917) 499-2943",
+    "email": "jonathan.matson@hrlmorrison.com",
+    "registrationDate": "07/13/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.R.L. MORRISON & CO. (US), LLC",
+        "type": "Employer",
+        "effectiveDate": "07/13/2023"
       }
     ]
   },
@@ -24939,6 +25028,7 @@
     "phone": "(916) 799-6996",
     "email": "tasha@pacificpolicygroup.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -25283,6 +25373,7 @@
     "phone": "(916) 447-5053",
     "email": "jnorwood@nalobby.net",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26282,13 +26373,14 @@
     "address": "151 W 42ND STREET, 53RD FLOOR\nNEW YORK, NY 10036",
     "phone": "(347) 400-4477",
     "email": "spanjwani@vargon.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "06/20/2023",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "VARAGON CAPITAL PARTNERS, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/20/2023"
       }
     ]
   },
@@ -26435,6 +26527,7 @@
     "address": "55 2ND STREET, SUITE 1700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 227-0900",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26806,6 +26899,7 @@
     "phone": "(646) 490-1074",
     "email": "bradley.petersen@jamestownlp.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26974,6 +27068,7 @@
     "phone": "(843) 579-9400",
     "email": "e.askcompliance@greystar.com",
     "registrationDate": "02/10/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -28169,6 +28264,7 @@
     "phone": "(916) 558-1926",
     "email": "bobr@water-warrior.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -28185,6 +28281,7 @@
     "phone": "(916) 558-1926",
     "email": "sethr@water-warrior.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -28581,6 +28678,22 @@
         "entityName": "STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1351448",
+    "name": "RICHARDS, MELISSA",
+    "address": "152 WEST 57TH STREET, 56TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(917) 499-2943",
+    "email": "jonathan.matson@hrlmorrison.com",
+    "registrationDate": "07/13/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.R.L. MORRISON & CO. (US), LLC",
+        "type": "Employer",
+        "effectiveDate": "07/13/2023"
       }
     ]
   },
@@ -29787,13 +29900,14 @@
     "address": "650 FIFTH AVENUE, SUITE 1700\nNEW YORK, NY 10019",
     "phone": "(646) 927-5311",
     "email": "declan.ryan@systematica.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "06/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATE, SYSTEMATICA INVESTMENTS LIMITED",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -30305,6 +30419,7 @@
     "email": "investorrelations@lonestarfunds.com",
     "mailingAddress": "888 7TH AVENUE, 11TH FLOOR\nNEW YORK, NY 10019",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -32250,6 +32365,7 @@
     "phone": "(916) 557-9745",
     "email": "barrett@capitoladvisors.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -32435,6 +32551,7 @@
     "address": "1100 11TH STREET, 3RD FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 914-5923",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -32858,6 +32975,7 @@
     "phone": "(917) 376-2210",
     "email": "joseph.stecher@candlewoodinvestors.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/10/2022",
     "status": "Active",
     "relationships": [
       {
@@ -34801,6 +34919,7 @@
     "address": "1215 K STREET, SUITE 1760\nSACRAMENTO, CA 95814",
     "phone": "(916) 325-8591",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -35475,6 +35594,7 @@
     "email": "awalker@nossaman.com",
     "mailingAddress": "621 CAPITOL MALL, SUITE 2500\nSACRAMENTO, CA 95814\nPhone: (916) 442-8888\nEmail: dhuck@nossaman.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -36343,6 +36463,7 @@
     "phone": "(916) 552-2300",
     "email": "cawhite@manatt.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -36394,6 +36515,7 @@
     "phone": "(916) 447-7983",
     "email": "heather@vjohnwhite.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -36438,6 +36560,7 @@
     "phone": "(510) 396-7567",
     "email": "robertwieckowski@sbcglobal.net",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -37055,6 +37178,23 @@
     "relationships": [
       {
         "entityName": "THOMA BRAVO, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1426670",
+    "name": "YAZDANPANAH, HAMID",
+    "address": "12651 SAN PABLO AVENUE, #5473\nRICHMOND, CA 94805",
+    "phone": "(510) 621-7223",
+    "email": "compliance@socialgoodfund.org",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/20/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOCIAL GOOD FUND, INC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
