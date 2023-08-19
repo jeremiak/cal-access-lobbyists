@@ -19320,7 +19320,8 @@
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/15/2023"
       }
     ]
   },
@@ -32254,6 +32255,22 @@
         "entityName": "ARIEL INVESTMENTS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461249",
+    "name": "SMITH, ROBERT M.",
+    "address": "925 FOURTH AVE, SUITE 2900\nSEATTLE , WA 98104",
+    "phone": "(206) 623-7580",
+    "email": "robert.smith@klgates.com",
+    "registrationDate": "06/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "K&L GATES, LLP",
+        "type": "Firm",
+        "effectiveDate": "06/12/2023"
       }
     ]
   },
