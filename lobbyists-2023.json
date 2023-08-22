@@ -6272,7 +6272,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "STONEPINE ASSET MANAGEMENT INC.",
+        "entityName": "PINESTONE ASSET MANAGEMENT INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -13587,14 +13587,15 @@
     "address": "4 EMBARCADERO, SUITE 550\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 788-7553",
     "email": "susan.grivas@mathewsasis.com",
-    "registrationDate": "03/10/2023",
+    "registrationDate": "07/27/2023",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MATTHEWS INTERNATIONAL CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "03/10/2023"
+        "effectiveDate": "03/10/2023",
+        "terminationDate": "07/27/2023"
       }
     ]
   },
@@ -36182,7 +36183,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "STONEPINE ASSET MANAGEMENT INC.",
+        "entityName": "PINESTONE ASSET MANAGEMENT INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
