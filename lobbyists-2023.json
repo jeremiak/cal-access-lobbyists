@@ -1301,6 +1301,22 @@
     ]
   },
   {
+    "id": "1459917",
+    "name": "ATTIYA, AMANDA",
+    "address": "4550 MONTGOMERY AVENUE SUITE 1100 NORTH\nBESTHESDA, MD 20814",
+    "phone": "(301) 841-2639",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "04/17/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CYSTIC FIBROSIS FOUNDATION",
+        "type": "Employer",
+        "effectiveDate": "04/17/2023"
+      }
+    ]
+  },
+  {
     "id": "1316409",
     "name": "AUTRY, CECIL ",
     "address": "175 BERKELEY STREET\nBOSTON, MA 02116",
@@ -6471,13 +6487,14 @@
     "phone": "(707) 234-0626",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (707) 234-0626\nEmail: fppc@bmhlaw.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "05/31/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GOLDEN BRIDGE STRATEGIES LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/31/2023"
       }
     ]
   },
@@ -7565,6 +7582,23 @@
     "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": []
+  },
+  {
+    "id": "1461358",
+    "name": "CRUZ, NICK",
+    "address": "1001 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 719-7466",
+    "email": "nick@calaborfed.org",
+    "registrationDate": "06/16/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "06/16/2023"
+      }
+    ]
   },
   {
     "id": "1149527",
@@ -18319,6 +18353,21 @@
     ]
   },
   {
+    "id": "1461357",
+    "name": "KIM, DANIEL C.",
+    "address": "1215 K STREET, STE 2290\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-1488",
+    "registrationDate": "05/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEIDEMAN GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "05/22/2023"
+      }
+    ]
+  },
+  {
     "id": "1335465",
     "name": "KIM, DAVID",
     "address": "601 LEXINGTON AVENUE, 53RD FLOOR\nNEW YORK, NY 10022",
@@ -22344,6 +22393,21 @@
     ]
   },
   {
+    "id": "1460713",
+    "name": "MAXMIN, BEN",
+    "address": "EQUITABLE HOUSE, 47 KING WILLIAM ST.\nLONDON, GBR, EC4R 9AF",
+    "email": "ben.maxmin@systematica.com",
+    "registrationDate": "06/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATE, SYSTEMATICA INVESTMENTS LIMITED",
+        "type": "Employer",
+        "effectiveDate": "06/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1382729",
     "name": "MAXWELL, CHRISTA M.",
     "address": "520 PIKE STREET\nSEATTLE, WA 98101",
@@ -22408,6 +22472,21 @@
       {
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1457080",
+    "name": "MAZZOTTI, NICHOLAS",
+    "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -25450,7 +25529,8 @@
       {
         "entityName": "NUNEZ WELLMAN",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -27540,6 +27620,23 @@
         "entityName": "RIVERSTONE EQUITY PARTNERS LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460731",
+    "name": "PRICE , DEBBIE ",
+    "address": "1130 K STREET SUITE 150\nSACRAMENTO, CA 95814",
+    "phone": "(916) 690-6693",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (916) 690-6693\nEmail: fppc@bmhlaw.com",
+    "registrationDate": "06/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDEN BRIDGE STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "06/01/2023"
       }
     ]
   },
@@ -36556,6 +36653,21 @@
       {
         "entityName": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
         "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1459894",
+    "name": "WHITLEY, NOAH",
+    "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
