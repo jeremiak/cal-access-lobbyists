@@ -3838,17 +3838,24 @@
   {
     "id": "1435750",
     "name": "BRIDGE, SARAH",
-    "address": "1215 K STREET, STE 2005\nSACRAMENTO, CA 95814",
-    "phone": "(916) 266-5204",
-    "email": "sarah.bridge@achd.org",
+    "address": "555 CAPITOL MALL, SUITE 180\nSACRAMENTO, CA 95814",
+    "phone": "(916) 469-0800",
+    "email": "sarahb@strategies360.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
         "entityName": "ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS; THE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/14/2023"
+      },
+      {
+        "entityName": "STRATEGIES 360",
+        "type": "Firm",
+        "effectiveDate": "07/17/2023"
       }
     ]
   },
@@ -18269,22 +18276,6 @@
     ]
   },
   {
-    "id": "1335527",
-    "name": "KIEFER, INGRID ",
-    "address": "2000 AVENUE OF THE STARS, 11TH FLOOR\nLOS ANGELES, CA 90067",
-    "phone": "(310) 272-1000",
-    "email": "compliance@canyonpartners.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CANYON PARTNERS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
     "id": "1426256",
     "name": "KIFLOM, ADIAM",
     "address": "28 STATE STREET\nBOSTON, MA 02109",
@@ -25520,11 +25511,11 @@
   {
     "id": "1447049",
     "name": "NUNEZ, ESTEBAN",
-    "address": "1529 28TH STREET\nSACRAMENTO, CA 95816",
+    "address": "9000 SUNSET BOULEVARD, FLOOR 3\nWEST HOLLYWOOD, CA 90069",
     "phone": "(916) 661-2096",
-    "email": "esteban@nunezwellman.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "07/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "NUNEZ WELLMAN",
