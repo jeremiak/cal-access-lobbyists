@@ -2780,6 +2780,7 @@
     "phone": "(646) 968-7146",
     "email": "james.berutti@castlelake.com",
     "registrationDate": "07/11/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -3866,14 +3867,15 @@
     "phone": "(212) 257-4731",
     "email": "jbright@standgen.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "STANDARD GENERAL L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -9437,6 +9439,7 @@
     "phone": "(916) 442-6902",
     "email": "nancyd@caoc.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -9526,6 +9529,22 @@
         "entityName": "OCTAGON CREDIT INVESTORS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462105",
+    "name": "DUFF, SEAN",
+    "address": "311 SOUTH WACKER DRIVE, SUITE 6400\nCHICAGO, IL 60606",
+    "phone": "(312) 523-2372",
+    "email": "sduff@monroecap.com",
+    "registrationDate": "08/03/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MONROE CAPITAL MANAGEMENT ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/03/2023"
       }
     ]
   },
@@ -12514,6 +12533,22 @@
     ]
   },
   {
+    "id": "1460450",
+    "name": "GOENS , TRENT ",
+    "address": "100 WILSHIRE BOULEVARD SUITE 1400\nSANTA MONICA, CA 90401",
+    "phone": "(310) 356-0858",
+    "email": "compliance@gcp.com",
+    "registrationDate": "05/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "05/18/2023"
+      }
+    ]
+  },
+  {
     "id": "1434870",
     "name": "GOFF, CALLAN",
     "address": "10250 CONSTELLATION BLVD. SUITE 2950\nLOS ANGELES, CA 90067",
@@ -14301,14 +14336,15 @@
     "address": "1112 I STREET, STE 200\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-7887",
     "email": "heidih@csda.net",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/31/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA SPECIAL DISTRICTS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/31/2023"
       }
     ]
   },
@@ -16222,7 +16258,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ICONIQ CAPITAL LLC AND ITS AFFILIATE IPI PARTNERS LLC",
+        "entityName": "ICONIQ CAPITAL, LLC AND ITS AFFILIATE, IPI PARTNERS, LLC",
         "type": "Employer",
         "effectiveDate": "01/20/2023"
       }
@@ -19653,6 +19689,22 @@
     ]
   },
   {
+    "id": "1460448",
+    "name": "LEDEAUX, SHIRA ",
+    "address": "100 WILSHIRE BOULEVARD SUITE 1400\nSANTA MONICA, CA 90401",
+    "phone": "(310) 356-0858",
+    "email": "compliance@gcp.com",
+    "registrationDate": "05/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "05/18/2023"
+      }
+    ]
+  },
+  {
     "id": "1460950",
     "name": "LEE, ALEXANDRA",
     "address": "299 PARK  AVENUE, 40TH FLOOR\nNEW YORK, NY 10171",
@@ -19746,7 +19798,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ICONIQ CAPITAL LLC AND ITS AFFILIATE IPI PARTNERS LLC",
+        "entityName": "ICONIQ CAPITAL, LLC AND ITS AFFILIATE, IPI PARTNERS, LLC",
         "type": "Employer",
         "effectiveDate": "01/20/2023"
       }
@@ -20139,6 +20191,22 @@
     ]
   },
   {
+    "id": "1460442",
+    "name": "LI, MICHELLE ",
+    "address": "100 WILSHIRE BOULEVARD\nSANTA MONICA , CA 90401",
+    "phone": "(310) 356-0858",
+    "email": "compliance@gcp.com",
+    "registrationDate": "05/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "05/18/2023"
+      }
+    ]
+  },
+  {
     "id": "1455192",
     "name": "LIE, MARGARET",
     "address": "1121 L STREET, SUITE 406\nSACRAMENTO, CA 95814",
@@ -20467,6 +20535,7 @@
     "phone": "(917) 229-5350",
     "email": "matt.little@castlelake.com",
     "registrationDate": "07/11/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -22716,6 +22785,23 @@
     ]
   },
   {
+    "id": "1462362",
+    "name": "MC DONNELL, LUKE",
+    "address": "555 SOUTH FLOWER STREET, SUITE 4600\nLOS ANGELES, CA 90071",
+    "phone": "(310) 282-8820",
+    "email": "FPPC@BMHLAW.COM",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMNETO, CA 95814",
+    "registrationDate": "08/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DIGITALBRIDGE GROUP, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "08/16/2023"
+      }
+    ]
+  },
+  {
     "id": "1456734",
     "name": "MC DONOUGH, BRENDAN",
     "address": "300 PARK AVENUE, 21ST FLOOR\nNEW YORK, NY 10022",
@@ -23124,6 +23210,7 @@
     "phone": "(212) 906-0726",
     "email": "mmcguire@crestview.com",
     "registrationDate": "07/07/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -25371,6 +25458,7 @@
     "phone": "(212) 235-0778",
     "email": "chrstopher.nordiek@napierparkglobal.com",
     "registrationDate": "06/14/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26798,6 +26886,23 @@
     ]
   },
   {
+    "id": "1460652",
+    "name": "PELTON, GREG",
+    "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
+    "phone": "(212) 878-0600",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW 428 J STREET SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "06/05/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WARBURG PINCUS LLC",
+        "type": "Employer",
+        "effectiveDate": "06/05/2023"
+      }
+    ]
+  },
+  {
     "id": "1448275",
     "name": "PENA, ANDREW",
     "address": "395 9TH AVENUE, ONCE MANHATTAN WEST\n56TH FLOOR",
@@ -27719,6 +27824,7 @@
     "address": "1127 11TH STREET, #206\nSACRAMENTO, CA 95814",
     "phone": "(213) 624-6200",
     "registrationDate": "03/15/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -29136,6 +29242,22 @@
         "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461586",
+    "name": "ROBLES, JENNIFER",
+    "address": "1127 11TH STREET, SUITE 925\nSACRAMENTO, CA 95814",
+    "phone": "(916) 497-0923",
+    "registrationDate": "06/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HEALTH ACCESS CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "06/01/2023"
       }
     ]
   },
@@ -30735,6 +30857,21 @@
         "entityName": "DESMOND & DESMOND LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461258",
+    "name": "SCHIMMELBUSCH, CAROLINE",
+    "address": "MICHELIN HOURSE, 3RD FLOOR, FULHAM ROAD\nLONDON, UK SW3 6RD",
+    "email": "caroline.schimmelbusch@bregal.com",
+    "registrationDate": "07/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BREGAL INVESTMENTS LLP & AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "07/26/2023"
       }
     ]
   },
@@ -32819,6 +32956,21 @@
     ]
   },
   {
+    "id": "1412165",
+    "name": "SPARKS-KRANZ, MELISSA L.",
+    "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 658-8232",
+    "registrationDate": "08/14/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEAGUE OF CALIFORNIA CITIES",
+        "type": "Employer",
+        "effectiveDate": "08/14/2023"
+      }
+    ]
+  },
+  {
     "id": "1449512",
     "name": "SPENCER, PAUL",
     "address": "1831 K STREET\nSACRAMENTO, CA 95811",
@@ -33640,6 +33792,7 @@
     "phone": "(916) 441-2599",
     "email": "lswizer@cncda.org",
     "registrationDate": "06/30/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Terminated",
     "relationships": [
       {
@@ -34314,6 +34467,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "02/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -35544,6 +35698,21 @@
     ]
   },
   {
+    "id": "1315093",
+    "name": "VOORHIS, JOLENA L.",
+    "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 658-8252",
+    "registrationDate": "08/14/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEAGUE OF CALIFORNIA CITIES",
+        "type": "Employer",
+        "effectiveDate": "08/14/2023"
+      }
+    ]
+  },
+  {
     "id": "1385980",
     "name": "VOSKUHL, JARED I.",
     "address": "925 L STREET, SUITE 200\nSACRAMENTO, CA 95814-3703",
@@ -36209,6 +36378,23 @@
         "entityName": "AARP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1378151",
+    "name": "WEINER, KEITH R.",
+    "address": "540 MADISON AVENUE, 7TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 702-5222",
+    "email": "kweiner@suvcap.com",
+    "registrationDate": "07/11/2023",
+    "status": "Withdrawn",
+    "relationships": [
+      {
+        "entityName": "SUVRETTA CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/11/2023",
+        "terminationDate": "07/11/2023"
       }
     ]
   },
