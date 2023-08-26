@@ -5649,6 +5649,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/15/2023"
+      },
+      {
+        "entityName": "RESILIENT ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "06/15/2023"
       }
     ]
   },
@@ -8819,17 +8824,18 @@
   {
     "id": "1273280",
     "name": "DEVERS, SYRUS",
-    "address": "500 CAPITOL MALL, SUITE 1700\nSACRAMENTO, CA 95814",
-    "phone": "(916) 325-4000",
-    "email": "syrus.devers@bbklaw.com",
-    "registrationDate": "01/01/2023",
+    "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
+    "phone": "(916) 261-5595",
+    "email": "syrus.devers@sdagov.com",
+    "registrationDate": "07/14/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "BEST BEST & KRIEGER LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/14/2023"
       }
     ]
   },
@@ -11475,6 +11481,23 @@
         "entityName": "UBS SECURITIES LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1394257",
+    "name": "FRIEDRICH, MARK J.",
+    "address": "233 WILSHIRE BOULEVARD, SUITE 525\nSANTA MONICA, CA 90401",
+    "phone": "(949) 945-4849",
+    "email": "mfriedrich@monroecap.com",
+    "registrationDate": "08/03/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MONROE CAPITAL MANAGEMENT ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/03/2023"
       }
     ]
   },
@@ -26922,9 +26945,9 @@
   {
     "id": "1363060",
     "name": "PEQUET, DAVID E.",
-    "address": "3 FIRST NATIONAL PLAZA, SUITE 4600\nCHICAGO, IL 60602",
-    "phone": "(312) 895-1000",
-    "email": "info@keyslawcorp.com",
+    "address": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
+    "phone": "(310) 712-1850",
+    "email": "dpequet@platinumequity.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
