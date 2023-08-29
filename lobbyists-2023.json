@@ -2522,6 +2522,23 @@
     ]
   },
   {
+    "id": "1442336",
+    "name": "BENKE, BLAKE D.",
+    "address": "520 MADISON AVENUE, FLOOR 25\nNEW YORK, NY 10022",
+    "phone": "(322) 207-4661",
+    "email": "blake.benke@kirkoswald.com",
+    "registrationDate": "08/10/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KIRKOSWALD ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "08/10/2023"
+      }
+    ]
+  },
+  {
     "id": "1339422",
     "name": "BENNETT, LAURA H. ",
     "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
@@ -8193,6 +8210,21 @@
       {
         "entityName": "MAGNETAR CAPITAL LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460225",
+    "name": "DAVIS, ALEXANDER",
+    "address": "55 2ND STREET, SUITE 1700\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -17957,6 +17989,21 @@
         "entityName": "TK PUBLIC AFFAIRS",
         "type": "Firm",
         "effectiveDate": "02/21/2023"
+      }
+    ]
+  },
+  {
+    "id": "1445168",
+    "name": "KENDRICK, JONATHAN T.",
+    "address": "55 2ND STREET, SUITE 1700\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -32032,6 +32079,7 @@
     "phone": "(332) 445-0425",
     "email": "lobbying@campaignlawyers.com",
     "registrationDate": "04/05/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -34959,6 +35007,22 @@
         "entityName": "WELLINGTON MANAGEMENT COMPANY LLP AND AFFILIATE WELLINGTON FUNDS DISTRIBUTORS INC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462297",
+    "name": "TRUONG, EDDIE D. ",
+    "address": "10 JACKSON STREET, SUITE 105\nLOS GATOS, CA 95030",
+    "phone": "(408) 207-6667",
+    "registrationDate": "08/03/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNITE STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "08/03/2023"
       }
     ]
   },
