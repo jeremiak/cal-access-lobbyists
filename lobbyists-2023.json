@@ -1199,6 +1199,22 @@
     ]
   },
   {
+    "id": "1148056",
+    "name": "ARRIAGA, JOHN E.",
+    "address": "1017 L STREET #517\nSACRAMENTO, CA 95814-3805",
+    "phone": "(916) 718-8586",
+    "email": "johnarriaga@jeaandassociates.com",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JEA AND ASSOCIATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1447612",
     "name": "ASHLEY, SAMARA",
     "address": "1100 K STREET, STE 400\nSACRAMENTO, CA 95814",
@@ -5963,10 +5979,11 @@
   {
     "id": "1359525",
     "name": "CHHABRIA, RISHI P.",
-    "address": "630 5TH AVENUE, 25TH FLOOR\nNEW YORK, NY 10111",
+    "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 223-2432",
     "email": "chhabria@campbell-lutyens.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -6936,10 +6953,11 @@
   {
     "id": "1393217",
     "name": "COOPER, GERALD",
-    "address": "630 5TH AVENUE, 25TH FLOOR\nNEW YORK, NY 10111",
+    "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 223-8448",
     "email": "cooper@campbell-lutyens.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -8183,10 +8201,11 @@
   {
     "id": "1335643",
     "name": "DAVIDSSON, CHRISTOFFER",
-    "address": "630 5TH AVENUE, 25TH FLOOR\nNEW YORK, NY 10111",
+    "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 223-8448",
     "email": "davidsson@campbell-lutyens.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -9122,6 +9141,22 @@
         "entityName": "FAP USA, LP",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462618",
+    "name": "DILLON, BRENDAN",
+    "address": "9 W. 57TH STREET\nNEW YORK, NY 10019",
+    "phone": "(212) 404-0899",
+    "email": "bdillon@veritascapital.com",
+    "registrationDate": "08/02/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VERITAS CAPITAL FUND MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/02/2023"
       }
     ]
   },
@@ -22329,6 +22364,7 @@
     "phone": "(916) 267-5536",
     "email": "cara@publichousingconsulting.net",
     "registrationDate": "02/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -27003,7 +27039,13 @@
       {
         "entityName": "MADISON DEARBORN PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/15/2023"
+      },
+      {
+        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/15/2023"
       }
     ]
   },
@@ -34199,6 +34241,7 @@
     "phone": "(415) 412-2111",
     "email": "tedesko@campbell-lutyens.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -36971,6 +37014,7 @@
     "phone": "(212) 223-8448",
     "email": "wiener@campbell-lutyens.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
