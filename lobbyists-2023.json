@@ -87,6 +87,7 @@
     "phone": "(916) 444-3568",
     "email": "bachermann@amgroup.us",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -1985,6 +1986,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -3644,6 +3646,7 @@
     "phone": "(916) 557-1170",
     "email": "SABRINA@CALCOG.ORG",
     "registrationDate": "04/25/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -3660,6 +3663,7 @@
     "phone": "(212) 891-2100",
     "email": "dbradley@cerberus.com",
     "registrationDate": "02/06/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": []
   },
@@ -6266,6 +6270,7 @@
     "phone": "(212) 220-5224",
     "email": "pciganik@gtispartners.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -9968,6 +9973,23 @@
     ]
   },
   {
+    "id": "1462378",
+    "name": "EL-ASMAR, MARWAN",
+    "address": "717 FIFTH  AVENUE,  24TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 224-9400",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
+    "registrationDate": "08/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORSAIR CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "08/16/2023"
+      }
+    ]
+  },
+  {
     "id": "1457081",
     "name": "ELDER, MIKAYLA",
     "address": "1121 L STREET,STE 309\nSACRAMENTO, CA 95814",
@@ -11306,6 +11328,7 @@
     "address": "1201 K STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-5351",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -12930,6 +12953,7 @@
     "email": "compliance@olsnremcho.com",
     "mailingAddress": "555 CAPITOL MALL SUITE 1290\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17294,6 +17318,7 @@
     "phone": "(916) 469-0800",
     "mailingAddress": "100 GRAND AVENUE, #1709\nOAKLAND, CA 94612",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17918,6 +17943,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -19298,6 +19324,7 @@
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814\nPhone: (212) 325-4877\nEmail: compliance@olsonremcho.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -21032,6 +21059,7 @@
     "email": "darryl@lucienpartners.com",
     "mailingAddress": "1017 L STREET, SUITE 246\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -21472,6 +21500,7 @@
     "phone": "(916) 384-6948",
     "email": "ellon@fullmoonstrategies.com",
     "registrationDate": "03/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -22182,6 +22211,7 @@
     "phone": "(202) 344-4000",
     "email": "sdclobbying@venable.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -23327,6 +23357,22 @@
     ]
   },
   {
+    "id": "1462000",
+    "name": "MCNEELY, DOUGLAS",
+    "address": "ONE VANDERBILT AVENUE SUITE 3400 \nNEW YORK, NY 10017",
+    "phone": "(212) 332-6469",
+    "email": "douglas.mcneely@carlyle.com",
+    "registrationDate": "07/28/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/28/2023"
+      }
+    ]
+  },
+  {
     "id": "1451575",
     "name": "MEADE, DANIEL",
     "address": "65 EAST, 55TH STREET\nNEW YORK, NY 10022",
@@ -23722,6 +23768,7 @@
     "phone": "(916) 823-6224",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26409,13 +26456,14 @@
     "address": "350 SOUTH BIXEL STREET\nLOS ANGELES, CA 90017",
     "phone": "(213) 580-7500",
     "email": "jguard@kaufmanlegalgroup.com",
-    "registrationDate": "01/30/2023",
-    "status": "Active",
+    "registrationDate": "06/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LOS ANGELES AREA CHAMBER OF COMMERCE",
         "type": "Employer",
-        "effectiveDate": "01/30/2023"
+        "effectiveDate": "01/30/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -26988,6 +27036,23 @@
         "entityName": "PELOTE STRATEGIC ADVISORS",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461770",
+    "name": "PELTOLA, KELLY",
+    "address": "70 WEST MADISON STREET, SUITE 4600\nCHICAGO, IL 60602",
+    "phone": "(312) 895-1142",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
+    "registrationDate": "08/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MADISON DEARBORN PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/16/2023"
       }
     ]
   },
@@ -34447,6 +34512,7 @@
     "phone": "(916) 340-3338",
     "email": "pathomas@cbia.org",
     "registrationDate": "03/06/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -34843,7 +34909,7 @@
     "address": "1401 DOVE STREET, SUITE 330\nNEWPORT BEACH, CA 92660",
     "phone": "(949) 399-9050",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "01/26/2022",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -35950,6 +36016,7 @@
     "phone": "(916) 534-1044",
     "email": "will.wagner@arnoldporter.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -37384,6 +37451,23 @@
         "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
         "type": "Employer",
         "effectiveDate": "04/15/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460428",
+    "name": "WOODRUM, MARISA",
+    "address": "1 VANDERBILT AVENUE SUITE 3400\nNEW YORK, NY 10017",
+    "phone": "(646) 483-3806",
+    "email": "marisa.woodrum@carlyle.com",
+    "mailingAddress": "30 CHARLTON STREET, APPRTMENT 1G\nNEW YORK, NY 10014\nPhone: (646) 483-3806\nEmail: marisa.woodrum@carlyle.com",
+    "registrationDate": "05/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/09/2023"
       }
     ]
   },
