@@ -455,6 +455,7 @@
     "phone": "(415) 421-4143",
     "email": "mpa@alcantar-law.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -488,6 +489,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -518,6 +520,7 @@
     "address": "1121 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-8497",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -551,6 +554,7 @@
     "phone": "(916) 443-1975",
     "email": "ryan@calretailers.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -838,6 +842,7 @@
     "address": "1215 K STREET, SUITE 1150\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-8891",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -1190,6 +1195,7 @@
     "phone": "(916) 448-1125",
     "email": "alfredo@resolutecompany.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -1489,6 +1495,7 @@
     "phone": "(718) 501-5701",
     "email": "aneesah.ayub@jpmorgan.com",
     "registrationDate": "04/25/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -3560,6 +3567,7 @@
     "address": "1029 K STREET\nSACRAMENTO, CA 95814",
     "phone": "(310) 560-5929",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -4040,6 +4048,7 @@
     "phone": "(503) 804-9800",
     "email": "DEB@ALCANTAR-LAW.COM",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -5027,6 +5036,7 @@
     "phone": "(209) 482-7966",
     "email": "mcaprio@republicservices.com",
     "registrationDate": "04/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -6441,6 +6451,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -6710,6 +6721,7 @@
     "phone": "(916) 446-5021",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -6743,6 +6755,7 @@
     "phone": "(916) 441-4242",
     "email": "sos@stephencompany.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -7097,6 +7110,7 @@
     "phone": "(916) 476-5103",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -7351,6 +7365,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/11/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -7795,6 +7810,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -8244,6 +8260,7 @@
     "address": "55 2ND STREET, SUITE 1700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 227-0900",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -10110,6 +10127,7 @@
     "phone": "(212) 303-7100",
     "email": "campaign@campaignlawyers.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -10487,6 +10505,22 @@
     ]
   },
   {
+    "id": "1375971",
+    "name": "FARINA, ROBERT",
+    "address": "1700 PARK AVENUE, SUITE 2065\nPARK CITY, UT 84060",
+    "phone": "(917) 783-6711",
+    "registrationDate": "02/22/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXPOINT PARTNERS LLC",
+        "type": "Firm",
+        "effectiveDate": "02/22/2023"
+      }
+    ]
+  },
+  {
     "id": "1448925",
     "name": "FAROUK, MARK",
     "address": "1215 K STREET, SUITE 700\nSACRAMENTO, CA 95814",
@@ -10794,6 +10828,7 @@
     "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-7464",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -12087,6 +12122,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -12338,6 +12374,7 @@
     "phone": "(916) 447-2731",
     "email": "compliance_ca_alz_2@multistate.us",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -13441,6 +13478,7 @@
     "phone": "(203) 618-1400",
     "email": "compliance@lpcap.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -14402,6 +14440,7 @@
     "phone": "(212) 984-1418",
     "email": "compliance_ca_nuveen_2@multistate.us",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -14518,6 +14557,7 @@
     "phone": "(857) 265-5449",
     "email": "brittany_harbert@ssga.com",
     "registrationDate": "04/12/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -15076,6 +15116,7 @@
     "phone": "(916) 594-9700",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -15229,6 +15270,7 @@
     "phone": "(203) 618-1400",
     "email": "compliance@lpcap.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -15923,6 +15965,7 @@
     "phone": "(916) 669-2553",
     "email": "ehoffman@csba.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -16234,6 +16277,7 @@
     "phone": "(916) 844-5646",
     "email": "eh4@sbcglobal.net",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -16302,6 +16346,7 @@
     "address": "1201 K STREET, SUITE 1990\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-4900",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -16599,6 +16644,7 @@
     "phone": "(415) 879-8849",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17099,6 +17145,7 @@
     "phone": "(916) 446-3007",
     "email": "kjjensen@shjlobby.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17403,6 +17450,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN MATEO, CA 94901",
     "registrationDate": "02/07/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17743,6 +17791,7 @@
     "email": "lacey@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "02/14/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17978,6 +18027,7 @@
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
     "registrationDate": "03/20/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -18432,7 +18482,7 @@
     "phone": "(916) 552-2960",
     "email": "bsca@politicomlaw.com",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "12/02/2022",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -18583,6 +18633,7 @@
     "address": "925 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-7567",
     "registrationDate": "01/03/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -18889,6 +18940,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "02/16/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -18923,6 +18975,7 @@
     "phone": "(646) 218-9490",
     "email": "rob.kneip@hayfin.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -19793,6 +19846,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -20063,6 +20117,7 @@
     "phone": "(212) 303-6180",
     "email": "slegister@msdpartners.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -20145,6 +20200,7 @@
     "address": "1029 J STREET, SUITE 200\nSACRAMENTO, CA 95670",
     "phone": "(925) 200-7215",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -20280,6 +20336,7 @@
     "phone": "(916) 462-4120",
     "email": "alicia@bluecoaststrategies.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -21336,6 +21393,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -21352,6 +21410,7 @@
     "phone": "(916) 669-2552",
     "email": "cmachado@csba.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -22160,6 +22219,7 @@
     "address": "444 WEST LAKE STREET, 17TH FLOOR\nCHICAGO, IL 60606",
     "phone": "(312) 416-8499",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -22562,6 +22622,7 @@
     "phone": "(415) 262-3158",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -23147,6 +23208,7 @@
     "phone": "(325) 267-0842",
     "email": "compliance_ca_rwe_2@multistate.us",
     "registrationDate": "02/09/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -23669,6 +23731,7 @@
     "phone": "(916) 447-6733",
     "email": "calobby@nmgovlaw,com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -23685,6 +23748,7 @@
     "phone": "(916) 669-2551",
     "email": "govrel@csba.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -24365,6 +24429,7 @@
     "phone": "(916) 443-1975",
     "email": "cra@calretailers.com",
     "registrationDate": "03/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -24497,6 +24562,7 @@
     "phone": "(510) 926-4001",
     "email": "melanie.morelos@greenlining.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "12/01/2022",
     "status": "Active",
     "relationships": [
       {
@@ -24513,6 +24579,7 @@
     "phone": "(916) 325-3000",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -25426,6 +25493,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "02/10/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -25806,6 +25874,7 @@
     "phone": "(646) 485-6589",
     "email": "molaughlin@brinleypartners.com",
     "registrationDate": "05/09/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26323,6 +26392,7 @@
     "phone": "(916) 290-2789",
     "mailingAddress": "4840 FINLANDIA WAY\nCARMICHAEL, CA 95608",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26591,6 +26661,7 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -27658,6 +27729,7 @@
     "phone": "(916) 826-1872",
     "email": "info@olsonhremcho.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -27806,6 +27878,7 @@
     "phone": "(617) 913-4905",
     "email": "rxngroup@venable.com",
     "registrationDate": "05/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -27878,6 +27951,16 @@
         "effectiveDate": "01/01/2023"
       }
     ]
+  },
+  {
+    "id": "1460977",
+    "name": "PRATT, GRACE",
+    "address": "PO BOX 160274\nSACRAMENTO, CA 95816",
+    "phone": "(858) 243-3448",
+    "registrationDate": "04/10/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1450545",
@@ -28338,6 +28421,7 @@
     "address": "1831 K STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 504-5800",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -28977,6 +29061,7 @@
     "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "phone": "(415) 389-6800",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -29347,6 +29432,7 @@
     "phone": "(916) 600-7928",
     "email": "srstrategiesca@gmail.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -29616,6 +29702,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -29735,6 +29822,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -30422,6 +30510,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "04/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -31162,6 +31251,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -31315,6 +31405,7 @@
     "phone": "(916) 690-0098",
     "mailingAddress": "1225 8TH STREET, SUITE 395\nSACRAMENTO, CA 95814",
     "registrationDate": "02/14/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -31905,6 +31996,7 @@
     "address": "55 2ND STREET, SUITE 1700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 227-0900",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -31987,6 +32079,7 @@
     "address": "400 NORTH PARK AVENUE, SUITE 10-2, BOX 566\nBRECKENRIDGE, CO 80424",
     "phone": "(916) 715-2025",
     "registrationDate": "03/08/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -33107,6 +33200,7 @@
     "address": "3712 WEST RIVER DRIVE\nSACRAMENTO, CA 95833",
     "phone": "(916) 818-1200",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -33345,6 +33439,7 @@
     "phone": "(916) 441-2599",
     "email": "kstanhope@cncda.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -33377,6 +33472,7 @@
     "phone": "(212) 393-4072",
     "email": "lobbying@campaignlawyers.com",
     "registrationDate": "03/15/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -34877,6 +34973,7 @@
     "address": "1127 11TH STREET, SUITE 544\nSACRAMENTO, CA 95814",
     "phone": "(916) 273-1230",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
     "relationships": [
       {
@@ -35110,6 +35207,7 @@
     "phone": "(415) 627-1800",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -35177,6 +35275,7 @@
     "email": "vat8@pge.com",
     "mailingAddress": "77 BEALE STREET, MC B29H\nSAN FRANCISCO, CA 94108\nPhone: (916) 386-5702\nEmail: vat8@pge.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -35360,6 +35459,7 @@
     "phone": "(916) 600-2288",
     "email": "tim@weidemangroup.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -36434,6 +36534,7 @@
     "phone": "(916) 813-1107",
     "email": "mark@whstrat.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -37348,6 +37449,7 @@
     "phone": "(202) 344-4000",
     "email": "sdclobbying@venable.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -37679,6 +37781,7 @@
     "phone": "(916) 446-3007",
     "email": "jyanos@shjlobby.com",
     "registrationDate": "03/21/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -38052,6 +38155,7 @@
     "phone": "(720) 245-7287",
     "email": "compliance_ca_lls_2@multistate.us",
     "registrationDate": "02/08/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -38153,6 +38257,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "03/10/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
