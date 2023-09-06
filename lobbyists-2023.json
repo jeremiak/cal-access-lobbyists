@@ -9354,6 +9354,22 @@
     ]
   },
   {
+    "id": "1462667",
+    "name": "DOLPHIN, DANA",
+    "address": "360 MADISON AVENUE, SUITE 1900\nNEW YORK, NY 10017",
+    "phone": "(212) 938-6366",
+    "email": "dana.dolphin@laurioncap.com",
+    "registrationDate": "09/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LAURION CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "09/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1441520",
     "name": "DOMINGO, KATHLEEN B.",
     "address": "1119 K STREET, 2ND FLOOR\nSACRAMENTO, CA 95814",
@@ -9918,7 +9934,7 @@
   {
     "id": "1443741",
     "name": "EDMOND, JOHN",
-    "address": "65 PINE AVENUE\nSUITE 343",
+    "address": "307 MC NAB AVENUE\nLONG BEACH, CA 90808",
     "phone": "(562) 216-3894",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2023",
@@ -13087,14 +13103,15 @@
     "address": "12651 SAN PABLO AVENUE, #5473\nRICHMOND, CA 94805",
     "phone": "(510) 621-7223",
     "email": "compliance@socialgoodfund.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/21/2023",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SOCIAL GOOD FUND, INC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/21/2023"
       }
     ]
   },
@@ -20642,6 +20659,23 @@
     ]
   },
   {
+    "id": "1440010",
+    "name": "LINTON, DAVID O.",
+    "address": "4265 SAN FELIPE, 8TH FLOOR\nHOUSTON, TX 77027",
+    "phone": "(713) 548-2640",
+    "email": "complianceapproval@westwoodgroup.c",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/10/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SALIENT CAPITAL, L.P.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1410268",
     "name": "LIPPIN, DAVID",
     "address": "510 MADISON AVENUE, 19TH FLOOR\nNEW YORK, NY 10022",
@@ -20951,14 +20985,15 @@
     "address": "1800 I STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 952-2383",
     "email": "janetlop@usc.edu",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "02/28/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "UNIVERSITY OF SOUTHERN CALIFORNIA; THE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/28/2023"
       }
     ]
   },
@@ -21707,6 +21742,22 @@
         "entityName": "MAHAFFY; SHANNON",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1415275",
+    "name": "MAHAJAN, RAHUL",
+    "address": "712 FIFTH AVENUE, 23RD FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 680-4579",
+    "email": "mahajan@luminarxcap.com",
+    "registrationDate": "08/23/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LUMINARX CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "08/23/2023"
       }
     ]
   },
@@ -22686,7 +22737,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATE, SYSTEMATICA INVESTMENTS LIMITED",
+        "entityName": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATES, SYSTEMATICA INVESTMENTS LIMITED AND SYSTEMATICA\nINVESTMENTS UK LLP",
         "type": "Employer",
         "effectiveDate": "06/01/2023"
       }
@@ -30424,7 +30475,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATE, SYSTEMATICA INVESTMENTS LIMITED",
+        "entityName": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATES, SYSTEMATICA INVESTMENTS LIMITED AND SYSTEMATICA\nINVESTMENTS UK LLP",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/30/2023"
