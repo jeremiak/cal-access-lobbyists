@@ -1823,14 +1823,15 @@
     "phone": "(562) 353-9011",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/31/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DIGITALBRIDGE GROUP, INC. AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/31/2023"
       }
     ]
   },
@@ -26230,14 +26231,15 @@
     "name": "OLIVER, DAVID",
     "address": "PO BOX 160274\nSACRAMENTO, CA 95816",
     "phone": "(858) 243-3448",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/27/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIBER STRATEGIES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/27/2023"
       }
     ]
   },
@@ -27541,6 +27543,21 @@
         "entityName": "CALIBER STRATEGIES",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1392860",
+    "name": "PIERINI, RYAN",
+    "address": "1800 CENTURY PARK EAST, 8TH FLOOR\nLOS ANGELES, CA 90067",
+    "phone": "(310) 315-8200",
+    "registrationDate": "08/15/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MC GUIREWOODS CONSULTING LLC",
+        "type": "Firm",
+        "effectiveDate": "08/15/2023"
       }
     ]
   },
