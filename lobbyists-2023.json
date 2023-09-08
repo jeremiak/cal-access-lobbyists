@@ -280,6 +280,22 @@
     ]
   },
   {
+    "id": "1462788",
+    "name": "AGUILAR, TYLER",
+    "address": "1150 S. OLIVE STREET, SUITE 1350\nLOS ANGELES, CA 90015",
+    "phone": "(213) 740-5371",
+    "email": "vpgr@usc.edu",
+    "registrationDate": "09/05/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNIVERSITY OF SOUTHERN CALIFORNIA; THE",
+        "type": "Employer",
+        "effectiveDate": "09/05/2023"
+      }
+    ]
+  },
+  {
     "id": "1263105",
     "name": "AGUINALDO, LEILANI ",
     "address": "1121 L STREET, SUITE 1060\nSACRAMENTO, CA 95814",
@@ -342,22 +358,6 @@
       {
         "entityName": "LONE VIEW CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1452887",
-    "name": "AKIN, ANNALEE",
-    "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
-    "phone": "(916) 441-5050",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA ADVOCATES, INC.",
-        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -1339,6 +1339,22 @@
         "entityName": "CYSTIC FIBROSIS FOUNDATION",
         "type": "Employer",
         "effectiveDate": "04/17/2023"
+      }
+    ]
+  },
+  {
+    "id": "1452887",
+    "name": "AUGUSTINE, ANNALEE",
+    "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-5050",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/03/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ADVOCATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -2884,6 +2900,22 @@
         "entityName": "CALIFORNIA TROUT",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462616",
+    "name": "BHAGWAT, RACHAEL",
+    "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1036",
+    "registrationDate": "05/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACLU CALIFORNIA ACTION",
+        "type": "Employer",
+        "effectiveDate": "05/01/2023"
       }
     ]
   },
@@ -4541,14 +4573,15 @@
     "address": "1 VANDERBILT AVENUE, SUITE 3400\nNEW YORK , NY 10017",
     "phone": "(212) 813-4900",
     "email": "anne.campbell@carlyle.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "02/03/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/03/2023"
       }
     ]
   },
@@ -4633,6 +4666,22 @@
         "entityName": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460517",
+    "name": "BURKE, MEGHAN",
+    "address": "100 INDEPENDENCE, 610 MARKET STREET\nPHILADELPHIA, PA 19106",
+    "phone": "(503) 784-1047",
+    "email": "meghan.burke@macquarie.com",
+    "registrationDate": "06/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MACQUARIE INVESTMENT MANAGEMENT ADVISERS",
+        "type": "Employer",
+        "effectiveDate": "06/01/2023"
       }
     ]
   },
@@ -4783,6 +4832,22 @@
         "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1457095",
+    "name": "BYRKIT, DOUGLAS M.",
+    "address": "4 EMBARCADERO CENTER, SUITE 550\nSAN FRANCISCO, CA 94111",
+    "phone": "(512) 820-9887",
+    "email": "doug.byrkit@matthewsasia.com",
+    "registrationDate": "09/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MATTHEWS INTERNATIONAL CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/01/2023"
       }
     ]
   },
@@ -6945,6 +7010,21 @@
     ]
   },
   {
+    "id": "1426170",
+    "name": "COONEY, DUKE",
+    "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1036",
+    "registrationDate": "04/17/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACLU CALIFORNIA ACTION",
+        "type": "Employer",
+        "effectiveDate": "04/17/2023"
+      }
+    ]
+  },
+  {
     "id": "1377168",
     "name": "COONY, STEVE P.",
     "address": "1215 K STREET, SUITE 1900\nSACRAMENTO, CA 95814",
@@ -8029,6 +8109,22 @@
     ]
   },
   {
+    "id": "1337670",
+    "name": "D'ARCY, BRIAN",
+    "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 743-1538",
+    "email": "bdarcy@sixthstreet.com",
+    "registrationDate": "08/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/24/2023"
+      }
+    ]
+  },
+  {
     "id": "1384040",
     "name": "DABINETT, ANDREW",
     "address": "1251 AVENUE OF THE AMERICAS, 46TH FLOOR\nNEW YORK, NY 10020",
@@ -8074,6 +8170,22 @@
         "entityName": "CALIFORNIA CONSORTIUM OF ADDICTION PROGRAMS AND PROFESSIONALS",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1456991",
+    "name": "DALRYMPLE, AARON",
+    "address": "345 CALIFORNIA STREET SUITE 2600\nSAN FRANCISCO, CA 94104",
+    "phone": "(628) 220-7299",
+    "email": "adalrymple@sixthstreet.com",
+    "registrationDate": "08/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/24/2023"
       }
     ]
   },
@@ -8646,6 +8758,22 @@
         "entityName": "400 CAPITAL MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1448935",
+    "name": "DEETH, KEVIN",
+    "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 486-5941",
+    "email": "kdeeth@sixthstreet.com",
+    "registrationDate": "08/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/24/2023"
       }
     ]
   },
@@ -11518,6 +11646,21 @@
     ]
   },
   {
+    "id": "1462538",
+    "name": "FRAZIER JR., JAMES LEROY",
+    "address": "1225 8TH STREET, SUITE 350\nSACRAMENTO, CA 95814",
+    "phone": "(916) 905-2153",
+    "registrationDate": "09/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARC OF CALIFORNIA; THE",
+        "type": "Employer",
+        "effectiveDate": "09/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1387978",
     "name": "FREED, STEVEN F.",
     "address": "1603 ORRINGTON AVENUE, 13TH FLOOR\nEVANSTON, IL 60201",
@@ -14314,6 +14457,22 @@
     ]
   },
   {
+    "id": "1358986",
+    "name": "HAGGART, AHSHA",
+    "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 486-5997",
+    "email": "ahaggart@sixthstreet.com",
+    "registrationDate": "08/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/24/2023"
+      }
+    ]
+  },
+  {
     "id": "1444038",
     "name": "HAGGERTY, SCOTT",
     "address": "3957 CASPARIS ROAD\nFRANKLIN, TN 37064",
@@ -15365,6 +15524,22 @@
     ]
   },
   {
+    "id": "1462648",
+    "name": "HENDERSON \n, ERIC ",
+    "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1036",
+    "registrationDate": "07/17/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACLU CALIFORNIA ACTION",
+        "type": "Employer",
+        "effectiveDate": "07/17/2023"
+      }
+    ]
+  },
+  {
     "id": "1343575",
     "name": "HENDERSON, CHRISTOPHER E.",
     "address": "1 BRIDGE PLAZA, SUITE 1095\nFORT LEE, NJ 07024",
@@ -15877,14 +16052,15 @@
     "address": "600 STEAMBOAT ROAD, 3RD FLOOR\nGREENWICH, CT 06830",
     "phone": "(212) 974-6000",
     "email": "jhobbeheydar@elliottmgmt.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
-        "entityName": "ELLIOTT INVESTMENT MANAGEMENT L.P. AND ITS AFFILIATE, EIMCT LLC",
+        "entityName": "ELLIOTT INVESTMENT MANAGEMENT L.P. AND ITS AFFILIATES, EIMCT LLC AND EIMFL LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -19395,6 +19571,23 @@
     ]
   },
   {
+    "id": "1416320",
+    "name": "KUTNEY, CHAD",
+    "address": "11350 RANDOM HILLS ROAD SUITE 800\nALEXANDRIA, VA 22030",
+    "phone": "(202) 737-8808",
+    "email": "ckutney@ruffer.co.uk",
+    "mailingAddress": "2300 N STREET NORTHWEST SUITE 643\nWASHINGTON, DC 20037",
+    "registrationDate": "08/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RUFFER LLC",
+        "type": "Employer",
+        "effectiveDate": "08/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1460879",
     "name": "KWAMYA, JULIA",
     "address": "412 WEST 15TH STREET FLOOR 18\nNEW YORK, NY 10011",
@@ -22523,6 +22716,23 @@
         "entityName": "COMVEST ADVISORS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462308",
+    "name": "MARTINEZ, SUZANNE",
+    "address": "155 NORTH WACHER DRIVE, SUITE 4320\nCHICAGO, IL 60606",
+    "phone": "(312) 783-4111",
+    "email": "FPPC@BMHLAW.COM",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "08/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AFFINIUS CAPITAL",
+        "type": "Employer",
+        "effectiveDate": "08/01/2023"
       }
     ]
   },
@@ -25776,6 +25986,22 @@
         "entityName": "NAPIER PARK GLOBAL CAPITAL (US) LP",
         "type": "Employer",
         "effectiveDate": "06/14/2023"
+      }
+    ]
+  },
+  {
+    "id": "1429759",
+    "name": "NORGAARD, JAMES",
+    "address": "888 7TH AVENUE\nNEW YORK, NY 10106",
+    "phone": "(212) 405-8483",
+    "email": "jnorgaard@sixthstreet.com",
+    "registrationDate": "08/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/24/2023"
       }
     ]
   },
@@ -31808,7 +32034,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ELLIOTT INVESTMENT MANAGEMENT L.P. AND ITS AFFILIATE, EIMCT LLC",
+        "entityName": "ELLIOTT INVESTMENT MANAGEMENT L.P. AND ITS AFFILIATES, EIMCT LLC AND EIMFL LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -33282,14 +33508,15 @@
     "address": "1800 I STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 637-8981",
     "email": "sorianok@usc.edu",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/01/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "UNIVERSITY OF SOUTHERN CALIFORNIA; THE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/01/2023"
       }
     ]
   },
@@ -33817,6 +34044,22 @@
         "entityName": "STONE ADVOCACY",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1424967",
+    "name": "STONE, LUCY",
+    "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
+    "phone": "(628) 220-7240",
+    "email": "lstone@sixthstreet.com",
+    "registrationDate": "08/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/24/2023"
       }
     ]
   },
@@ -34718,6 +34961,22 @@
     ]
   },
   {
+    "id": "1384167",
+    "name": "THOMAS, KATHERINE A.",
+    "address": "888 7TH AVENUE 41ST FLOOR\nNEW YORK, NY 10106",
+    "phone": "(212) 405-8429",
+    "email": "kthomas@sixthstreet.com",
+    "registrationDate": "08/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/24/2023"
+      }
+    ]
+  },
+  {
     "id": "1257696",
     "name": "THOMAS, P. ANTHONY",
     "address": "1215 K STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -35599,6 +35858,21 @@
         "entityName": "CAPITOL STRATEGIC ADVISORS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462615",
+    "name": "VALENCIA, CYNTHIA",
+    "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1036",
+    "registrationDate": "04/20/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACLU CALIFORNIA ACTION",
+        "type": "Employer",
+        "effectiveDate": "04/20/2023"
       }
     ]
   },
