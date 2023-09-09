@@ -3026,14 +3026,15 @@
     "phone": "(203) 863-5000",
     "email": "pbishen@vikingglobal.com",
     "mailingAddress": "280 PARK AVENUE, FLOOR 6\nNEW YORK, NY 10017",
-    "registrationDate": "04/03/2023",
+    "registrationDate": "08/07/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VIKING GLOBAL INVESTORS LP",
         "type": "Employer",
-        "effectiveDate": "04/03/2023"
+        "effectiveDate": "04/03/2023",
+        "terminationDate": "08/07/2023"
       }
     ]
   },
@@ -3369,14 +3370,15 @@
     "phone": "(916) 552-7111",
     "email": "ablumberg@ccha.org",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/19/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA CHILDREN'S HOSPITAL ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/19/2023"
       }
     ]
   },
@@ -8057,14 +8059,19 @@
   {
     "id": "1400709",
     "name": "CURTIS, LAURA",
-    "address": "303 SECOND STREET, SOUTH TOWER\nSAN FRANCISCO, CA 94107",
-    "phone": "(415) 903-2800",
-    "email": "laura.curtis@doordash.com",
-    "mailingAddress": "28 LIBERTY SHIP WAY, SUITE 2815\nSAUSALITO, CA 94965\nPhone: (415) 903-2800\nEmail: laura.curtis@doordash.com",
-    "registrationDate": "06/30/2023",
+    "address": "1415 L STREET, SUITE 670\nSACRAMENTO , CA 95814",
+    "phone": "(847) 553-3605",
+    "email": "laura.curtis@apci.org",
+    "mailingAddress": "8700 WEST BRYN MAWR AVENUE, SUITE 1200S\nCHICAGO, IL 95814",
+    "registrationDate": "08/11/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "08/11/2023"
+      },
       {
         "entityName": "DOORDASH, INC.",
         "type": "Employer",
@@ -15033,6 +15040,22 @@
     ]
   },
   {
+    "id": "1462555",
+    "name": "HARTWELL, ROBERT ",
+    "address": "600 MASSACHUSETTS AVE \nWASHINGTON , DC 20001",
+    "phone": "(202) 344-4000",
+    "email": "registrationcompliance@venable.com",
+    "registrationDate": "08/15/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VENABLE LLP",
+        "type": "Firm",
+        "effectiveDate": "08/15/2023"
+      }
+    ]
+  },
+  {
     "id": "1373545",
     "name": "HASENAUER, ERIC",
     "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
@@ -18510,6 +18533,7 @@
     "address": "4470 W. SUNSET BOULEVARD, SUITE 453\nLOS ANGELES, CA 90027",
     "phone": "(844) 884-7233",
     "registrationDate": "04/07/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -24304,13 +24328,14 @@
     "address": "2215 I STREET, SUITE 100\nSACRAMENTO, CA 95816",
     "phone": "(916) 479-8606",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "06/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MINER; PAUL F.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -24718,6 +24743,22 @@
     ]
   },
   {
+    "id": "1462553",
+    "name": "MONTICOLLO , ALLAIRE ",
+    "address": "600 MASSACHUSETTS AVE\nWASHINGTON , DC 20001",
+    "phone": "(202) 344-4000",
+    "email": "registrationcompliance@venable.com",
+    "registrationDate": "08/21/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VENABLE LLP",
+        "type": "Firm",
+        "effectiveDate": "08/21/2023"
+      }
+    ]
+  },
+  {
     "id": "1458906",
     "name": "MOO, SARAH POLLO",
     "address": "1121 L STREET, SUITE 607\nSACRAMENTO, CA 95814",
@@ -25038,7 +25079,8 @@
       {
         "entityName": "GAM USA INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/11/2023"
       }
     ]
   },
@@ -27020,22 +27062,6 @@
         "entityName": "CALIFORNIA YIMBY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1456744",
-    "name": "PANDYA, RAJ",
-    "address": "40 MADISON AVE.\nNEW YORK, NY 10010",
-    "phone": "(212) 616-6850",
-    "registrationDate": "04/29/2023",
-    "status": "Terminated",
-    "relationships": [
-      {
-        "entityName": "MVISION PRIVATE EQUITY ADVISERS USA LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "04/29/2023"
       }
     ]
   },
@@ -33170,14 +33196,15 @@
     "address": "11100 SANTA MONICA BOULEVARD, SUITE 2000\nLOS ANGELES, CA 90025",
     "phone": "(310) 235-5903",
     "email": "zachary.smith@crescentcap.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/21/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CRESCENT CAPITAL GROUP LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/21/2023"
       }
     ]
   },
@@ -34060,6 +34087,21 @@
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
         "effectiveDate": "08/24/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461226",
+    "name": "STOUT, KAREN",
+    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 318-8866",
+    "registrationDate": "06/20/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
+        "type": "Firm",
+        "effectiveDate": "06/20/2023"
       }
     ]
   },
