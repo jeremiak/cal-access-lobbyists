@@ -5409,6 +5409,22 @@
     ]
   },
   {
+    "id": "1461365",
+    "name": "CARRINGTON, TAYLOR",
+    "address": "1756 PLATTE STREET\nDENVER, CO 80202",
+    "phone": "(720) 443-4194",
+    "email": "taylor.carrington@jupiteram.com",
+    "registrationDate": "06/19/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JUPITER ASSET MANAGEMENT US LLC",
+        "type": "Firm",
+        "effectiveDate": "06/19/2023"
+      }
+    ]
+  },
+  {
     "id": "1438548",
     "name": "CARROLL, CHRISTOPHER ",
     "address": "500 PARK AVENUE\nNEW YORK , NY 10022",
@@ -12073,6 +12089,22 @@
         "entityName": "STATE STREET BANK AND TRUST COMPANY",
         "type": "Employer",
         "effectiveDate": "04/24/2023"
+      }
+    ]
+  },
+  {
+    "id": "1320409",
+    "name": "GALLARDO, CHRIS L",
+    "address": "9908 PIPIT WAY\nELK GROVE, CA 95757",
+    "phone": "(916) 230-1272",
+    "email": "indianadvocate@yahoo.com",
+    "registrationDate": "04/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GALLARDO GOVERNMENT RELATIONS & CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -22812,6 +22844,23 @@
     ]
   },
   {
+    "id": "1443389",
+    "name": "MASON, EMILY",
+    "address": "499 PARK AVENUE, 21ST FLOOR\nNEW YORK, NY 10022",
+    "phone": "(410) 279-6238",
+    "email": "mason@cornellcapllc.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORNELL CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1252484",
     "name": "MASON, PAUL ",
     "address": "1001A O'REILLY AVENUE\nSAN FRANCISCO, CA 94129",
@@ -27063,6 +27112,22 @@
         "entityName": "CALIFORNIA YIMBY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1456733",
+    "name": "PANDYA, RAJ",
+    "address": "40 MADISON AVE.\nNEW YORK, NY 10010",
+    "phone": "(212) 616-6850",
+    "registrationDate": "04/29/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "MVISION PRIVATE EQUITY ADVISERS USA LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/29/2023"
       }
     ]
   },
