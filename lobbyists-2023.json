@@ -25185,6 +25185,22 @@
     ]
   },
   {
+    "id": "1462882",
+    "name": "MOYNIHAN, BRIAN G.",
+    "address": "280 PARK AVENUE, 11TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(212) 883-2800",
+    "email": "bmoynihan@torchlightinvestors.com",
+    "registrationDate": "09/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TORCHLIGHT INVESTORS LLC",
+        "type": "Employer",
+        "effectiveDate": "09/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1422777",
     "name": "MOZES LATON, KAREEN",
     "address": "599 LEXINGTON AVENUE\nNEW YORK , NY 10022",
