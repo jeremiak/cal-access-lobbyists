@@ -6,6 +6,7 @@
     "phone": "(312) 612-2637",
     "email": "tabbey@arielinvestments.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -1140,6 +1141,29 @@
         "entityName": "CHEVRON U.S.A., INC. AND AFFILIATES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1354234",
+    "name": "ARMSTRONG, BETSY A.",
+    "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
+    "phone": "(916) 327-7540",
+    "email": "admin@cheac.org",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/17/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARMSTRONG; BETSY",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/14/2023"
+      },
+      {
+        "entityName": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
+        "type": "Employer",
+        "effectiveDate": "07/14/2023"
       }
     ]
   },
@@ -7734,6 +7758,22 @@
     ]
   },
   {
+    "id": "1461819",
+    "name": "CROWELL, BRIAN",
+    "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(203) 344-6350",
+    "email": "brian.crowell@mlp.com",
+    "registrationDate": "07/28/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MILLENNIUM MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "07/28/2023"
+      }
+    ]
+  },
+  {
     "id": "1460882",
     "name": "CRUISE, DANIEL",
     "address": "412 WEST 15TH STREET FLOOR 18\nNEW YORK, NY 10011",
@@ -8505,6 +8545,7 @@
     "phone": "(203) 340-7876",
     "email": "md@crossoceanpartners.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -12461,6 +12502,23 @@
     ]
   },
   {
+    "id": "1339605",
+    "name": "GERINGER, KARYN J.",
+    "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 320-1183",
+    "email": "karyn.geringer@mlp.com",
+    "registrationDate": "04/08/2023",
+    "ethicsCourseCompletionDate": "11/03/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MILLENNIUM MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "04/08/2023"
+      }
+    ]
+  },
+  {
     "id": "1326755",
     "name": "GERINGER, TRICIA A.",
     "address": "1121 L STREET, SUITE 304\nSACRAMENTO, CA 95814",
@@ -12592,6 +12650,29 @@
         "entityName": "ALZHEIMER'S ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1382122",
+    "name": "GIBBONS, MICHELLE L.",
+    "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
+    "phone": "(916) 327-7540",
+    "email": "admin@cheac.org",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/17/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
+        "type": "Employer",
+        "effectiveDate": "07/14/2023"
+      },
+      {
+        "entityName": "GIBBONS; MICHELLE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/14/2023"
       }
     ]
   },
@@ -19377,6 +19458,22 @@
     ]
   },
   {
+    "id": "1460060",
+    "name": "KOHLY, FREDERICK RICHARD",
+    "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 708-4679",
+    "email": "rick.kohly@mlp.com",
+    "registrationDate": "04/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MILLENNIUM MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "04/08/2023"
+      }
+    ]
+  },
+  {
     "id": "1427092",
     "name": "KOJIMA, CHRIS",
     "address": "200 WEST STREET\nNEW YORK, NY 10282",
@@ -23640,6 +23737,7 @@
     "phone": "(917) 703-4071",
     "email": "shane.mcmahon@candriam.com",
     "registrationDate": "01/05/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
