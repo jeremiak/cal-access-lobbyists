@@ -11659,6 +11659,22 @@
     ]
   },
   {
+    "id": "1462931",
+    "name": "FRANCO, OBED",
+    "address": "1015 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-0702",
+    "email": "obed@ppallc.com",
+    "registrationDate": "08/28/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC POLICY ADVOCATES, LLC",
+        "type": "Firm",
+        "effectiveDate": "08/28/2023"
+      }
+    ]
+  },
+  {
     "id": "1339575",
     "name": "FRANCO, THOMAS C.",
     "address": "375 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10152",
@@ -21847,6 +21863,23 @@
     ]
   },
   {
+    "id": "1385044",
+    "name": "MACIARIELLO, MARNIE B.",
+    "address": "ONE FRANKLIN PARKWAY\nSAN MATEO, CA 94403",
+    "phone": "(415) 389-6800",
+    "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FRANKLIN RESOURCES, INC. AND ITS AFFILIATE, FRANKLIN TEMPLETON INSTITUTIONAL, LLC AND BENEFIT STREET PARTNERS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1449645",
     "name": "MACINTOSH, CAELIN",
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
@@ -25567,6 +25600,22 @@
     ]
   },
   {
+    "id": "1383059",
+    "name": "MUTSCHLER, USHA",
+    "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-7318",
+    "email": "usha@wpssgroup.com",
+    "registrationDate": "08/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WPSS GROUP",
+        "type": "Firm",
+        "effectiveDate": "08/24/2023"
+      }
+    ]
+  },
+  {
     "id": "1439377",
     "name": "MYERS, CHRIS",
     "address": "2045 LUNDY AVENUE\nSAN JOSE, CA 95131",
@@ -25689,14 +25738,15 @@
     "address": "1345 AVENUE OF THE AMERICAS, 21ST FLOOR\nNEW YORK, NY 10105",
     "phone": "(212) 649-6778",
     "email": "brendan.nangle@man.com",
-    "registrationDate": "01/24/2023",
+    "registrationDate": "07/31/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MAN INVESTMENTS INC.",
         "type": "Firm",
-        "effectiveDate": "01/24/2023"
+        "effectiveDate": "01/24/2023",
+        "terminationDate": "07/31/2023"
       }
     ]
   },
