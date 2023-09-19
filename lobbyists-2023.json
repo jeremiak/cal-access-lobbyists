@@ -184,7 +184,9 @@
   {
     "id": "1354723",
     "name": "ADAMS, LINDA",
-    "mailingAddress": "444 S. FLOWER STREET, STE. 640\nLOS ANGELES, CA 90071\nPhone: (213) 373-1662\nEmail: jguard@kaufmanlegalgroup.com",
+    "address": "444 S. FLOWER STREET, STE. 640\nLOS ANGELES, CA 90071",
+    "phone": "(213) 373-1662",
+    "email": "jguard@kaufmanlegalgroup.com",
     "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
@@ -2563,9 +2565,9 @@
     "address": "2029 CENTURY PARK EAST, 16TH FLOOR\nLOS ANGELES, CA 90067",
     "phone": "(310) 552-5161",
     "email": "compliance_ca_nuveen_3@multistate.us",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/22/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NUVEEN SERVICES LLC",
@@ -4399,6 +4401,7 @@
     "phone": "(732) 978-7549",
     "email": "CHRISTIAN.BRUNE@zaisgroup.com",
     "registrationDate": "04/05/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -9935,6 +9938,7 @@
     "phone": "(203) 618-1400",
     "email": "tdurkin@lpcap.com",
     "registrationDate": "03/20/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -12140,6 +12144,7 @@
     "phone": "(323) 369-5432",
     "email": "jgalan@statestreet.com",
     "registrationDate": "04/24/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -14112,6 +14117,7 @@
     "phone": "(617) 913-4905",
     "email": "rxngroup@venable.com",
     "registrationDate": "05/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -16148,6 +16154,22 @@
         "entityName": "INTERNATIONAL UNION, UNITED AUTOMOBILE AEROSPACE AND AGRICULTURAL IMPLEMENT WORKERS OF AMERICA, UAW",
         "type": "Employer",
         "effectiveDate": "06/30/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461646",
+    "name": "HIRSCH, MALCOLM",
+    "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
+    "phone": "(847) 565-9155",
+    "email": "compliance_ca_nuveen_9@multistate.us",
+    "registrationDate": "07/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "07/10/2023"
       }
     ]
   },
@@ -18936,6 +18958,7 @@
     "address": "1215 K STREET, STE 2290\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-1488",
     "registrationDate": "05/22/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -19249,6 +19272,22 @@
         "entityName": "NEA MANAGEMENT COMPANY, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462623",
+    "name": "KLISANIN, IVA",
+    "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
+    "phone": "(213) 819-0526",
+    "email": "compliance_ca_nuveen_11@multistate.u",
+    "registrationDate": "08/28/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "08/28/2023"
       }
     ]
   },
@@ -20387,6 +20426,7 @@
     "phone": "(925) 209-4432",
     "email": "jessica.lee@iconiqcapital.com",
     "registrationDate": "01/20/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26810,6 +26850,22 @@
     ]
   },
   {
+    "id": "1462009",
+    "name": "ONIFADE, SAHEEDAT",
+    "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
+    "phone": "(332) 257-0688",
+    "email": "compliance_ca_nuveen_10@multistate.u",
+    "registrationDate": "07/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "07/27/2023"
+      }
+    ]
+  },
+  {
     "id": "1449068",
     "name": "ONODERA, JOLIE",
     "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95814",
@@ -28670,6 +28726,23 @@
     ]
   },
   {
+    "id": "1459600",
+    "name": "PRYCE , WENDY",
+    "address": "308 WONDERWOOD DRIVE\nCHARLOTTE, NC 28211",
+    "phone": "(646) 578-6851",
+    "email": "compliance_ca_nuveen_6@multistate.us",
+    "registrationDate": "03/22/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "03/22/2023"
+      }
+    ]
+  },
+  {
     "id": "1458801",
     "name": "PULSIPHER, CRAIG",
     "address": "1127 11TH STREET, #206\nSACRAMENTO, CA 95814",
@@ -29252,6 +29325,22 @@
         "entityName": "READ & ASSOCIATES, LLC; AARON",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461239",
+    "name": "REAGEN, MELISSA",
+    "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
+    "phone": "(212) 916-6643",
+    "email": "compliance_ca_nuveen_7@multistate.us",
+    "registrationDate": "06/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "06/26/2023"
       }
     ]
   },
@@ -33036,6 +33125,23 @@
     ]
   },
   {
+    "id": "1461601",
+    "name": "SINGH, MANRAJ",
+    "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
+    "phone": "(646) 983-0903",
+    "email": "compliance_ca_nuveen_8@multistate.us",
+    "registrationDate": "07/10/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "07/10/2023"
+      }
+    ]
+  },
+  {
     "id": "1405370",
     "name": "SINGLETON, LINCOLN",
     "address": "1000 LOUISIANA STREET, SUITE 52ND FLOOR\nHOUSTON, TX 77002",
@@ -33934,6 +34040,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "06/29/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Terminated",
     "relationships": [
       {
@@ -34056,6 +34163,7 @@
     "phone": "(212) 688-8800",
     "email": "jstark@penso.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -36309,6 +36417,7 @@
     "phone": "(310) 880-9605",
     "email": "compliance_ca_sage_1@multistate.us",
     "registrationDate": "01/14/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
