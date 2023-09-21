@@ -155,6 +155,7 @@
     "phone": "(202) 303-9400",
     "email": "nacquavito@bardinhill.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/10/2022",
     "status": "Active",
     "relationships": [
       {
@@ -187,15 +188,9 @@
     "address": "444 S. FLOWER STREET, STE. 640\nLOS ANGELES, CA 90071",
     "phone": "(213) 373-1662",
     "email": "jguard@kaufmanlegalgroup.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MOZAIC MEDIA & COMMUNICATIONS, INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1282170",
@@ -10850,15 +10845,9 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
     "phone": "(650) 589-1660",
     "email": "kfederman@adamsbroadwell.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1439383",
@@ -26836,6 +26825,7 @@
     "phone": "(916) 266-4575",
     "email": "kristin@calstrat.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "09/09/2022",
     "status": "Active",
     "relationships": [
       {
@@ -27003,6 +26993,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
       {
@@ -27574,6 +27565,7 @@
     "phone": "(650) 248-4379",
     "email": "rparkhurst@sierraviewsolutions.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
     "relationships": [
       {
@@ -28730,6 +28722,7 @@
     "email": "todd@toddpriest.com",
     "mailingAddress": "P.O. BOX 1021\nCORONA DEL MAR, CA 92625\nPhone: (949) 287-2297\nEmail: todd@toddpriest.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
       {
@@ -29927,6 +29920,7 @@
     "phone": "(916) 584-1816",
     "email": "susan.riggs@aspca.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
       {
@@ -30943,6 +30937,7 @@
     "phone": "(305) 854-8880",
     "email": "lobbying@campaignlawyers.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
     "relationships": [
       {
@@ -31476,6 +31471,7 @@
     "phone": "(212) 849-9600",
     "email": "investorrelations@lonestarfunds.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
     "relationships": [
       {
@@ -33162,6 +33158,7 @@
     "phone": "(585) 703-4400",
     "email": "compliance@ecpartners.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
       {
@@ -33718,6 +33715,7 @@
     "phone": "(212) 849-9668",
     "email": "investorrelations@lonestarfunds.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
     "relationships": [
       {
@@ -33751,6 +33749,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO , CA 95814",
     "phone": "(202) 296-8086",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/10/2022",
     "status": "Active",
     "relationships": [
       {
@@ -33870,6 +33869,7 @@
     "email": "bsorensen@apollolp.com",
     "mailingAddress": "9 WEST 57TH STREET\nNEW YORK, NY 10019\nPhone: (212) 882-0789\nEmail: bserensen@apollo.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
     "relationships": [
       {
@@ -34387,6 +34387,7 @@
     "email": "compliance@orrick.com",
     "mailingAddress": "1501 WILSON BOULEVARD, SUITE 1050\nARLINGTON, VA 22209",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
     "relationships": [
       {
@@ -35047,6 +35048,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(202) 296-8086",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/10/2022",
     "status": "Active",
     "relationships": [
       {
