@@ -9960,6 +9960,23 @@
     ]
   },
   {
+    "id": "1456053",
+    "name": "DYE, STEFFAN L.",
+    "address": "6693 ELEGANTE WAY\nSAN DIEGO, CA 92130",
+    "phone": "(201) 669-1683",
+    "mailingAddress": "2100 3RD AVENUE NORTH SUITE 600\nBIRMINGHAM, AL 35203",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HMC INVESTMENTS, INC. \"HMCI\"",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1427359",
     "name": "EASLEY, MATTHEW",
     "address": "1121 L STREET, SUITE 402\nSACRAMENTO, CA 95814",
@@ -24653,15 +24670,9 @@
     "address": "299 PARK AVENUE, 37TH FLOOR\nNEW YORK, NY 10171",
     "phone": "(212) 315-1483",
     "email": "chris.mitrovich@apogemcapital.com",
-    "registrationDate": "02/06/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "APOGEM CAPITAL LLC",
-        "type": "Employer",
-        "effectiveDate": "02/06/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1340711",
@@ -25297,8 +25308,8 @@
     "address": "600 5TH AVENUE, 2ND FLOOR\nNEW YORK, NY 10020",
     "phone": "(212) 407-4600",
     "email": "peter.mostarac@gam.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "GAM USA INC.",
@@ -25732,15 +25743,9 @@
     "id": "1365368",
     "name": "NADJARIAN, ARAM",
     "mailingAddress": "444 S. FLOWER STREET, STE. 640\nLOS ANGELES, CA 90071\nPhone: (213) 373-1662\nEmail: jguard@kaufmanlegalgroup.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MOZAIC MEDIA & COMMUNICATIONS, INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1435544",
@@ -25884,15 +25889,9 @@
     "address": "4 EMBARCADERO CENTER, FLOOR 24\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 281-4511",
     "email": "jim.nelson@lazard.com",
-    "registrationDate": "01/30/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LAZARD ASSET MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/30/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1361929",
@@ -26209,15 +26208,9 @@
     "address": "240 LEIGH FARM ROAD, SUITE 450\nDURHAM, NC 27707",
     "phone": "(919) 493-3211",
     "email": "bill.schwartz@qmscapital.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "QMS CAPITAL MANAGEMENT LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1453620",
@@ -27042,15 +27035,9 @@
     "address": "1200 ENTREPRENEURIAL DRIVE\nBROOMFIELD, CO 80021",
     "phone": "(303) 606-3600",
     "email": "kyle.osborn@partnersgroup.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PARTNERS GROUP (USA) INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1395584",
@@ -36163,24 +36150,6 @@
     ]
   },
   {
-    "id": "1420839",
-    "name": "ULRICH, PRESTON",
-    "address": "200 CRESCENT COURT, SUITE 440 \nDALLAS, TX 75201",
-    "phone": "(205) 987-5572",
-    "email": "jrobertson@harbert.net",
-    "mailingAddress": "2100 3RD AVENUE NORTH, SUITE 600\nBIRMINGHAM, AL 35203",
-    "registrationDate": "01/01/2023",
-    "status": "Withdrawn",
-    "relationships": [
-      {
-        "entityName": "HMC INVESTMENTS, INC. \"HMCI\"",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "01/01/2023"
-      }
-    ]
-  },
-  {
     "id": "1336903",
     "name": "UNDERWOOD, MICHELLE",
     "address": "1121 L STREET, SUITE 1060\nSACRAMENTO, CA 95814",
@@ -37667,6 +37636,7 @@
     "email": "fppc@bmhlay",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
       {
@@ -38494,6 +38464,7 @@
     "phone": "(650) 823-6926",
     "email": "rwright@sierraviewsolutions.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/10/2022",
     "status": "Active",
     "relationships": [
       {
