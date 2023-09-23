@@ -198,15 +198,9 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 896-4841",
     "email": "reed@caleec.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1442603",
@@ -469,15 +463,9 @@
     "address": "1 METLIFE WAY\nWHIPPANY, NJ 07981",
     "phone": "(213) 308-2256",
     "email": "chris.alders@metlife.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "METLIFE INVESTMENT MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1355785",
@@ -686,15 +674,9 @@
     "address": "114 WEST 47TH STREET, FLOOR 19\nNEW YORK, NY 10036",
     "phone": "(212) 784-2266",
     "email": "david.altshuler@ifminvestors.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "IFM INVESTORS (US) LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1395997",
@@ -9744,6 +9726,22 @@
     ]
   },
   {
+    "id": "1377666",
+    "name": "DOZA, ASMAT",
+    "address": "1271 6TH AVENUE, 22ND FLOOR\nNEW YORK, NY 10020",
+    "phone": "(202) 506-0500",
+    "email": "adoza@higcapital.com",
+    "registrationDate": "09/13/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/13/2023"
+      }
+    ]
+  },
+  {
     "id": "1148193",
     "name": "DRABBLE, NANCY",
     "address": "770 L STREET, SUITE 1200 \nSACRAMENTO, CA 95814",
@@ -12727,6 +12725,7 @@
     "email": "tim@timgibbsconsulting.com",
     "mailingAddress": "1029 J STREET, SUITE 450\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -21777,6 +21776,22 @@
     ]
   },
   {
+    "id": "1440506",
+    "name": "MAC FARLANE, JOHN G.",
+    "address": "1271 6TH AVENUE, 22ND FLOOR\nNEW YORK, NY 10020",
+    "phone": "(212) 506-0500",
+    "email": "jmacfarlane@higcapital.com",
+    "registrationDate": "09/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/08/2023"
+      }
+    ]
+  },
+  {
     "id": "1445055",
     "name": "MAC GREGOR, ELIZABETH A.",
     "address": "111 RADIO CIRCLE DRIVE\nMOUNT KISCO, NY 10549",
@@ -24628,6 +24643,22 @@
         "entityName": "MINSKER CONSULTING",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462363",
+    "name": "MIRAMONTES, BRYANT",
+    "address": "1121 L STREET, SUITE 904\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-1571",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "08/14/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES,  AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "08/14/2023"
       }
     ]
   },
@@ -30991,6 +31022,7 @@
     "phone": "(949) 285-4432",
     "email": "rzrussell@statestreet.com",
     "registrationDate": "04/25/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
