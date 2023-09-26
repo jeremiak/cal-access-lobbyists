@@ -32437,14 +32437,15 @@
     "address": "53 FOREST AVENUE\nOLD GREENWICH, CT 06870",
     "phone": "(310) 529-2650",
     "email": "mmahan@ellington.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/08/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ELLINGTON MANAGEMENT GROUP LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/08/2023"
       }
     ]
   },
