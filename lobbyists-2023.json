@@ -15836,14 +15836,15 @@
     "name": "HERNANDEZ, PETER",
     "address": "1215 K STREET, SUITE 1800\nSACRAMENTO, CA 95814",
     "phone": "(916) 341-3420",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/08/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AT&T SERVICES INC. AND ITS AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/08/2023"
       }
     ]
   },
@@ -27616,15 +27617,9 @@
     "address": "277 PARK AVENUE, FLOOR 08\nNEW YORK, NY 10172",
     "phone": "(212) 648-0460",
     "email": "kathryn.m.pasqualone@jpmorgan.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1335935",
@@ -30698,22 +30693,6 @@
     ]
   },
   {
-    "id": "1436152",
-    "name": "ROSENTHAL, SAGE",
-    "address": "6931 ARLINGTON ROAD, 2ND FLOOR\nBESTHESDA, MD 20814",
-    "phone": "(301) 841-2639",
-    "email": "calobby@nmgovlaw.com",
-    "registrationDate": "01/01/2023",
-    "status": "Withdrawn",
-    "relationships": [
-      {
-        "entityName": "CYSTIC FIBROSIS FOUNDATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
     "id": "1251324",
     "name": "ROSS, ESPERANZA",
     "address": "1700 L STREET\nSACRAMENTO, CA 95811",
@@ -32420,14 +32399,15 @@
     "address": "925 L STREET, SUITE 350\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-1749",
     "email": "csend@cwda.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/25/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COUNTY WELFARE DIRECTORS ASSOCIATION OF CALIFORNIA (CWDA)",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/25/2023"
       }
     ]
   },
