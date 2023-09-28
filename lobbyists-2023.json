@@ -10427,15 +10427,9 @@
     "phone": "(916) 444-6201",
     "email": "tenslow@adamsbroadwell.com",
     "mailingAddress": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1393100",
@@ -11120,15 +11114,9 @@
     "address": "6 CORPORATE DRIVE, SUITE 650\nSHELTON, CT 06484",
     "phone": "(203) 426-1320",
     "email": "mfindlay@nssf.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1399084",
