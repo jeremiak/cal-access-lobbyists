@@ -15755,6 +15755,23 @@
     ]
   },
   {
+    "id": "1463030",
+    "name": "HENRY , EMILY",
+    "address": "510 MADISON AVENUE, 20TH FLOOR \nNEW YORK , NY 10022",
+    "phone": "(212) 321-4036",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BAYPINE LP",
+        "type": "Employer",
+        "effectiveDate": "10/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1376696",
     "name": "HENSCHEL, SEAN P.",
     "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
@@ -27695,6 +27712,21 @@
     ]
   },
   {
+    "id": "1334794",
+    "name": "PEER, JORDAN ",
+    "address": "1271 6TH AVENUE, 22ND FLOOR\nNEW YORK, NY 10020",
+    "phone": "(202) 506-0500",
+    "registrationDate": "09/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/18/2023"
+      }
+    ]
+  },
+  {
     "id": "1450890",
     "name": "PEER, KAMI N.",
     "address": "699 8TH STREET, SUITE C150\nSAN FRANCISCO, CA 94103",
@@ -29195,15 +29227,9 @@
     "address": "1100 K STREET, SUITE 102\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-2868",
     "email": "michael.rattigan@ceo.sccgov.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SANTA CLARA; COUNTY OF",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1440586",
@@ -29942,15 +29968,9 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "erika@caleec.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1387972",
@@ -30010,15 +30030,9 @@
     "name": "RIVAS, MICHELLE ",
     "address": "4030 LENNANE DRIVE\nSACRAMENTO, CA 95834",
     "phone": "(916) 779-1400",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA PHARMACISTS ASSOCIATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1392915",
@@ -30126,15 +30140,9 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(530) 574-4701",
     "email": "kayla@caleec.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1397903",
