@@ -441,6 +441,22 @@
     ]
   },
   {
+    "id": "1463198",
+    "name": "ALCALA, KEVIN",
+    "address": "200 WEST STREET \nNEW YORK, NY 10282",
+    "phone": "(212) 902-1000",
+    "email": "gs-lobbying-ny@gs.com",
+    "registrationDate": "09/14/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDMAN SACHS ASSET MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "09/14/2023"
+      }
+    ]
+  },
+  {
     "id": "1325675",
     "name": "ALCANTAR, MICHAEL P.",
     "address": "1 BLACKFIELD DRIVE, #135\nTIBURON, CA 94920",
@@ -5664,14 +5680,15 @@
     "address": "701 PENNSYLVANIA AVENUE NW, SUITE 715\nWASHINGTON, DC 20004",
     "phone": "(657) 631-1602",
     "email": "primo.castro@biogen.com",
-    "registrationDate": "02/13/2023",
+    "registrationDate": "08/18/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BIOGEN",
         "type": "Employer",
-        "effectiveDate": "02/13/2023"
+        "effectiveDate": "02/13/2023",
+        "terminationDate": "08/18/2023"
       }
     ]
   },
@@ -6060,12 +6077,13 @@
     "phone": "(360) 672-7689",
     "email": "scheshier@statestreet.com",
     "registrationDate": "02/16/2023",
-    "status": "Active",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "STATE STREET BANK AND TRUST COMPANY",
         "type": "Employer",
-        "effectiveDate": "02/16/2023"
+        "effectiveDate": "02/16/2023",
+        "terminationDate": "02/16/2023"
       }
     ]
   },
@@ -10298,6 +10316,22 @@
       {
         "entityName": "SACRAMENTO ADVOCATES INC.",
         "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1422439",
+    "name": "ELLIS, DANIEL",
+    "address": "277 PARK AVENUE, 40TH FLOOR\nNEW YORK, NY 10172",
+    "phone": "(212) 295-5853",
+    "email": "daniel.ellis@icgam.com",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INTERMEDIATE CAPITAL GROUP, INC.",
+        "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -14755,13 +14789,14 @@
     "address": "277 PARK AVENUE, FLOOR 8\nNEW YORK, NY 10172",
     "phone": "(212) 464-5582",
     "email": "katie.f.hammond@jpmorgan.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "06/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -26245,9 +26280,16 @@
     "address": "240 LEIGH FARM ROAD, SUITE 450\nDURHAM, NC 27707",
     "phone": "(919) 493-3211",
     "email": "bill.schwartz@qmscapital.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/03/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "QMS CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1453620",
@@ -28072,14 +28114,15 @@
     "address": "560 MISSION STREET, FLOOR 05\nSAN FRANCISCO , CA 94105",
     "phone": "(415) 315-4997",
     "email": "deasee.e.phillips@jpmorgan.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -29396,6 +29439,23 @@
         "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
         "type": "Employer",
         "effectiveDate": "07/12/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461070",
+    "name": "RECKER, RICHARD",
+    "address": "1001 LIBERTY AVENUE\nPITTSBURGH, PA 15222",
+    "phone": "(412) 288-4516",
+    "email": "richard.recker@federatedhermes.com",
+    "registrationDate": "05/24/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FEDERATED HERMES, INC. (FORMERLY FEDERATED INVESTORS, INC.)",
+        "type": "Employer",
+        "effectiveDate": "05/24/2023"
       }
     ]
   },
@@ -33340,14 +33400,15 @@
     "address": "560 MISSION STREET, FLOOR 5\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 315-8939",
     "email": "darren.f.smith@jpmorgan.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/02/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/02/2023"
       }
     ]
   },
@@ -38874,6 +38935,22 @@
         "entityName": "MHR FUND MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462674",
+    "name": "ZANZE, JOSEPH Z.",
+    "address": "925 L STREET SUITE 600\nSACRAMENTO, CA 95819",
+    "phone": "(916) 492-4242",
+    "email": "jzanze@sdge.com",
+    "registrationDate": "10/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SEMPRA AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
+        "type": "Employer",
+        "effectiveDate": "10/01/2023"
       }
     ]
   },
