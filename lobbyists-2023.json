@@ -788,15 +788,9 @@
     "address": "P.O. BOX 1656\nWOODLAND, CA 95776",
     "phone": "(916) 596-5987",
     "email": "amajioyi@yahoo.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "POLITICIANS AND LEADERS OF TOMORROW GROUP LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1459895",
@@ -940,15 +934,9 @@
     "address": "1251 AVENUE OF AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
     "phone": "(212) 257-4512",
     "email": "randrews@waterfallam.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "WATERFALL ASSET MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1459389",
@@ -1265,15 +1253,9 @@
     "address": "1111 HOWE AVENUE, SUITE 635\nSACRAMENTO, CA",
     "phone": "(916) 712-0071",
     "email": "kevin.aslanian@ccwro.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1426324",
@@ -1303,15 +1285,9 @@
     "address": "500 CAPITOL MALL, SUITE 2350\nSACRAMENTO, CA 95814",
     "phone": "(916) 806-2336",
     "mailingAddress": "448 SOUTH HILL STREET, SUITE 1008\nLOS ANGELES, CA 90013",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA POLICY SOLUTIONS",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1148223",
@@ -1384,15 +1360,9 @@
     "phone": "(916) 945-5984",
     "email": "cecil.autry@libertymutual.com",
     "mailingAddress": "1201 K STREET, SUITE 950\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LIBERTY MUTUAL INSURANCE",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1340531",
@@ -1401,6 +1371,7 @@
     "phone": "(914) 921-5345",
     "email": "mavansino@gabelli.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
       {
@@ -1466,15 +1437,9 @@
     "address": "1415 L STREET, SUITE 870\nSACRAMENTO, CA 95814",
     "phone": "(916) 558-1926",
     "email": "raquelav@water-warrior.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "REEB GOVERNMENT RELATIONS, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1459512",
@@ -1635,15 +1600,9 @@
     "phone": "(212) 878-0600",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET SUITE 412\nC/O KEYS CORP\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "WARBURG PINCUS LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1442134",
@@ -1738,15 +1697,9 @@
     "address": "1107 9TH STREET, SUITE 901\nSACRAMENTO, CA 95814",
     "phone": "(916) 822-5631",
     "email": "matthew@pcl.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PLANNING AND CONSERVATION LEAGUE",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1148259",
@@ -2258,6 +2211,7 @@
     "phone": "(916) 266-4575",
     "email": "mbatjer@calstrat.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
     "relationships": [
       {
@@ -2566,6 +2520,22 @@
         "entityName": "NUVEEN SERVICES LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462156",
+    "name": "BENEDICT, REBECCA E",
+    "address": "777 THIRD AVENUE, FLOOR 30\nNEW YORK, NY 10017",
+    "phone": "(212) 571-1244",
+    "email": "legalnotice@hudsonbayycapital.com",
+    "registrationDate": "08/02/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HUDSON BAY CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "08/02/2023"
       }
     ]
   },
@@ -4665,6 +4635,7 @@
     "address": "1201 K STREET, SUITE 900\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-7464",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
     "relationships": [
       {
@@ -10451,6 +10422,22 @@
         "entityName": "ENGSTROM; JENN",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462159",
+    "name": "ENNALS, JULIETTE R",
+    "address": "777 THIRD AVENUE, FLOOR 30\nNEW YORK, NY 10017",
+    "phone": "(212) 571-1244",
+    "email": "legalnotices@hudsonbayycapital.com",
+    "registrationDate": "08/02/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HUDSON BAY CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "08/02/2023"
       }
     ]
   },
@@ -18445,6 +18432,23 @@
     ]
   },
   {
+    "id": "1412405",
+    "name": "KEHOE, KATHRYN ",
+    "address": "50 RAFFLES PLACE, #34-02A\nSINGAPORE SG 48623",
+    "phone": "(656) 603-0860",
+    "email": "klyndon@hillhouseinvestment.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HILLHOUSE INVESTMENT MANAGMENT, LTD.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1365386",
     "name": "KEIGWIN, ADAM",
     "address": "9000 SUNSET BOULEVARD, FLOOR 3\nWEST HOLLYWOOD, CA 90069",
@@ -19052,6 +19056,22 @@
         "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462157",
+    "name": "KIM, NADINE I",
+    "address": "777 THIRD AVENUE, FLOOR 30\nNEW YORK, NY 10017",
+    "phone": "(212) 571-1244",
+    "email": "legalnotices@hudsonbayycapital.com",
+    "registrationDate": "08/02/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HUDSON BAY CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "08/02/2023"
       }
     ]
   },
@@ -27021,6 +27041,22 @@
         "entityName": "T. ROWE PRICE ASSOCIATES, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463051",
+    "name": "ORR, BASIL M.",
+    "address": "1180 PEACHTREE STREET NE, SUITE 2500\nATLANTA, GA 30309",
+    "phone": "(404) 978-0358",
+    "email": "borr@roarkcapital.com",
+    "registrationDate": "09/07/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROARK CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/07/2023"
       }
     ]
   },
@@ -35081,6 +35117,23 @@
       {
         "entityName": "AJW, INC.",
         "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1436267",
+    "name": "TANG, JIE ",
+    "address": "50 RAFFLES PLACE, #34-02A\nSINGAPORE SG 48623",
+    "phone": "(656) 603-0860",
+    "email": "jtang@hillhouseinvestment.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HILLHOUSE INVESTMENT MANAGMENT, LTD.",
+        "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
     ]
