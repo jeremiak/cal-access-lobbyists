@@ -10303,7 +10303,8 @@
       {
         "entityName": "INTERMEDIATE CAPITAL GROUP, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/28/2023"
       }
     ]
   },
@@ -12342,6 +12343,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "575 BROADWAY, 3RD FLOOR\nNEW YORK, NY 10017\nPhone: (312) 683-1900\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -12984,6 +12986,7 @@
     "phone": "(612) 851-3100",
     "email": "pete.glerum@castlelake.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -16014,7 +16017,7 @@
   {
     "id": "1461736",
     "name": "HICKEY, GEORGINA",
-    "address": "65 EAST 55TH STREET, 24TH FLOOR\nNEW YORK, CA 10022",
+    "address": "65 EAST 55TH STREET, 24TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 574-8598",
     "email": "ghickey@raine.com",
     "registrationDate": "07/10/2023",
@@ -24553,7 +24556,8 @@
       {
         "entityName": "RUSSELL INVESTMENTS GROUP, LLC AND AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2023"
       }
     ]
   },
@@ -25397,11 +25401,12 @@
   {
     "id": "1419599",
     "name": "MOSTARAC, PETAR",
-    "address": "600 5TH AVENUE, 2ND FLOOR\nNEW YORK, NY 10020",
-    "phone": "(212) 407-4600",
-    "email": "peter.mostarac@gam.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
+    "address": "400 MADISON AVENUE, SUITE 14-C\nNEW YORK, NY 10017",
+    "phone": "(212) 838-5107",
+    "email": "Mostaracp@TTint.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95841",
+    "registrationDate": "10/01/2023",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "GAM USA INC.",
@@ -25668,6 +25673,7 @@
     "phone": "(916) 441-7991",
     "email": "tmunzing@acec-ca.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -31681,7 +31687,7 @@
   {
     "id": "1335443",
     "name": "SAUER, PAUL",
-    "address": "9 WEST 57TH STREET, 35TH FLOOR\nNEW YORK, CA 10019",
+    "address": "9 WEST 57TH STREET, 35TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(646) 768-1605",
     "email": "psauer@tigerglobal.com",
     "registrationDate": "01/01/2023",
