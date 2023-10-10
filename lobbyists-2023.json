@@ -2959,6 +2959,22 @@
     ]
   },
   {
+    "id": "1336132",
+    "name": "BILTEKOFF, DAVID",
+    "address": "522 FIFTH AVENUE 8TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(212) 296-1482",
+    "email": "david.biltekoff@morganstanley.com",
+    "registrationDate": "10/04/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "10/04/2023"
+      }
+    ]
+  },
+  {
     "id": "1435112",
     "name": "BING, ANTOINETTE L.",
     "address": "50 CALIFORNIA STREET, SUITE 3525\nSAN FRANCISCO, CA 94111",
@@ -13945,6 +13961,22 @@
     ]
   },
   {
+    "id": "1463312",
+    "name": "GREENE, BRANDON",
+    "address": "1107 NINTH STREET, SUITE 700\nSACRAMENTI, CA 95814",
+    "phone": "(916) 282-5112",
+    "email": "bgreene@wclp.org",
+    "registrationDate": "10/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
+        "type": "Employer",
+        "effectiveDate": "10/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1340493",
     "name": "GREENE, MARINA",
     "address": "745 FIFTH AVENUE, 27TH FLOOR\nNEW YORK, NY 10151",
@@ -15279,6 +15311,22 @@
         "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462510",
+    "name": "HASSANALI, KARIM S.",
+    "address": "8 MARINA BOULEVARD, MARINA BAY \nFINANCIAL CENTER SINGAPORE , SG 18981",
+    "phone": "(656) 603-0860",
+    "email": "khassanali@hillhouseinvestment.com",
+    "registrationDate": "09/07/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HILLHOUSE INVESTMENT MANAGMENT, LTD.",
+        "type": "Employer",
+        "effectiveDate": "09/07/2023"
       }
     ]
   },
@@ -18447,7 +18495,8 @@
       {
         "entityName": "HILLHOUSE INVESTMENT MANAGMENT, LTD.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/31/2023"
       }
     ]
   },
@@ -23569,14 +23618,15 @@
     "name": "MC DONALD, BRIAN",
     "address": "ONE LEWIS WHARF, 3RD FLOOR\nBOSTON, MA 02110",
     "phone": "(212) 300-1600",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/14/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FIERA CAPITAL INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/14/2023"
       }
     ]
   },
@@ -25919,14 +25969,15 @@
     "address": "100 FEDERAL STREET\nBOSTON, MA 02110",
     "phone": "(917) 330-3649",
     "email": "anthony_nazar@putnam.com",
-    "registrationDate": "01/06/2023",
+    "registrationDate": "09/13/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PUTNAM ADVISORY COMPANY, LLC; THE",
         "type": "Employer",
-        "effectiveDate": "01/06/2023"
+        "effectiveDate": "01/06/2023",
+        "terminationDate": "09/13/2023"
       }
     ]
   },
@@ -26230,6 +26281,22 @@
         "entityName": "CINVEN AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1338620",
+    "name": "NINO, RICHARD",
+    "address": "ONE LEWIS WHARF, FLOOR 3\nBOSTON, MA 02110",
+    "phone": "(212) 300-1600",
+    "email": "rnino@fieracapital.com",
+    "registrationDate": "10/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIERA CAPITAL INC.",
+        "type": "Employer",
+        "effectiveDate": "10/01/2023"
       }
     ]
   },
@@ -28405,6 +28472,7 @@
     "phone": "(916) 329-9148",
     "email": "coby@psychtechs.net",
     "registrationDate": "07/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Revoked",
     "relationships": []
   },
@@ -34099,6 +34167,22 @@
     ]
   },
   {
+    "id": "1463321",
+    "name": "SPIEVACK, NATALIE",
+    "address": "1107 9TH STREET SUITE 560\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-0503",
+    "email": "nspievack@housingca.org",
+    "registrationDate": "09/11/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOUSING CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "09/11/2023"
+      }
+    ]
+  },
+  {
     "id": "1419769",
     "name": "SPINDLE, JILLIAN L.",
     "address": "2301 MISSION STREET\nSAN FRANCISCO, CA 94110",
@@ -35383,6 +35467,22 @@
         "entityName": "NEA MANAGEMENT COMPANY, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463106",
+    "name": "THEOHARIDES, PHIL E.",
+    "address": "535 MADISON AVENUE 37TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 973-8600",
+    "email": "ptheoharides@aglcredit.com",
+    "registrationDate": "09/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AGL CREDIT MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "09/22/2023"
       }
     ]
   },
@@ -38835,6 +38935,7 @@
     "phone": "(212) 364-0209",
     "email": "charles.youngblood@crescentcap.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
