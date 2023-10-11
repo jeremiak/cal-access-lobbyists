@@ -3426,15 +3426,9 @@
     "address": "767 5TH AVENUE, 8TH FLOOR\nNEW YORK CITY, NY 10153",
     "phone": "(212) 455-0900",
     "email": "compliance@janapartners.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "JANA SPECIAL SITUATIONS MANAGEMENT, LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1449313",
@@ -4110,15 +4104,9 @@
     "address": "13355 NOEL ROAD, SUITE 1600\nDALLAS, TX 75240",
     "phone": "(972) 980-5808",
     "email": "abrooks@csplp.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CSP SECURITIES, LP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1442820",
@@ -4346,15 +4334,9 @@
     "phone": "(202) 637-0637",
     "email": "billb@broydrick.com",
     "mailingAddress": "102 SAINT LAWRENCE STREET\nREHOBOTH BEACH, DE 19971",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BROYDRICK AND ASSOCIATES",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1338728",
@@ -10150,6 +10132,7 @@
     "phone": "(562) 216-3894",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/10/2022",
     "status": "Active",
     "relationships": [
       {
@@ -10264,15 +10247,9 @@
     "address": "1251 AVENUE OF AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
     "phone": "(212) 257-4614",
     "email": "seliran@waterfallam.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "WATERFALL ASSET MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1293139",
