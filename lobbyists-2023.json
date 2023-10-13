@@ -5551,13 +5551,14 @@
     "name": "CASHWELL, JOHN ",
     "address": "299 PARK AVENUE, 24TH FLOOR\nNEW YORK, NY 10171",
     "phone": "(212) 303-9400",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "09/22/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BARDIN HILL INVESTMENT PARTNERS LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/22/2023"
       }
     ]
   },
@@ -23450,6 +23451,22 @@
     ]
   },
   {
+    "id": "1463439",
+    "name": "MC CARTHY, LAUREN",
+    "address": "2100 MC KINNEY AVENUE\nDALLAS, TX 75201",
+    "phone": "(214) 932-9614",
+    "email": "imccarthy@carlsoncapital.com",
+    "registrationDate": "09/21/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CARLSON CAPITAL, L.P.",
+        "type": "Employer",
+        "effectiveDate": "09/21/2023"
+      }
+    ]
+  },
+  {
     "id": "1418841",
     "name": "MC CARTHY, RYAN",
     "address": "1215 K  STREET, SUITE 2290\nSACRAMENTO, CA 95814",
@@ -26932,14 +26949,15 @@
     "address": "2100 MC KINNEY AVENUE SUITE 1900\nDALLAS, TX 75201",
     "phone": "(214) 932-9600",
     "email": "kolsen@carlsoncapital.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/21/2023",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CARLSON CAPITAL, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/21/2023"
       }
     ]
   },
@@ -31361,15 +31379,9 @@
     "name": "SALAZAR, CRISTINA",
     "address": "525 E 7TH STREET, SUITE C203\nLONG BEACH, CA 90813",
     "phone": "(562) 983-1333",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIANS TOGETHER",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1339376",
@@ -31855,15 +31867,9 @@
     "address": "225 FRANKLIN STREET, SUITE 2700\nBOSTON , MA 02110",
     "phone": "(617) 722-4700",
     "email": "michael.schantz@rbc.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1442341",
@@ -32110,15 +32116,9 @@
     "phone": "(310) 479-9998",
     "email": "pschmole@pschmole@lacapm.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LOS ANGELES CAPITAL MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1354104",
@@ -35559,6 +35559,22 @@
     ]
   },
   {
+    "id": "1460068",
+    "name": "THOMPSON, CARMEN",
+    "address": "600 STEAMBOAT ROAD, 3RD FLOOR\nGREENWICH, CT 06830",
+    "phone": "(203) 404-5232",
+    "email": "cthompson@elliottmgmt.com",
+    "registrationDate": "02/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ELLIOTT INVESTMENT MANAGEMENT L.P. AND ITS AFFILIATES, EIMCT LLC AND EIMFL LLC",
+        "type": "Employer",
+        "effectiveDate": "02/24/2023"
+      }
+    ]
+  },
+  {
     "id": "1358289",
     "name": "THOMPSON, EMMA",
     "address": "161 BAY STREET, 49TH FLOOR\nTORONTO ON M5J 2S1,   ",
@@ -36179,14 +36195,15 @@
     "address": "1800 BAYBERRY COURT, SUITE 301\nRICHMOND, VA 23226",
     "phone": "(804) 775-0317",
     "email": "awetzel@tlcadvisory.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LONDON COMPANY OF VIRGINIA, LLC; THE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
