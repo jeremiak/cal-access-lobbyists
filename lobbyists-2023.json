@@ -15413,14 +15413,15 @@
     "name": "HAWKINS, J. MICHAEL",
     "address": "2275 MARKHAM WAY, SUITE 11\nSACRAMENTO, CA 95818-3141",
     "phone": "(916) 396-6507",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HAWKINS STRATEGIC ADVOCACY",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -28661,9 +28662,16 @@
     "address": "SUITE 408, 1270 AVENUE OF THE AMERICAS\nNEW YORK, NY 10020",
     "phone": "(212) 224-8220",
     "email": "james.popplewell@rede-partners.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "06/01/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "REDE PARTNERS (AMERICAS) LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/01/2023"
+      }
+    ]
   },
   {
     "id": "1459520",
