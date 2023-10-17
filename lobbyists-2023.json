@@ -955,6 +955,22 @@
     ]
   },
   {
+    "id": "1463546",
+    "name": "ANKER, PHILIP",
+    "address": "65 E. 55TH STREET, 30TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(917) 206-5173",
+    "email": "philip.anker@ninetyone.com",
+    "registrationDate": "10/02/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NINETY ONE NORTH AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "10/02/2023"
+      }
+    ]
+  },
+  {
     "id": "1459905",
     "name": "ANNAMALAI, MEENU",
     "address": "100 EAST PRATT STREET\nBALTIMORE, MD 21202",
@@ -35126,7 +35142,8 @@
       {
         "entityName": "NINETY ONE NORTH AMERICA, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/29/2023"
       }
     ]
   },
