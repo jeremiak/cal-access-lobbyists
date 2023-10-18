@@ -188,9 +188,16 @@
     "address": "444 S. FLOWER STREET, STE. 640\nLOS ANGELES, CA 90071",
     "phone": "(213) 373-1662",
     "email": "jguard@kaufmanlegalgroup.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MOZAIC MEDIA & COMMUNICATIONS, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1282170",
@@ -707,6 +714,24 @@
       {
         "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
         "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1442323",
+    "name": "ALVAREZ, ABIGAIL I.",
+    "address": "717 K STREET, SUITE 217\nSACRAMENTO, CA 95814",
+    "phone": "(503) 761-1208",
+    "email": "abigail@everydayimpactconsulting.com",
+    "mailingAddress": "1816 K STREET\nSACRAMENTO, CA 95811",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EVERYDAY IMPACT CONSULTING",
+        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -10684,7 +10709,7 @@
     "name": "FAHRNEY, LAURA",
     "address": "101 SOUTH TRYON STREET, SUITE 3400\nCHARLOTTE, NC 28280",
     "phone": "(704) 944-0914",
-    "email": "lfahreny@ridgemontep.com",
+    "email": "lfahrney@ridgemontep.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
@@ -15246,6 +15271,7 @@
     "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "phone": "(415) 389-6800",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -28483,10 +28509,16 @@
     "address": "1220 S STREET, SUITE 100\nSACRAMENTO , CA 95811",
     "phone": "(916) 329-9148",
     "email": "coby@psychtechs.net",
-    "registrationDate": "07/01/2023",
+    "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Revoked",
-    "relationships": []
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LYLES, WIESMANN, PIZZOTTI AND ASSOCIATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1455993",
@@ -31330,6 +31362,24 @@
     ]
   },
   {
+    "id": "1442852",
+    "name": "SAGUN, MELISSA A.",
+    "address": "717 K STREET, SUITE 217\nSACRAMENTO, CA 95811",
+    "phone": "(619) 788-3978",
+    "email": "melissa@everydayimpactconsulting.com",
+    "mailingAddress": "1815 P STREET, APT. A\nSACRAMENTO, CA 95811",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EVERYDAY IMPACT CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1426285",
     "name": "SAHA, JENNIFER",
     "address": "1130 K STREET, SUITE 150\nSACRAMENTO, CA 95814",
@@ -32220,15 +32270,9 @@
     "address": "277 PARK AVENE\nNEW YORK, NY 10172",
     "phone": "(212) 623-2392",
     "email": "joseph.d.schulman@jpmorgan.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1378568",
@@ -32429,14 +32473,9 @@
     "address": "225 WEST WACKER DRIVE SUITE 1200\nCHICAGO, IL 60606",
     "phone": "(312) 816-7476",
     "email": "jeffrey.seaver@ppmamerican.com",
-    "registrationDate": "05/15/2023",
-    "status": "Active",
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
     "relationships": [
-      {
-        "entityName": "PPM AMERICA, INC.",
-        "type": "Employer",
-        "effectiveDate": "05/15/2023"
-      },
       {
         "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
         "type": "Employer",
@@ -32503,15 +32542,9 @@
     "phone": "(916) 449-1370",
     "email": "mark.sektnan@apci.org",
     "mailingAddress": "8700 W BRYN MAWR AVENUE, SUITE 1200S\nCHICAGO, IL 60631",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1406649",
@@ -32997,15 +33030,9 @@
     "address": "1017 L STREET, SUITE 351\nSACRAMENTO, CA 95814",
     "phone": "(916) 549-2853",
     "email": "nicette@nlsortpa.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NL SHORT PUBLIC AFFAIRS",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1428188",
@@ -33245,15 +33272,9 @@
     "address": "1299 OCEAN AVENUE\nSANTA MONICA, CA 90401",
     "phone": "(310) 917-1446",
     "email": "clientservice@deminsional.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "DIMENSIONAL FUND ADVISORS",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1377396",
