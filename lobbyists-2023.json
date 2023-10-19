@@ -10332,14 +10332,14 @@
     "address": "277 PARK AVENUE, 40TH FLOOR\nNEW YORK, NY 10172",
     "phone": "(212) 295-5853",
     "email": "daniel.ellis@icgam.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "05/12/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "INTERMEDIATE CAPITAL GROUP, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
-        "terminationDate": "09/28/2023"
+        "terminationDate": "05/12/2023"
       }
     ]
   },
@@ -33282,15 +33282,9 @@
     "address": "202 MAIN STREET\nNEW CANAAN, CT 06840",
     "phone": "(917) 855-4642",
     "email": "jsindelar@crossbaycapital.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CROSSBAY CAPITAL PARTNERS",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1461601",
@@ -33381,30 +33375,18 @@
     "name": "SKEFFINGTON, RENEE",
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
     "phone": "(617) 850-3579",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACADIAN ASSET MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1435206",
     "name": "SKILLINGS, GEOFF",
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
     "phone": "(617) 824-5654",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACADIAN ASSET MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1397293",
@@ -33737,15 +33719,9 @@
     "name": "SNAMAN, JULIE",
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
     "phone": "(617) 598-6814",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACADIAN ASSET MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1258189",
