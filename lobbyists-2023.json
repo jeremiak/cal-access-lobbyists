@@ -2751,6 +2751,22 @@
     ]
   },
   {
+    "id": "1463247",
+    "name": "BERGELSON, DANIEL",
+    "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "10/05/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JAIN GLOBAL LLC",
+        "type": "Employer",
+        "effectiveDate": "10/05/2023"
+      }
+    ]
+  },
+  {
     "id": "1339990",
     "name": "BERGER, HEATHER",
     "address": "9 WEST 57TH STREET\nNEW YORK, NY 10019",
@@ -4707,13 +4723,14 @@
     "address": "100 INDEPENDENCE, 610 MARKET STREET\nPHILADELPHIA, PA 19106",
     "phone": "(503) 784-1047",
     "email": "meghan.burke@macquarie.com",
-    "registrationDate": "06/01/2023",
-    "status": "Active",
+    "registrationDate": "10/06/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MACQUARIE INVESTMENT MANAGEMENT ADVISERS",
         "type": "Employer",
-        "effectiveDate": "06/01/2023"
+        "effectiveDate": "06/01/2023",
+        "terminationDate": "10/06/2023"
       }
     ]
   },
@@ -4789,15 +4806,9 @@
     "name": "BUSHBY, ALASTAIR",
     "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 743-1500",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TPG CAPITAL BD, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1426005",
@@ -4822,15 +4833,9 @@
     "address": "1 CAPITOL MALL, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3568",
     "email": "dbutler@amgroup.us",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ADVOCACY & MANAGEMENT GROUP, INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1338865",
@@ -4839,15 +4844,9 @@
     "phone": "(212) 622-2003",
     "email": "jonathan.bylin@jpmorgan.com",
     "mailingAddress": "150 POST STREET, SUITE 405\nSAN FRANCISCO, CA 94108",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1455955",
@@ -4990,15 +4989,9 @@
     "address": "PO BOX #23754\nOAKLAND, CA 95831",
     "phone": "(415) 305-1481",
     "email": "dcamp.cara@gmail.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA ALLIANCE FOR RETIRED AMERICANS (CARA)",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1439346",
@@ -5107,15 +5100,9 @@
     "name": "CAPITOLO, JENNIFER M.",
     "address": "921 11TH STREET SUITE 619\nSACRAMENTO, CA 95814",
     "phone": "(916) 402-1155",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CAPITOLO AND ASSOCIATES LLC; JENNIFER M.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1429693",
@@ -5157,15 +5144,9 @@
     "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK, FL 32789",
     "phone": "(407) 420-9903",
     "email": "compliance@drz-inc.com",
-    "registrationDate": "01/30/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
-        "type": "Employer",
-        "effectiveDate": "01/30/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1456295",
@@ -5342,8 +5323,8 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
     "phone": "(650) 589-1660",
     "email": "ccaro@adamsbroadwell.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
@@ -5477,15 +5458,9 @@
     "address": "909 MONTGOMERY STREET, 4TH FLOOR\nSAN FRANCISCO, CA 94133",
     "phone": "(415) 438-1208",
     "email": "dcarroll@brooklandscapital.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BROOKLANDS CAPITAL STRATEGIES BD, LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1392863",
@@ -5593,6 +5568,7 @@
     "address": "299 PARK AVENUE, 24TH FLOOR\nNEW YORK, NY 10171",
     "phone": "(212) 303-9400",
     "registrationDate": "09/22/2023",
+    "ethicsCourseCompletionDate": "03/10/2022",
     "status": "Terminated",
     "relationships": [
       {
@@ -7714,6 +7690,23 @@
         "entityName": "AGF INVESTMENTS AMERICA INC.",
         "type": "Employer",
         "effectiveDate": "01/11/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463295",
+    "name": "CROCKETT, JASSON",
+    "address": "2772 DONALD DOUGLAS LOOP NORTH\nSANTA MONICA, CA 90405",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
+    "registrationDate": "10/05/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SNAP INC.",
+        "type": "Employer",
+        "effectiveDate": "10/05/2023"
       }
     ]
   },
@@ -16334,18 +16327,23 @@
   {
     "id": "1339660",
     "name": "HOBBEHEYDAR, JAMSHID D.",
-    "address": "600 STEAMBOAT ROAD, 3RD FLOOR\nGREENWICH, CT 06830",
-    "phone": "(212) 974-6000",
-    "email": "jhobbeheydar@elliottmgmt.com",
-    "registrationDate": "06/30/2023",
+    "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "10/05/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "ELLIOTT INVESTMENT MANAGEMENT L.P. AND ITS AFFILIATES, EIMCT LLC AND EIMFL LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/30/2023"
+      },
+      {
+        "entityName": "JAIN GLOBAL LLC",
+        "type": "Employer",
+        "effectiveDate": "10/05/2023"
       }
     ]
   },
@@ -34435,15 +34433,9 @@
     "name": "STELZER, LAUREN",
     "address": "399 PARK AVENUE, 16TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 745-9445",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BRIGADE CAPITAL MANAGEMENT, LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1447310",
@@ -34485,15 +34477,9 @@
     "address": "4672 W. JENNIFER AVENUE, #101\nFRESNO, CA 93722",
     "phone": "(833) 433-4487",
     "email": "rcooper1753@comcast.net",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "GLOBAL ECONOMIC IMPACT GROUP, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1439843",
@@ -34622,15 +34608,9 @@
     "phone": "(800) 521-1195",
     "email": "kieran.stover@rjinvestmentmanagement.",
     "mailingAddress": "880 CARILLON PARKWAY\nST. PETERSBURG, FL 33716",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CARILLON TOWER ADVISERS, INC D/B/A RAYMOND JAMES INVESTMENT MANAGEMENT",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1421563",
@@ -34673,15 +34653,9 @@
     "address": "4 EMBARCADERO CENTER, 24TH FLOOR\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 623-5033",
     "email": "craig.straub@lazard.com",
-    "registrationDate": "01/30/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LAZARD ASSET MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/30/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1343479",
@@ -34689,15 +34663,9 @@
     "address": "810 SEVENTH AVENUE, 24TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 257-5757",
     "email": "jstrickland@pretium.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PRETIUM PARTNERS, LLC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1381813",
@@ -34808,15 +34776,9 @@
     "address": "1 BEACON STREET, 30TH FLOOR\nBOSTON, MA 02108",
     "phone": "(617) 832-8193",
     "email": "bsupple@boston-partners.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BOSTON PARTNERS SECURITIES, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1232163",
@@ -36091,6 +36053,22 @@
         "entityName": "IFM INVESTORS (US) LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463248",
+    "name": "TRENCHARD, EMMA",
+    "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "10/05/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JAIN GLOBAL LLC",
+        "type": "Employer",
+        "effectiveDate": "10/05/2023"
       }
     ]
   },
