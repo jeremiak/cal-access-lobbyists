@@ -4062,6 +4062,7 @@
     "phone": "(916) 442-5999",
     "email": "mbroad@bglaw.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -10120,30 +10121,18 @@
     "address": "1822 21ST STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 739-1200",
     "email": "edgarinc@pacbell.net",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EDGAR & ASSOCIATES, INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1319759",
     "name": "EDGAR, NEIL S.R.",
     "address": "1822 21ST STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 739-1200",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EDGAR & ASSOCIATES, INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1224145",
@@ -11612,15 +11601,9 @@
     "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK , FL 32789",
     "phone": "(407) 420-9903",
     "email": "compliance@drz-inc.com",
-    "registrationDate": "01/30/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
-        "type": "Employer",
-        "effectiveDate": "01/30/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1360724",
@@ -11677,15 +11660,9 @@
     "address": "599 LEXINGTON AVENUE\nNEW YORK, NY 10022",
     "phone": "(212) 845-7939",
     "email": "fred.fraenkel@cowen.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "COWEN INVESTMENT MANAGEMENT LLC (AND ITS AFFILIATED INVESTMENT ADVISORS)",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1438549",
@@ -12504,15 +12481,9 @@
     "phone": "(916) 446-0388",
     "email": "jgauger@casaweb.org",
     "mailingAddress": "925 L STREET, SUITE 200\nSACRAMENTO, CA 95814\nPhone: (916) 446-0388\nEmail: jgauger@casaweb.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA ASSOCIATION OF SANITATION AGENCIES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1416456",
@@ -14486,6 +14457,7 @@
     "phone": "(916) 442-5999",
     "email": "gusman@bglaw.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -14874,13 +14846,14 @@
     "address": "385 EAST COLORADO BOULEVARD\nPASADENA, CA 91101",
     "phone": "(626) 844-9410",
     "email": "HENRY.HAMROCK@WESTERNASSET.CO",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "09/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -21161,14 +21134,15 @@
     "address": "2 INTERNATIONAL PLACE\nBOSTON, MA 02110",
     "phone": "(617) 672-6779",
     "email": "greg.lindsey@morganstanley.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/13/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/13/2023"
       }
     ]
   },
@@ -27919,14 +27893,15 @@
     "address": "699 8TH STREET, SUITE C150\nSAN FRANCISCO, CA 94103",
     "phone": "(916) 509-0495",
     "email": "kpeer@commonsense.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/14/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COMMON SENSE MEDIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/14/2023"
       }
     ]
   },
@@ -34378,6 +34353,22 @@
     ]
   },
   {
+    "id": "1463585",
+    "name": "STECCATO, MATTHEW J.",
+    "address": "522 FIFTH AVENUE, 8TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(917) 748-4055",
+    "email": "matt.steccato@morganstanley.com",
+    "registrationDate": "10/19/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "10/19/2023"
+      }
+    ]
+  },
+  {
     "id": "1408935",
     "name": "STECHER, JOSEPH D.",
     "address": "9 EAST 96TH STREET\nNEW YORK, NY 10128",
@@ -35648,15 +35639,9 @@
     "address": "555 CAPITOL MALL, #480\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-9719",
     "email": "josh@hernandezstrategy.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "HERNANDEZ STRATEGY GROUP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1398038",
@@ -35833,15 +35818,9 @@
     "address": "455 CAPITOL MALL, SUITE 500\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-2222",
     "email": "toppin@blanningandbaker.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BLANNING AND BAKER ASSOCIATES, INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1445005",
@@ -35953,6 +35932,22 @@
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463423",
+    "name": "TRAGER, NICHOLAS",
+    "address": "1 IRON STREET, 6TH FLOOR\nBOSTON, MA 02210",
+    "phone": "(415) 527-6921",
+    "email": "nicholas_trager@ssga.com",
+    "registrationDate": "10/11/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STATE STREET GLOBAL ADVISORS TRUST COMPANY",
+        "type": "Employer",
+        "effectiveDate": "10/11/2023"
       }
     ]
   },
@@ -36651,15 +36646,9 @@
     "address": "590 MADISON AVENUE, 31ST FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 634-7373",
     "email": "rvasami@corbincapital.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CORBIN CAPITAL PARTNERS, LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1422440",
