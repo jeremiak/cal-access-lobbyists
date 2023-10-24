@@ -6116,6 +6116,7 @@
     "address": "1017 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
     "phone": "(916) 425-8481",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
       {
@@ -6351,6 +6352,7 @@
     "phone": "(347) 991-6247",
     "email": "mark.christopher@hgcapital.com",
     "registrationDate": "02/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -6367,6 +6369,7 @@
     "phone": "(212) 224-8220",
     "email": "scott.church@rede-partners.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
       {
@@ -8381,15 +8384,9 @@
     "address": "1149 W JOSHUA TREE AVENUE\nSAN TAN VALLEY, AZ 85140",
     "phone": "(916) 825-9522",
     "email": "asaclobbyist@aol.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CAPITOL COMMUNICATIONS",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1393076",
@@ -8750,15 +8747,9 @@
     "address": "801 W. 5TH STREET,STE 100\nAUSTIN, TX 78703",
     "phone": "(512) 838-3521",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "02/10/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SAPPHIRE VENTURES, LLC",
-        "type": "Employer",
-        "effectiveDate": "02/10/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1345096",
@@ -8802,6 +8793,7 @@
     "phone": "(212) 542-4311",
     "email": "sdeck@mackregroup.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
       {
@@ -9224,6 +9216,7 @@
     "phone": "(916) 341-0808",
     "email": "ddimare@lawpolicy.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "09/09/2022",
     "status": "Active",
     "relationships": [
       {
@@ -9308,15 +9301,9 @@
     "phone": "(530) 301-3510",
     "email": "adickey@sccoe.org",
     "mailingAddress": "1121 L STREET, SUITE 507\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SANTA CLARA COUNTY OFFICE OF EDUCATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1388452",
@@ -9523,15 +9510,9 @@
     "phone": "(713) 452-2111",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (713) 452-2111\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "QEP ADVISERS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1460026",
@@ -9656,15 +9637,9 @@
     "address": "30 ROCKEFELLER PLAZA\nNEW YORK, NY 10112",
     "phone": "(212) 700-6439",
     "email": "tony.dote@lazard.com",
-    "registrationDate": "01/30/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LAZARD ASSET MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/30/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1356968",
@@ -9672,15 +9647,9 @@
     "address": "1303 J STREET, SUITE 300\nSACRAMENTO, CA 95814",
     "phone": "(916) 752-5976",
     "email": "mcabrera@cbhda.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "COUNTY BEHAVIORAL HEALTH DIRECTORS ASSOCIATION (CBHDA)",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1423578",
@@ -9787,15 +9756,9 @@
     "address": "101 CALIFORNIA STREET, SUITE 4225\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 675-7316",
     "email": "scott.draper@algertglobal.com",
-    "registrationDate": "01/30/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ALGERT GLOBAL LLC",
-        "type": "Employer",
-        "effectiveDate": "01/30/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1453460",
@@ -10139,15 +10102,9 @@
     "name": "EDGAR, SEAN R.",
     "address": "1822 21ST STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 739-1200",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EDGAR & ASSOCIATES, INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1443741",
