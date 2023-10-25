@@ -5995,14 +5995,14 @@
     "address": "640 5TH AVENUE, 22/F\nNEW YORK, NY 10019",
     "phone": "(646) 998-3039",
     "email": "lisa.chaves@cbridgecap.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/01/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
         "entityName": "C-BRIDGE CAPITAL LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "04/01/2023"
       }
     ]
   },
@@ -27263,6 +27263,23 @@
     ]
   },
   {
+    "id": "1463163",
+    "name": "OWEN, KATHLEEN M. K.",
+    "address": "1152 15TH STREET NW, 1ST FLOOR\nWASHINGTON, DC 20005",
+    "phone": "(202) 849-9002",
+    "email": "orrick@gobergroup.com",
+    "mailingAddress": "1501 WILSON BOULEVARD, SUITE 1050\nARLINGTON, VA 22209",
+    "registrationDate": "09/19/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ORRICK HERRINGTON & SUTCLIFFE, LLP",
+        "type": "Firm",
+        "effectiveDate": "09/19/2023"
+      }
+    ]
+  },
+  {
     "id": "1415123",
     "name": "OWENS, PATTI ",
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
@@ -28923,6 +28940,22 @@
         "entityName": "CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463177",
+    "name": "PUTICA, MICHAEL",
+    "address": "999 CORPORATE DRIVE\nLADERA RANCH, CA 92694",
+    "phone": "(714) 949-0819",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "10/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PINGROUP IM LIMITED",
+        "type": "Employer",
+        "effectiveDate": "10/01/2023"
       }
     ]
   },
