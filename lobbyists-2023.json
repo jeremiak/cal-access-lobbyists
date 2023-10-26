@@ -1212,6 +1212,7 @@
     "name": "ARNOLD, THOMAS ALLAN QUARTERMAINE",
     "address": "MORGAN HOUSE, MADEIRA WALK\nWINDSOR UK SL4 1EP\n\t",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -9475,14 +9476,15 @@
     "address": "300 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 210-9390",
     "email": "j.doherty@jllpartners.com",
-    "registrationDate": "01/12/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "JLL PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -13008,8 +13010,8 @@
     "address": "8 SOUND SHORE DRIVE\nGREENWICH, CT 06830",
     "phone": "(203) 552-3549",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "LITTLEJOHN & CO. LLC",
@@ -13536,15 +13538,9 @@
     "phone": "(713) 452-2112",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (713) 452-2112\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "QEP ADVISERS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1441434",
@@ -13721,15 +13717,9 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94060",
     "phone": "(650) 589-1660",
     "email": "agraf@adamsbroadwell.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1323675",
@@ -13890,15 +13880,9 @@
     "address": "650 NEWPORT CENTER DRIVE\nNEWPORT BEACH, CA 92660",
     "phone": "(949) 720-4871",
     "email": "kevin.gray@pimco.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PACIFIC INVESTMENT MANAGEMENT COMPANY LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1463312",
@@ -13956,8 +13940,8 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 90401",
-    "registrationDate": "04/24/2023",
-    "status": "Active",
+    "registrationDate": "09/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CLOCKTOWER GROUP LP",
@@ -14265,15 +14249,9 @@
     "address": "41 MADISON AVENUE, 40TH FLOOR\nNEW YORK, NY 10010",
     "phone": "(212) 616-6850",
     "email": "mvcompliance@mvision.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MVISION PRIVATE EQUITY ADVISERS USA LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1321943",
@@ -14348,15 +14326,9 @@
     "address": "2495 NATOMAS PARK DRIVE \nSACRAMENTO, CA 95833",
     "phone": "(916) 319-6526",
     "email": "charles.gulbe@statestreet.com",
-    "registrationDate": "01/23/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "STATE STREET BANK AND TRUST COMPANY",
-        "type": "Employer",
-        "effectiveDate": "01/23/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1254778",
@@ -14364,15 +14336,9 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
     "phone": "(650) 589-1660",
     "email": "tgulesserian@adamsbroadwell.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1401611",
@@ -14736,15 +14702,9 @@
     "name": "HAMERTON, AMY ZAJAC",
     "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "phone": "(415) 389-6800",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "GENENTECH, INC., A MEMBER OF THE ROCHE GROUP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1435861",
@@ -18942,6 +18902,23 @@
     ]
   },
   {
+    "id": "1335527",
+    "name": "KIEFER, INGRID ",
+    "address": "2000 AVENUE OF THE STARS, 11TH FLOOR\nLOS ANGELES, CA 90067",
+    "phone": "(310) 272-1000",
+    "email": "compliance@canyonpartners.com",
+    "registrationDate": "08/01/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "CANYON PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1426256",
     "name": "KIFLOM, ADIAM",
     "address": "28 STATE STREET\nBOSTON, MA 02109",
@@ -21100,6 +21077,21 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "10/13/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463786",
+    "name": "LINDSEY, WILLIAM",
+    "address": "200 WEST STREET\nNEW YORK, NY 10282",
+    "phone": "(212) 302-1000",
+    "registrationDate": "10/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDMAN SACHS ASSET MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "10/12/2023"
       }
     ]
   },
@@ -23273,6 +23265,29 @@
     ]
   },
   {
+    "id": "1441017",
+    "name": "MAVROYANNIS, IRENE",
+    "address": "1114 AVENUE OF THE AMERICAS, SUITE 2210\nNEW YORK, NY 10036",
+    "phone": "(646) 561-4465",
+    "email": "irene.mavroyannis@seraadvisory.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARTNERS GROUP (USA) INC.",
+        "type": "Employer",
+        "effectiveDate": "05/05/2023"
+      },
+      {
+        "entityName": "SERA GLOBAL SECURITIES US LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/03/2023"
+      }
+    ]
+  },
+  {
     "id": "1460713",
     "name": "MAXMIN, BEN",
     "address": "EQUITABLE HOUSE, 47 KING WILLIAM ST.\nLONDON, GBR, EC4R 9AF",
@@ -23942,6 +23957,7 @@
     "phone": "(415) 438-1227",
     "email": "pmcmillan@brooklandscapital.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -25422,13 +25438,18 @@
     "email": "Mostaracp@TTint.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95841",
     "registrationDate": "10/01/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "GAM USA INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "08/11/2023"
+      },
+      {
+        "entityName": "TT INTERNATIONAL",
+        "type": "Employer",
+        "effectiveDate": "10/01/2023"
       }
     ]
   },
@@ -25554,14 +25575,15 @@
     "address": "600 NORTH PEARL STREET, SUITE 1205\nDALLAS, TX 75201",
     "phone": "(214) 415-0850",
     "email": "tmuffley@swankcapital.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/06/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NXG INVESTMENT MANAGEMENT",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/06/2023"
       }
     ]
   },
@@ -31190,6 +31212,22 @@
         "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463570",
+    "name": "RYAN, ALI",
+    "address": "300 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(516) 633-3988",
+    "email": "a.ryan@jllpartners.com",
+    "registrationDate": "10/17/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JLL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/17/2023"
       }
     ]
   },
