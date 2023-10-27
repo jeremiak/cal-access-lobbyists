@@ -3678,18 +3678,24 @@
   {
     "id": "1334585",
     "name": "BOWMAN, MICHAEL A.",
-    "address": "STEUART TOWER, 1 MARKET ST., STE. 2000 \nSAN FRANCISCO, CA 94105",
-    "phone": "(415) 393-7142",
-    "email": "mcab@capgroup.com",
+    "address": "277 PARK AVENUE\nNEW YORK, NY 10172",
+    "phone": "(646) 970-1205",
+    "email": "michael.bowman@icgam.com",
     "mailingAddress": "333 SOUTH HOPE STREET, 55TH FLOOR \nLOS ANGELES, CA 90071",
     "registrationDate": "02/13/2023",
-    "ethicsCourseCompletionDate": "01/27/2022",
+    "ethicsCourseCompletionDate": "02/01/2023",
     "status": "Active",
     "relationships": [
       {
         "entityName": "AMERICAN FUNDS DISTRIBUTORS, INC.",
         "type": "Employer",
-        "effectiveDate": "02/13/2023"
+        "effectiveDate": "02/13/2023",
+        "terminationDate": "07/01/2023"
+      },
+      {
+        "entityName": "INTERMEDIATE CAPITAL GROUP, INC.",
+        "type": "Employer",
+        "effectiveDate": "09/29/2023"
       }
     ]
   },
@@ -7047,6 +7053,7 @@
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-1036",
     "registrationDate": "04/17/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -16527,13 +16534,14 @@
   {
     "id": "1455984",
     "name": "HOPPER, JOHN",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "06/01/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACTUM CA OPCO, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/01/2023"
       }
     ]
   },
@@ -36454,6 +36462,7 @@
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-1036",
     "registrationDate": "04/20/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
