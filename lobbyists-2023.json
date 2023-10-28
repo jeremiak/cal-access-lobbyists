@@ -8671,6 +8671,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
     "relationships": [
       {
@@ -14972,15 +14973,9 @@
     "address": "888 BOYLSTON STREET, SUITE 1600\nBOSTON, MA 02199",
     "phone": "(617) 859-2959",
     "email": "pharris@abry.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ABRY PARTNERS II, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1148970",
@@ -15793,15 +15788,9 @@
     "address": "555 CAPITOL MALL, SUITE 480\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-9719",
     "email": "ignacio@hernandezstrategy.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "HERNANDEZ STRATEGY GROUP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1340982",
@@ -16405,15 +16394,9 @@
     "address": "2180 HARVARD STREET, SUITE 400\nSACRAMENTO, CA 95815",
     "phone": "(916) 576-0585",
     "email": "sean.hoffman@molinahealthcare.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MOLINA HEALTHCARE OF CALIFORNIA",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "In Suspense",
+    "relationships": []
   },
   {
     "id": "1457759",
@@ -17271,15 +17254,9 @@
     "id": "1149654",
     "name": "JACOBSON, DANIEL L.",
     "address": "1111 H STREET, SUITE 207\nSACRAMENTO, CA 95814\n\t",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "JACOBSON; DANIEL",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1460593",
@@ -17947,15 +17924,9 @@
     "address": "201 MAIN STREET, SUITE 1900\nFORT WORTH, TX 76102",
     "phone": "(817) 339-7397",
     "email": "fjordan@crestlineinc.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CRESTLINE MANAGEMENT,  LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1426425",
@@ -17996,15 +17967,9 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
     "phone": "(650) 589-1660",
     "email": "mdjoseph@adamsbroadwell.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1447573",
@@ -18305,15 +18270,9 @@
     "address": "12121 WILSHIRE BOULEVARD, SUITE 1240\nLOS ANGELES, CA 90025",
     "phone": "(424) 253-1774",
     "email": "dkatz@legionpartners.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LEGION PARTNERS ASSET MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1347290",
@@ -18337,15 +18296,9 @@
     "name": "KATZ, RICHARD",
     "address": "15936 VALLEY WOOD\nSHERMAN OAKS, CA 94103",
     "phone": "(818) 995-8572",
-    "registrationDate": "02/13/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "KATZ CONSULTING, INC; RICHARD",
-        "type": "Firm",
-        "effectiveDate": "02/13/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "In Suspense",
+    "relationships": []
   },
   {
     "id": "1428250",
@@ -18932,15 +18885,9 @@
     "address": "28 STATE STREET\nBOSTON, MA 02109",
     "phone": "(617) 720-7966",
     "email": "adiam.kiflom@abrdn.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ABRDN INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1440051",
@@ -19641,15 +19588,9 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
     "phone": "(650) 589-1660",
     "email": "rkoss@adamsbroadwell.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1414582",
@@ -19708,15 +19649,9 @@
     "address": "450 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 888-3413",
     "email": "compliance@muzinich.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MUZINICH & CO., INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1384136",
@@ -20263,15 +20198,9 @@
     "address": "7 WORLD TRADE CENTER, 250 GREENWICH ST.\n30TH FLOOR",
     "phone": "(212) 232-1420",
     "email": "compliance@capstoneco.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1274926",
@@ -20330,15 +20259,9 @@
     "address": "3767 WORSHAM AVENUE\nLONG BEACH, CA 90808",
     "phone": "(213) 628-0808",
     "email": "hfl@leal-law.com",
-    "registrationDate": "03/28/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LEGISLATIVE ADVOCACY GROUP",
-        "type": "Firm",
-        "effectiveDate": "03/28/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1428509",
@@ -20800,6 +20723,16 @@
     ]
   },
   {
+    "id": "1423918",
+    "name": "LEVESQUE, QUINTIN T.",
+    "address": "1029 H STREET SUITE 301\nSACRAMENTO, CA 95814",
+    "phone": "(916) 216-0608",
+    "email": "allamericanadvocacy@gmail.com",
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1337341",
     "name": "LEVESQUE, SHAUN R.",
     "address": "ONE FINANCIAL CENTER, SUITE 1620\nBOSTON, MA 02111",
@@ -21159,15 +21092,9 @@
     "address": "510 MADISON AVENUE, 19TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 277-1568",
     "email": "david.lippin@oneequity.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "OEP CAPITAL ADVISORS, L.P.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1445223",
@@ -21277,15 +21204,9 @@
     "address": "915 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
     "phone": "(916) 494-9664",
     "email": "slittle@ewg.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ENVIRONMENTAL WORKING GROUP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1373415",
@@ -21310,15 +21231,9 @@
     "address": "865 SOUTH FIGUEROA STREET\nLOS ANGELES, CA 90017",
     "phone": "(212) 771-4149",
     "email": "william.lloyd@tcw.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TCW, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1438325",
@@ -21516,15 +21431,9 @@
     "phone": "(415) 964-7029",
     "email": "tjlotharius@statestreet.com",
     "mailingAddress": "3588 BRODY WAY\nOCEANSIDE, CA 92056",
-    "registrationDate": "03/06/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "STATE STREET BANK AND TRUST COMPANY",
-        "type": "Employer",
-        "effectiveDate": "03/06/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1434906",
@@ -22294,15 +22203,9 @@
     "address": "20 UNIVERSITY ROAD, STE 450\nCAMBRIDGE, MA 02138",
     "phone": "(617) 234-7000",
     "email": "amaninthia@generalcatalyst.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1436276",
@@ -22875,15 +22778,9 @@
     "name": "MARTIN, CHRISTOPHER C.",
     "address": "1107 9TH STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 287-9885",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "HOUSING CALIFORNIA",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1233950",
@@ -22926,15 +22823,9 @@
     "address": "2017 O STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 906-2398",
     "email": "amartinez@ccleague.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1355001",
@@ -23160,15 +23051,9 @@
     "name": "MASTRODONATO, RICHARD A.",
     "address": "1107 9TH STREET, #1050\nSACRAMENTO, CA 95814",
     "phone": "(415) 572-3107",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TRUST FOR PUBLIC LAND; THE",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1366778",
@@ -23517,15 +23402,9 @@
     "address": "655 E. 3RD STREET\nSAN BERNARDINO, CA 92415",
     "phone": "(909) 531-3375",
     "email": "jmcchristian@sbcsd.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1446648",
@@ -23551,15 +23430,9 @@
     "phone": "(415) 975-3534",
     "email": "frederick.mccrea@newtonim.com",
     "mailingAddress": "500 GRANT STREET, SUITE 2245\nPITTSBURGH , PA 15258",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NEWTON INVESTMENT MANAGEMENT NORTH AMERICA, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1389352",
@@ -23692,15 +23565,9 @@
     "address": "1 LINCOLN STREET\nBOSTON, MA 02111",
     "phone": "(617) 664-5909",
     "email": "pdmcdowell@statestreet.com",
-    "registrationDate": "02/16/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "STATE STREET BANK AND TRUST COMPANY",
-        "type": "Employer",
-        "effectiveDate": "02/16/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1273641",
@@ -28802,7 +28669,13 @@
     "registrationDate": "04/10/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIBER STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "04/10/2023"
+      }
+    ]
   },
   {
     "id": "1450545",
@@ -35139,15 +35012,9 @@
     "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 498-3325",
     "email": "dtalley@cmta.net",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1358705",
@@ -37116,15 +36983,9 @@
     "address": "B CAPITAL GROUP,10 HUDSON YARDS\nNEW YORK, NY 10001",
     "phone": "(917) 765-1597",
     "email": "ewahab@bcapgroup.com",
-    "registrationDate": "02/27/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "B CAPITAL GROUP U.S., LLC",
-        "type": "Employer",
-        "effectiveDate": "02/27/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1459609",
@@ -37183,15 +37044,9 @@
     "address": "600 5TH AVENUE, 2ND FLOOR\nNEW YORK, NY 10020",
     "phone": "(212) 407-4600",
     "email": "ian.waler@gam.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "GAM USA INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1456884",
@@ -37567,15 +37422,9 @@
     "name": "WEBER, JEFFREY",
     "address": "101 CALIFORNIA STREET\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 228-2820",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EASTDIL SECURED ADVISORS",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1393320",
@@ -38426,6 +38275,21 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "02/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462709",
+    "name": "WOLF , DANIEL",
+    "address": "600 MASSACHUSETTS AVE NW \nWASHINGTON , DC 20001",
+    "phone": "(202) 344-4000",
+    "registrationDate": "08/31/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VENABLE LLP",
+        "type": "Firm",
+        "effectiveDate": "08/31/2023"
       }
     ]
   },
