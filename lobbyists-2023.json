@@ -3265,15 +3265,9 @@
     "address": "1121 L STREET, SUITE 507\nSACRAMENTO, CA 95814",
     "phone": "(916) 606-7129",
     "email": "bob.blattner@blattnerandassociates.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BLATTNER & ASSOCIATES",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1405106",
@@ -3367,15 +3361,9 @@
     "address": "1100 N STREET, SUITE 2C\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-9453",
     "email": "mebloomstine@sbcglobal.net",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BLOOMSTINE & BLOOMSTINE",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1435081",
@@ -5471,6 +5459,16 @@
     "relationships": []
   },
   {
+    "id": "1392810",
+    "name": "CARROLL, KATIE",
+    "address": "17 STATE STREET, 30TH FLOOR\nNEW YORK, NY 10004",
+    "phone": "(212) 806-3782",
+    "email": "katie.carroll@adyne.com",
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1392863",
     "name": "CARTER, PATRICK E.",
     "address": "560 MISSION STREET, FLOOR 5\nSAN FRANCISCO, CA 94105",
@@ -6325,15 +6323,9 @@
     "address": "75 ISHAM ROAD, SUITE 200\nWEST HARTFORD, CT 06107",
     "phone": "(860) 674-8066",
     "email": "mchow-tai@fairviewcapital.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "FAIRVIEW CAPITAL PARTNERS, INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1353805",
@@ -6460,15 +6452,9 @@
     "phone": "(978) 529-3906",
     "email": "tclancy@stonepineam.com",
     "mailingAddress": "375 PARK AVENUE, FLOOR 8\nNEW YORK, NY 10152\nPhone: (646) 367-7578\nEmail: compliancealerts@fiera",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PINESTONE ASSET MANAGEMENT INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1403000",
@@ -6599,15 +6585,9 @@
     "phone": "(310) 575-1711",
     "email": "lara.clarke@carlyle.com",
     "mailingAddress": "7722 HOSFORD AVENUE\nLOS ANGELES, CA 90045",
-    "registrationDate": "01/25/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TCG CAPITAL MARKETS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/25/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1386210",
@@ -6750,15 +6730,9 @@
     "address": "277 PARK AVENUE, FLOOR 09\nNEW YORK, NY 10172",
     "phone": "(212) 648-2152",
     "email": "ann.e.cole@jpmorgan.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1334382",
@@ -7037,15 +7011,9 @@
     "address": "385 EAST COLORADO BOULEVARD\nPASADENA, CA 91101",
     "phone": "(626) 844-9557",
     "email": "frances.coombes@westernasset.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1426170",
@@ -7728,15 +7696,9 @@
     "address": "1121 L STREET, SUITE 105\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-4242",
     "email": "cromartiepublications@gmail.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BLONIEN, A PROFESSIONAL LAW CORPORATION; J.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1375013",
@@ -8191,15 +8153,9 @@
     "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 743-1538",
     "email": "bdarcy@sixthstreet.com",
-    "registrationDate": "08/24/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SIXTH STREET BD, LLC",
-        "type": "Employer",
-        "effectiveDate": "08/24/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1384040",
@@ -8256,13 +8212,13 @@
     "address": "345 CALIFORNIA STREET SUITE 2600\nSAN FRANCISCO, CA 94104",
     "phone": "(628) 220-7299",
     "email": "adalrymple@sixthstreet.com",
-    "registrationDate": "08/24/2023",
+    "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "08/24/2023"
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -8583,7 +8539,7 @@
   {
     "id": "1243313",
     "name": "DE JESUS FRAUMENI, HOLLY C. ",
-    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
@@ -8835,15 +8791,9 @@
     "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 486-5941",
     "email": "kdeeth@sixthstreet.com",
-    "registrationDate": "08/24/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SIXTH STREET BD, LLC",
-        "type": "Employer",
-        "effectiveDate": "08/24/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1307147",
@@ -10557,7 +10507,7 @@
   {
     "id": "1342574",
     "name": "EVANS-FUDEM, ERIN",
-    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
@@ -11733,13 +11683,18 @@
   {
     "id": "1387978",
     "name": "FREED, STEVEN F.",
-    "address": "1603 ORRINGTON AVENUE, 13TH FLOOR\nEVANSTON, IL 60201",
-    "phone": "(847) 905-4655",
-    "email": "steven.freed@magnetar.com",
-    "registrationDate": "08/07/2023",
+    "address": "9 WEST 57 TH STREET\nNEWYORK, NY 10019",
+    "phone": "(847) 641-0678",
+    "email": "sfreed@d1capital.com",
+    "registrationDate": "11/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "D1 CAPTIAL PARTNERS L.P.",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
+      },
       {
         "entityName": "MAGNETAR CAPITAL LLC",
         "type": "Employer",
@@ -14368,7 +14323,7 @@
   {
     "id": "1236290",
     "name": "GUNNING, MICHAEL",
-    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
@@ -14574,13 +14529,13 @@
     "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 486-5997",
     "email": "ahaggart@sixthstreet.com",
-    "registrationDate": "08/24/2023",
+    "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "08/24/2023"
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -17927,22 +17882,6 @@
     "registrationDate": "07/01/2023",
     "status": "Revoked",
     "relationships": []
-  },
-  {
-    "id": "1426425",
-    "name": "JOSEPH, AARON",
-    "address": "353 NORTH CLARK STREET, SUITE 730\nCHICAGO, IL 60654",
-    "phone": "(916) 442-2952",
-    "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BLUE VISTA CAPITAL MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
   },
   {
     "id": "1358178",
@@ -26169,14 +26108,15 @@
     "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
     "phone": "(310) 940-5506",
     "email": "initake@technet.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/13/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TECHNET--TECHNOLOGY NETWORK",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/13/2023"
       }
     ]
   },
@@ -26322,13 +26262,13 @@
     "address": "888 7TH AVENUE\nNEW YORK, NY 10106",
     "phone": "(212) 405-8483",
     "email": "jnorgaard@sixthstreet.com",
-    "registrationDate": "08/24/2023",
+    "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "08/24/2023"
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -29029,7 +28969,7 @@
   {
     "id": "1438029",
     "name": "RADOSEVICH, MARTIN",
-    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
@@ -31613,7 +31553,7 @@
   {
     "id": "1449014",
     "name": "SAPP, BRIAN",
-    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
@@ -34476,20 +34416,20 @@
     "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
     "phone": "(628) 220-7240",
     "email": "lstone@sixthstreet.com",
-    "registrationDate": "08/24/2023",
+    "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "08/24/2023"
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
   {
     "id": "1461226",
     "name": "STOUT, KAREN",
-    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
     "registrationDate": "06/20/2023",
     "status": "Active",
@@ -35409,13 +35349,13 @@
     "address": "888 7TH AVENUE 41ST FLOOR\nNEW YORK, NY 10106",
     "phone": "(212) 405-8429",
     "email": "kthomas@sixthstreet.com",
-    "registrationDate": "08/24/2023",
+    "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "08/24/2023"
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -37546,20 +37486,24 @@
     ]
   },
   {
+    "id": "1454769",
+    "name": "WEINSTEIN, MATTHEW",
+    "address": "1350 AVENUE OF AMERICAS, 28TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 937-4872",
+    "email": "matthew.weinstein@cheynecapital.com",
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1447401",
     "name": "WEISGALL, JONATHAN M.",
     "address": "401 9TH STREET NORTHWEST, SUITE 820\nWASHINGTON, DC 20004",
     "phone": "(202) 828-1378",
     "email": "jonathan.weisgall@brkenergy.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BERKSHIRE HATHAWAY ENERGY AND SUBSIDIARIES CAL ENERGY, LLC AND BHE RENEWABLES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1450366",
@@ -37972,13 +37916,14 @@
     "name": "WHITLEY, NOAH",
     "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "09/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
