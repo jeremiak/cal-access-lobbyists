@@ -2303,6 +2303,7 @@
     "phone": "(212) 430-2130",
     "email": "kbaumann@empyrean.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -16537,7 +16538,7 @@
   {
     "id": "1148502",
     "name": "HOUSTON, DOUGLAS D.",
-    "address": "1107 9TH STREET, SUITE 930\nSACRAMENTO, CA 95814",
+    "address": "1107 9TH STREET, SUITE 1011\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-9884",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
@@ -16553,7 +16554,7 @@
   {
     "id": "1147878",
     "name": "HOUSTON, ROBERT P.",
-    "address": "1107 9TH STREET, SUITE 930\nSACRAMENTO, CA 95814",
+    "address": "1107 9TH STREET, SUITE 1011\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-9884",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
@@ -24073,13 +24074,14 @@
     "address": "461 FIFTH AVENUE, 14TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(646) 582-5776",
     "email": "jmelser@firstavenue.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "06/23/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FAP USA, LP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/23/2023"
       }
     ]
   },
@@ -25224,6 +25226,22 @@
         "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463452",
+    "name": "MOSS, MARC JASON",
+    "address": "11100 SANTA MONICA BOULEVARD, SUITE 2000\nLOS ANGELES, CA 90025",
+    "phone": "(310) 235-5943",
+    "email": "jason.moss@crescentcap.com",
+    "registrationDate": "10/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRESCENT CAPITAL GROUP LP",
+        "type": "Employer",
+        "effectiveDate": "10/12/2023"
       }
     ]
   },
@@ -27597,6 +27615,22 @@
     "registrationDate": "07/01/2023",
     "status": "Revoked",
     "relationships": []
+  },
+  {
+    "id": "1463799",
+    "name": "PATEL, AKASH DAYALJI",
+    "address": "560 MISSION STREET, FOOR 03\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 315-5100",
+    "email": "akash.d.patel@jpmorgan.com",
+    "registrationDate": "10/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "10/27/2023"
+      }
+    ]
   },
   {
     "id": "1335935",
@@ -33107,6 +33141,22 @@
     "registrationDate": "07/01/2023",
     "status": "Revoked",
     "relationships": []
+  },
+  {
+    "id": "1463335",
+    "name": "SINGER, ALEXA",
+    "address": "300 NORTH LASALLE STREET, SUITE 1500\nCHICAGO, IL 60654",
+    "phone": "(215) 837-8629",
+    "email": "asinger@ipipartners.com",
+    "registrationDate": "10/06/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "IPI PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/06/2023"
+      }
+    ]
   },
   {
     "id": "1461601",
