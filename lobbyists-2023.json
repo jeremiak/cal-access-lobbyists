@@ -18295,12 +18295,13 @@
   {
     "id": "1412405",
     "name": "KEHOE, KATHRYN ",
-    "address": "50 RAFFLES PLACE, #34-02A\nSINGAPORE SG 48623",
-    "phone": "(656) 603-0860",
-    "email": "klyndon@hillhouseinvestment.com",
-    "registrationDate": "01/01/2023",
+    "address": "31 WEST 52ND STREET SUITE 2400\nNEW YORK, NY 10019",
+    "phone": "(917) 647-2890",
+    "email": "KATIE.LYNDON@PROVEQUITY.COM",
+    "mailingAddress": "455 CAPITOL MALL SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "09/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "HILLHOUSE INVESTMENT MANAGMENT, LTD.",
@@ -29271,9 +29272,16 @@
     "address": "1100 K STREET, SUITE 102\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-2868",
     "email": "michael.rattigan@ceo.sccgov.org",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "09/17/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "SANTA CLARA; COUNTY OF",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/17/2023"
+      }
+    ]
   },
   {
     "id": "1440586",
