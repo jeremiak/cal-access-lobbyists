@@ -5946,6 +5946,22 @@
     ]
   },
   {
+    "id": "1463709",
+    "name": "CHARLES, CATHERINE D.",
+    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 594-9700",
+    "email": "ccharles@bhfs.com",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "11/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1378578",
     "name": "CHASE, MONICA",
     "address": "320 PARK AVENUE, 28TH FLOOR\nNEW YORK, NY 10022",
@@ -8421,6 +8437,22 @@
     ]
   },
   {
+    "id": "1462768",
+    "name": "DAWLEY, RYAN C.",
+    "address": "4 EMBARCADERO CENTER, SUITE 550\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 954-4518",
+    "email": "ryan.dawley@matthewsasia.com",
+    "registrationDate": "09/19/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MATTHEWS INTERNATIONAL CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/19/2023"
+      }
+    ]
+  },
+  {
     "id": "1457738",
     "name": "DAWSON, ANDREW A.",
     "address": "1107 9TH STREET, SUITE 610\nSACRAMENTO, CA 95814",
@@ -10249,15 +10281,9 @@
     "address": "152 WEST 57TH STREET\nNEW YORK, NY 10019",
     "phone": "(212) 259-2617",
     "email": "rory.ellis@cqsus.com",
-    "registrationDate": "01/30/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CQS (US) LLC",
-        "type": "Employer",
-        "effectiveDate": "01/30/2023"
-      }
-    ]
+    "registrationDate": "07/07/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1148964",
@@ -11468,15 +11494,9 @@
     "name": "FOSS-PEDERSEN, FREDERIK",
     "address": "23 SAVILE ROW\nLONDON UK W1S 2ET",
     "email": "fred.foss@rokoscapital.com",
-    "registrationDate": "04/26/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ROKOS CAPITAL MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "04/26/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1373408",
@@ -14429,6 +14449,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (410) 800-7503\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "12/08/2022",
     "status": "Active",
     "relationships": [
       {
@@ -14530,15 +14551,9 @@
     "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 486-5997",
     "email": "ahaggart@sixthstreet.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SIXTH STREET BD, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1444038",
@@ -17215,6 +17230,22 @@
     "relationships": []
   },
   {
+    "id": "1463785",
+    "name": "JAIDEV, ASHWATH",
+    "address": "545 MADISON AVENUE\nNEW YORK, NY 10549",
+    "phone": "(914) 241-7430",
+    "email": "jaidev@kohlberg.com",
+    "registrationDate": "10/25/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KOHLBERG & COMPANY, L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "10/25/2023"
+      }
+    ]
+  },
+  {
     "id": "1460593",
     "name": "JAIN, SAMUEL",
     "address": "1831 K STREET\nSACRAMENTO, CA 95811",
@@ -18417,15 +18448,9 @@
     "name": "KENDRICK, JONATHAN T.",
     "address": "55 2ND STREET, SUITE 1700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 227-0900",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1417212",
@@ -20535,15 +20560,9 @@
     "address": "100 WILSHIRE BOULEVARD\nSANTA MONICA, CA 90401",
     "phone": "(310) 356-0858",
     "email": "compliance@gcp.com",
-    "registrationDate": "05/08/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
-        "type": "Employer",
-        "effectiveDate": "05/08/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1460227",
@@ -22030,15 +22049,9 @@
     "address": "555 CAPITOL MALL SUITE 180\nSACRAMENTO, CA 95814",
     "phone": "(650) 776-8417",
     "email": "michael@majorityadvisors.com",
-    "registrationDate": "05/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MAJORITY ADVISORS, LLC",
-        "type": "Firm",
-        "effectiveDate": "05/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1420922",
@@ -22128,15 +22141,9 @@
     "address": "980 9TH STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-5021",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA NURSES ASSOCIATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1442628",
@@ -29609,6 +29616,7 @@
     "phone": "(916) 557-9745",
     "email": "leeangela@capitoladvisors.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -35437,7 +35445,7 @@
   {
     "id": "1460068",
     "name": "THOMPSON, CARMEN",
-    "address": "600 STEAMBOAT ROAD, 3RD FLOOR\nGREENWICH, CT 06830",
+    "address": "60 SOUTH ROSEMARY AVENUE, 18 FLOOR \nWEST PALM BEACH, FL 33401",
     "phone": "(203) 404-5232",
     "email": "cthompson@elliottmgmt.com",
     "registrationDate": "02/24/2023",
