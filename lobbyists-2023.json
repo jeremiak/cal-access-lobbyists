@@ -19615,9 +19615,16 @@
     "address": "450 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 888-3413",
     "email": "compliance@muzinich.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "09/15/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "MUZINICH & CO., INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/15/2023"
+      }
+    ]
   },
   {
     "id": "1384136",
@@ -32328,14 +32335,15 @@
     "address": "527 MADISON AVENUE, 6TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(917) 554-7926",
     "email": "vsea@mudrickcapital.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "MUDRICK CAPITAL MANAGEMENT, LP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -37696,15 +37704,9 @@
     "address": "301 SOUTH COLLEGE STREET, SUITE 3800\nCHARLOTTE, NC 28202",
     "phone": "(704) 334-6475",
     "email": "compliance@wedgecapital.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "WEDGE CAPITAL MANAGEMENT",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1417462",
@@ -38161,15 +38163,9 @@
     "address": "1401 K STREET NORTHWEST,  SUITE 501\nWASHINGTON, DC 20005",
     "phone": "(202) 827-7588",
     "email": "cwilliamson@actonline.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACT / THE APP ASSOCIATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1359546",
@@ -38227,16 +38223,10 @@
     "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
     "phone": "(212) 878-0600",
     "email": "info@keyslawcorp.com",
-    "mailingAddress": "428 J STREET SUITE 412\nC/O KEYS CORP\nSACRAMENTO, NY 95814",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "WARBURG PINCUS LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "mailingAddress": "428 J STREET SUITE 412\nC/O KEYS CORP\nSACRAMENTO, CA 95814",
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1415128",
@@ -39208,6 +39198,22 @@
         "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
         "type": "Employer",
         "effectiveDate": "01/30/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463155",
+    "name": "ZONA, SAMUEL",
+    "address": "450 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 888-3413",
+    "email": "szona@muzinich.com",
+    "registrationDate": "10/05/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MUZINICH & CO., INC.",
+        "type": "Employer",
+        "effectiveDate": "10/05/2023"
       }
     ]
   },
