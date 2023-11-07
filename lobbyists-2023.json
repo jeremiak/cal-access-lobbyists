@@ -1263,6 +1263,7 @@
     "phone": "(916) 718-8586",
     "email": "johnarriaga@jeaandassociates.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -8033,6 +8034,21 @@
         "entityName": "SPECTRUM EQUITY MANAGMENT, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1461039",
+    "name": "CURLEY, JORDAN",
+    "address": "1201 J STREET, SUITE 200-325\nSACRAMENTO, CA 95814",
+    "phone": "(916) 213-8001",
+    "registrationDate": "04/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIGHT LIGHT STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "04/01/2023"
       }
     ]
   },
@@ -18168,6 +18184,22 @@
     ]
   },
   {
+    "id": "1461040",
+    "name": "KANG, KAYLEE",
+    "address": "1201 J STREET, SUITE 200-325\nSACRAMENTO, CA 95814",
+    "phone": "(916) 213-8001",
+    "registrationDate": "04/01/2023",
+    "ethicsCourseCompletionDate": "11/17/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIGHT LIGHT STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "04/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1354821",
     "name": "KANTER, THOMAS",
     "address": "350 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
@@ -23006,6 +23038,7 @@
     "name": "MASTRODONATO, RICHARD A.",
     "address": "1107 9TH STREET, #1050\nSACRAMENTO, CA 95814",
     "phone": "(415) 572-3107",
+    "mailingAddress": "PO BOX 889336\n LOS ANGELES, CA 90088-9336",
     "registrationDate": "07/01/2023",
     "status": "Revoked",
     "relationships": []
@@ -24347,6 +24380,7 @@
     "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -34506,6 +34540,7 @@
     "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
     "registrationDate": "06/20/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
     "relationships": [
       {
@@ -34539,6 +34574,23 @@
       {
         "entityName": "PRINCIPAL GLOBAL INVESTORS, LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1437033",
+    "name": "STRAIT, CRYSTAL",
+    "address": "1010 D STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 213-8001",
+    "email": "cstrait79@gmail.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/17/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIGHT LIGHT STRATEGIES",
+        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -34734,14 +34786,15 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "6523 CALIFORNIA AVENUE SW, #405\nSEATTLE, WA 98136",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MILLENNIUM GLOBAL AMERICAS, LLC AND AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -36175,14 +36228,15 @@
     "name": "TURNER, ERIK",
     "address": "915 L STREET, SUITE 1130\nSACRAMENTO, CA 95814",
     "phone": "(916) 661-5365",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/09/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NIEMELA, PAPPAS AND ASSOCIATES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/09/2023"
       }
     ]
   },
@@ -38368,6 +38422,7 @@
     "phone": "(407) 650-1639",
     "email": "compliance@drz-inc.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
@@ -38531,15 +38586,9 @@
     "name": "WRIGHT, CHARLES",
     "address": "555 CAPITOL MALL, SUITE 180\nSACRAMENTO, CA 95814",
     "phone": "(916) 469-0800",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "STRATEGIES 360",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1448166",
@@ -39191,15 +39240,9 @@
     "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK, FL 32789",
     "phone": "(407) 420-9903",
     "email": "compliance@drz-inc.com",
-    "registrationDate": "01/30/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
-        "type": "Employer",
-        "effectiveDate": "01/30/2023"
-      }
-    ]
+    "registrationDate": "07/01/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1463155",
