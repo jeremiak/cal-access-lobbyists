@@ -1902,6 +1902,22 @@
     ]
   },
   {
+    "id": "1463671",
+    "name": "BARAN , MICHAEL ",
+    "address": "375 PARK AVENUE, 33RD FLOOR \nNEW YORK, NY 10152",
+    "phone": "(212) 895-2280",
+    "email": "LOBBYING@CAMPAIGNLAWYER",
+    "registrationDate": "10/20/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOUNDPOINT CAPITAL MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "10/20/2023"
+      }
+    ]
+  },
+  {
     "id": "1450610",
     "name": "BARDO, MELISSA R.",
     "address": "580 2ND STREET, SUITE 200\nOAKLAND, CA 94607",
@@ -4760,7 +4776,8 @@
       {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/03/2023"
       }
     ]
   },
@@ -8397,7 +8414,8 @@
       {
         "entityName": "CALIFORNIA RESTAURANT ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/13/2023"
       }
     ]
   },
@@ -9095,7 +9113,8 @@
       {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/03/2023"
       }
     ]
   },
@@ -9594,14 +9613,15 @@
     "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 594-9700",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/05/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/05/2023"
       }
     ]
   },
@@ -11804,6 +11824,22 @@
         "entityName": "FREIBERG; GREG",
         "type": "Firm",
         "effectiveDate": "06/13/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463756",
+    "name": "FRENCH, REBECCA",
+    "address": "600 LEXINGTON AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 303-7100",
+    "email": "LOBBYING@CAMPAIGNLAWYERS .COM",
+    "registrationDate": "10/25/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MKP CAPITAL MANAGEMENT, L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "10/25/2023"
       }
     ]
   },
@@ -18364,13 +18400,18 @@
     "mailingAddress": "455 CAPITOL MALL SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "09/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "HILLHOUSE INVESTMENT MANAGMENT, LTD.",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "08/31/2023"
+      },
+      {
+        "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C. AND PSG EQUITY L.L.C.  (AND THEIR RESPECTIVE AFFILIATES)",
+        "type": "Employer",
+        "effectiveDate": "09/01/2023"
       }
     ]
   },
@@ -22636,7 +22677,8 @@
       {
         "entityName": "PRIME STRATEGIES OF CALIFORNIA",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/25/2023"
       }
     ]
   },
@@ -22810,9 +22852,16 @@
     "address": "2017 O STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 906-2398",
     "email": "amartinez@ccleague.org",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "12/08/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1355001",
@@ -24235,6 +24284,23 @@
         "entityName": "METLIFE INVESTMENT MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463990",
+    "name": "MEYER, ALEXANDRA",
+    "address": "ONE VANDERBILT AVENUE, SUITE 3400\nNEW YORK, NY 10017",
+    "phone": "(914) 217-8096",
+    "email": "alex.meyer@carlyle.com",
+    "mailingAddress": "ONE VANDERBILT AVENUE, SUITE 3400\nFLOOR 32, DESK3236-G, NEW YORK, NY 10017",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
       }
     ]
   },
@@ -31206,7 +31272,8 @@
       {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/03/2023"
       }
     ]
   },
