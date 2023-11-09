@@ -12448,7 +12448,7 @@
       {
         "entityName": "BERKSHIRE PROPERTY ADVISORS, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "08/30/2023"
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -12476,9 +12476,16 @@
     "phone": "(916) 446-0388",
     "email": "jgauger@casaweb.org",
     "mailingAddress": "925 L STREET, SUITE 200\nSACRAMENTO, CA 95814\nPhone: (916) 446-0388\nEmail: jgauger@casaweb.org",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "12/01/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF SANITATION AGENCIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1416456",
@@ -13534,6 +13541,22 @@
     ]
   },
   {
+    "id": "1369030",
+    "name": "GORE, KEVIN",
+    "address": "385 EAST COLORADO BOULEVARD\nPASADENA, CA 91101",
+    "phone": "(626) 844-9517",
+    "email": "kgore@westernasset.com",
+    "registrationDate": "10/25/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
+        "type": "Employer",
+        "effectiveDate": "10/25/2023"
+      }
+    ]
+  },
+  {
     "id": "1236999",
     "name": "GORE, ROBERT J.",
     "address": "500 CAPITOL MALL, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -13753,9 +13776,16 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94060",
     "phone": "(650) 589-1660",
     "email": "agraf@adamsbroadwell.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/03/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1323675",
@@ -14080,14 +14110,15 @@
     "phone": "(561) 394-0550",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (561) 394-0550\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SUN CAPITAL PARTNERS, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -14372,9 +14403,16 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
     "phone": "(650) 589-1660",
     "email": "tgulesserian@adamsbroadwell.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/03/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1401611",
@@ -16066,6 +16104,21 @@
         "entityName": "CALIFORNIA ASSOCIATION OF COUNCILS OF GOVERNMENTS",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1362402",
+    "name": "HILKENE, AMBER",
+    "address": "1 OLD QUEEN STREET\nLONDON UK SW1H 9JA,   ",
+    "email": "amber@stanley-capital.com",
+    "registrationDate": "10/23/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STANLEY CAPITAL PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "10/23/2023"
       }
     ]
   },
@@ -17990,9 +18043,16 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
     "phone": "(650) 589-1660",
     "email": "mdjoseph@adamsbroadwell.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/03/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1447573",
@@ -19627,9 +19687,16 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
     "phone": "(650) 589-1660",
     "email": "rkoss@adamsbroadwell.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/03/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1414582",
@@ -22465,6 +22532,7 @@
     "phone": "(617) 449-2828",
     "email": "michael.manning@natixis.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
     "relationships": [
       {
@@ -22707,14 +22775,15 @@
     "phone": "(212) 808-4251",
     "email": "jmarracino@tcv.vom",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/31/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TCMI, INC. AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/31/2023"
       }
     ]
   },
@@ -32523,9 +32592,16 @@
     "phone": "(916) 449-1370",
     "email": "mark.sektnan@apci.org",
     "mailingAddress": "8700 W BRYN MAWR AVENUE, SUITE 1200S\nCHICAGO, IL 60631",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1406649",
@@ -33485,6 +33561,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "03/31/2023"
+      }
+    ]
+  },
+  {
+    "id": "1445342",
+    "name": "SMENDZUIK, MARY E.",
+    "address": "280 PARK AVENUE, 11TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(212) 833-2800",
+    "email": "msmendzuik@torchlightinvestors.com",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TORCHLIGHT INVESTORS LLC",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
       }
     ]
   },
@@ -37526,6 +37618,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
