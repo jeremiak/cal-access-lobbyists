@@ -2281,6 +2281,22 @@
     ]
   },
   {
+    "id": "1463573",
+    "name": "BATKO, ANNA",
+    "address": "601 LEXINGTON AVENUE 53RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(929) 668-4276",
+    "email": "ania.batko@apax.com",
+    "registrationDate": "10/05/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APAX PARTNERS US, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/05/2023"
+      }
+    ]
+  },
+  {
     "id": "1357293",
     "name": "BAUER, CHARLES W.",
     "address": "9651 KATY FREEWAY, SUITE 600\nHOUSTON, TX 77024",
@@ -3595,6 +3611,21 @@
         "entityName": "SUVRETTA CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "07/11/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463783",
+    "name": "BONE, TEQUILA",
+    "address": "MICHELIN HOUSE, 3RD FLOOR, 81 FULHAM RD\nLONDON UK SW36RD",
+    "email": "tequila.bone@bregal.com",
+    "registrationDate": "10/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BREGAL INVESTMENTS LLP & AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "10/27/2023"
       }
     ]
   },
@@ -8168,14 +8199,15 @@
     "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "phone": "(206) 906-9078",
     "email": "calobby@nmgovlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MILLENNIUM GLOBAL AMERICAS, LLC AND AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -8622,7 +8654,7 @@
   {
     "id": "1444189",
     "name": "DE LEON, JULIO C.",
-    "address": "4095 LEMON STREET\nRIVERSIDE, CA 92502",
+    "address": "4095 LEMON STREET\nRIVERSIDE, CA 92501",
     "phone": "(951) 955-0163",
     "email": "jdeleon@riversidesheriff.org",
     "registrationDate": "01/01/2023",
@@ -10242,6 +10274,7 @@
     "address": "1121 L STREET,STE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/30/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17603,6 +17636,22 @@
     ]
   },
   {
+    "id": "1464165",
+    "name": "JENSEN, DENNIS W.",
+    "address": "520 PIKE STREET #1221\nSEATTLE, WA 98101",
+    "phone": "(206) 299-2072",
+    "email": "djensen@acuitasinvestments.com",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACUITAS INVESTMENTS, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1149351",
     "name": "JENSEN, KELLY J.",
     "address": "1215 K STREET, SUITE 1150\nSACRAMENTO, CA 95814",
@@ -23377,6 +23426,7 @@
     "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -27031,6 +27081,7 @@
     "phone": "(332) 257-0688",
     "email": "compliance_ca_nuveen_10@multistate.u",
     "registrationDate": "07/27/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -27180,7 +27231,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "01/27/2022",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -31782,14 +31833,15 @@
     "name": "SAPP, BRIAN",
     "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/31/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/31/2023"
       }
     ]
   },
@@ -33489,7 +33541,8 @@
       {
         "entityName": "GUALCO GROUP, INC.; THE",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/01/2023"
       }
     ]
   },
