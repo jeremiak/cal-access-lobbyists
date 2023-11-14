@@ -262,6 +262,22 @@
     ]
   },
   {
+    "id": "1461234",
+    "name": "AGBOKE, TUNDE",
+    "address": "1299 PENNSYLVANIA AVENUE NW\nWASHINGTON, DC 20004",
+    "phone": "(650) 236-8424",
+    "email": "compliance_ca_hpi_1@ multistate.us",
+    "registrationDate": "06/15/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HP INC.",
+        "type": "Employer",
+        "effectiveDate": "06/15/2023"
+      }
+    ]
+  },
+  {
     "id": "1422855",
     "name": "AGUILAR, LAUREN",
     "address": "4801 23RD STREET\nSACRAMENTO, CA 95822",
@@ -1908,6 +1924,7 @@
     "phone": "(212) 895-2280",
     "email": "LOBBYING@CAMPAIGNLAWYER",
     "registrationDate": "10/20/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -8437,8 +8454,8 @@
   {
     "id": "1393076",
     "name": "DAVEY, KATIE",
-    "address": "621 CAPITOL MALL, SUITE 2000\nSACRAMENTO, CA 95814",
-    "phone": "(800) 765-4842",
+    "address": "1127 11TH STREET, SUITE 718\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-6921",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
@@ -8448,6 +8465,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "10/13/2023"
+      },
+      {
+        "entityName": "DAIRY INSTITUTE OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "10/14/2023"
       }
     ]
   },
@@ -15234,13 +15256,14 @@
     "address": "600 MASSACHUSETTS AVE \nWASHINGTON , DC 20001",
     "phone": "(202) 344-4000",
     "email": "registrationcompliance@venable.com",
-    "registrationDate": "08/15/2023",
-    "status": "Active",
+    "registrationDate": "11/01/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VENABLE LLP",
         "type": "Firm",
-        "effectiveDate": "08/15/2023"
+        "effectiveDate": "08/15/2023",
+        "terminationDate": "11/01/2023"
       }
     ]
   },
@@ -19942,6 +19965,7 @@
     "email": "ckutney@ruffer.co.uk",
     "mailingAddress": "2300 N STREET NORTHWEST SUITE 643\nWASHINGTON, DC 20037",
     "registrationDate": "08/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -21226,31 +21250,21 @@
     ]
   },
   {
-    "id": "1440010",
-    "name": "LINTON, DAVID O.",
-    "address": "4265 SAN FELIPE, 8TH FLOOR\nHOUSTON, TX 77027",
-    "phone": "(713) 548-2640",
-    "email": "complianceapproval@westwoodgroup.c",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SALIENT CAPITAL, L.P.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
     "id": "1410268",
     "name": "LIPPIN, DAVID",
     "address": "510 MADISON AVENUE, 19TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 277-1568",
     "email": "david.lippin@oneequity.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OEP CAPITAL ADVISORS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1445223",
@@ -21761,6 +21775,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -27484,6 +27499,22 @@
         "entityName": "CALIFORNIA LAND TITLE ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462242",
+    "name": "PAGE, ZACHARY",
+    "address": "277 PARK AVENUE\nNEW YORK, NY 10172",
+    "phone": "(339) 223-0950",
+    "email": "zachary.page@jpmorgan.com",
+    "registrationDate": "08/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "08/10/2023"
       }
     ]
   },
@@ -35965,14 +35996,15 @@
     "name": "TONSGAARD, AMANDA",
     "address": "32 DUKE STREET, 3RD FLOOR, ST JAMES\nLONDON UK SW1Y 6DF",
     "email": "info@triton-partners.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/15/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TRITON INVESTMENTS ADVISERS LLP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/15/2023"
       }
     ]
   },
@@ -36032,7 +36064,8 @@
       {
         "entityName": "HEALTH ACCESS CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/03/2023"
       }
     ]
   },
@@ -38526,6 +38559,22 @@
         "entityName": "BRIDGE INVESTMENT GROUP HOLDINGS LLC AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1377317",
+    "name": "WIRAATMADJA, VINCENT",
+    "address": "4000 MACARTHUR BOULEVARD, SUITE 420\nEAST TOWER, NEWPORT BEACH, CA 92660",
+    "phone": "(707) 392-7336",
+    "email": "WIRRATV@AIRPRODUCTS.COM",
+    "registrationDate": "09/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AIR PRODUCTS AND CHEMICALS, INC.",
+        "type": "Employer",
+        "effectiveDate": "09/01/2023"
       }
     ]
   },
