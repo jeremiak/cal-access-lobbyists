@@ -1155,7 +1155,7 @@
     "address": "1100 11TH STREET, SUITE 323\nSACRAMENTO, CA 95814",
     "phone": "(916) 804-1751",
     "email": "isabella@yourhoac.org",
-    "mailingAddress": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA\nPhone: (916) 318-8866",
+    "mailingAddress": "1100 11TH STREET, SUITE 323\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
@@ -8312,6 +8312,7 @@
     "phone": "(628) 220-7299",
     "email": "adalrymple@sixthstreet.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -14899,6 +14900,21 @@
     ]
   },
   {
+    "id": "1463298",
+    "name": "HANCOCK, JEREMY",
+    "address": "555 12TH STREET NORTHWEST, SUITE 504\nWASHINGTON, DC 20004",
+    "phone": "(202) 572-1286",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EXPERIAN",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1426493",
     "name": "HANNAMAN, HEIDI",
     "address": "1112 I STREET, STE 200\nSACRAMENTO, CA 95814",
@@ -16186,6 +16202,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (212) 224-9400\nEmail: info@keyslawcorp.com",
     "registrationDate": "07/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -23502,6 +23519,23 @@
     ]
   },
   {
+    "id": "1456855",
+    "name": "MC CARTHY, JOHN J.",
+    "address": "255 WEST 25TH STREET\nAPT 4D",
+    "phone": "(917) 535-0199",
+    "email": "chefjmc@gmail.com",
+    "registrationDate": "10/30/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "MC CARTHY HOSPITALITY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/30/2023"
+      }
+    ]
+  },
+  {
     "id": "1463439",
     "name": "MC CARTHY, LAUREN",
     "address": "2100 MC KINNEY AVENUE\nDALLAS, TX 75201",
@@ -25518,7 +25552,7 @@
     "phone": "(212) 838-5107",
     "email": "Mostaracp@TTint.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95841",
-    "registrationDate": "10/01/2023",
+    "registrationDate": "11/14/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26530,6 +26564,7 @@
     "phone": "(212) 405-8483",
     "email": "jnorgaard@sixthstreet.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -29656,6 +29691,7 @@
     "phone": "(212) 916-6643",
     "email": "compliance_ca_nuveen_7@multistate.us",
     "registrationDate": "06/26/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -35394,6 +35430,22 @@
     ]
   },
   {
+    "id": "1401208",
+    "name": "TANNEHILL, ANTHONY",
+    "address": "1112 I STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-7887",
+    "email": "anthonyt@csda.net",
+    "registrationDate": "10/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA SPECIAL DISTRICTS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "10/09/2023"
+      }
+    ]
+  },
+  {
     "id": "1326454",
     "name": "TANNEHILL, JENNIFER W.",
     "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
@@ -35720,6 +35772,7 @@
     "phone": "(212) 405-8429",
     "email": "kthomas@sixthstreet.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
