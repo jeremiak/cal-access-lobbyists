@@ -614,6 +614,7 @@
     "phone": "(916) 601-9280",
     "email": "bill@ewg.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -3756,10 +3757,10 @@
   {
     "id": "1356975",
     "name": "BOYADJIEVA, SAVINA",
-    "address": "55 RAILROAD AVENUE\nGREENWICH, CT 06830",
+    "address": "600 WASHINGTON BOULEVARD\nSTAMFORD, CT 06901",
     "phone": "(203) 863-5000",
     "email": "legalnotices@vikingglobal.com",
-    "mailingAddress": "280 PARK AVENUE, FLOOR 6\nNEW YORK, NY 10017",
+    "mailingAddress": "600 FIFTH AVENUE\nNEW YORK , NY 10103",
     "registrationDate": "02/14/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
@@ -9716,6 +9717,22 @@
     ]
   },
   {
+    "id": "1463868",
+    "name": "DONOVAN, ELIZABETH",
+    "address": "10 GRAND STREET, FLOOR 21ST\nBROOKLYN, NY 11249",
+    "phone": "(929) 877-1509",
+    "email": "elizabeth@leftlanecap.com",
+    "registrationDate": "10/23/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEFT LANE CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "10/23/2023"
+      }
+    ]
+  },
+  {
     "id": "1335991",
     "name": "DOTE, ANTHONY J.",
     "address": "30 ROCKEFELLER PLAZA\nNEW YORK, NY 10112",
@@ -10296,14 +10313,15 @@
     "name": "ELDER, MIKAYLA",
     "address": "1121 L STREET,STE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/09/2023",
     "ethicsCourseCompletionDate": "01/30/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/09/2023"
       }
     ]
   },
@@ -11375,6 +11393,23 @@
         "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1341402",
+    "name": "FLORES, IVY  W.",
+    "address": "655 BROAD STREET\nNEWARK, NJ 07102",
+    "phone": "(973) 802-6000",
+    "email": "lobbying@prudential.com",
+    "mailingAddress": "1011 CATALPA ROAD\nARCADIA, CA 91007",
+    "registrationDate": "10/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PGIM, INC.",
+        "type": "Employer",
+        "effectiveDate": "10/10/2023"
       }
     ]
   },
@@ -14009,7 +14044,7 @@
   {
     "id": "1463312",
     "name": "GREENE, BRANDON",
-    "address": "1107 NINTH STREET, SUITE 700\nSACRAMENTI, CA 95814",
+    "address": "1107 NINTH STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 282-5112",
     "email": "bgreene@wclp.org",
     "registrationDate": "10/01/2023",
@@ -14432,14 +14467,15 @@
     "name": "GUINEE, CAITLIN",
     "address": "485 LEXINGTON AVENUE\nNEW YORK, NY 10017",
     "phone": "(212) 271-5775",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/31/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TAILWIND MANAGEMENT LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/31/2023"
       }
     ]
   },
@@ -16102,6 +16138,7 @@
     "phone": "(212) 574-8598",
     "email": "ghickey@raine.com",
     "registrationDate": "07/10/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -22277,9 +22314,15 @@
     "address": "555 CAPITOL MALL SUITE 180\nSACRAMENTO, CA 95814",
     "phone": "(650) 776-8417",
     "email": "michael@majorityadvisors.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "05/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MAJORITY ADVISORS, LLC",
+        "type": "Firm",
+        "effectiveDate": "05/01/2023"
+      }
+    ]
   },
   {
     "id": "1420922",
@@ -22981,10 +23024,10 @@
   {
     "id": "1392952",
     "name": "MARTIN, RICHARD",
-    "address": "55 RAILROAD AVENUE\nGREENWICH, CT 06830",
+    "address": "600 WASHINGTON BOULEVAR\nSTAMFORD, CT 06901",
     "phone": "(203) 863-5000",
     "email": "legalnotices@vikingglobal.com",
-    "mailingAddress": "280 PARK AVENUE, FLOOR 6\nNEW YORK, NY 10017",
+    "mailingAddress": "600 FIFTH AVENUE\nNEW YORK, NY 10103",
     "registrationDate": "02/14/2023",
     "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
@@ -24098,6 +24141,22 @@
     ]
   },
   {
+    "id": "1391236",
+    "name": "MC NOWN, CADE",
+    "address": "10100 SANTA MONICA BOULEVARD, SUITE 600\nLOS ANGELES, CA 90067",
+    "phone": "(310) 575-1721",
+    "email": "cade.mcnown@carlyle.com",
+    "registrationDate": "11/13/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PGIM, INC.",
+        "type": "Employer",
+        "effectiveDate": "11/13/2023"
+      }
+    ]
+  },
+  {
     "id": "1392290",
     "name": "MC NULTY, MARK W.",
     "address": "3050 K STREET NW, SUITE 220\nWASHINGTON, DC 20007",
@@ -24974,14 +25033,15 @@
     "phone": "(619) 894-1280",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "900 J STREET, THIRD FLOOR\nSACRAMENTO, CA 95814\nPhone: (619) 894-1280\nEmail: compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/05/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/05/2023"
       }
     ]
   },
@@ -26845,12 +26905,29 @@
     "phone": "(212) 821-6093",
     "email": "patrick.osullivan@ubs.com",
     "registrationDate": "06/22/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
         "entityName": "UBS ASSET MANAGEMENT (AMERICAS) INC.",
         "type": "Employer",
         "effectiveDate": "06/22/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464169",
+    "name": "OAKES, ROBERT N.",
+    "address": "10100 SANTA MONICA BOULEVARD SUITE 600\nLOS ANGELES, CA 90067",
+    "phone": "(310) 575-1718",
+    "email": "nathanael.oakes@carlyle.com",
+    "registrationDate": "11/13/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PGIM, INC.",
+        "type": "Employer",
+        "effectiveDate": "11/13/2023"
       }
     ]
   },
@@ -27231,6 +27308,7 @@
     "phone": "(404) 978-0358",
     "email": "borr@roarkcapital.com",
     "registrationDate": "09/07/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -28696,6 +28774,7 @@
     "phone": "(773) 793-9349",
     "email": "cplotke@golderntree.com",
     "registrationDate": "06/15/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -34651,7 +34730,8 @@
       {
         "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/22/2023"
       }
     ]
   },
@@ -34762,6 +34842,24 @@
     ]
   },
   {
+    "id": "1297904",
+    "name": "STEWART-BROCKMAN, GAIL J.",
+    "address": "330 WEST BROADWAY SUITE 1600\nSAN DIEGO, CA 92101",
+    "phone": "(619) 531-3790",
+    "email": "gail.stewart@sdcda.org",
+    "registrationDate": "10/31/2023",
+    "ethicsCourseCompletionDate": "11/17/2022",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "SAN DIEGO COUNTY DISTRICT ATTORNEY'S OFFICE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/31/2023"
+      }
+    ]
+  },
+  {
     "id": "1421893",
     "name": "STIVERS, MARK",
     "address": "1107 9TH STREET, SUITE 610\nSACRAMENTO, CA 95814",
@@ -34804,6 +34902,7 @@
     "phone": "(628) 220-7240",
     "email": "lstone@sixthstreet.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -39582,6 +39681,7 @@
     "phone": "(732) 450-7430",
     "email": "christiian.zugel@zaisgroup.com",
     "registrationDate": "04/05/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
