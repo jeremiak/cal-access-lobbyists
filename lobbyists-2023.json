@@ -830,9 +830,16 @@
     "address": "P.O. BOX 1656\nWOODLAND, CA 95776",
     "phone": "(916) 596-5987",
     "email": "amajioyi@yahoo.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/14/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICIANS AND LEADERS OF TOMORROW GROUP LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1459895",
@@ -3524,9 +3531,16 @@
     "address": "767 5TH AVENUE, 8TH FLOOR\nNEW YORK CITY, NY 10153",
     "phone": "(212) 455-0900",
     "email": "compliance@janapartners.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JANA SPECIAL SITUATIONS MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1449313",
@@ -4441,7 +4455,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ISAM (USA) LLC",
+        "entityName": "ISAM FUNDS (USA) LLC",
         "type": "Employer",
         "effectiveDate": "06/23/2023"
       }
@@ -4870,9 +4884,16 @@
     "name": "BUSHBY, ALASTAIR",
     "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 743-1500",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TPG CAPITAL BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1426005",
@@ -5164,9 +5185,16 @@
     "name": "CAPITOLO, JENNIFER M.",
     "address": "921 11TH STREET SUITE 619\nSACRAMENTO, CA 95814",
     "phone": "(916) 402-1155",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOLO AND ASSOCIATES LLC; JENNIFER M.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1429693",
@@ -5208,9 +5236,16 @@
     "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK, FL 32789",
     "phone": "(407) 420-9903",
     "email": "compliance@drz-inc.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/30/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/30/2023"
+      }
+    ]
   },
   {
     "id": "1456295",
@@ -6736,6 +6771,22 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "05/31/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462248",
+    "name": "COAN, PATRICK",
+    "address": "55 HUDSON YARDS, 47TH FLOOR, SUITE C\nNEW YORK, NY 10001",
+    "phone": "(646) 762-8539",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "07/31/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ANTARA CAPITAL LP",
+        "type": "Employer",
+        "effectiveDate": "07/31/2023"
       }
     ]
   },
@@ -8566,6 +8617,7 @@
     "phone": "(916) 557-1100",
     "email": "brandon.dawson@sierraclub.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
       {
@@ -10185,27 +10237,48 @@
     "address": "1822 21ST STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 739-1200",
     "email": "edgarinc@pacbell.net",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EDGAR & ASSOCIATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1319759",
     "name": "EDGAR, NEIL S.R.",
     "address": "1822 21ST STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 739-1200",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "12/08/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EDGAR & ASSOCIATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1224145",
     "name": "EDGAR, SEAN R.",
     "address": "1822 21ST STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 739-1200",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EDGAR & ASSOCIATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1443741",
@@ -10520,9 +10593,16 @@
     "phone": "(916) 444-6201",
     "email": "tenslow@adamsbroadwell.com",
     "mailingAddress": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1393100",
@@ -10947,9 +11027,16 @@
     "address": "601 GATEWAY BOULEVARD, SUITE 1000\nSOUTH SAN FRANCISCO, CA 94080",
     "phone": "(650) 589-1660",
     "email": "kfederman@adamsbroadwell.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1439383",
@@ -11437,6 +11524,7 @@
     "phone": "(617) 722-4779",
     "email": "sara.flour@rbc.com",
     "registrationDate": "04/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -11666,9 +11754,16 @@
     "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK , FL 32789",
     "phone": "(407) 420-9903",
     "email": "compliance@drz-inc.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/30/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/30/2023"
+      }
+    ]
   },
   {
     "id": "1360724",
@@ -12500,14 +12595,15 @@
     "phone": "(212) 610-6060",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/31/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EURAZEO SE AND ITS AFFILIATES, EURAZEO NA, EURAZEO INVESTMENT MANAGER & EURAZEO FUNDS MANAGEMENT LUXEMBOURG",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/31/2023"
       }
     ]
   },
@@ -13691,6 +13787,22 @@
     "registrationDate": "07/01/2023",
     "status": "Revoked",
     "relationships": []
+  },
+  {
+    "id": "1462303",
+    "name": "GORMAN, JAMES",
+    "address": "745 FIFTH AVENUE\nNEW YORK, NY 10151",
+    "phone": "(212) 610-6060",
+    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
+    "registrationDate": "08/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EURAZEO SE AND ITS AFFILIATES, EURAZEO NA, EURAZEO INVESTMENT MANAGER & EURAZEO FUNDS MANAGEMENT LUXEMBOURG",
+        "type": "Employer",
+        "effectiveDate": "08/01/2023"
+      }
+    ]
   },
   {
     "id": "1441434",
@@ -15269,6 +15381,22 @@
     ]
   },
   {
+    "id": "1464299",
+    "name": "HARSCH, AMY S.",
+    "address": "590 MADISON AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 476-8071",
+    "email": "aharsch@american-securities.com",
+    "registrationDate": "08/23/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN SECURITIES LLC",
+        "type": "Employer",
+        "effectiveDate": "08/23/2023"
+      }
+    ]
+  },
+  {
     "id": "1266513",
     "name": "HART, STEPHEN M.",
     "address": "201 E. WASHINGTON STREET, SUITE 1200\nPHOENIX, AZ 85004",
@@ -15682,14 +15810,15 @@
     "phone": "(646) 762-8593",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/31/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ANTARA CAPITAL LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/31/2023"
       }
     ]
   },
@@ -21428,9 +21557,16 @@
     "address": "915 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
     "phone": "(916) 494-9664",
     "email": "slittle@ewg.org",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL WORKING GROUP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1373415",
@@ -24134,7 +24270,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ISAM (USA) LLC",
+        "entityName": "ISAM FUNDS (USA) LLC",
         "type": "Employer",
         "effectiveDate": "06/23/2023"
       }
@@ -27160,7 +27296,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ISAM (USA) LLC",
+        "entityName": "ISAM FUNDS (USA) LLC",
         "type": "Employer",
         "effectiveDate": "06/23/2023"
       }
@@ -28092,7 +28228,8 @@
       {
         "entityName": "JK PEDROTTI., INC. GOVERNMENT RELATIONS",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/31/2023"
       }
     ]
   },
@@ -32790,7 +32927,7 @@
     "phone": "(916) 449-1370",
     "email": "mark.sektnan@apci.org",
     "mailingAddress": "8700 W BRYN MAWR AVENUE, SUITE 1200S\nCHICAGO, IL 60631",
-    "registrationDate": "11/01/2023",
+    "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
@@ -34740,8 +34877,9 @@
     "name": "STELZER, LAUREN",
     "address": "399 PARK AVENUE, 16TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 745-9445",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
     "relationships": []
   },
   {
@@ -39654,9 +39792,16 @@
     "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK, FL 32789",
     "phone": "(407) 420-9903",
     "email": "compliance@drz-inc.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/30/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/30/2023"
+      }
+    ]
   },
   {
     "id": "1463155",
