@@ -5859,22 +5859,6 @@
     ]
   },
   {
-    "id": "1356056",
-    "name": "CEARLEY, REBEKAH H.",
-    "address": "1303 J STREET, SUITE 520\nSACRAMENTO, CA 95814",
-    "phone": "(916) 441-3300",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MURDOCH WALRATH  & HOLMES",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
     "id": "1380530",
     "name": "CECCHINI LEAHY, CHERYL",
     "address": "4 EMBARCADERO CENTER, 20TH FLOOR \nSAN FRANCISCO, CA 94111",
@@ -6773,6 +6757,15 @@
         "terminationDate": "05/31/2023"
       }
     ]
+  },
+  {
+    "id": "1388534",
+    "name": "CLOSE, MALLORY",
+    "address": "20 MARSHALL STREET\nSOUTH NORWALK, CT 06854",
+    "phone": "(203) 956-7953",
+    "registrationDate": "10/01/2022",
+    "status": "Withdrawn",
+    "relationships": []
   },
   {
     "id": "1462248",
@@ -8501,9 +8494,16 @@
     "address": "1149 W JOSHUA TREE AVENUE\nSAN TAN VALLEY, AZ 85140",
     "phone": "(916) 825-9522",
     "email": "asaclobbyist@aol.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "06/30/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "CAPITOL COMMUNICATIONS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
+      }
+    ]
   },
   {
     "id": "1393076",
@@ -18448,6 +18448,22 @@
     ]
   },
   {
+    "id": "1356056",
+    "name": "KALLEEN, REBEKAH H.",
+    "address": "1303 J STREET, SUITE 520\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-3300",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MURDOCH WALRATH  & HOLMES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1438647",
     "name": "KAMINSKI, SERETTE",
     "address": "1029 J STREET, SUITE 500\nSACRAMENTO, CA 95814",
@@ -23262,13 +23278,14 @@
     "address": "1121 L STREET, STE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 584-4178",
     "email": "juanita.martinez@gm.com",
-    "registrationDate": "05/16/2023",
-    "status": "Active",
+    "registrationDate": "11/01/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GENERAL MOTORS LLC",
         "type": "Employer",
-        "effectiveDate": "05/16/2023"
+        "effectiveDate": "05/16/2023",
+        "terminationDate": "11/01/2023"
       }
     ]
   },
@@ -23371,6 +23388,23 @@
         "entityName": "T. ROWE PRICE ASSOCIATES, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464156",
+    "name": "MASKELL, ALEXIS",
+    "address": "40 PORTMAN SQUARE\nLONDON, UK W1H 6DA",
+    "phone": "(212) 891-2880",
+    "email": "FPPC@BMHLAW.COM",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BC PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "11/08/2023"
       }
     ]
   },
@@ -24740,14 +24774,15 @@
     "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "andrewm@calstrat.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/20/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/20/2023"
       }
     ]
   },
@@ -26927,8 +26962,13 @@
     "phone": "(916) 661-2096",
     "registrationDate": "07/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "07/01/2023"
+      },
       {
         "entityName": "NUNEZ WELLMAN",
         "type": "Firm",
@@ -27398,7 +27438,7 @@
     "name": "OPSAHL, RYAN",
     "address": "1735 MARKET STREET, 18TH FLOOR\nPHILADELPHIA, PA 19103",
     "phone": "(215) 609-3500",
-    "email": "even.moskow@brandywineglobal.com",
+    "email": "evan.moskow@brandywineglobal.com",
     "registrationDate": "02/22/2023",
     "status": "Active",
     "relationships": [
@@ -32679,6 +32719,21 @@
     ]
   },
   {
+    "id": "1464364",
+    "name": "SCHREWELIUS, ELLINOR",
+    "address": "BIRGER JARLSGATAN 41 A\nSTOCKHOLM SWEDEN 111 45",
+    "email": "ellinor.schrewelius@verdane.com",
+    "registrationDate": "10/23/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VERDANE FUND MANAGER AB",
+        "type": "Employer",
+        "effectiveDate": "10/23/2023"
+      }
+    ]
+  },
+  {
     "id": "1425444",
     "name": "SCHULMAN, JOSEPH D.",
     "address": "277 PARK AVENE\nNEW YORK, NY 10172",
@@ -37411,6 +37466,22 @@
         "entityName": "CRUZ STRATEGIES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1234436",
+    "name": "VILLEGAS, PETER R.",
+    "address": "9000 SUNSET BOULEVARD, FLOOR 3\nWEST HOLLYWOOD, CA 90069",
+    "phone": "(949) 383-8645",
+    "email": "pvillegas@actumllc.com",
+    "registrationDate": "06/15/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "06/15/2023"
       }
     ]
   },
