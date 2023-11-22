@@ -983,9 +983,16 @@
     "address": "1251 AVENUE OF AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
     "phone": "(212) 257-4512",
     "email": "randrews@waterfallam.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/13/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WATERFALL ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1459389",
@@ -3536,7 +3543,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "JANA SPECIAL SITUATIONS MANAGEMENT, LP",
+        "entityName": "JANA PARTNERS MANAGEMENT, LP.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -4299,6 +4306,7 @@
     "phone": "(833) 433-4487",
     "email": "rcooper1753@camcast.net",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -5557,9 +5565,16 @@
     "address": "909 MONTGOMERY STREET, 4TH FLOOR\nSAN FRANCISCO, CA 94133",
     "phone": "(415) 438-1208",
     "email": "dcarroll@brooklandscapital.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKLANDS CAPITAL STRATEGIES BD, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1392810",
@@ -7139,9 +7154,16 @@
     "address": "385 EAST COLORADO BOULEVARD\nPASADENA, CA 91101",
     "phone": "(626) 844-9557",
     "email": "frances.coombes@westernasset.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1426170",
@@ -7234,6 +7256,7 @@
     "phone": "(833) 433-4487",
     "email": "rcooper1753@comcast.net",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -7852,6 +7875,7 @@
     "phone": "(833) 433-4487",
     "email": "rcooper1753@comcast.net",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -8888,9 +8912,16 @@
     "address": "801 W. 5TH STREET,STE 100\nAUSTIN, TX 78703",
     "phone": "(512) 838-3521",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/10/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SAPPHIRE VENTURES, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/10/2023"
+      }
+    ]
   },
   {
     "id": "1345096",
@@ -9437,9 +9468,16 @@
     "phone": "(530) 301-3510",
     "email": "adickey@sccoe.org",
     "mailingAddress": "1121 L STREET, SUITE 507\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SANTA CLARA COUNTY OFFICE OF EDUCATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1388452",
@@ -10405,9 +10443,16 @@
     "address": "1251 AVENUE OF AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
     "phone": "(212) 257-4614",
     "email": "seliran@waterfallam.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/13/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WATERFALL ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1293139",
@@ -11374,6 +11419,7 @@
     "phone": "(619) 200-0085",
     "email": "ivyfitzpatrick@rivcoda.org",
     "registrationDate": "05/30/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -11849,6 +11895,7 @@
     "phone": "(916) 441-0702",
     "email": "obed@ppallc.com",
     "registrationDate": "08/28/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -11993,7 +12040,8 @@
       {
         "entityName": "NOMURA ASSET MANAGEMENT U.S.A. INC. (\"NAM-USA\")",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/31/2023"
       }
     ]
   },
@@ -17883,7 +17931,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, LLC",
+        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -18655,9 +18703,16 @@
     "address": "12121 WILSHIRE BOULEVARD, SUITE 1240\nLOS ANGELES, CA 90025",
     "phone": "(424) 253-1774",
     "email": "dkatz@legionpartners.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/13/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEGION PARTNERS ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1347290",
@@ -19672,6 +19727,7 @@
     "phone": "(213) 819-0526",
     "email": "compliance_ca_nuveen_11@multistate.u",
     "registrationDate": "08/28/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -23167,9 +23223,16 @@
     "name": "MARTIN, CHRISTOPHER C.",
     "address": "1107 9TH STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 287-9885",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOUSING CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1233950",
@@ -23768,7 +23831,7 @@
     "name": "MC CARTHY, LAUREN",
     "address": "2100 MC KINNEY AVENUE\nDALLAS, TX 75201",
     "phone": "(214) 932-9614",
-    "email": "imccarthy@carlsoncapital.com",
+    "email": "lmccarthy@carlsoncapital.com",
     "registrationDate": "09/21/2023",
     "status": "Active",
     "relationships": [
@@ -24238,6 +24301,22 @@
         "entityName": "CERBERUS CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/11/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464326",
+    "name": "MC LEAN, JAMES",
+    "address": "900 THIRD AVENUE, SUITE 1801\nNEW YORK, NY 10022",
+    "phone": "(212) 310-5845",
+    "mailingAddress": "800 THIRD AVENUE SUITE 1801\nNEW YORK, NY 10022\nPhone: (212) 310-5845",
+    "registrationDate": "11/17/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COMPASS ROSE ASSET MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "11/17/2023"
       }
     ]
   },
@@ -25752,7 +25831,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, LLC",
+        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -26269,6 +26348,21 @@
     ]
   },
   {
+    "id": "1461422",
+    "name": "NAHAR, SANJIDA",
+    "address": "9000 SUNSET BOULEVARD, FLOOR 3\nWEST HOLLYWOOD, CA 90069",
+    "phone": "(916) 898-9305",
+    "registrationDate": "07/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "07/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1401206",
     "name": "NAHAR, SUMAYA",
     "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
@@ -26397,6 +26491,22 @@
     "registrationDate": "07/01/2023",
     "status": "Revoked",
     "relationships": []
+  },
+  {
+    "id": "1464209",
+    "name": "NELSON, JENNY",
+    "address": "ONE SANSOME STREET, 37TH FLOOR\nSAN FRANCISCO, CA 94104",
+    "phone": "415439500",
+    "email": "jnelson@higcapital.com",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
+      }
+    ]
   },
   {
     "id": "1361929",
@@ -28827,9 +28937,16 @@
     "phone": "(323) 447-9606",
     "email": "jhonny@atlantic-strateg.com",
     "mailingAddress": "4326 EAST 60TH STREET #24\nHUNTINGTON PARK, CA 90255\nPhone: (323) 447-9605\nEmail: jhonny@atlantic-strateg.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ATLANTIC STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1343911",
@@ -29750,6 +29867,22 @@
         "entityName": "CALIBER STRATEGIES",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1384207",
+    "name": "RANSENBERG, DANIEL ",
+    "address": "505 SANSOME STREET, SUITE 2050\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 249-8041",
+    "email": "dan.ransenberg@nb.com",
+    "registrationDate": "10/04/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEUBERGER BERMAN GROUP LLC",
+        "type": "Employer",
+        "effectiveDate": "10/04/2023"
       }
     ]
   },
@@ -31736,12 +31869,17 @@
   {
     "id": "1444933",
     "name": "RYLANDER, LETICIA 'TISH'",
-    "address": "555 CAPITOL MALL, SUITE 180\nSACRAMENTO , CA 95814",
-    "phone": "(916) 469-0800",
-    "registrationDate": "01/01/2023",
+    "address": "2612 17TH STREET\nSACRAMENTO , CA 95814",
+    "phone": "(805) 234-5481",
+    "registrationDate": "11/06/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "DEVEAU BURR GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "11/06/2023"
+      },
       {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
@@ -33759,9 +33897,16 @@
     "address": "202 MAIN STREET\nNEW CANAAN, CT 06840",
     "phone": "(917) 855-4642",
     "email": "jsindelar@crossbaycapital.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "10/30/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CROSSBAY CAPITAL PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1463335",
@@ -33961,7 +34106,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, LLC",
+        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -34598,6 +34743,7 @@
     "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 658-8232",
     "registrationDate": "08/14/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -35236,9 +35382,16 @@
     "address": "810 SEVENTH AVENUE, 24TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 257-5757",
     "email": "jstrickland@pretium.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/13/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PRETIUM PARTNERS, LLC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1381813",
@@ -36974,7 +37127,7 @@
     "phone": "(916) 325-1162",
     "email": "clivers@rcoe.us",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "12/01/2022",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -37294,7 +37447,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, LLC",
+        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -37373,14 +37526,15 @@
     "address": "605 CLARK AVENUE\nJEFFERSON CITY, MO 65110",
     "phone": "(573) 635-3893",
     "email": "fvergara@cleanfuels.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CLEAN FUELS ALLIANCE AMERICA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -37559,6 +37713,7 @@
     "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 658-8252",
     "registrationDate": "08/14/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -38433,7 +38588,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, LLC",
+        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -39346,7 +39501,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, LLC",
+        "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, INC.",
         "type": "Firm",
         "effectiveDate": "03/21/2023"
       }
@@ -39698,6 +39853,7 @@
     "phone": "(916) 492-4242",
     "email": "jzanze@sdge.com",
     "registrationDate": "10/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
