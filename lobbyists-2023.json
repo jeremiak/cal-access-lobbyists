@@ -12638,6 +12638,23 @@
     ]
   },
   {
+    "id": "1464006",
+    "name": "GARRITY, SEAMUS",
+    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(415) 364-0000",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
+        "type": "Firm",
+        "effectiveDate": "11/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1427030",
     "name": "GARVIN, KATHARINE",
     "address": "745 FIFTH AVENUE\nNEW YORK, NY 10151",
@@ -20199,14 +20216,15 @@
     "address": "921 11TH STREET, SUITE 502\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-5422",
     "email": "nicole@cawrecycles.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/10/2023",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIANS AGAINST WASTE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/10/2023"
       }
     ]
   },
@@ -20361,6 +20379,24 @@
         "entityName": "DEWEY SQUARE GROUP",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1382762",
+    "name": "LANDRUM, LEE",
+    "address": "360 SOUTH ROSEMARY AVENUE SUITE #1700\nWEST PALM BEACH, FL 33401",
+    "phone": "(561) 727-2000",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "11/10/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COMVEST ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/10/2023"
       }
     ]
   },
@@ -35159,9 +35195,16 @@
     "address": "4672 W. JENNIFER AVENUE, #101\nFRESNO, CA 93722",
     "phone": "(833) 433-4487",
     "email": "rcooper1753@comcast.net",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/20/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLOBAL ECONOMIC IMPACT GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1439843",
@@ -36566,9 +36609,16 @@
     "address": "455 CAPITOL MALL, SUITE 500\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-2222",
     "email": "toppin@blanningandbaker.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/20/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLANNING AND BAKER ASSOCIATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1445005",
