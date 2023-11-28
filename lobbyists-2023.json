@@ -8097,6 +8097,23 @@
     ]
   },
   {
+    "id": "1378569",
+    "name": "CUMMINGS, WILLIAM ",
+    "address": "1345 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10105",
+    "phone": "(212) 418-8216",
+    "email": "william.cummings@brevanhoward.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "05/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BREVAN HOWARD US LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1418581",
     "name": "CUNNINGHAM, BARRY",
     "address": "1230 AVENUE OF THE AMERICAS, SUITE 1803\nNEW YORK, NY 10020",
@@ -11281,6 +11298,23 @@
       {
         "entityName": "AXIOM ADVISORS",
         "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1343969",
+    "name": "FIERTZ, STUART CHAPIN",
+    "address": "1350 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(207) 968-7465",
+    "email": "lobbyistsf@cheynecapital.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHEYNE CAPITAL US, LP",
+        "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -18792,6 +18826,24 @@
     ]
   },
   {
+    "id": "1414722",
+    "name": "KEATSEANGSILP, JANNA",
+    "address": "1345 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10105",
+    "phone": "(212) 418-8208",
+    "email": "janna.keatseangsilp@brevanhoward.com",
+    "registrationDate": "09/30/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "BREVAN HOWARD US LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
+      }
+    ]
+  },
+  {
     "id": "1337199",
     "name": "KEENE, SEAN J.",
     "address": "1 MARKET PLAZA, STEUART TOWER, \n27TH FLOOR",
@@ -21607,6 +21659,23 @@
     ]
   },
   {
+    "id": "1464203",
+    "name": "LITTLE JR., DARRYL",
+    "address": "111 SUTTER STREET, 21ST FLOOR\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 875-6125",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "11/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATURAL RESOURCES DEFENSE COUNCIL",
+        "type": "Employer",
+        "effectiveDate": "11/10/2023"
+      }
+    ]
+  },
+  {
     "id": "1308365",
     "name": "LITTLE, C. BRYAN",
     "address": "2600 RIVER PLAZA DRIVE\nSACRAMENTO , CA 95833",
@@ -23306,6 +23375,22 @@
     ]
   },
   {
+    "id": "1392914",
+    "name": "MARTIN, TOMAS",
+    "address": "750 WASHINGTON BLVD, 8TH FLOOR, STE 802\nSTAMFORD, CT 06901",
+    "phone": "(203) 541-4300",
+    "email": "tomas.martin@rbc.com",
+    "registrationDate": "10/24/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
+        "type": "Employer",
+        "effectiveDate": "10/24/2023"
+      }
+    ]
+  },
+  {
     "id": "1436819",
     "name": "MARTINEZ, ANDREW J.",
     "address": "2017 O STREET\nSACRAMENTO, CA 95811",
@@ -24450,7 +24535,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "PGIM, INC.",
+        "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
         "effectiveDate": "11/13/2023"
       }
@@ -27269,7 +27354,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "PGIM, INC.",
+        "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
         "effectiveDate": "11/13/2023"
       }
@@ -28407,6 +28492,23 @@
     ]
   },
   {
+    "id": "1427089",
+    "name": "PEATE, JEFFREY",
+    "address": "1350 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 937-4974",
+    "email": "jeff.peate@cheynecapital.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHEYNE CAPITAL US, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1336236",
     "name": "PEDLEY, MATTHEW",
     "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
@@ -28829,6 +28931,22 @@
         "entityName": "TISHMAN SPEYER PROPERTIES, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464284",
+    "name": "PHILLIPS, RYAN",
+    "address": "599 WEST PUTNAM AVENUE\nGREENWICH, CT 06830",
+    "phone": "(203) 629-4901",
+    "email": "compliance@lctterton.com",
+    "registrationDate": "11/13/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CATTERTON MANAGEMENT COMPANY, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/13/2023"
       }
     ]
   },
@@ -38477,9 +38595,16 @@
     "address": "401 9TH STREET NORTHWEST, SUITE 820\nWASHINGTON, DC 20004",
     "phone": "(202) 828-1378",
     "email": "jonathan.weisgall@brkenergy.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/07/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "BERKSHIRE HATHAWAY ENERGY AND SUBSIDIARIES CAL ENERGY, LLC AND BHE RENEWABLES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/07/2023"
+      }
+    ]
   },
   {
     "id": "1450366",
