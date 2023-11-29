@@ -502,9 +502,16 @@
     "address": "1 METLIFE WAY\nWHIPPANY, NJ 07981",
     "phone": "(213) 308-2256",
     "email": "chris.alders@metlife.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/20/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "METLIFE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1355785",
@@ -1327,9 +1334,16 @@
     "address": "1111 HOWE AVENUE, SUITE 635\nSACRAMENTO, CA",
     "phone": "(916) 712-0071",
     "email": "kevin.aslanian@ccwro.org",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/08/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1426324",
@@ -3088,7 +3102,9 @@
     "address": "522 FIFTH AVENUE 8TH FLOOR\nNEW YORK, NY 10036",
     "phone": "(212) 296-1482",
     "email": "david.biltekoff@morganstanley.com",
+    "mailingAddress": "1585 BROADWAY\nNEW YORK, NY 10036\nPhone: (212) 296-1482\nEmail: david.biltekoff@morganstanley.com",
     "registrationDate": "10/04/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -10010,6 +10026,7 @@
     "phone": "(212) 812-3107",
     "email": "registration@kingstreet.com",
     "registrationDate": "08/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -10381,6 +10398,22 @@
     "relationships": [
       {
         "entityName": "CAPITAL REPRESENTATION GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1459896",
+    "name": "EGER-SLOBIG, AMARA",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -13079,6 +13112,23 @@
         "entityName": "WINTON CAPITAL US LLC",
         "type": "Employer",
         "effectiveDate": "04/19/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464329",
+    "name": "GILBERT, KAREN DERR",
+    "address": "601 CALIFORNIA STREET, FLOOR 19\nSAN FRANCISCO, CA 94108",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "2350 KERNER BOULEVARD\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
+    "registrationDate": "11/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FTV MANAGEMENT COMPANY L.P.",
+        "type": "Employer",
+        "effectiveDate": "11/10/2023"
       }
     ]
   },
@@ -16823,9 +16873,16 @@
     "address": "2180 HARVARD STREET, SUITE 400\nSACRAMENTO, CA 95815",
     "phone": "(916) 576-0585",
     "email": "sean.hoffman@molinahealthcare.com",
-    "registrationDate": "07/01/2023",
-    "status": "In Suspense",
-    "relationships": []
+    "registrationDate": "11/22/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MOLINA HEALTHCARE OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1457759",
@@ -29892,6 +29949,23 @@
     ]
   },
   {
+    "id": "1464328",
+    "name": "RAFI, ALIA",
+    "address": "601 CALIFORNIA STREET, FLOOR 19\nSAN FRANCISCO, CA 94108",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "11/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FTV MANAGEMENT COMPANY L.P.",
+        "type": "Employer",
+        "effectiveDate": "11/10/2023"
+      }
+    ]
+  },
+  {
     "id": "1423037",
     "name": "RAFTERY, THOMAS",
     "address": "655 BROAD STREET\nNEWARK, NJ 07102",
@@ -34489,19 +34563,24 @@
   },
   {
     "id": "1440713",
-    "name": "SMITH, ZACHARY",
-    "address": "11100 SANTA MONICA BOULEVARD, SUITE 2000\nLOS ANGELES, CA 90025",
-    "phone": "(310) 235-5903",
-    "email": "zachary.smith@crescentcap.com",
-    "registrationDate": "07/21/2023",
+    "name": "SMITH, ZACHARY S.",
+    "address": "1585 BROADWAY\nNEW YORK, NY 10036",
+    "phone": "(212) 761-1440",
+    "email": "zachary.smith@morganstanley.com",
+    "registrationDate": "11/22/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CRESCENT CAPITAL GROUP LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "07/21/2023"
+      },
+      {
+        "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "11/22/2023"
       }
     ]
   },
@@ -35195,7 +35274,9 @@
     "address": "522 FIFTH AVENUE, 8TH FLOOR\nNEW YORK, NY 10036",
     "phone": "(917) 748-4055",
     "email": "matt.steccato@morganstanley.com",
+    "mailingAddress": "1585 BROADWAY\nNEW YORK, NY 10036\nPhone: (917) 748-4055\nEmail: matt.steccato@morganstanley.com",
     "registrationDate": "10/19/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -35242,13 +35323,18 @@
   {
     "id": "1330846",
     "name": "STEIGER, MITCH",
-    "address": "1001 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
-    "phone": "(916) 309-6940",
-    "email": "msteiger@calaborfed.org",
-    "registrationDate": "01/01/2023",
+    "address": "1107 NINTH STREET SUITE 460\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-2788",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "09/26/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "CALIFORNIA FEDERATION OF TEACHERS",
+        "type": "Employer",
+        "effectiveDate": "09/26/2023"
+      },
       {
         "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
         "type": "Employer",
@@ -37098,6 +37184,22 @@
         "entityName": "UNITE STRATEGIES, LLC",
         "type": "Firm",
         "effectiveDate": "08/03/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464459",
+    "name": "TSAI, NETTY H.",
+    "address": "1585 BROADWAY\nNEW YORK, NY 10036",
+    "phone": "(917) 670-5263",
+    "email": "netty.tsai@morganstanley.com",
+    "registrationDate": "11/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "11/22/2023"
       }
     ]
   },
@@ -39296,6 +39398,7 @@
     "phone": "(707) 392-7336",
     "email": "WIRRATV@AIRPRODUCTS.COM",
     "registrationDate": "09/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
