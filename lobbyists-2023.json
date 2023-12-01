@@ -5613,9 +5613,23 @@
     "address": "17 STATE STREET, 30TH FLOOR\nNEW YORK, NY 10004",
     "phone": "(212) 806-3782",
     "email": "katie.carroll@adyne.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/15/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/15/2023"
+      },
+      {
+        "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/15/2023"
+      }
+    ]
   },
   {
     "id": "1392863",
@@ -6735,9 +6749,16 @@
     "phone": "(310) 575-1711",
     "email": "lara.clarke@carlyle.com",
     "mailingAddress": "7722 HOSFORD AVENUE\nLOS ANGELES, CA 90045",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/10/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/25/2023"
+      }
+    ]
   },
   {
     "id": "1386210",
@@ -8505,13 +8526,14 @@
     "address": "200 CLAREDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
     "phone": "(617) 531-6319",
     "email": "gdanaher@arclight.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "10/18/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/18/2023"
       }
     ]
   },
@@ -13672,14 +13694,15 @@
     "address": "2110 K STREET\nSACRAMENTO, CA 95816",
     "phone": "(916) 442-4565",
     "email": "rgonzales.naswca@socialworkers.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/08/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NATIONAL ASSOCIATION OF SOCIAL WORKERS, CALIFORNIA CHAPTER",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/08/2023"
       }
     ]
   },
@@ -17278,6 +17301,28 @@
         "entityName": "CANYON SNOW CONSULTING LLC",
         "type": "Firm",
         "effectiveDate": "02/02/2023"
+      }
+    ]
+  },
+  {
+    "id": "1359697",
+    "name": "HUH, SEA JIN",
+    "address": "17 STATE STREET, 30TH FLOOR\nNEW YORK, NY 10004",
+    "phone": "(212) 806-3786",
+    "email": "seajin.huh@adyne.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "12/01/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      },
+      {
+        "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -23072,13 +23117,14 @@
     "name": "MANNAA, STEEN",
     "address": "32 DUKE STREET, 3RD FLOOR\nLONDON UK SW1Y 6DF",
     "email": "mannaa@triton-partners",
-    "registrationDate": "05/01/2023",
-    "status": "Active",
+    "registrationDate": "09/28/2023",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "TRITON INVESTMENTS ADVISERS LLP",
         "type": "Employer",
-        "effectiveDate": "05/01/2023"
+        "effectiveDate": "05/01/2023",
+        "terminationDate": "09/28/2023"
       }
     ]
   },
@@ -23771,9 +23817,16 @@
     "address": "1107 9TH STREET, #1050\nSACRAMENTO, CA 95814",
     "phone": "(415) 572-3107",
     "mailingAddress": "PO BOX 889336\n LOS ANGELES, CA 90088-9336",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRUST FOR PUBLIC LAND; THE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1366778",
@@ -30804,13 +30857,14 @@
     "name": "REYES, MAXIMILLIAN T.",
     "address": "1800 CENTURY PARK EAST, 8TH FLOOR\nLOS ANGELES, CA 90067",
     "phone": "(310) 315-8242",
-    "registrationDate": "03/27/2023",
-    "status": "Active",
+    "registrationDate": "12/01/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MC GUIREWOODS CONSULTING LLC",
         "type": "Firm",
-        "effectiveDate": "03/27/2023"
+        "effectiveDate": "03/27/2023",
+        "terminationDate": "12/01/2023"
       }
     ]
   },
@@ -31137,9 +31191,16 @@
     "name": "RIVAS, MICHELLE ",
     "address": "4030 LENNANE DRIVE\nSACRAMENTO, CA 95834",
     "phone": "(916) 779-1400",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/09/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA PHARMACISTS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1392915",
@@ -32081,6 +32142,28 @@
         "entityName": "STATE STREET BANK AND TRUST COMPANY",
         "type": "Employer",
         "effectiveDate": "04/25/2023"
+      }
+    ]
+  },
+  {
+    "id": "1349300",
+    "name": "RUSTUM, JOHN ",
+    "address": "17 STATE STREET, 30TH FLOOR\nNEW YORK, NY 10004",
+    "phone": "(212) 806-3701",
+    "email": "john.rustum@adyne.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/17/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      },
+      {
+        "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -34803,6 +34886,22 @@
     ]
   },
   {
+    "id": "1462801",
+    "name": "SOBEL , JOHN ",
+    "address": "1099 NEW YORK AVENUE NW #900\nWASHINGTON , DC 20003",
+    "phone": "(202) 639-6000",
+    "email": "jsobel@jenner.com",
+    "registrationDate": "08/29/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JENNER & BLOCK LLP",
+        "type": "Firm",
+        "effectiveDate": "08/29/2023"
+      }
+    ]
+  },
+  {
     "id": "1451407",
     "name": "SOCOLOF, NATASHA ",
     "address": "299 PARK AVENUE, 40TH FLOOR \nNEW YORK, NY 10171",
@@ -36118,6 +36217,22 @@
     ]
   },
   {
+    "id": "1448376",
+    "name": "TAING, VOLECK",
+    "address": "1303 J STREET SUITE 450\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-7991",
+    "registrationDate": "11/06/2023",
+    "ethicsCourseCompletionDate": "11/03/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN COUNCIL OF ENGINEERING COMPANIES CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "11/06/2023"
+      }
+    ]
+  },
+  {
     "id": "1374218",
     "name": "TAKHAR, SAVEENA",
     "address": "770 L STREET, SUITE 1200\nSACRAMENTO, CA 95823",
@@ -36939,11 +37054,12 @@
   {
     "id": "1425638",
     "name": "TORRES CASILLAS, JOSE",
-    "address": "1127 11TH STREET, SUITE 925\nSACRAMENTO, CA 95814",
-    "phone": "(916) 497-0923",
-    "registrationDate": "01/01/2023",
+    "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
+    "phone": "(916) 380-2783",
+    "email": "jtorres@technet.org",
+    "registrationDate": "11/28/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "HEALTH ACCESS CALIFORNIA",
@@ -38783,9 +38899,16 @@
     "address": "1350 AVENUE OF AMERICAS, 28TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 937-4872",
     "email": "matthew.weinstein@cheynecapital.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "04/28/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "CHEYNE CAPITAL US, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/28/2023"
+      }
+    ]
   },
   {
     "id": "1447401",
