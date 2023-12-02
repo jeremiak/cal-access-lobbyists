@@ -205,9 +205,16 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 896-4841",
     "email": "reed@caleec.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1442603",
@@ -8233,6 +8240,7 @@
     "email": "ronan@spectrumequity.com",
     "mailingAddress": "140 NEW MONTGOMERY STREET, 20TH FLOOR\nATTN: PICAZO\nSAN FRANCISCO, CA 94105",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
       {
@@ -8677,6 +8685,23 @@
       {
         "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
         "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1456103",
+    "name": "DAVIS, CHRIS",
+    "address": "300 SOUTH TRYON STREET, SUITE 2500\nCHARLOTTE, NC 28202",
+    "phone": "(303) 460-4100",
+    "email": "chris.davis@barings.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "12/08/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BARINGS LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -10917,6 +10942,23 @@
         "entityName": "CATTERTON MANAGEMENT COMPANY, LLC",
         "type": "Employer",
         "effectiveDate": "03/21/2023"
+      }
+    ]
+  },
+  {
+    "id": "1451581",
+    "name": "EZZEDDINE, SAIED",
+    "address": "300 SOUTH TRYON STREET, SUITE 2500\nCHARLOTTE, NC 28202",
+    "phone": "(303) 489-6976",
+    "email": "saied.ezzeddine@barings.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/03/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BARINGS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -13989,9 +14031,16 @@
     "phone": "(713) 452-2112",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (713) 452-2112\nEmail: info@keyslawcorp.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/14/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "QEP ADVISERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1462303",
@@ -15347,6 +15396,7 @@
     "phone": "(212) 364-0217",
     "email": "jonathan.harari@crescentcap.com",
     "registrationDate": "06/20/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -27654,6 +27704,23 @@
     ]
   },
   {
+    "id": "1420958",
+    "name": "OHGI, DANIEL",
+    "address": "300 SOUTH TRYON STREET, SUITE 2500\nCHAROTTE, NC 28202",
+    "phone": "(310) 460-4453",
+    "email": "daniel.ohgi@barings.com",
+    "mailingAddress": "2321 ROSECRANS AVENUE, SUITE 4225\nEL SEGUNDO, CA 90245",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BARINGS LLC",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1337952",
     "name": "OHM, SCOTT",
     "address": "499 PARK AVENUE, 17TH FLOOR\nNEW YORK, NY 10022",
@@ -27743,6 +27810,7 @@
     "phone": "(973) 410-9222",
     "email": "erik.olsen@jlem.com",
     "registrationDate": "08/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -30149,6 +30217,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -31129,9 +31198,16 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "erika@caleec.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/01/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1387972",
@@ -31308,9 +31384,16 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(530) 574-4701",
     "email": "kayla@caleec.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1397903",
@@ -35248,6 +35331,7 @@
     "phone": "(916) 447-0503",
     "email": "nspievack@housingca.org",
     "registrationDate": "09/11/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
