@@ -9796,9 +9796,16 @@
     "phone": "(713) 452-2111",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (713) 452-2111\nEmail: info@keyslawcorp.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/14/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "QEP ADVISERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1460026",
@@ -25568,9 +25575,16 @@
     "address": "299 PARK AVENUE, 37TH FLOOR\nNEW YORK, NY 10171",
     "phone": "(212) 315-1483",
     "email": "chris.mitrovich@apogemcapital.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/14/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APOGEM CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "02/06/2023"
+      }
+    ]
   },
   {
     "id": "1340711",
@@ -37963,9 +37977,16 @@
     "address": "590 MADISON AVENUE, 31ST FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 634-7373",
     "email": "rvasami@corbincapital.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORBIN CAPITAL PARTNERS, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1422440",
