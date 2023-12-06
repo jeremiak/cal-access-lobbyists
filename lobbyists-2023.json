@@ -1525,6 +1525,7 @@
     "email": "victor@falconstrategies.net",
     "mailingAddress": "1372 SANTA OLIVIA ROAD\nCHULA VISTA, CA 91913",
     "registrationDate": "05/23/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -4462,13 +4463,14 @@
     "address": "201 WEST 5TH STREET, 11TH FLOOR\nAUSTIN, TX 78701",
     "phone": "(646) 822-8054",
     "email": "nbrown@act.is",
-    "registrationDate": "05/23/2023",
-    "status": "Active",
+    "registrationDate": "10/31/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACTIS ADVISERS INC.",
         "type": "Employer",
-        "effectiveDate": "05/23/2023"
+        "effectiveDate": "05/23/2023",
+        "terminationDate": "10/31/2023"
       }
     ]
   },
@@ -10067,9 +10069,16 @@
     "address": "101 CALIFORNIA STREET, SUITE 4225\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 675-7316",
     "email": "scott.draper@algertglobal.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALGERT GLOBAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/30/2023"
+      }
+    ]
   },
   {
     "id": "1453460",
@@ -14905,6 +14914,22 @@
     ]
   },
   {
+    "id": "1402091",
+    "name": "GULLEN, DAVID",
+    "address": "100 DRAKES LANDING\nGREENBRAE, CA 94904",
+    "phone": "(415) 464-2893",
+    "email": "dgullen@boston-partners.com",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BOSTON PARTNERS SECURITIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1236290",
     "name": "GUNNING, MICHAEL",
     "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
@@ -19615,9 +19640,16 @@
     "address": "28 STATE STREET\nBOSTON, MA 02109",
     "phone": "(617) 720-7966",
     "email": "adiam.kiflom@abrdn.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/29/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ABRDN INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1440051",
@@ -21360,9 +21392,16 @@
     "address": "100 WILSHIRE BOULEVARD\nSANTA MONICA, CA 90401",
     "phone": "(310) 356-0858",
     "email": "compliance@gcp.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/27/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "05/08/2023"
+      }
+    ]
   },
   {
     "id": "1460227",
@@ -21583,6 +21622,7 @@
     "phone": "(310) 356-0858",
     "email": "compliance@gcp.com",
     "registrationDate": "05/18/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -28111,9 +28151,16 @@
     "address": "1200 ENTREPRENEURIAL DRIVE\nBROOMFIELD, CO 80021",
     "phone": "(303) 606-3600",
     "email": "kyle.osborn@partnersgroup.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/21/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARTNERS GROUP (USA) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1395584",
@@ -28705,6 +28752,7 @@
     "phone": "(415) 315-5100",
     "email": "akash.d.patel@jpmorgan.com",
     "registrationDate": "10/27/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -33030,9 +33078,16 @@
     "address": "225 FRANKLIN STREET, SUITE 2700\nBOSTON , MA 02110",
     "phone": "(617) 722-4700",
     "email": "michael.schantz@rbc.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/22/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1442341",
@@ -37718,6 +37773,22 @@
     ]
   },
   {
+    "id": "1464744",
+    "name": "VAKILIAN, NEDA",
+    "address": "201 WEST 5TH STREET, 11TH FLOOR\nAUSTIN, TX 78701",
+    "phone": "(646) 822-8054",
+    "email": "nvakilian@act.is",
+    "registrationDate": "11/30/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTIS ADVISERS INC.",
+        "type": "Employer",
+        "effectiveDate": "11/30/2023"
+      }
+    ]
+  },
+  {
     "id": "1386266",
     "name": "VALDERRAMA, TIM",
     "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
@@ -38496,9 +38567,16 @@
     "address": "600 5TH AVENUE, 2ND FLOOR\nNEW YORK, NY 10020",
     "phone": "(212) 407-4600",
     "email": "ian.waler@gam.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/28/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GAM USA INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1456884",
@@ -39677,9 +39755,16 @@
     "phone": "(212) 878-0600",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET SUITE 412\nC/O KEYS CORP\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/17/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WARBURG PINCUS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1415128",
