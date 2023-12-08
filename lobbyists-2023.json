@@ -5790,6 +5790,24 @@
     ]
   },
   {
+    "id": "1392801",
+    "name": "CASSANO, GREGORY",
+    "address": "400 MADISON AVENUE, SUITE 14-C\nNEW YORK, NY 10017",
+    "phone": "(212) 838-5107",
+    "email": "cassanog@ttint.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TT INTERNATIONAL",
+        "type": "Employer",
+        "effectiveDate": "10/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1458471",
     "name": "CASSIDY, DANIELLE",
     "address": "71 SOUTH WACKER DRIVE, SUITE 800\nCHICAGO, IL 60606",
@@ -9982,9 +10000,16 @@
     "address": "30 ROCKEFELLER PLAZA\nNEW YORK, NY 10112",
     "phone": "(212) 700-6439",
     "email": "tony.dote@lazard.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/15/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LAZARD ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/30/2023"
+      }
+    ]
   },
   {
     "id": "1356968",
@@ -15051,14 +15076,15 @@
     "name": "HABAY, GREGORY",
     "address": "55 HUDSON YARDS \nNEW YORK, NY 10001",
     "phone": "(212) 715-3880",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/10/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "THIRD POINT LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/10/2023"
       }
     ]
   },
@@ -19234,6 +19260,22 @@
     ]
   },
   {
+    "id": "1463552",
+    "name": "KELLY, EMILY",
+    "address": "240 EAST HACIENDA  AVENUE\nCAMPBELL, CA 95008",
+    "phone": "(708) 275-6313",
+    "registrationDate": "10/17/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHARGEPOINT",
+        "type": "Employer",
+        "effectiveDate": "10/17/2023"
+      }
+    ]
+  },
+  {
     "id": "1417643",
     "name": "KELLY, JOSEPH D.",
     "address": "2850 QUARRY LAKE DRIVE \nBALTIMORE, MD 21209",
@@ -20925,16 +20967,17 @@
   {
     "id": "1421366",
     "name": "LAWEE, DANIEL",
-    "address": "720 5TH AVENUE, 13TH FLOOR\nNEW YORK, NY 10019",
-    "phone": "(212) 489-4350",
-    "email": "dlawee@christoffersonrobb.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "address": "200 GREENWICH AVENUE\nGREENWICH, CT 06830",
+    "phone": "(203) 900-3658",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "07/18/2023",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "CHRISTOFFERSON, ROBB & COMPANY, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/15/2023"
       }
     ]
   },
@@ -22079,9 +22122,16 @@
     "address": "865 SOUTH FIGUEROA STREET\nLOS ANGELES, CA 90017",
     "phone": "(212) 771-4149",
     "email": "william.lloyd@tcw.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/13/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCW, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1438325",
@@ -26328,7 +26378,8 @@
     "phone": "(212) 838-5107",
     "email": "Mostaracp@TTint.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95841",
-    "registrationDate": "11/14/2023",
+    "registrationDate": "10/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -26939,9 +26990,16 @@
     "address": "4 EMBARCADERO CENTER, FLOOR 24\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 281-4511",
     "email": "jim.nelson@lazard.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/15/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LAZARD ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/30/2023"
+      }
+    ]
   },
   {
     "id": "1464209",
@@ -28345,6 +28403,21 @@
         "entityName": "MURDOCH WALRATH  & HOLMES",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464874",
+    "name": "PADILLA, KRISTAL HILDA ",
+    "address": "2017 O STREET\nSACRAMENTO, CA 95811",
+    "phone": "(916) 444-8641",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
       }
     ]
   },
@@ -34280,7 +34353,8 @@
       {
         "entityName": "BP PULSE FLEET",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/18/2023"
       }
     ]
   },
@@ -35994,9 +36068,16 @@
     "address": "4 EMBARCADERO CENTER, 24TH FLOOR\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 623-5033",
     "email": "craig.straub@lazard.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/15/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LAZARD ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/30/2023"
+      }
+    ]
   },
   {
     "id": "1343479",
@@ -36555,6 +36636,7 @@
     "phone": "(916) 442-7887",
     "email": "anthonyt@csda.net",
     "registrationDate": "10/09/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
