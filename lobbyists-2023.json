@@ -34304,9 +34304,16 @@
     "address": "1017 L STREET, SUITE 351\nSACRAMENTO, CA 95814",
     "phone": "(916) 549-2853",
     "email": "nicette@nlsortpa.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/05/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NL SHORT PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1428188",
@@ -38386,14 +38393,15 @@
     "address": "925 L STREET, SUITE 600\nSACRAMENTO, CA 95814",
     "phone": "(916) 849-4922",
     "email": "veronica@cruzstrategies.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CRUZ STRATEGIES, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/01/2023"
       }
     ]
   },
