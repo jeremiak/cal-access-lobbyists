@@ -28272,6 +28272,23 @@
     ]
   },
   {
+    "id": "1400308",
+    "name": "OSTER, RACHEL",
+    "address": "2110 K STREET\nSACRAMENTO, CA 95818",
+    "phone": "(916) 261-0952",
+    "email": "rachel@diversionstrategies.com",
+    "registrationDate": "07/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DIVERSION STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "07/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1435203",
     "name": "OSYF, MARK",
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
@@ -37335,13 +37352,18 @@
     "email": "jtorres@technet.org",
     "registrationDate": "11/28/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "HEALTH ACCESS CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "11/03/2023"
+      },
+      {
+        "entityName": "TECHNET--TECHNOLOGY NETWORK",
+        "type": "Employer",
+        "effectiveDate": "11/28/2023"
       }
     ]
   },
@@ -39288,12 +39310,13 @@
   {
     "id": "1411770",
     "name": "WEISS, ZACH",
-    "address": "375 PARK AVENUE, 33RD FLOOR\nNEW YORK, NY 10152",
-    "phone": "(212) 895-2280",
-    "email": "lobbying@campaignlawyers.com",
-    "registrationDate": "06/30/2023",
+    "address": "712 5TH AVENUE, 43RD FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 265-6222",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "12/01/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "SOUNDPOINT CAPITAL MANAGEMENT, LP",
