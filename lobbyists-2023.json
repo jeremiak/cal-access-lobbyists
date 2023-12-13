@@ -2349,6 +2349,22 @@
     ]
   },
   {
+    "id": "1464539",
+    "name": "BATIBAY, EMILY",
+    "address": "105 WIGMORE STREET\nLONDON UK W1U ",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VITRUVIAN PARTNERS LTD",
+        "type": "Employer",
+        "effectiveDate": "10/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1448764",
     "name": "BATJER, MARYBEL",
     "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
@@ -4910,12 +4926,17 @@
   {
     "id": "1418180",
     "name": "BURR JR., TIMOTHY",
-    "address": "555 CAPITL MALL, SUITE 180\nSACRAMENTO, CA 95814",
-    "phone": "(916) 469-0800",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95817",
+    "phone": "(805) 234-5481",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "DEVEAU BURR GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "11/06/2023"
+      },
       {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
@@ -9408,12 +9429,17 @@
   {
     "id": "1365907",
     "name": "DEVEAU, ANDREA ",
-    "address": "555 CAPITOL MALL, SUITE 180\nSACRAMENTO, CA 95814",
-    "phone": "(916) 469-0800",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95817",
+    "phone": "(805) 234-5481",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "DEVEAU BURR GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "11/06/2023"
+      },
       {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
@@ -9575,6 +9601,21 @@
     ]
   },
   {
+    "id": "1337926",
+    "name": "DI PAOLO, EVAN L.",
+    "address": "399 PARK AVE, 22ND FLOOR\nNEW YORK , NY 10022",
+    "phone": "(212) 259-7300",
+    "registrationDate": "01/19/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TFG ASSET MANAGEMENT US LP",
+        "type": "Employer",
+        "effectiveDate": "01/19/2023"
+      }
+    ]
+  },
+  {
     "id": "1448067",
     "name": "DI PIETRO, GREER C.",
     "address": "200 CLARENDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
@@ -9726,21 +9767,6 @@
         "entityName": "PICTET ASSET MANAGEMENT USA CORP.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1336877",
-    "name": "DIPAOLO, EVAN L.",
-    "address": "399 PARK AVE, 22ND FLOOR\nNEW YORK , NY 10022",
-    "phone": "(212) 259-7300",
-    "registrationDate": "01/19/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TFG ASSET MANAGEMENT US LP",
-        "type": "Employer",
-        "effectiveDate": "01/19/2023"
       }
     ]
   },
@@ -12351,6 +12377,22 @@
     ]
   },
   {
+    "id": "1463798",
+    "name": "FRIEDMAN, MARCUS S.",
+    "address": "5998 ALCALA PARK\nSAN DIEGO, CA 92110",
+    "phone": "(619) 260-4100",
+    "email": "mfriedman@sandiego.edu",
+    "registrationDate": "10/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHILDREN'S ADVOCACY INSTITUTE",
+        "type": "Employer",
+        "effectiveDate": "10/27/2023"
+      }
+    ]
+  },
+  {
     "id": "1394257",
     "name": "FRIEDRICH, MARK J.",
     "address": "233 WILSHIRE BOULEVARD, SUITE 525\nSANTA MONICA, CA 90401",
@@ -14496,6 +14538,7 @@
     "phone": "(916) 282-5112",
     "email": "bgreene@wclp.org",
     "registrationDate": "10/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -15420,6 +15463,7 @@
     "address": "555 12TH STREET NORTHWEST, SUITE 504\nWASHINGTON, DC 20004",
     "phone": "(202) 572-1286",
     "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -19093,9 +19137,16 @@
     "name": "KATZ, RICHARD",
     "address": "15936 VALLEY WOOD\nSHERMAN OAKS, CA 94103",
     "phone": "(818) 995-8572",
-    "registrationDate": "07/01/2023",
-    "status": "In Suspense",
-    "relationships": []
+    "registrationDate": "12/08/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KATZ CONSULTING, INC; RICHARD",
+        "type": "Firm",
+        "effectiveDate": "02/13/2023"
+      }
+    ]
   },
   {
     "id": "1428250",
@@ -22295,6 +22346,7 @@
     "phone": "(916) 446-5021",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -23367,8 +23419,8 @@
     "phone": "(916) 890-3670",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "09/30/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VITRUVIAN PARTNERS LTD",
@@ -32538,7 +32590,7 @@
   {
     "id": "1444933",
     "name": "RYLANDER, LETICIA 'TISH'",
-    "address": "2612 17TH STREET\nSACRAMENTO , CA 95814",
+    "address": "2612 17TH STREET\nSACRAMENTO , CA 95817",
     "phone": "(805) 234-5481",
     "registrationDate": "11/06/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
@@ -37092,6 +37144,23 @@
     ]
   },
   {
+    "id": "1461875",
+    "name": "THOMPSON-MORLEY, MCKINLEY",
+    "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
+    "phone": "(916) 930-0796",
+    "email": "mckinley@caladvisorsllc.com",
+    "registrationDate": "07/19/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ADVISORS, LLC",
+        "type": "Firm",
+        "effectiveDate": "07/19/2023"
+      }
+    ]
+  },
+  {
     "id": "1339940",
     "name": "THORSEN, DANIELLE",
     "address": "2000 AVENUE OF THE STARS\nLOS ANGELES, CA 90067",
@@ -37348,7 +37417,7 @@
     "id": "1425638",
     "name": "TORRES CASILLAS, JOSE",
     "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
-    "phone": "(916) 380-2783",
+    "phone": "(909) 380-2783",
     "email": "jtorres@technet.org",
     "registrationDate": "11/28/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
