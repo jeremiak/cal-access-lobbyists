@@ -4168,7 +4168,8 @@
       {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
-        "effectiveDate": "07/17/2023"
+        "effectiveDate": "07/17/2023",
+        "terminationDate": "12/07/2023"
       }
     ]
   },
@@ -29704,7 +29705,8 @@
       {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
-        "effectiveDate": "03/01/2023"
+        "effectiveDate": "03/01/2023",
+        "terminationDate": "12/03/2023"
       }
     ]
   },
@@ -38854,7 +38856,8 @@
       {
         "entityName": "LA SALLE INVESTMENT MANAGEMENT, INC. INCLUDING LA SALLE INVESTMENT MANAGEMENT DISTRIBUTORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/13/2023"
       }
     ]
   },
@@ -40305,7 +40308,14 @@
     "phone": "(916) 469-0800",
     "registrationDate": "07/01/2023",
     "status": "Revoked",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "STRATEGIES 360",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/30/2023"
+      }
+    ]
   },
   {
     "id": "1448166",
