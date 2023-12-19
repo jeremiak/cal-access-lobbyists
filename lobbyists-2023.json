@@ -729,9 +729,16 @@
     "address": "114 WEST 47TH STREET, FLOOR 19\nNEW YORK, NY 10036",
     "phone": "(212) 784-2266",
     "email": "david.altshuler@ifminvestors.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "10/03/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "IFM INVESTORS (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/03/2023"
+      }
+    ]
   },
   {
     "id": "1395997",
@@ -5810,13 +5817,14 @@
     "address": "71 SOUTH WACKER DRIVE, SUITE 800\nCHICAGO, IL 60606",
     "phone": "(312) 585-0300",
     "email": "danielle.cassidy@lgima.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "11/09/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LEGAL & GENERAL INVESTMENT MANAGEMENT AMERICA, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/09/2023"
       }
     ]
   },
@@ -14991,9 +14999,16 @@
     "address": "2495 NATOMAS PARK DRIVE \nSACRAMENTO, CA 95833",
     "phone": "(916) 319-6526",
     "email": "charles.gulbe@statestreet.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/23/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STATE STREET BANK AND TRUST COMPANY",
+        "type": "Employer",
+        "effectiveDate": "01/23/2023"
+      }
+    ]
   },
   {
     "id": "1254778",
@@ -15679,7 +15694,8 @@
     "name": "HARRIS, PAMELA B.",
     "address": "888 BOYLSTON STREET, SUITE 1600\nBOSTON, MA 02199",
     "phone": "(617) 859-2959",
-    "email": "pharris@abry.com",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "07/01/2023",
     "status": "Revoked",
     "relationships": []
@@ -16639,6 +16655,39 @@
         "entityName": "CINVEN AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1371647",
+    "name": "HEWETT, MICHAEL",
+    "address": "100 WEST PUTNAM AVENUE\nGREENWICH , CT 06830",
+    "phone": "(203) 618-3500",
+    "email": "mhewett@svpglobal.com",
+    "registrationDate": "11/30/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STRATEGIC VALUE PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/30/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465184",
+    "name": "HEWITT, SHAUNA",
+    "address": "71 SOUTH WACKER DRIVE, SUITE 800\nCHICAGO, IL 60606",
+    "phone": "(312) 964-3029",
+    "email": "shauna.hewitt@lgima.com",
+    "registrationDate": "12/12/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEGAL & GENERAL INVESTMENT MANAGEMENT AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "12/12/2023"
       }
     ]
   },
@@ -24626,9 +24675,16 @@
     "address": "ONE CONGRESS STREET \nBOSTON, MA 02114",
     "phone": "(617) 664-5909",
     "email": "pdmcdowell@statestreet.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/16/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STATE STREET BANK AND TRUST COMPANY",
+        "type": "Employer",
+        "effectiveDate": "02/16/2023"
+      }
+    ]
   },
   {
     "id": "1273641",
@@ -26158,14 +26214,15 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
-    "registrationDate": "08/01/2023",
+    "registrationDate": "12/01/2023",
     "ethicsCourseCompletionDate": "08/10/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "REAL ESTATE EQUITY EXCHANGE, INC. AND ITS AFFILIATE, UNISON INVESTMENT MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "08/01/2023"
+        "effectiveDate": "08/01/2023",
+        "terminationDate": "12/01/2023"
       }
     ]
   },
@@ -33742,6 +33799,22 @@
     ]
   },
   {
+    "id": "1465098",
+    "name": "SCIARAFFO, STEPHEN",
+    "address": "1350 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(347) 843-1971",
+    "email": "stephen.sciaraffo@cheynecapital.com",
+    "registrationDate": "12/15/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHEYNE CAPITAL US, LP",
+        "type": "Employer",
+        "effectiveDate": "12/15/2023"
+      }
+    ]
+  },
+  {
     "id": "1419125",
     "name": "SCICLUNA, RACHEL",
     "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -37664,14 +37737,15 @@
     "address": "114 WEST 47TH STREET, 19TH FLOOR\nNEW YORK, NY 10036",
     "phone": "(860) 961-7901",
     "email": "joe.tremblay@ifminvestors.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/05/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "IFM INVESTORS (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/05/2023"
       }
     ]
   },
