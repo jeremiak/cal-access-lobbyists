@@ -1448,6 +1448,21 @@
     ]
   },
   {
+    "id": "1294600",
+    "name": "AUGUSTA, BRIAN",
+    "address": "1107 9TH STREET, SUITE 1011\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-9241",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC INTEREST ADVOCATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1452887",
     "name": "AUGUSTINE, ANNALEE",
     "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
@@ -4156,6 +4171,36 @@
     ]
   },
   {
+    "id": "1435750",
+    "name": "BRIDGE, SARAH",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95817",
+    "phone": "(805) 234-5481",
+    "email": "sarah@deveauburrgroup.com",
+    "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS; THE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/14/2023"
+      },
+      {
+        "entityName": "DEVEAU BURR GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "12/08/2023"
+      },
+      {
+        "entityName": "STRATEGIES 360",
+        "type": "Firm",
+        "effectiveDate": "07/17/2023",
+        "terminationDate": "12/07/2023"
+      }
+    ]
+  },
+  {
     "id": "1440205",
     "name": "BRIGHT, JERRY ",
     "address": "767 5TH AVENUE, 12TH FLOOR\nNEW YORK, NY 10153",
@@ -6185,7 +6230,8 @@
       {
         "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/07/2023"
       }
     ]
   },
@@ -6551,9 +6597,16 @@
     "address": "75 ISHAM ROAD, SUITE 200\nWEST HARTFORD, CT 06107",
     "phone": "(860) 674-8066",
     "email": "mchow-tai@fairviewcapital.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/19/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FAIRVIEW CAPITAL PARTNERS, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1353805",
@@ -8045,7 +8098,13 @@
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "BLUE SHIELD OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1461358",
@@ -12303,8 +12362,8 @@
     "address": "309 WEST 49TH STREET\nNEW YORK, NY 10019",
     "phone": "(212) 667-9482",
     "email": "rfreeman@nomura-asset.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "10/31/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NOMURA ASSET MANAGEMENT U.S.A. INC. (\"NAM-USA\")",
@@ -21010,7 +21069,8 @@
       {
         "entityName": "KP PUBLIC AFFAIRS",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/30/2023"
       }
     ]
   },
@@ -21112,6 +21172,21 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "03/15/2023"
+      }
+    ]
+  },
+  {
+    "id": "1377471",
+    "name": "LAWLER, ANYA",
+    "address": "1107 9TH STREET, SUITE 1011\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-9241",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC INTEREST ADVOCATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -22018,12 +22093,12 @@
   {
     "id": "1335122",
     "name": "LINDSEY, GREG B.",
-    "address": "2 INTERNATIONAL PLACE\nBOSTON, MA 02110",
-    "phone": "(617) 672-6779",
-    "email": "greg.lindsey@morganstanley.com",
-    "registrationDate": "10/13/2023",
+    "address": "197 CLARENDON STREET\nBOSTON, MA 02116",
+    "phone": "(925) 683-3252",
+    "email": "glindsey@manulife.com",
+    "registrationDate": "12/18/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
@@ -23494,6 +23569,21 @@
         "entityName": "MANTELL & ASSOCIATES; MAXINE",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465026",
+    "name": "MAR, CASSANDRA",
+    "address": "915 L STREET, SUITE 1130\nSACRAMENTO, CA 95814",
+    "phone": "(916) 661-5365",
+    "registrationDate": "12/04/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIEMELA, PAPPAS AND ASSOCIATES",
+        "type": "Firm",
+        "effectiveDate": "12/04/2023"
       }
     ]
   },
@@ -29804,6 +29894,28 @@
         "entityName": "LYLES, WIESMANN, PIZZOTTI AND ASSOCIATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1455993",
+    "name": "PLATE, GINA",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95817",
+    "phone": "(805) 234-5481",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DEVEAU BURR GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "12/04/2023"
+      },
+      {
+        "entityName": "STRATEGIES 360",
+        "type": "Firm",
+        "effectiveDate": "03/01/2023",
+        "terminationDate": "12/03/2023"
       }
     ]
   },
