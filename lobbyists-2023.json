@@ -10515,6 +10515,22 @@
     ]
   },
   {
+    "id": "1465027",
+    "name": "ECK, JASON",
+    "address": "452 FIFTH AVENUE, 25TH FLOOR\nNEW YORK, NY 10018",
+    "phone": "(212) 295-6220",
+    "email": "jason.eck@lombardodier.com",
+    "registrationDate": "11/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOMBARD ODIER ASSET MANAGEMENT (USA) CORP",
+        "type": "Employer",
+        "effectiveDate": "11/27/2023"
+      }
+    ]
+  },
+  {
     "id": "1229725",
     "name": "EDDY, SHANNON",
     "address": "2501 PORTOLA WAY \nSACRAMENTO, CA 95818",
@@ -19167,6 +19183,22 @@
         "entityName": "MARSHALL WACE NORTH AMERICA L.P.",
         "type": "Firm",
         "effectiveDate": "08/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465036",
+    "name": "KAPLAN, CRAIG",
+    "address": "452 FIFTH AVENUE, 25TH FLOOR\nNEW YORK, NY 10018",
+    "phone": "(212) 295-6220",
+    "email": "jason.eck@lombardodier.com",
+    "registrationDate": "11/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOMBARD ODIER ASSET MANAGEMENT (USA) CORP",
+        "type": "Employer",
+        "effectiveDate": "11/27/2023"
       }
     ]
   },
