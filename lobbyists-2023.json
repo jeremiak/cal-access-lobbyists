@@ -7251,6 +7251,22 @@
     ]
   },
   {
+    "id": "1307144",
+    "name": "CONWAY, DANIEL",
+    "address": "1005 12TH STREET SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3545",
+    "email": "dconway@cagrocers.com",
+    "registrationDate": "11/06/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA GROCERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "11/06/2023"
+      }
+    ]
+  },
+  {
     "id": "1148855",
     "name": "COOK, GREGORY A.",
     "address": "1127 11TH STREET, SUITE 548\nSACRAMENTO, CA 95814",
@@ -22051,6 +22067,22 @@
         "entityName": "COMPASS ROSE ASSET MANAGEMENT, LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465328",
+    "name": "LIM, ALLISON",
+    "address": "1107 9TH STEET #560\nSACRAMENTO, CA 95814",
+    "phone": "(925) 787-9060",
+    "email": "alim@housingca.org",
+    "registrationDate": "12/04/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOUSING CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "12/04/2023"
       }
     ]
   },
@@ -39635,6 +39667,7 @@
     "phone": "(508) 233-3604",
     "email": "sweiss@stonepineam.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
