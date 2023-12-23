@@ -15863,6 +15863,22 @@
     ]
   },
   {
+    "id": "1465183",
+    "name": "HARRISON, GARY",
+    "address": "114 WEST 47TH STREET, 19TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(212) 784-2296",
+    "email": "gary.harrison@ifminvestors.com",
+    "registrationDate": "12/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "IFM INVESTORS (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "12/11/2023"
+      }
+    ]
+  },
+  {
     "id": "1149111",
     "name": "HARRISON, HEATHER S.",
     "address": "455 CAPITOL MALL, SUITE 222 \nSACRAMENTO, CA 95814",
@@ -39485,9 +39501,16 @@
     "name": "WEBER, JEFFREY",
     "address": "101 CALIFORNIA STREET\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 228-2820",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/29/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EASTDIL SECURED ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1393320",
