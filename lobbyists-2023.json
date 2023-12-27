@@ -11082,14 +11082,15 @@
     "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
     "phone": "(212) 503-2182",
     "email": "nathalie.wilson@blackstone.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/20/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/20/2023"
       }
     ]
   },
