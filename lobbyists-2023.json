@@ -6366,9 +6366,16 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2023"
+      },
+      {
         "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C. AND PSG EQUITY L.L.C.  (AND THEIR RESPECTIVE AFFILIATES)",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2023"
       }
     ]
   },
@@ -10651,9 +10658,9 @@
     "name": "EDWARDS, MARK",
     "address": "23 SAVILE ROW\nLONDON UK W1S 2ET",
     "email": "mark.edwards@rokoscapital.com",
-    "registrationDate": "04/26/2023",
+    "registrationDate": "12/22/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ROKOS CAPITAL MANAGEMENT LLC",
@@ -12117,8 +12124,8 @@
     "name": "FOSS-PEDERSEN, FREDERIK",
     "address": "23 SAVILE ROW\nLONDON UK W1S 2ET",
     "email": "fred.foss@rokoscapital.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
+    "registrationDate": "12/14/2023",
+    "status": "Terminated",
     "relationships": []
   },
   {
@@ -19424,6 +19431,11 @@
         "terminationDate": "08/31/2023"
       },
       {
+        "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "09/01/2023"
+      },
+      {
         "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C. AND PSG EQUITY L.L.C.  (AND THEIR RESPECTIVE AFFILIATES)",
         "type": "Employer",
         "effectiveDate": "09/01/2023"
@@ -20277,14 +20289,15 @@
     "phone": "(210) 683-5961",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (210) 683-5961\nEmail: fppc@bmhlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/21/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AFFINIUS CAPITAL",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/20/2023"
       }
     ]
   },
@@ -21594,9 +21607,16 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2023"
+      },
+      {
         "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C. AND PSG EQUITY L.L.C.  (AND THEIR RESPECTIVE AFFILIATES)",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2023"
       }
     ]
   },
@@ -29536,6 +29556,21 @@
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
         "effectiveDate": "01/23/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464933",
+    "name": "PERRON, MELANIE M.",
+    "address": "1201 K STREET, STE 750\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-3116",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APEX GROUP; THE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
