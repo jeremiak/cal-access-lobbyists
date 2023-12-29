@@ -1921,6 +1921,22 @@
     ]
   },
   {
+    "id": "1465475",
+    "name": "BANDEIRA, RODRIGO P.",
+    "address": "601 LEXINGTON AVENUE, 57TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 293-4600",
+    "email": "OL-Compliance-AM-US@btgpactual.com",
+    "registrationDate": "12/14/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BTG PACTUAL TIMBERLAND INVESTMENT GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "12/14/2023"
+      }
+    ]
+  },
+  {
     "id": "1350599",
     "name": "BANE, MICHAEL ",
     "address": "1370 AVENUE OF THE AMERICAS\nNEW YORK, NY 10019",
@@ -6740,9 +6756,16 @@
     "phone": "(978) 529-3906",
     "email": "tclancy@stonepineam.com",
     "mailingAddress": "375 PARK AVENUE, FLOOR 8\nNEW YORK, NY 10152\nPhone: (646) 367-7578\nEmail: compliancealerts@fiera",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PINESTONE ASSET MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1403000",
@@ -33837,9 +33860,16 @@
     "phone": "(310) 479-9998",
     "email": "pschmole@pschmole@lacapm.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/27/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOS ANGELES CAPITAL MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1354104",
@@ -39481,6 +39511,21 @@
     ]
   },
   {
+    "id": "1465486",
+    "name": "WATSON, CONNOR",
+    "address": "1 BEACON STREET\nBOSTON, MA 02108",
+    "phone": "(617) 832-8128",
+    "registrationDate": "10/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BOSTON PARTNERS GLOBAL INVESTORS, INC.",
+        "type": "Employer",
+        "effectiveDate": "10/27/2023"
+      }
+    ]
+  },
+  {
     "id": "1149193",
     "name": "WATTS, MARK",
     "address": "1127 11TH STREET, SUITE 747\nSACRAMENTO, CA 95814",
@@ -40309,9 +40354,16 @@
     "address": "1401 K STREET NORTHWEST,  SUITE 501\nWASHINGTON, DC 20005",
     "phone": "(202) 827-7588",
     "email": "cwilliamson@actonline.org",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACT / THE APP ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1359546",
