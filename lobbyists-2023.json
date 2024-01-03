@@ -14866,6 +14866,22 @@
     ]
   },
   {
+    "id": "1415046",
+    "name": "GRIFFITH, TYLER D.",
+    "address": "100 FEDERAL STREET, 35TH FLOOR\nBOSTON, MA 02110",
+    "phone": "(617) 946-2613",
+    "email": "tgriffith@thl.com",
+    "registrationDate": "12/21/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEE PARTNERS, L.P.; THOMAS H.",
+        "type": "Employer",
+        "effectiveDate": "12/21/2023"
+      }
+    ]
+  },
+  {
     "id": "1439655",
     "name": "GRIJALVA, RUBEN D",
     "address": "5420 FENTON WAY \nROSEVILLE, CA 95746",
@@ -15095,6 +15111,22 @@
         "entityName": "LOS ANGELES; COUNTY OF",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463722",
+    "name": "GUERRIERO, GIUSEPPE",
+    "address": "555 CALIFORNIA STREET\nSAN FRANCISCO, CA 94104-0000",
+    "phone": "(415) 633-1734",
+    "email": "GIUSEPPE.GUERRIERO@kkr.com",
+    "registrationDate": "10/31/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
+        "type": "Employer",
+        "effectiveDate": "10/31/2023"
       }
     ]
   },
@@ -22281,6 +22313,22 @@
     ]
   },
   {
+    "id": "1439868",
+    "name": "LINTON, EMEKA",
+    "address": "100 FEDERAL STREET, 35TH FLOOR\nBOSTON, MA 02110",
+    "phone": "(617) 748-8551",
+    "email": "elinton@thl.com",
+    "registrationDate": "12/21/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEE PARTNERS, L.P.; THOMAS H.",
+        "type": "Employer",
+        "effectiveDate": "12/21/2023"
+      }
+    ]
+  },
+  {
     "id": "1410268",
     "name": "LIPPIN, DAVID",
     "address": "510 MADISON AVENUE, 19TH FLOOR\nNEW YORK, NY 10022",
@@ -24011,14 +24059,15 @@
     "address": "600 MASSACHUSETTS AVENUE, NW\nWASHINGTON, DC 20001",
     "phone": "(202) 344-4000",
     "email": "sdclobbying@venable.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VENABLE LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -31968,6 +32017,23 @@
     ]
   },
   {
+    "id": "1465565",
+    "name": "ROBINSON, EDWARD S",
+    "address": "1701 18TH STREET, SUITE 202\nBAKERSFIELD, CA 93301",
+    "phone": "(559) 791-8885",
+    "email": "edwardrobinson@thesocialservant.com",
+    "mailingAddress": "P.O. BOX 1023\nBAKERSFIELD, CA 93302",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROBINSON ENTERPRISES, LLC; EDWARD S.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1416835",
     "name": "ROBINSON, KAYLA S.",
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
@@ -36985,14 +37051,19 @@
   {
     "id": "1436623",
     "name": "TALCOTT, SASHA",
-    "address": "15 BLUFF VIEW\nIRVINE, CA 92603",
-    "phone": "(917) 206-5179",
-    "email": "sasha.talcott@ninetyone.com",
+    "address": "555 CALIFORNIA STREET\nSAN FRANCISCO, CA 94104",
+    "phone": "(628) 249-4472",
+    "email": "sasha.talcott@kkr.com",
     "mailingAddress": "65 EAST 55TH STREET, 30TH FLOOR\nNEW YORK, NY 10022",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/01/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
+      },
       {
         "entityName": "NINETY ONE NORTH AMERICA, INC.",
         "type": "Employer",
@@ -39354,6 +39425,12 @@
         "entityName": "HPS INVESTMENT PARTNERS, LLC",
         "type": "Employer",
         "effectiveDate": "05/17/2023"
+      },
+      {
+        "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -40081,6 +40158,22 @@
         "entityName": "MANATT, PHELPS & PHILLIPS, LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1342119",
+    "name": "WHITE, GREGORY A.",
+    "address": "100 FEDERAL STREET, 35TH FLOOR\nBOSTON, MA 02110",
+    "phone": "(617) 946-2642",
+    "email": "gwhite@thl.com",
+    "registrationDate": "12/21/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEE PARTNERS, L.P.; THOMAS H.",
+        "type": "Employer",
+        "effectiveDate": "12/21/2023"
       }
     ]
   },
