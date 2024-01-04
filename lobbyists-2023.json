@@ -6984,6 +6984,22 @@
     "relationships": []
   },
   {
+    "id": "1371567",
+    "name": "COAN, JOHN B.",
+    "address": "1010 WASHINGTON BLVD.\nSTAMFORD, CT 06901",
+    "phone": "(203) 614-0800",
+    "email": "jcoan@argainvest.com",
+    "registrationDate": "11/17/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARGA INVESTMENT MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "11/17/2023"
+      }
+    ]
+  },
+  {
     "id": "1462248",
     "name": "COAN, PATRICK",
     "address": "55 HUDSON YARDS, 47TH FLOOR, SUITE C\nNEW YORK, NY 10001",
@@ -8309,14 +8325,15 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AON INVESTMENTS USA INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -9426,14 +9443,15 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SNAP INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -17935,14 +17953,15 @@
     "address": "111 HUNTINGTON AVENUE\nBOSTON, CA 02199",
     "phone": "(617) 964-5000",
     "email": "khyland@mfs.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/29/2023",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MFS INSTITUTIONAL ADVISORS, INC. AND ITS AFFILIATE MFS FUND DISTRIBUTORS, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/29/2023"
       }
     ]
   },
