@@ -18834,7 +18834,8 @@
       {
         "entityName": "CIFC ASSET MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "03/23/2023"
+        "effectiveDate": "03/23/2023",
+        "terminationDate": "01/01/2024"
       }
     ]
   },
@@ -26713,9 +26714,9 @@
   {
     "id": "1310705",
     "name": "MORTON, MIRA C.",
-    "address": "1415 L STREET, SUITE 940\nSACRAMENTO, CA 95814",
+    "address": "1215 K STREET, SUITE 1930 \nSACRAMENTO, CA 95814",
     "phone": "(916) 203-0488",
-    "email": "admin@stoneadvocacy.com",
+    "email": "mmorton@ccha.org",
     "registrationDate": "02/01/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
@@ -41601,14 +41602,15 @@
     "address": "11 WEST 42ND STREET, 9TH FLOOR\nNEW YORK, NY 10036",
     "phone": "(212) 878-3596",
     "email": "icrawford@avenuecapital.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/06/2023",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AVENUE CAPITAL MANAGEMENT II, L.P. AND ITS AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/06/2023"
       }
     ]
   }
