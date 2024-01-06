@@ -13267,6 +13267,22 @@
     ]
   },
   {
+    "id": "1148541",
+    "name": "GERSHENZON, LEORA",
+    "address": "1330 BROWN DR.\nDAVIS, CA 95616",
+    "phone": "(530) 848-5050",
+    "email": "leora.g@sbcglobal.net",
+    "registrationDate": "01/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GERSHENZON ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "01/03/2024"
+      }
+    ]
+  },
+  {
     "id": "1381569",
     "name": "GERSHUNY, JORDAN R.",
     "address": "9 WEST 57TH STREET, 35TH FLOOR\nNEW YORK, NY 10019",
@@ -14048,7 +14064,7 @@
   },
   {
     "id": "1416691",
-    "name": "GONZALEZ, CAROL T",
+    "name": "GONZALEZ, CAROL T.",
     "address": "1610 R STREET, SUITE 300\nSACRAMENTO, CA 95811",
     "phone": "(916) 441-3909",
     "email": "cgonzalez@strategicadvocates.com",
@@ -28819,6 +28835,23 @@
     ]
   },
   {
+    "id": "1352939",
+    "name": "OWENS, SYLVIA",
+    "address": "600 BRICKELL AVENUE, SUITE 1400\nMIAMI, FL 33131",
+    "phone": "(212) 782-3480",
+    "email": "sylvia.owens@klimllc.com",
+    "mailingAddress": "225 LIBERTY STREET, SUITE 4210\nNEW YORK, NY 10281",
+    "registrationDate": "01/02/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KENNEDY LEWIS INVESTMENT MANAGEMENT",
+        "type": "Employer",
+        "effectiveDate": "01/02/2024"
+      }
+    ]
+  },
+  {
     "id": "1386082",
     "name": "PAAS, RANDY G.",
     "address": "10 EAST 53RD STREET, FLOOR 21\nNEW YORK, NY 10022",
@@ -34043,6 +34076,22 @@
     ]
   },
   {
+    "id": "1376694",
+    "name": "SCHRYBER, BEN A",
+    "address": "600 BRICKELL AVENUE, SUITE 1400\nMIAMI, FL 33131",
+    "phone": "(212) 782-3480",
+    "email": "ben.schryber@klimllc.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KENNEDY LEWIS INVESTMENT MANAGEMENT",
+        "type": "Employer",
+        "effectiveDate": "01/02/2024"
+      }
+    ]
+  },
+  {
     "id": "1425444",
     "name": "SCHULMAN, JOSEPH D.",
     "address": "277 PARK AVENE\nNEW YORK, NY 10172",
@@ -34367,14 +34416,19 @@
   },
   {
     "id": "1228607",
-    "name": "SENDERLING-MCDONALD, CATHERINE",
-    "address": "925 L STREET, SUITE 350\nSACRAMENTO, CA 95814",
-    "phone": "(916) 443-1749",
-    "email": "csend@cwda.org",
-    "registrationDate": "08/25/2023",
+    "name": "SENDERLING-MCDONALD, CATHERINE E",
+    "address": "1401 21ST STREET, SUITE R\nSACRAMENTO, CA 95811",
+    "phone": "(916) 799-4471",
+    "email": "csm@catbirdstrategies.com",
+    "registrationDate": "01/01/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "CATBIRD STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      },
       {
         "entityName": "COUNTY WELFARE DIRECTORS ASSOCIATION OF CALIFORNIA (CWDA)",
         "type": "Employer",
