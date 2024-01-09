@@ -11877,14 +11877,15 @@
     "name": "FLANIGAN, SHAUN",
     "address": "1215 K STREET, SUITE 1760\nSACRAMENTO, CA 95814",
     "phone": "(916) 325-8591",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CAPITOL STRATEGIC ADVISORS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -16543,14 +16544,15 @@
     "address": "2 GREENWICH PLAZA\nGREENWICH, CT 06830",
     "phone": "(203) 618-1400",
     "email": "compliance@lpcap.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/30/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LONE PINE CAPITAL LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/30/2023"
       }
     ]
   },
@@ -25540,6 +25542,22 @@
         "entityName": "TCMI, INC. AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464142",
+    "name": "MEKELBURG, MEGAN",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "email": "megan@caleec.com",
+    "registrationDate": "10/02/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "10/02/2023"
       }
     ]
   },
@@ -35294,8 +35312,8 @@
   {
     "id": "1323590",
     "name": "SKVARLA, MIKHAEL",
-    "address": "500 CAPITOL MALL, SUITE 2600\nSACRAMENTO, CA 95814",
-    "phone": "(916) 441-1392",
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 291-2956",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
