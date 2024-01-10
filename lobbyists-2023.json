@@ -2705,6 +2705,22 @@
     ]
   },
   {
+    "id": "1464441",
+    "name": "BELLACH, SEAN",
+    "address": "915 L STREET SUITE 1460\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-5200",
+    "email": "seanb@car.org",
+    "registrationDate": "11/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
+        "type": "Employer",
+        "effectiveDate": "11/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1148062",
     "name": "BELOTE, MICHAEL D.",
     "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
@@ -11873,23 +11889,6 @@
     ]
   },
   {
-    "id": "1300334",
-    "name": "FLANIGAN, SHAUN",
-    "address": "1215 K STREET, SUITE 1760\nSACRAMENTO, CA 95814",
-    "phone": "(916) 325-8591",
-    "registrationDate": "12/31/2023",
-    "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Terminated",
-    "relationships": [
-      {
-        "entityName": "CAPITOL STRATEGIC ADVISORS, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "12/31/2023"
-      }
-    ]
-  },
-  {
     "id": "1148007",
     "name": "FLANIGAN, TIMOTHY H.",
     "address": "555 UNIVERSITY AVENUE, SUITE 240\nSACRAMENTO, CA 95825",
@@ -18382,6 +18381,22 @@
         "entityName": "COMVEST ADVISORS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465584",
+    "name": "JANOSKY, KEITH",
+    "address": "70 WILLOW ROAD SUITE 100\nMENLO PARK, CA 94025",
+    "phone": "(650) 618-7300",
+    "email": "FPPC@BMHLAW.COM",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RIVERWOOD CAPITAL MANAGEMENT L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -27312,6 +27327,21 @@
     ]
   },
   {
+    "id": "1465752",
+    "name": "NAGLER, ETHAN",
+    "address": "1127 11TH STREET, SUITE 300\nSACRAMENTO, CA 95814",
+    "phone": "(916) 974-9270",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RENNE PUBLIC LAW GROUP, LLP, DBA RENNE PUBLIC POLICY GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1461422",
     "name": "NAHAR, SANJIDA",
     "address": "9000 SUNSET BOULEVARD, FLOOR 3\nWEST HOLLYWOOD, CA 90069",
@@ -34300,14 +34330,15 @@
     "address": "915 L STREET, SUITE 1460\nSACRAMENTO, CA 95814",
     "phone": "(916) 492-5200",
     "email": "polscrib@aol.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
