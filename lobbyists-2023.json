@@ -1119,6 +1119,22 @@
     ]
   },
   {
+    "id": "1323930",
+    "name": "APEKIAN, SHANT ",
+    "address": "1017 L STREET, SUITE 726\nSACRAMENTO, CA 95814",
+    "phone": "(916) 320-2647",
+    "email": "shant@apekianadvocacy.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APEKIAN ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1149198",
     "name": "APREA, MARC A.",
     "address": "1415 L STREET, SUITE 620\nSACRAMENTO, CA 95814",
@@ -8190,14 +8206,15 @@
     "address": "1001 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
     "phone": "(916) 719-7466",
     "email": "nick@calaborfed.org",
-    "registrationDate": "06/16/2023",
+    "registrationDate": "12/18/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
         "type": "Employer",
-        "effectiveDate": "06/16/2023"
+        "effectiveDate": "06/16/2023",
+        "terminationDate": "12/18/2023"
       }
     ]
   },
@@ -10407,6 +10424,22 @@
         "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1458958",
+    "name": "DUMAS, JENNIFER P.",
+    "address": "500  BOYLSTON STREET, 21ST FLOOR\nBOSTON, MA 02116",
+    "phone": "(617) 603-9127",
+    "email": "jdh@rockpoint.com",
+    "registrationDate": "03/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROCKPOINT GROUP L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "03/10/2023"
       }
     ]
   },
@@ -21434,6 +21467,7 @@
     "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95814",
     "phone": "(916) 650-8112",
     "registrationDate": "07/03/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -22496,7 +22530,8 @@
       {
         "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -24606,13 +24641,13 @@
   {
     "id": "1382729",
     "name": "MAXWELL, CHRISTA M.",
-    "address": "520 PIKE STREET\nSEATTLE, WA 98101",
-    "phone": "(210) 799-9293",
-    "email": "cmaxwell@acuitasinvestments.com",
+    "address": "222 BERKELEY STREET, FLOOR 15\nBOSTON, MA 02116",
+    "phone": "(617) 236-8900",
+    "email": "cmaxwell@gwkinvest.com",
     "mailingAddress": "23527 AVILA RIDGE\nSAN ANTONIO, TX 78255\nPhone: (210) 799-9293\nEmail: cmaxwell@acuitasinvestments.com",
-    "registrationDate": "07/14/2023",
+    "registrationDate": "01/03/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "ACUITAS INVESTMENTS, LLC",
@@ -26496,13 +26531,14 @@
     "address": "600 MASSACHUSETTS AVE\nWASHINGTON , DC 20001",
     "phone": "(202) 344-4000",
     "email": "registrationcompliance@venable.com",
-    "registrationDate": "08/21/2023",
-    "status": "Active",
+    "registrationDate": "12/31/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VENABLE LLP",
         "type": "Firm",
-        "effectiveDate": "08/21/2023"
+        "effectiveDate": "08/21/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -35350,6 +35386,11 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "CA LOBBY",
+        "type": "Firm",
+        "effectiveDate": "11/01/2023"
+      },
+      {
         "entityName": "GUALCO GROUP, INC.; THE",
         "type": "Firm",
         "effectiveDate": "01/01/2023",
@@ -36009,8 +36050,8 @@
   {
     "id": "1338799",
     "name": "SOTO, RODRIGO",
-    "address": "280 PARK AVENUE, 10TH FLOOR\nNEW YORK, NY 10017",
-    "phone": "(212) 857-6265",
+    "address": "1166 AVENUE OF THE AMERICAS, 30TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(212) 832-3232",
     "email": "regcompliance@cohenandsteers.com",
     "registrationDate": "01/11/2023",
     "ethicsCourseCompletionDate": "03/09/2023",
