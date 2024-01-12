@@ -1145,7 +1145,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "APREA & MICHELI, INC.",
+        "entityName": "APREA & COMPANY",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -4221,7 +4221,7 @@
   {
     "id": "1435750",
     "name": "BRIDGE, SARAH",
-    "address": "2612 17TH STREET\nSACRAMENTO, CA 95817",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95818",
     "phone": "(805) 234-5481",
     "email": "sarah@deveauburrgroup.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
@@ -5002,7 +5002,7 @@
   {
     "id": "1418180",
     "name": "BURR JR., TIMOTHY",
-    "address": "2612 17TH STREET\nSACRAMENTO, CA 95817",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95818",
     "phone": "(805) 234-5481",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
@@ -9575,7 +9575,7 @@
   {
     "id": "1365907",
     "name": "DEVEAU, ANDREA ",
-    "address": "2612 17TH STREET\nSACRAMENTO, CA 95817",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95818",
     "phone": "(805) 234-5481",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
@@ -23490,7 +23490,7 @@
   {
     "id": "1148775",
     "name": "MAGNANI, BRUCE A.",
-    "address": "1107 9TH STREET, SUITE 930\nSACRAMENTO, CA 95814",
+    "address": "1107 9TH STREET, SUITE 1011\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-9884",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
@@ -25882,9 +25882,10 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "APREA & MICHELI, INC.",
+        "entityName": "APREA & COMPANY",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -30225,7 +30226,7 @@
   {
     "id": "1455993",
     "name": "PLATE, GINA",
-    "address": "2612 17TH STREET\nSACRAMENTO, CA 95817",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95818",
     "phone": "(805) 234-5481",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
@@ -33143,7 +33144,7 @@
   {
     "id": "1444933",
     "name": "RYLANDER, LETICIA 'TISH'",
-    "address": "2612 17TH STREET\nSACRAMENTO , CA 95817",
+    "address": "2612 17TH STREET\nSACRAMENTO , CA 95818",
     "phone": "(805) 234-5481",
     "registrationDate": "11/06/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
@@ -39166,7 +39167,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "APREA & MICHELI, INC.",
+        "entityName": "APREA & COMPANY",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -41009,7 +41010,7 @@
   {
     "id": "1426615",
     "name": "WRIGHT, CHARLES",
-    "address": "2612 17TH STREET\nSACRAMENTO, CA 95817",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95818",
     "phone": "(805) 234-5481",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
@@ -41633,7 +41634,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "APREA & MICHELI, INC.",
+        "entityName": "APREA & COMPANY",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
