@@ -5291,6 +5291,21 @@
     ]
   },
   {
+    "id": "1345745",
+    "name": "CAMPBELL, CHRISTOPHER",
+    "address": "100 PALL MALL \nLONDON SW1Y 5NQ",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1383516",
     "name": "CAMPBELL, GREG C",
     "address": "1414 K STREET, SUITE 600\nSACRAMENTO, CA 95814",
@@ -28228,6 +28243,21 @@
     ]
   },
   {
+    "id": "1465941",
+    "name": "O'REILLY, DYLAN",
+    "address": "35 SHELBOURNE \nBALLSBRIDGE DUBLIN D04 A4E0",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1437191",
     "name": "O'SHEA, THOMAS",
     "address": "10 STATE HOUSE SQUARE\nHARTFORD, CT 06103",
@@ -39768,6 +39798,21 @@
     ]
   },
   {
+    "id": "1465932",
+    "name": "WATSON, HENRY",
+    "address": "4TH FLOOR, 100 PALL MALL\nLONDON SW1Y5NQ, CA",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1149193",
     "name": "WATTS, MARK",
     "address": "1127 11TH STREET, SUITE 747\nSACRAMENTO, CA 95814",
@@ -40069,14 +40114,15 @@
     "name": "WELCH, PATRICK",
     "address": "915 L STREET, SUITE 1210\nSACRAMENTO, CA 95814",
     "phone": "(916) 326-5800",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/08/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA MUNICIPAL UTILITIES ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/08/2023"
       }
     ]
   },
