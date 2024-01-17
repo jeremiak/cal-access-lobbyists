@@ -8055,7 +8055,7 @@
   {
     "id": "1275475",
     "name": "CREMERS, NOELLE G.",
-    "address": "425 MARKET STREET, SUITE 1000\nSAN FRANCISCO, CA 94105",
+    "address": "L STREET, SUITE 1190\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-6974",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "916 L STREET, SUITE 1190\nSACRAMENTO, CA 95814",
@@ -11711,7 +11711,7 @@
   {
     "id": "1275346",
     "name": "FERRERA, ANNA M.",
-    "address": "425 MARKET STREET SUITE 1100\nSAN FRANCISCO, CA 94105",
+    "address": "L STREET, SUITE 1190\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-6974",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "915 L STREET SUITE 1190\nSAN FRANCISCO, CA 95814",
@@ -15446,7 +15446,8 @@
       {
         "entityName": "FIFTH WALL VENTURES MANAGEMENT LLC AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -16164,14 +16165,15 @@
     "address": "1121 L STREET, SUITE 300\nSACRAMENTO, CA 95814",
     "phone": "(916) 553-4167",
     "email": "corey@steinberginstitute.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/31/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "STEINBERG INSTITUTE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/31/2023"
       }
     ]
   },
@@ -22210,6 +22212,22 @@
         "entityName": "LIEBER; ROBERT",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1148962",
+    "name": "LIEBERT, DREW R.",
+    "address": "721 ESTATES DRIVE\nSACRAMENTO, CA 95864",
+    "phone": "(916) 850-9585",
+    "email": "drew.liebert@comcast.net",
+    "registrationDate": "11/21/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LIEBERT ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "11/21/2023"
       }
     ]
   },
@@ -34003,7 +34021,7 @@
   {
     "id": "1255370",
     "name": "SCHMELZER, TIMOTHY J.",
-    "address": "425 MARKET STREET, SUITE 1000\nSAN FRANCISCO, CA 94105",
+    "address": "L STREET, SUITE 1190\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-6974",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "915 L STREET, SUITE 1190\nSACRAMENTO, CA 95814",
@@ -40479,10 +40497,17 @@
     "address": "1107 9TH STREET, SUITE 710\nSACRAMENTO, CA 95818",
     "phone": "(408) 439-9507",
     "email": "mwiant@calhsng.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
-    "status": "Active",
-    "relationships": []
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA HOUSING CONSORTIUM",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
+      }
+    ]
   },
   {
     "id": "1459413",
@@ -40776,7 +40801,7 @@
     "name": "WIRAATMADJA, VINCENT",
     "address": "4000 MACARTHUR BOULEVARD, SUITE 420\nEAST TOWER, NEWPORT BEACH, CA 92660",
     "phone": "(707) 392-7336",
-    "email": "WIRRATV@AIRPRODUCTS.COM",
+    "email": "wiraatv@airproducts.com",
     "registrationDate": "09/01/2023",
     "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
