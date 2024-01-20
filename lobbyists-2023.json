@@ -730,6 +730,7 @@
     "phone": "(212) 784-2266",
     "email": "david.altshuler@ifminvestors.com",
     "registrationDate": "10/03/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Terminated",
     "relationships": [
       {
@@ -4302,6 +4303,23 @@
     ]
   },
   {
+    "id": "1458894",
+    "name": "BRITTINGHAM, ELLON",
+    "address": "3209 MONTE VISTA AVE\nALAMEDA, CA 94501",
+    "phone": "(916) 384-6948",
+    "email": "ellon@fullmoonstrategies.com",
+    "registrationDate": "03/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FULL MOON STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "03/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1400625",
     "name": "BROAD, MATTHEW B.",
     "address": "1127 11TH STREET, SUITE 512\nSACRAMENTO, CA 95814",
@@ -6869,7 +6887,7 @@
   {
     "id": "1419290",
     "name": "CLARK, CRYSTAL M.",
-    "address": "1215 K STREET, SUITE 2040\nSACRAMENTO, CA 95814",
+    "address": "8850 WILLIAMSON DRIVE # 2668\nELK GROVE, CA 95759",
     "phone": "(916) 505-0666",
     "email": "cclark8@its.jnj.com",
     "registrationDate": "01/01/2023",
@@ -16370,14 +16388,15 @@
     "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
     "phone": "(916) 341-0808",
     "email": "chawley@lawpolicy.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "09/09/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ARC STRATEGIES, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -23434,23 +23453,6 @@
         "entityName": "CARDINAL ADVOCACY LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1458894",
-    "name": "MADILL, ELLON",
-    "address": "3209 MONTE VISTA AVE\nALAMEDA, CA 94501",
-    "phone": "(916) 384-6948",
-    "email": "ellon@fullmoonstrategies.com",
-    "registrationDate": "03/01/2023",
-    "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "FULL MOON STRATEGIES",
-        "type": "Firm",
-        "effectiveDate": "03/01/2023"
       }
     ]
   },
@@ -37053,6 +37055,23 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/30/2023"
+      }
+    ]
+  },
+  {
+    "id": "1446867",
+    "name": "SWEENEY, CONOR P",
+    "address": "3801 INNOVATOR DRIVE\nSACRAMENTO, CA 95834",
+    "phone": "(916) 990-1861",
+    "email": "csweeney@komen.org",
+    "mailingAddress": "PO BOX 801889\nDALLAS, TX 75380",
+    "registrationDate": "01/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SUSAN G. KOMEN",
+        "type": "Employer",
+        "effectiveDate": "01/11/2024"
       }
     ]
   },
