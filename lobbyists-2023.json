@@ -11710,6 +11710,21 @@
     ]
   },
   {
+    "id": "1418298",
+    "name": "FERRANTE, LAURA J.",
+    "address": "1413 MARCHBANKS DRIVE, #1\nWALNUT CREEK, CA 94598",
+    "phone": "(203) 209-3302",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WASTE ALTERNATIVES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1334511",
     "name": "FERRARI, SILVIO J. ",
     "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
@@ -29286,6 +29301,21 @@
     ]
   },
   {
+    "id": "1283827",
+    "name": "PANK, KAREN",
+    "address": "2150 RIVER PLAZA DRIVE\nSACRAMENTO, CA 95833",
+    "phone": "(916) 447-2762",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1419083",
     "name": "PANUSH, DAVID",
     "address": "580 RIVERGATE WAY\nSACRAMENTO, CA 95831",
@@ -38178,6 +38208,22 @@
     ]
   },
   {
+    "id": "1463600",
+    "name": "TOWER, MARK A.",
+    "address": "250 PARK AVENUE, 12TH FLOOR\nNEW YORK, NY 10177",
+    "phone": "(929) 999-3565",
+    "email": "mark.tower@am-one-usa.com",
+    "registrationDate": "10/11/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSET MANAGEMENT ONE USA INC.",
+        "type": "Employer",
+        "effectiveDate": "10/11/2023"
+      }
+    ]
+  },
+  {
     "id": "1149563",
     "name": "TOWNSEND, CHRISTOPHER J.",
     "address": "1401 DOVE STREET, SUITE 330\nNEWPORT BEACH, CA 92660",
@@ -39828,8 +39874,8 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "BOSTON PARTNERS GLOBAL INVESTORS, INC.",
-        "type": "Employer",
+        "entityName": "BOSTON PARTNERS SECURITIES, LLC",
+        "type": "Firm",
         "effectiveDate": "10/27/2023"
       }
     ]
