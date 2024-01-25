@@ -6450,13 +6450,7 @@
         "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C.",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
-        "terminationDate": "01/01/2023"
-      },
-      {
-        "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C. AND PSG EQUITY L.L.C.  (AND THEIR RESPECTIVE AFFILIATES)",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "01/01/2023"
+        "terminationDate": "01/01/2024"
       }
     ]
   },
@@ -9320,14 +9314,15 @@
     "address": "1150 S. OLIVE STREET, SUITE 2250\nLOS ANGELES, CA 90015",
     "phone": "(212) 542-4311",
     "email": "sdeck@mackregroup.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/06/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MACK REAL ESTATE CREDIT STRATEGIES, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/06/2023"
       }
     ]
   },
@@ -19626,11 +19621,6 @@
         "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C.",
         "type": "Employer",
         "effectiveDate": "09/01/2023"
-      },
-      {
-        "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C. AND PSG EQUITY L.L.C.  (AND THEIR RESPECTIVE AFFILIATES)",
-        "type": "Employer",
-        "effectiveDate": "09/01/2023"
       }
     ]
   },
@@ -21803,13 +21793,7 @@
         "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C.",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
-        "terminationDate": "01/01/2023"
-      },
-      {
-        "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C. AND PSG EQUITY L.L.C.  (AND THEIR RESPECTIVE AFFILIATES)",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "01/01/2023"
+        "terminationDate": "01/01/2024"
       }
     ]
   },
