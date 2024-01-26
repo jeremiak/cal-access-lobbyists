@@ -14140,18 +14140,24 @@
   },
   {
     "id": "1416691",
-    "name": "GONZALEZ, CAROL T.",
-    "address": "1610 R STREET, SUITE 300\nSACRAMENTO, CA 95811",
-    "phone": "(916) 441-3909",
-    "email": "cgonzalez@strategicadvocates.com",
+    "name": "GONZALEZ, CAROL ",
+    "address": "428 J STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 437-4594",
+    "email": "cgonzalez@gmail.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
     "status": "Active",
     "relationships": [
       {
+        "entityName": "GONZALEZ; CAROL",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      },
+      {
         "entityName": "STRATEGIC EDUCATION SERVICES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2024"
       }
     ]
   },
