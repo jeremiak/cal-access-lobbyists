@@ -11965,6 +11965,28 @@
     ]
   },
   {
+    "id": "1300334",
+    "name": "FLANIGAN, SHAUN",
+    "address": "1215 K STREET, SUITE 1120\nSACRAMENTO, CA 95814",
+    "phone": "(916) 207-8008",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/03/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL STRATEGIC ADVISORS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
+      },
+      {
+        "entityName": "STF CONSULTING, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1148007",
     "name": "FLANIGAN, TIMOTHY H.",
     "address": "555 UNIVERSITY AVENUE, SUITE 240\nSACRAMENTO, CA 95825",
@@ -15394,6 +15416,22 @@
         "entityName": "ENERGY IMPACT PARTNERS LP",
         "type": "Employer",
         "effectiveDate": "01/30/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466369",
+    "name": "GYORKOS, EVAN V.",
+    "address": "1121 L STREET #7013\nSACRAMENTO, CA 95814",
+    "phone": "(562) 797-1640",
+    "email": "evan.g.gyorkos@boeing.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BOEING COMPANY; THE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -37153,14 +37191,15 @@
     "address": "1114 AVENUE OF THE AMERICAS, SUITE 2210\nNEW YORK, NY 10036",
     "phone": "(310) 869-0948",
     "email": "zaahir.syed@seraadvisory.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SERA GLOBAL SECURITIES US LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
