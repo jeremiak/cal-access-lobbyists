@@ -4151,6 +4151,22 @@
     ]
   },
   {
+    "id": "1466451",
+    "name": "BRENNAN, SARAH",
+    "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-1488",
+    "email": "sarah@weidemangroup.com",
+    "registrationDate": "02/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEIDEMAN GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "02/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1148559",
     "name": "BRENNAND, TERRENCE C.",
     "address": "1029 K STREET\nSACRAMENTO, CA 95814",
@@ -12888,7 +12904,8 @@
       {
         "entityName": "PGIM, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/06/2024"
       }
     ]
   },
@@ -24254,6 +24271,21 @@
     ]
   },
   {
+    "id": "1466420",
+    "name": "MARTIN, KAMELLIA",
+    "address": "925 L STREET, SUITE 1404\nSACRAMENTO, CA 95814",
+    "phone": "(949) 399-9050",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1233950",
     "name": "MARTIN, RAND",
     "address": "1121 L STREET, SUITE 612\nSACRAMENTO, CA 95814",
@@ -25544,13 +25576,14 @@
     "address": "ONE VANDERBILT AVENUE SUITE 3400 \nNEW YORK, NY 10017",
     "phone": "(212) 332-6469",
     "email": "douglas.mcneely@carlyle.com",
-    "registrationDate": "07/28/2023",
-    "status": "Active",
+    "registrationDate": "01/31/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
-        "effectiveDate": "07/28/2023"
+        "effectiveDate": "07/28/2023",
+        "terminationDate": "01/31/2024"
       }
     ]
   },
@@ -36104,6 +36137,23 @@
     ]
   },
   {
+    "id": "1460428",
+    "name": "SONNIER, MARISA",
+    "address": "1 VANDERBILT AVENUE SUITE 3400\nNEW YORK, NY 10017",
+    "phone": "(646) 483-3806",
+    "email": "marisa.woodrum@carlyle.com",
+    "mailingAddress": "30 CHARLTON STREET, APPRTMENT 1G\nNEW YORK, NY 10014\nPhone: (646) 483-3806\nEmail: marisa.woodrum@carlyle.com",
+    "registrationDate": "05/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/09/2023"
+      }
+    ]
+  },
+  {
     "id": "1381990",
     "name": "SOPHOCLES, GEORGE C.",
     "address": "520 MADISON AVENUE, 26TH FLOOR\nNEW YORK, NY 10022",
@@ -39793,6 +39843,22 @@
     ]
   },
   {
+    "id": "1466478",
+    "name": "WARD-WALLER\n, JEANIE",
+    "address": "1225 8TH STREET, SUITE 595\nSACRAMENTO, CA 95814",
+    "phone": "(916) 992-3667",
+    "email": "jeanie@fearlessadvocacy.com",
+    "registrationDate": "01/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FEARLESS ADVOCACY, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/08/2024"
+      }
+    ]
+  },
+  {
     "id": "1148154",
     "name": "WARMERDAM, MARY-ANN",
     "address": "1215 K STREET, SUITE 1650\nSACRAMENTO, CA 95814",
@@ -41051,23 +41117,6 @@
         "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
         "type": "Employer",
         "effectiveDate": "04/15/2023"
-      }
-    ]
-  },
-  {
-    "id": "1460428",
-    "name": "WOODRUM, MARISA",
-    "address": "1 VANDERBILT AVENUE SUITE 3400\nNEW YORK, NY 10017",
-    "phone": "(646) 483-3806",
-    "email": "marisa.woodrum@carlyle.com",
-    "mailingAddress": "30 CHARLTON STREET, APPRTMENT 1G\nNEW YORK, NY 10014\nPhone: (646) 483-3806\nEmail: marisa.woodrum@carlyle.com",
-    "registrationDate": "05/09/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TCG CAPITAL MARKETS, LLC",
-        "type": "Employer",
-        "effectiveDate": "05/09/2023"
       }
     ]
   },
