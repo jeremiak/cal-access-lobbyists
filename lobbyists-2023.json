@@ -4122,14 +4122,15 @@
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
     "phone": "(916) 432-5204",
     "email": "jbreen@cahf.org",
-    "registrationDate": "03/17/2023",
+    "registrationDate": "08/31/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSOCIATION OF HEALTH FACILITIES",
         "type": "Employer",
-        "effectiveDate": "03/17/2023"
+        "effectiveDate": "03/17/2023",
+        "terminationDate": "08/31/2023"
       }
     ]
   },
@@ -4349,6 +4350,22 @@
         "entityName": "BROAD & GUSMAN",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465289",
+    "name": "BROCKWAY, GARY EDWARD",
+    "address": "5332 SAGAN LANE\nPALM BEACH GARDENS, FL 33418",
+    "phone": "(330) 301-2562",
+    "email": "ed.brockway@novartis.com",
+    "registrationDate": "01/16/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NOVARTIS PHARMACEUTICALS CORPORATION",
+        "type": "Employer",
+        "effectiveDate": "01/16/2024"
       }
     ]
   },
@@ -7541,6 +7558,21 @@
     ]
   },
   {
+    "id": "1465012",
+    "name": "COOPER, KAI",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "12/06/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "12/06/2023"
+      }
+    ]
+  },
+  {
     "id": "1415619",
     "name": "COOPER, MADELEINE",
     "address": "1301 I STREET\nSACRAMENTO, CA 95814",
@@ -10128,7 +10160,7 @@
   {
     "id": "1456789",
     "name": "DOMINGUEZ, CHRISTIANA",
-    "address": "455 CAPITOL MALL, SUITE 500\nSACRAMENTO, CA 95814",
+    "address": "555 CAPITOL MALL, SUITE 1155\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-2222",
     "email": "cdominguez@blanningandbaker.com",
     "registrationDate": "01/01/2023",
@@ -10809,14 +10841,15 @@
     "address": "1824 HAWK VIEW DRIVE\nENCINITAS, CA 92024",
     "phone": "(213) 718-3666",
     "email": "caprep@earthlink.net",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CAPITAL REPRESENTATION GROUP, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -11172,14 +11205,15 @@
     "address": "1215 K STREET, SUITE 2030\nSACRAMENTO, CA 95814",
     "phone": "(510) 393-6574",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "KAISER FOUNDATION HEALTH PLAN, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -15536,7 +15570,7 @@
         "entityName": "FIFTH WALL VENTURES MANAGEMENT LLC AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
-        "terminationDate": "12/31/2023"
+        "terminationDate": "01/05/2024"
       }
     ]
   },
@@ -17020,13 +17054,12 @@
     ]
   },
   {
-    "id": "1465184",
+    "id": "1428828",
     "name": "HEWITT, SHAUNA",
     "address": "71 SOUTH WACKER DRIVE, SUITE 800\nCHICAGO, IL 60606",
     "phone": "(312) 964-3029",
     "email": "shauna.hewitt@lgima.com",
     "registrationDate": "12/12/2023",
-    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17035,6 +17068,17 @@
         "effectiveDate": "12/12/2023"
       }
     ]
+  },
+  {
+    "id": "1465184",
+    "name": "HEWITT, SHAUNA",
+    "address": "71 SOUTH WACKER DRIVE, SUITE 800\nCHICAGO, IL 60606",
+    "phone": "(312) 964-3029",
+    "email": "shauna.hewitt@lgima.com",
+    "registrationDate": "12/12/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1409190",
@@ -38168,7 +38212,7 @@
   {
     "id": "1289915",
     "name": "TOPPIN, TED E.",
-    "address": "455 CAPITOL MALL, SUITE 500\nSACRAMENTO, CA 95814",
+    "address": "555 CAPITOL MALL, SUITE 1155\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-2222",
     "email": "toppin@blanningandbaker.com",
     "registrationDate": "11/20/2023",
@@ -38414,6 +38458,21 @@
         "entityName": "TREAT; PAULA",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466184",
+    "name": "TREIS, JENNY",
+    "address": "2201 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 441-6400",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF HEALTH FACILITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
