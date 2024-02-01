@@ -1024,6 +1024,7 @@
     "phone": "(617) 234-7000",
     "email": "mandrews@generalcatalyst.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -4696,6 +4697,22 @@
     "relationships": []
   },
   {
+    "id": "1465555",
+    "name": "BRUCE , KATIE ",
+    "address": "ONE NYALA FARMS ROAD \nWESTPORT, CT 06880",
+    "phone": "(203) 226-3030",
+    "email": "katie.bruce@bwater.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIDGEWATER ASSOCIATES, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1338728",
     "name": "BRUCE, NORMAN DAVID",
     "address": "1166 AVENUE OF THE AMERICAS, 9TH FLOOR\nNEW YORK, NY 10036",
@@ -4872,6 +4889,7 @@
     "phone": "(617) 234-7000",
     "email": "lbullard@generalcatalyst.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9242,14 +9260,15 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "02/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FRANKLIN RESOURCES, INC. AND ITS AFFILIATE, FRANKLIN TEMPLETON INSTITUTIONAL, LLC AND BENEFIT STREET PARTNERS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -9450,6 +9469,7 @@
     "phone": "(617) 234-7000",
     "email": "jdelaporte@generalcatalyst.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13646,6 +13666,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
     "registrationDate": "11/10/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13948,6 +13969,7 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "02/28/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -14364,6 +14386,7 @@
     "phone": "(617) 234-7000",
     "email": "dgordon@generalcatalyst.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -17060,6 +17083,7 @@
     "phone": "(312) 964-3029",
     "email": "shauna.hewitt@lgima.com",
     "registrationDate": "12/12/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -17068,17 +17092,6 @@
         "effectiveDate": "12/12/2023"
       }
     ]
-  },
-  {
-    "id": "1465184",
-    "name": "HEWITT, SHAUNA",
-    "address": "71 SOUTH WACKER DRIVE, SUITE 800\nCHICAGO, IL 60606",
-    "phone": "(312) 964-3029",
-    "email": "shauna.hewitt@lgima.com",
-    "registrationDate": "12/12/2023",
-    "ethicsCourseCompletionDate": "11/08/2023",
-    "status": "Active",
-    "relationships": []
   },
   {
     "id": "1409190",
@@ -17549,6 +17562,7 @@
     "phone": "(800) 638-8299",
     "email": "Inc.compliance_ca_akf_1@multistate.us",
     "registrationDate": "05/22/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23123,6 +23137,25 @@
     ]
   },
   {
+    "id": "1404535",
+    "name": "LUNDMARK, JENNIFER ",
+    "address": "197 CLARENDON STREET\nBOSTON, MA 02116",
+    "phone": "(857) 210-4246",
+    "email": "jlundmark@manulife.com",
+    "mailingAddress": "242 SOUTH STOUGH STREET\nHINSDALE, IL 60521",
+    "registrationDate": "01/02/2024",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Withdrawn",
+    "relationships": [
+      {
+        "entityName": "MANULIFE INVESTMENT MANAGEMENT PRIVATE MARKETS (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "06/01/2023",
+        "terminationDate": "01/02/2024"
+      }
+    ]
+  },
+  {
     "id": "1428829",
     "name": "LUNDY, MEGAN",
     "address": "101 HUNTINGTON AVENUE\nBOSTON, MA 02199",
@@ -23708,9 +23741,16 @@
     "address": "20 UNIVERSITY ROAD, STE 450\nCAMBRIDGE, MA 02138",
     "phone": "(617) 234-7000",
     "email": "amaninthia@generalcatalyst.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/29/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1436276",
@@ -26234,6 +26274,7 @@
     "phone": "(202) 528-4074",
     "email": "aminer@bcapgroup.com",
     "registrationDate": "02/27/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28153,7 +28194,7 @@
     "address": "4 EMBARCADERO CENTER, SUITE 3500\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 374-2365",
     "email": "trent.norris@hoganlovells.com",
-    "mailingAddress": "3 EMBARCADERO CENTER, 10TH FLOOR\nSAN FRANCISCO, CA 94111",
+    "mailingAddress": "555 13TH STREET NW\nWASHINGTON, DC 20004\nPhone: (415) 374-2365\nEmail: trent.norris@hoganlovells.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "05/18/2023",
     "status": "Active",
@@ -31127,6 +31168,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "11/10/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35435,6 +35477,7 @@
     "phone": "(215) 837-8629",
     "email": "asinger@ipipartners.com",
     "registrationDate": "10/06/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -36126,6 +36169,22 @@
         "entityName": "TZUNU LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466537",
+    "name": "SOLIS-MARICH, MARIO R.",
+    "address": "1800 E OCEAN BOULEVARD #9\nLONG BEACH, CA 90802",
+    "phone": "(323) 697-9358",
+    "email": "mario@targetedtech.org",
+    "registrationDate": "10/31/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TARGETED TECHNOLOGIES",
+        "type": "Firm",
+        "effectiveDate": "10/31/2023"
       }
     ]
   },
@@ -37463,9 +37522,16 @@
     "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 498-3325",
     "email": "dtalley@cmta.net",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/25/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1358705",
@@ -41128,6 +41194,21 @@
         "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1463242",
+    "name": "WONNACOTT, SKYLER",
+    "address": "1121 L STREET, SUITE 501\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-4676",
+    "registrationDate": "01/02/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA BUSINESS PROPERTIES ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/02/2024"
       }
     ]
   },
