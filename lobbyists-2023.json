@@ -426,14 +426,15 @@
     "address": "575 NORTH BROADWAY\nYONKERS, NY 10701",
     "phone": "(617) 515-7380",
     "email": "robert_alan@putnam.com",
-    "registrationDate": "01/06/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PUTNAM ADVISORY COMPANY, LLC; THE",
         "type": "Employer",
-        "effectiveDate": "01/06/2023"
+        "effectiveDate": "01/06/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -962,6 +963,22 @@
         "entityName": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1280300",
+    "name": "ANDERSON, TONY ",
+    "address": "980 9TH STREET, SUITE 1450\nSACRAMENTO, CA 95814",
+    "phone": "(916) 877-4189",
+    "email": "tanderson@arcanet.org",
+    "registrationDate": "01/17/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF REGIONAL CENTER AGENCIES",
+        "type": "Employer",
+        "effectiveDate": "01/17/2024"
       }
     ]
   },
@@ -1945,6 +1962,7 @@
     "phone": "(212) 293-4600",
     "email": "OL-Compliance-AM-US@btgpactual.com",
     "registrationDate": "12/14/2023",
+    "ethicsCourseCompletionDate": "01/31/2024",
     "status": "Active",
     "relationships": [
       {
@@ -2729,6 +2747,7 @@
     "phone": "(916) 492-5200",
     "email": "seanb@car.org",
     "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -3238,6 +3257,23 @@
         "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
         "effectiveDate": "10/04/2023"
+      }
+    ]
+  },
+  {
+    "id": "1456916",
+    "name": "BINDER, MELISSA",
+    "address": "225 WEST WACKER DRIVE, SUITE 1200\nCHICAGO, IL 60606",
+    "phone": "(312) 634-2500",
+    "email": "melissa.binder@ppmamerica.com",
+    "registrationDate": "01/09/2024",
+    "status": "Withdrawn",
+    "relationships": [
+      {
+        "entityName": "PPM AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/09/2024"
       }
     ]
   },
@@ -4460,9 +4496,16 @@
     "address": "13355 NOEL ROAD, SUITE 1600\nDALLAS, TX 75240",
     "phone": "(972) 980-5808",
     "email": "abrooks@csplp.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CSP SECURITIES, LP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1442820",
@@ -5105,6 +5148,23 @@
         "entityName": "PATRIA INVESTMENTS US LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464946",
+    "name": "BUSCAINO, JOE",
+    "address": "743 SEWARD STREET\nLOS ANGELES, CA 90038",
+    "phone": "(213) 528-8870",
+    "email": "joebuscaino@ballardpartners.com",
+    "registrationDate": "11/15/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BALLARD PARTNERS",
+        "type": "Firm",
+        "effectiveDate": "11/15/2023"
       }
     ]
   },
@@ -6960,6 +7020,22 @@
         "entityName": "CAPITOL STRATEGIES GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460218",
+    "name": "CLARK, PAIGE",
+    "address": "2201 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 639-4688",
+    "registrationDate": "02/06/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "02/06/2023"
       }
     ]
   },
@@ -9057,14 +9133,15 @@
     "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
     "phone": "(916) 557-1100",
     "email": "brandon.dawson@sierraclub.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/03/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIERRA CLUB",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/03/2024"
       }
     ]
   },
@@ -10409,9 +10486,10 @@
   {
     "id": "1453460",
     "name": "DREBINGER III, JOHN W.",
-    "address": "455 CAPITOL MALL, SUITE 315\nSACRAMENTO, CA 95814",
-    "phone": "(916) 557-1166",
-    "email": "jdrebinger@cccbha.org",
+    "address": "1121 L STREET, SUITE 300\nSACRAMENTO, CA 95814",
+    "phone": "(916) 553-4167",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
     "status": "Active",
@@ -10419,7 +10497,13 @@
       {
         "entityName": "CALIFORNIA COUNCIL OF COMMUNITY BEHAVIORAL HEALTH AGENCIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/08/2023"
+      },
+      {
+        "entityName": "STEINBERG INSTITUTE",
+        "type": "Employer",
+        "effectiveDate": "01/03/2024"
       }
     ]
   },
@@ -11759,6 +11843,22 @@
     ]
   },
   {
+    "id": "1465950",
+    "name": "FERNANDEZ, IVAN",
+    "address": "1001 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(323) 422-7365",
+    "email": "ivan@calaborfed.org",
+    "registrationDate": "01/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "01/08/2024"
+      }
+    ]
+  },
+  {
     "id": "1262302",
     "name": "FERNANDEZ, SOYLA  J.",
     "address": "925 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
@@ -12934,14 +13034,15 @@
     "address": "630 FIFTH AVENUE, 26TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(646) 485-6586",
     "email": "bgaffey@brinleypartners.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/19/2024",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BRINLEY PARTNERS",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/19/2024"
       }
     ]
   },
@@ -15343,6 +15444,21 @@
     ]
   },
   {
+    "id": "1466028",
+    "name": "GUERTIN, BRADY",
+    "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 658-8200",
+    "registrationDate": "01/16/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEAGUE OF CALIFORNIA CITIES",
+        "type": "Employer",
+        "effectiveDate": "01/16/2024"
+      }
+    ]
+  },
+  {
     "id": "1392372",
     "name": "GUINEE, CAITLIN",
     "address": "485 LEXINGTON AVENUE\nNEW YORK, NY 10017",
@@ -16552,14 +16668,15 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "1127 11TH STREET, SUITE 346\nSACRAMENTO, CA 95814\nPhone: (916) 442-2952\nEmail: compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/12/2024",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/12/2024"
       }
     ]
   },
@@ -17090,6 +17207,23 @@
         "entityName": "LEGAL & GENERAL INVESTMENT MANAGEMENT AMERICA, INC.",
         "type": "Employer",
         "effectiveDate": "12/12/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464492",
+    "name": "HEWKIN, HEATHER A.",
+    "address": "10 S. DEARBORN STREET, FLOOR 38\nCHICAGO, IL 60603",
+    "phone": "(312) 732-5358",
+    "email": "jefrey.l.shields@jpmorgan.com",
+    "registrationDate": "01/19/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/19/2024"
       }
     ]
   },
@@ -20938,7 +21072,8 @@
       {
         "entityName": "GOLDMAN SACHS & CO. LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/22/2024"
       }
     ]
   },
@@ -22425,13 +22560,14 @@
     "address": "1107 9TH STEET #560\nSACRAMENTO, CA 95814",
     "phone": "(925) 787-9060",
     "email": "alim@housingca.org",
-    "registrationDate": "12/04/2023",
-    "status": "Active",
+    "registrationDate": "01/17/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HOUSING CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "12/04/2023"
+        "effectiveDate": "12/04/2023",
+        "terminationDate": "01/17/2024"
       }
     ]
   },
@@ -22693,9 +22829,9 @@
     "address": "1127 11TH STREET, SUITE 626\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-4647",
     "email": "klittle@cfbf.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
@@ -22753,6 +22889,22 @@
         "entityName": "CALAMOS ADVISORS LLC",
         "type": "Employer",
         "effectiveDate": "03/08/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465949",
+    "name": "LIZARDI, ELMER ",
+    "address": "1001 K STREET, SUITE 200 \nSACRAMENTO , CA 95814",
+    "phone": "(916) 270-9172",
+    "email": "elmer@calaborfed.org",
+    "registrationDate": "01/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "01/03/2024"
       }
     ]
   },
@@ -23397,14 +23549,15 @@
     "phone": "(916) 545-4428",
     "email": "bmacaluso@cbhi.net",
     "mailingAddress": "P.O. BOX 7877\nSTOCKTON, CA 95267-0877",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CRESTWOOD BEHAVIORAL HEALTH INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -24309,14 +24462,15 @@
     "address": "452 5TH AVENUE, 30TH FLOOR\nNEW YORK, NY 10018",
     "phone": "(212) 715-6818",
     "email": "smarsh@varaderocapital.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/19/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VARADERO CAPITAL, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/19/2024"
       }
     ]
   },
@@ -24841,13 +24995,18 @@
     "mailingAddress": "23527 AVILA RIDGE\nSAN ANTONIO, TX 78255\nPhone: (210) 799-9293\nEmail: cmaxwell@acuitasinvestments.com",
     "registrationDate": "01/03/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "ACUITAS INVESTMENTS, LLC",
         "type": "Employer",
         "effectiveDate": "05/09/2023",
         "terminationDate": "07/14/2023"
+      },
+      {
+        "entityName": "GW&K INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/03/2024"
       }
     ]
   },
@@ -24957,14 +25116,15 @@
     "address": "601 LEXINGTON AVENUE, 57TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 293-4600",
     "email": "ol-compliance-am-us@btgpactual.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BTG PACTUAL ASSET MANAGEMENT US, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -25254,14 +25414,15 @@
     "address": "2017 O STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 444-8641",
     "email": "ryan@ccleague.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2023"
       }
     ]
   },
@@ -26521,6 +26682,22 @@
     ]
   },
   {
+    "id": "1346573",
+    "name": "MOLE, DANIELLE ",
+    "address": "2201 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 449-2273",
+    "registrationDate": "02/03/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/03/2023"
+      }
+    ]
+  },
+  {
     "id": "1383947",
     "name": "MOLINA, ANTHONY",
     "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
@@ -27177,14 +27354,15 @@
     "address": "599 LEXINGTON AVENUE\nNEW YORK , NY 10022",
     "phone": "(212) 845-7953",
     "email": "kareen.laton@cowen.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/27/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COWEN INVESTMENT MANAGEMENT LLC (AND ITS AFFILIATED INVESTMENT ADVISORS)",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/27/2023"
       }
     ]
   },
@@ -30001,6 +30179,7 @@
     "address": "1201 K STREET, STE 750\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3116",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32179,6 +32358,22 @@
     ]
   },
   {
+    "id": "1420631",
+    "name": "RINDE, TYLER",
+    "address": "2201 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 449-2273",
+    "email": "trinde@cacfs.org",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1407980",
     "name": "RINEHART, JENNIFER C.",
     "address": "4440 PGA BOULEVARD, SUITE 600\nPALM BEACH GARDENS, FL 33410",
@@ -33551,6 +33746,22 @@
     "relationships": []
   },
   {
+    "id": "1466503",
+    "name": "SALERNO, RACHEL",
+    "address": "5404 WISCONSIN AVENUE, SUITE 1000\nCHEVY CHASE , MD 20815",
+    "phone": "(646) 776-8140",
+    "email": "rachel.salerno@artemisrep.com",
+    "registrationDate": "01/24/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARTEMIS REAL ESTATE PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/24/2024"
+      }
+    ]
+  },
+  {
     "id": "1339376",
     "name": "SALINAS, CHE J.",
     "address": "1215 K STREET, SUITE 1900\nSACRAMENTO, CA 95814",
@@ -33915,14 +34126,15 @@
     "address": "9 WEST 57TH STREET, 35TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(646) 768-1605",
     "email": "psauer@tigerglobal.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TIGER GLOBAL MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -35126,6 +35338,22 @@
     ]
   },
   {
+    "id": "1376766",
+    "name": "SHILTON, ADRIENNE ",
+    "address": "2201 K STREET \nSACRAMENTO, CA 95816",
+    "phone": "(916) 449-2273",
+    "email": "ashilton@cacfs.org",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1424055",
     "name": "SHIMODA, CHRIS",
     "address": "4148 EAST COMMERCE WAY\nSACRAMENTO, CA 95834",
@@ -35360,6 +35588,22 @@
     ]
   },
   {
+    "id": "1464745",
+    "name": "SIMON, NAUTIKA",
+    "address": "452 FIFTH AVENUE, 30TH FLOOR\nNEW YORK, NY 10018",
+    "phone": "(212) 715-6825",
+    "email": "nsimon@varaderocapital.com",
+    "registrationDate": "01/19/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VARADERO CAPITAL, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/19/2024"
+      }
+    ]
+  },
+  {
     "id": "1459398",
     "name": "SIMONE , STEVEN",
     "address": "2001 K STREET, NORTH TOWER, SUITE 250\nWASHINGTON, DC 20006",
@@ -35517,7 +35761,8 @@
       {
         "entityName": "ENERGY CAPITAL PARTNERS MANAGEMENT, LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2024"
       }
     ]
   },
@@ -35720,14 +35965,15 @@
     "address": "1201 K STREET, SUITE 1810 \nSACRAMENTO, CA 95814",
     "phone": "(916) 441-3966",
     "mailingAddress": "515 SOUTH FIGUEROA STREET, SUITE 1110\nLOS ANGELES, CA 90071",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/01/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EDISON INTERNATIONAL AND AFFILIATES, INCLUDING SOUTHERN CALIFORNIA EDISON",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2024"
       }
     ]
   },
@@ -36925,6 +37171,22 @@
     ]
   },
   {
+    "id": "1466632",
+    "name": "STORZ, FREDERICK",
+    "address": "40 BEECHWOOD ROAD\nSUMMIT, NJ 07901",
+    "phone": "(973) 671-6101",
+    "email": "compliance@ecpgp.com",
+    "registrationDate": "01/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENERGY CAPITAL PARTNERS MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "01/15/2024"
+      }
+    ]
+  },
+  {
     "id": "1461226",
     "name": "STOUT, KAREN",
     "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
@@ -37539,14 +37801,15 @@
     "address": "600 MONTGOMERY STREET, 33RD FLOOR\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 216-4128",
     "email": "paul.tam@greenhill.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GREENHILL & CO., LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -41782,6 +42045,7 @@
     "phone": "(917) 612-1025",
     "email": "mzales@orionrp.com",
     "registrationDate": "06/07/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -42069,6 +42333,7 @@
     "phone": "(212) 888-3413",
     "email": "szona@muzinich.com",
     "registrationDate": "10/05/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
