@@ -1158,7 +1158,7 @@
     "name": "APREA, MARC A.",
     "address": "1415 L STREET, SUITE 620\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-3075",
-    "email": "maprea@apreamicheli.com",
+    "email": "maprea@apreacompany.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
@@ -2680,6 +2680,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET. STE 412\nSACARMENTO, CA 95814",
     "registrationDate": "03/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -8358,14 +8359,15 @@
     "address": "1215 K STREET, SUITE 2010\nSACRAMENTO, CA 95814",
     "phone": "(916) 552-2960",
     "email": "bsca@politicomlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BLUE SHIELD OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -8780,7 +8782,7 @@
   {
     "id": "1337670",
     "name": "D'ARCY, BRIAN",
-    "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(415) 743-1538",
     "email": "bdarcy@sixthstreet.com",
     "registrationDate": "11/13/2023",
@@ -8846,7 +8848,7 @@
   {
     "id": "1456991",
     "name": "DALRYMPLE, AARON",
-    "address": "345 CALIFORNIA STREET SUITE 2600\nSAN FRANCISCO, CA 94104",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(628) 220-7299",
     "email": "adalrymple@sixthstreet.com",
     "registrationDate": "01/01/2023",
@@ -9490,7 +9492,7 @@
   {
     "id": "1448935",
     "name": "DEETH, KEVIN",
-    "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(415) 486-5941",
     "email": "kdeeth@sixthstreet.com",
     "registrationDate": "11/13/2023",
@@ -10130,9 +10132,9 @@
     "phone": "(646) 357-9018",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO , CA 95814\nPhone: (212) 675-1600\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": []
   },
   {
@@ -11546,6 +11548,7 @@
     "phone": "(212) 601-3666",
     "email": "david.fann@apogemcapital.com",
     "registrationDate": "02/06/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13543,6 +13546,7 @@
     "phone": "(530) 848-5050",
     "email": "leora.g@sbcglobal.net",
     "registrationDate": "01/03/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15697,14 +15701,19 @@
   {
     "id": "1434161",
     "name": "HADI, NADIA",
-    "address": "1 LITTLE WEST 12TH STREET, 4TH FLOOR\nNEW YORK, NY 10014",
-    "phone": "(347) 405-1324",
-    "email": "fppc@bmhlaw.com",
+    "address": "9 WEST 57TH STREET, 25TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 715-5100",
+    "email": "nhadi@coatue.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (347) 405-1324\nEmail: fppc@bmhlaw.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "COATUE MANAGEMENT, L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "01/16/2024"
+      },
       {
         "entityName": "FIFTH WALL VENTURES MANAGEMENT LLC AND AFFILIATED ENTITIES",
         "type": "Employer",
@@ -15767,7 +15776,7 @@
   {
     "id": "1358986",
     "name": "HAGGART, AHSHA",
-    "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(415) 486-5997",
     "email": "ahaggart@sixthstreet.com",
     "registrationDate": "11/13/2023",
@@ -15840,14 +15849,15 @@
     "address": "1215 K STREET, SUITE 2010\nSACRAMENTO, CA 95814",
     "phone": "(916) 552-2960",
     "email": "bsca@politicomlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/25/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BLUE SHIELD OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/25/2023"
       }
     ]
   },
@@ -16395,6 +16405,7 @@
     "phone": "(202) 344-4000",
     "email": "registrationcompliance@venable.com",
     "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Terminated",
     "relationships": [
       {
@@ -21989,6 +22000,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET. STE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "03/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25924,6 +25936,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "03/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -26906,6 +26919,7 @@
     "phone": "(202) 344-4000",
     "email": "registrationcompliance@venable.com",
     "registrationDate": "12/31/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Terminated",
     "relationships": [
       {
@@ -28335,7 +28349,7 @@
   {
     "id": "1429759",
     "name": "NORGAARD, JAMES",
-    "address": "888 7TH AVENUE\nNEW YORK, NY 10106",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(212) 405-8483",
     "email": "jnorgaard@sixthstreet.com",
     "registrationDate": "01/01/2023",
@@ -29544,7 +29558,7 @@
   {
     "id": "1447572",
     "name": "PANANA CARBAJAL, JORDAN",
-    "address": "717 K STREET, SUITE 221\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 210\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
@@ -33229,6 +33243,7 @@
     "phone": "(916) 554-2677",
     "email": "aj@calodging.com",
     "registrationDate": "01/18/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -37159,14 +37174,15 @@
     "address": "345 CALIFORNIA STREET, SUITE 2600\nSAN FRANCISCO, CA 94104",
     "phone": "(628) 220-7240",
     "email": "lstone@sixthstreet.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/26/2024",
     "ethicsCourseCompletionDate": "11/08/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/26/2024"
       }
     ]
   },
@@ -38203,7 +38219,7 @@
   {
     "id": "1384167",
     "name": "THOMAS, KATHERINE A.",
-    "address": "888 7TH AVENUE 41ST FLOOR\nNEW YORK, NY 10106",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(212) 405-8429",
     "email": "kthomas@sixthstreet.com",
     "registrationDate": "01/01/2023",
@@ -41643,6 +41659,21 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "11/30/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466687",
+    "name": "WRIGHT, OLIVIA",
+    "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-2162",
+    "registrationDate": "01/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KP PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "01/22/2024"
       }
     ]
   },
