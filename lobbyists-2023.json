@@ -13185,6 +13185,22 @@
     ]
   },
   {
+    "id": "1466720",
+    "name": "GAO, LIANNA",
+    "address": "1603 ORRINGTON AVENUE, 13TH FLOOR\nEVANSTON, IL 60201",
+    "phone": "(847) 905-4446",
+    "email": "lianna.gao@magnetar.com",
+    "registrationDate": "01/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MAGNETAR CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/11/2024"
+      }
+    ]
+  },
+  {
     "id": "1149573",
     "name": "GARCIA, ELOY ",
     "address": "1718 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
@@ -21195,14 +21211,15 @@
     "address": "1603 ORRINGTON AVENUE, 13TH FLOOR\nEVANSTON, IL 60201",
     "phone": "(847) 905-4624",
     "email": "courtney.kozel@magnetar.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MAGNETAR CAPITAL LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -32214,6 +32231,23 @@
         "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466733",
+    "name": "RHODES, CEDRIC S.",
+    "address": "5325 BALLARD AVENUE NW\nSEATTLE, WA 98107",
+    "phone": "(212) 293-4600",
+    "email": "ol-compliance-am-us@btgpactual.com",
+    "mailingAddress": "601 LEXINGTON AVENUE, 57TH FLOOR\nNEW YORK, NY 10022",
+    "registrationDate": "01/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BTG PACTUAL TIMBERLAND INVESTMENT GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/22/2024"
       }
     ]
   },
