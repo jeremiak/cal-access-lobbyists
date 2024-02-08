@@ -12929,6 +12929,22 @@
     ]
   },
   {
+    "id": "1466810",
+    "name": "FULLINCK, CHERMAINE E.",
+    "address": "50 S. LA SALLE STREET\nCHICAGO, IL 60603",
+    "phone": "(312) 444-5299",
+    "email": "cfl79@ntrs.com",
+    "registrationDate": "01/16/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NORTHERN TRUST INVESTMENTS, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/16/2024"
+      }
+    ]
+  },
+  {
     "id": "1392224",
     "name": "FUN, AI LYN",
     "address": "10 EAST 53RD STREET, 31ST FLOOR\nNEW YORK, NY 10022",
@@ -16948,7 +16964,7 @@
   },
   {
     "id": "1462648",
-    "name": "HENDERSON \n, ERIC ",
+    "name": "HENDERSON\n, ERIC",
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-1036",
     "registrationDate": "07/17/2023",
@@ -25246,9 +25262,16 @@
     "address": "655 E. 3RD STREET\nSAN BERNARDINO, CA 92415",
     "phone": "(909) 531-3375",
     "email": "jmcchristian@sbcsd.org",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/29/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1446648",
@@ -31703,6 +31726,22 @@
         "entityName": "CALIFORNIA CODE CONSULTANTS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466811",
+    "name": "RAYNES, KRYSTAL MAE B.",
+    "address": "921 11TH STREET, SUITE 502\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-5422",
+    "email": "krystal@cawrecycles.org",
+    "registrationDate": "01/10/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIANS AGAINST WASTE",
+        "type": "Employer",
+        "effectiveDate": "01/10/2024"
       }
     ]
   },
