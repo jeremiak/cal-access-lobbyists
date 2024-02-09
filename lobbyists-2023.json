@@ -185,7 +185,7 @@
   {
     "id": "1354723",
     "name": "ADAMS, LINDA",
-    "address": "444 S. FLOWER STREET, STE. 640\nLOS ANGELES, CA 90071",
+    "address": "444 S. FLOWER STREET, SUITE 640\nLOS ANGELES, CA 90071",
     "phone": "(213) 373-1662",
     "email": "jguard@kaufmanlegalgroup.com",
     "registrationDate": "01/01/2023",
@@ -8476,7 +8476,9 @@
   {
     "id": "1358167",
     "name": "CUEVAS-ROMERO, DENNIS R.",
-    "mailingAddress": "1231 I STREET, SUITE 400\nSACRAMENTO, CA 95814\nPhone: (916) 440-8170\nEmail: dennis@cpca.org",
+    "address": "1231 I STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 440-8170",
+    "email": "dennis@cpca.org",
     "registrationDate": "03/17/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
@@ -16319,6 +16321,7 @@
     "phone": "(212) 784-2296",
     "email": "gary.harrison@ifminvestors.com",
     "registrationDate": "12/08/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28740,7 +28743,9 @@
   {
     "id": "1412063",
     "name": "OBASEKI, THOMAS",
-    "mailingAddress": "190 SOUTH LASALLE STREET\nCHICAGO, IL 60603\nPhone: (312) 627-4330\nEmail: thomas.obaseki@nb.com",
+    "address": "190 SOUTH LASALLE STREET\nCHICAGO, IL 60603",
+    "phone": "(312) 627-4330",
+    "email": "thomas.obaseki@nb.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
@@ -31615,7 +31620,9 @@
   {
     "id": "1456756",
     "name": "RASHID, SAKIB",
-    "mailingAddress": "1270 AVENUE OF THE AMERICAS, SUITE 408\nNEW YORK, NY 10020\nPhone: (212) 224-8220\nEmail: sakib.rashid@rede-partners.com",
+    "address": "1270 AVENUE OF THE AMERICAS, SUITE 408\nNEW YORK, NY 10020",
+    "phone": "(212) 224-8220",
+    "email": "sakib.rashid@rede-partners.com",
     "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
