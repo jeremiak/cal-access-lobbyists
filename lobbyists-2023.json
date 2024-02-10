@@ -4644,6 +4644,22 @@
     ]
   },
   {
+    "id": "1463971",
+    "name": "BROWN, JR., LEWIS",
+    "address": "5518 DOVER STREET\nOAKLAND, CA 94609",
+    "phone": "(404) 216-6164",
+    "email": "lewis.brown@csh.org",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORPORATION FOR SUPPORTIVE HOUSING",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1222709",
     "name": "BROWN, JR., LOUIS A.",
     "address": "1415 L STREET, SUITE 400\nSACRAMENTO, CA 95814",
@@ -5459,6 +5475,7 @@
     "phone": "(408) 299-5193",
     "email": "david.campos@ceo.sccgov.org",
     "registrationDate": "03/29/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11022,7 +11039,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CORSAIR CAPITAL LLC",
+        "entityName": "CORSAIR CAPITAL LLC AND AFFILIATED ENTITY INVESTCORP CORSAIR INFRASTRUCTURE PARTNERS, L.P.",
         "type": "Employer",
         "effectiveDate": "08/16/2023"
       }
@@ -12903,14 +12920,15 @@
     "phone": "(917) 281-0850",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EQT PARTNERS INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -13425,7 +13443,7 @@
   {
     "id": "1381139",
     "name": "GATES, JEFFREY R.",
-    "address": "601 CALIFORNIA STREET, SUITE 1750\nSAN FRANCISCO, CA 94108",
+    "address": "900 LARKSPUR LANDING CIRCLE, SUITE 175\nLARKSPUR, CA 94939",
     "phone": "(415) 536-2704",
     "registrationDate": "08/03/2023",
     "status": "Active",
@@ -13857,6 +13875,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LASW CORP. 428 J STREET, STE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "03/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15654,6 +15673,7 @@
     "phone": "(562) 797-1640",
     "email": "evan.g.gyorkos@boeing.com",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -17437,7 +17457,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CORSAIR CAPITAL LLC",
+        "entityName": "CORSAIR CAPITAL LLC AND AFFILIATED ENTITY INVESTCORP CORSAIR INFRASTRUCTURE PARTNERS, L.P.",
         "type": "Employer",
         "effectiveDate": "07/01/2023"
       }
@@ -17533,6 +17553,7 @@
     "phone": "(847) 565-9155",
     "email": "compliance_ca_nuveen_9@multistate.us",
     "registrationDate": "07/10/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -17634,7 +17655,7 @@
   {
     "id": "1339341",
     "name": "HOEBERICHTS, CANDIDA ",
-    "address": "601 SOUTH FIGUEROA STREET, SUITE 2150\nLOS ANGELES, CA 90017",
+    "address": "2121 AVENUE OF THE STARS, SUITE 3200\nLOS ANGELES, CA 90067",
     "phone": "(617) 261-9000",
     "email": "candida.hoeberichts@aew.com",
     "registrationDate": "01/01/2023",
@@ -18968,6 +18989,7 @@
     "phone": "(206) 299-2072",
     "email": "djensen@acuitasinvestments.com",
     "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20308,7 +20330,7 @@
   {
     "id": "1458547",
     "name": "KHAN, SHAMAFA",
-    "address": "34 EAST 51ST STREET\nNEW YORK, NY 10022",
+    "address": "280 PARK AVENUE, FLOOR 27E \nNEW YORK, NY 10017",
     "phone": "(212) 634-3250",
     "email": "skhan@crayhill.com",
     "registrationDate": "01/26/2023",
@@ -20807,14 +20829,15 @@
     "phone": "(415) 389-6800",
     "email": "blueowl@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BLUE OWL CAPITAL HOLDINGS, LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -22760,6 +22783,7 @@
     "phone": "(617) 748-8551",
     "email": "elinton@thl.com",
     "registrationDate": "12/21/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24900,6 +24924,7 @@
     "phone": "(917) 499-2943",
     "email": "jonathan.matson@hrlmorrison.com",
     "registrationDate": "07/13/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -27289,6 +27314,7 @@
     "phone": "(310) 235-5943",
     "email": "jason.moss@crescentcap.com",
     "registrationDate": "10/12/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28590,6 +28616,22 @@
     ]
   },
   {
+    "id": "1436284",
+    "name": "O'KANE, KELLY M.",
+    "address": "3000 SAND HILL ROAD, BLDG 2, STE 250\nMENLO PARK, CA 94025",
+    "phone": "(650) 543-1837",
+    "email": "kokane@ivp.com",
+    "registrationDate": "02/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INSTITUTIONAL VENTURE PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1460690",
     "name": "O'LAUGHLIN, MORGAN M.",
     "address": "630 FIFTH AVENUE, SUITE 2620\nNEW YORK, NY 10111",
@@ -29657,6 +29699,7 @@
     "phone": "(916) 441-4545",
     "email": "stephenp@acwa.com",
     "registrationDate": "05/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32338,6 +32381,7 @@
     "phone": "(917) 499-2943",
     "email": "jonathan.matson@hrlmorrison.com",
     "registrationDate": "07/13/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -38221,7 +38265,7 @@
   {
     "id": "1463106",
     "name": "THEOHARIDES, PHIL E.",
-    "address": "535 MADISON AVENUE 37TH FLOOR\nNEW YORK, NY 10022",
+    "address": "535 MADISON AVENUE, 24TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 973-8600",
     "email": "ptheoharides@aglcredit.com",
     "registrationDate": "09/22/2023",
@@ -39919,6 +39963,21 @@
     ]
   },
   {
+    "id": "1466694",
+    "name": "VU, QUYNH ANH A",
+    "address": "747 FRONT STREET\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 694-8776",
+    "registrationDate": "02/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INSTITUTIONAL VENTURE PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "02/05/2024"
+      }
+    ]
+  },
+  {
     "id": "1232895",
     "name": "WADA, JENNIFER M.",
     "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
@@ -41041,6 +41100,7 @@
     "phone": "(617) 946-2642",
     "email": "gwhite@thl.com",
     "registrationDate": "12/21/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
