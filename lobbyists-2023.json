@@ -371,9 +371,10 @@
   {
     "id": "1416333",
     "name": "AJJOUR, RABEEH",
-    "address": "428 J STREET, SUITE 412\nC/O KEYS LAW",
+    "address": "11611 SAN VICENTE BOULEVARD SUITE 910\nLOS ANGELES , CA 90049",
     "phone": "(916) 890-3670",
     "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
@@ -727,18 +728,24 @@
   {
     "id": "1422542",
     "name": "ALTSHULER, DAVID",
-    "address": "114 WEST 47TH STREET, FLOOR 19\nNEW YORK, NY 10036",
-    "phone": "(212) 784-2266",
-    "email": "david.altshuler@ifminvestors.com",
-    "registrationDate": "10/03/2023",
+    "address": "800 CAPITOL STREET, SUITE 3600\nHOUSTON, TX 77002",
+    "phone": "(339) 364-9732",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "IFM INVESTORS (US) LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "10/03/2023"
+      },
+      {
+        "entityName": "QEP ADVISERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -16253,6 +16260,22 @@
     ]
   },
   {
+    "id": "1298126",
+    "name": "HARRIS, KENDRA",
+    "address": "1275 4TH STREET SUITE #191\nSANTA ROSA, CA 95404",
+    "phone": "(707) 525-1665",
+    "email": "kendra@theclimatecenter.org",
+    "registrationDate": "01/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CLIMATE CENTER; THE",
+        "type": "Employer",
+        "effectiveDate": "01/03/2024"
+      }
+    ]
+  },
+  {
     "id": "1357580",
     "name": "HARRIS, PAMELA B.",
     "address": "888 BOYLSTON STREET, SUITE 1600\nBOSTON, MA 02199",
@@ -16986,22 +17009,6 @@
     ]
   },
   {
-    "id": "1462648",
-    "name": "HENDERSON\n, ERIC",
-    "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-1036",
-    "registrationDate": "07/17/2023",
-    "ethicsCourseCompletionDate": "08/10/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACLU CALIFORNIA ACTION",
-        "type": "Employer",
-        "effectiveDate": "07/17/2023"
-      }
-    ]
-  },
-  {
     "id": "1343575",
     "name": "HENDERSON, CHRISTOPHER E.",
     "address": "1 BRIDGE PLAZA, SUITE 1095\nFORT LEE, NJ 07024",
@@ -17040,6 +17047,22 @@
         "entityName": "CEVIAN CAPITAL LIMITED",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462648",
+    "name": "HENDERSON, ERIC",
+    "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1036",
+    "registrationDate": "07/17/2023",
+    "ethicsCourseCompletionDate": "08/10/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACLU CALIFORNIA ACTION",
+        "type": "Employer",
+        "effectiveDate": "07/17/2023"
       }
     ]
   },
@@ -32653,13 +32676,14 @@
     "address": "1309 COLLEGE AVENUE, 2ND FLOOR\nSANTA ROSA, CA 95404",
     "phone": "(707) 525-1665",
     "email": "nicole@theclimatecenter. org",
-    "registrationDate": "04/12/2023",
-    "status": "Active",
+    "registrationDate": "10/06/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CLIMATE CENTER; THE",
         "type": "Employer",
-        "effectiveDate": "04/12/2023"
+        "effectiveDate": "04/12/2023",
+        "terminationDate": "10/06/2023"
       }
     ]
   },
