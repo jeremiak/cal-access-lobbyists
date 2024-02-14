@@ -21393,18 +21393,24 @@
   {
     "id": "1441670",
     "name": "KURIAN, NICOLE M.",
-    "address": "921 11TH STREET, SUITE 502\nSACRAMENTO, CA 95814",
-    "phone": "(916) 443-5422",
-    "email": "nicole@cawrecycles.org",
-    "registrationDate": "11/10/2023",
+    "address": "200 NORTH SPRING STREET, ROOM 303\nLOS ANGELES, CA 90012",
+    "phone": "(213) 978-0600",
+    "email": "nicole.kurian@lacity.org",
+    "mailingAddress": "1121 L STREET, SUITE 505\nSACRAMENTO, CA 95814",
+    "registrationDate": "02/01/2024",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CALIFORNIANS AGAINST WASTE",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "11/10/2023"
+      },
+      {
+        "entityName": "LOS ANGELES; CITY OF",
+        "type": "Employer",
+        "effectiveDate": "02/01/2024"
       }
     ]
   },
@@ -21838,14 +21844,15 @@
     "address": "100 WEST PUTNAM AVENUE\nGREENWICH, CT 06830",
     "phone": "(203) 485-5756",
     "email": "glawton@svpglobal.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/06/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "STRATEGIC VALUE PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/06/2023"
       }
     ]
   },
@@ -31381,6 +31388,23 @@
     ]
   },
   {
+    "id": "1467006",
+    "name": "QUINTANA, FREDDIE J.",
+    "address": "200 NORTH SPRING STREET, ROOM 303\nLOS ANGELES, CA 90012",
+    "phone": "(213) 978-0600",
+    "email": "freddie.quintana@lacity.org",
+    "mailingAddress": "1121 L STREET, SUITE 505\nSACRAMENTO, CA 95814",
+    "registrationDate": "02/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOS ANGELES; CITY OF",
+        "type": "Employer",
+        "effectiveDate": "02/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1348312",
     "name": "QUINTANAR, JOHN",
     "address": "1620 26TH STREET, SUITE 6000N\nSANTA MONICA, CA 90404",
@@ -34244,7 +34268,8 @@
       {
         "entityName": "ELEVANCE HEALTH, INC. AND ITS AFFILIATED COMPANIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -35908,6 +35933,22 @@
         "entityName": "NUVEEN SERVICES LLC",
         "type": "Employer",
         "effectiveDate": "07/10/2023"
+      }
+    ]
+  },
+  {
+    "id": "1149321",
+    "name": "SINGH-ALLEN, BOBBIE",
+    "address": "1017 L STREET #419\nSACRAMENTO, CA 95814",
+    "phone": "(916) 627-1170",
+    "email": "bobbie@apca.com",
+    "registrationDate": "02/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN PETROLEUM & CONVENIENCE STORE ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "02/07/2024"
       }
     ]
   },
@@ -37735,14 +37776,15 @@
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-4656",
     "email": "izzy@syaslpartners.com",
-    "registrationDate": "01/10/2023",
+    "registrationDate": "12/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/01/2023"
       }
     ]
   },
