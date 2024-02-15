@@ -980,6 +980,7 @@
     "phone": "(916) 877-4189",
     "email": "tanderson@arcanet.org",
     "registrationDate": "01/17/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -1463,6 +1464,7 @@
     "address": "52 JERMYN STREET\nLONDON, ENGLAND SW1 6LX",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "03/31/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -3846,6 +3848,7 @@
     "address": "MICHELIN HOUSE, 3RD FLOOR, 81 FULHAM RD\nLONDON UK SW36RD",
     "email": "tequila.bone@bregal.com",
     "registrationDate": "10/27/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -6947,10 +6950,9 @@
   {
     "id": "1343101",
     "name": "CLANCY, THOMAS M.",
-    "address": "1600-1981 MCGILL COLLEGE\nQUEBEC H3A 3A8",
-    "phone": "(978) 529-3906",
+    "address": "1600-1981 MCGILL COLLEGE\nQUEBEC MONTREAL, CANADA H2M1W2",
+    "phone": "(508) 735-4322",
     "email": "tclancy@stonepineam.com",
-    "mailingAddress": "375 PARK AVENUE, FLOOR 8\nNEW YORK, NY 10152\nPhone: (646) 367-7578\nEmail: compliancealerts@fiera",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
@@ -12962,6 +12964,7 @@
     "phone": "(312) 444-5299",
     "email": "cfl79@ntrs.com",
     "registrationDate": "01/16/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23368,29 +23371,6 @@
     ]
   },
   {
-    "id": "1448347",
-    "name": "LUKAS, CARINA ",
-    "address": "1200 ENTREPRENEURIAL DRIVE\nBROOMFIELD, CO 80021",
-    "phone": "(303) 606-3600",
-    "email": "carina.lukas@partnersgroup.com",
-    "registrationDate": "06/21/2023",
-    "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CIM GROUP L.P.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "06/13/2023"
-      },
-      {
-        "entityName": "PARTNERS GROUP (USA) INC.",
-        "type": "Employer",
-        "effectiveDate": "06/21/2023"
-      }
-    ]
-  },
-  {
     "id": "1404535",
     "name": "LUNDMARK, JENNIFER ",
     "address": "197 CLARENDON STREET\nBOSTON, MA 02116",
@@ -23888,6 +23868,7 @@
     "phone": "(650) 776-8417",
     "email": "michael@majorityadvisors.com",
     "registrationDate": "05/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -27605,6 +27586,7 @@
     "phone": "(917) 200-0213",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "02/06/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -30514,6 +30496,7 @@
     "phone": "(203) 629-4901",
     "email": "compliance@lctterton.com",
     "registrationDate": "11/13/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32842,6 +32825,29 @@
         "entityName": "HEALTH ACCESS CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "06/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1448347",
+    "name": "ROBSON, CARINA ",
+    "address": "1200 ENTREPRENEURIAL DRIVE\nBROOMFIELD, CO 80021",
+    "phone": "(303) 606-3600",
+    "email": "carina.lukas@partnersgroup.com",
+    "registrationDate": "06/21/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CIM GROUP L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/13/2023"
+      },
+      {
+        "entityName": "PARTNERS GROUP (USA) INC.",
+        "type": "Employer",
+        "effectiveDate": "06/21/2023"
       }
     ]
   },
@@ -35782,6 +35788,7 @@
     "phone": "(212) 715-6825",
     "email": "nsimon@varaderocapital.com",
     "registrationDate": "01/19/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39383,6 +39390,22 @@
     ]
   },
   {
+    "id": "1464947",
+    "name": "VACA, RAQUEL",
+    "address": "743 SEWARD STREET, #200\nLOS ANGELES, CA 90038",
+    "phone": "(213) 528-8870",
+    "email": "raquel@ballardpartners.com",
+    "registrationDate": "11/15/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BALLARD PARTNERS",
+        "type": "Firm",
+        "effectiveDate": "11/15/2023"
+      }
+    ]
+  },
+  {
     "id": "1464744",
     "name": "VAKILIAN, NEDA",
     "address": "201 WEST 5TH STREET, 11TH FLOOR\nAUSTIN, TX 78701",
@@ -40843,7 +40866,7 @@
     "name": "WEISS, SAMUEL",
     "address": "1981 MCGILL COLLEGE, SUITE 1600\nQUEBEC H2M 1W2",
     "phone": "(508) 233-3604",
-    "email": "sweiss@stonepineam.com",
+    "email": "sweiss@pinestoneam.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
@@ -41404,6 +41427,7 @@
     "phone": "(203) 899-3400",
     "email": "bwilliams@grahamcapital.com",
     "registrationDate": "04/03/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
