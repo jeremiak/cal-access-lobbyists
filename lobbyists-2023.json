@@ -5301,6 +5301,23 @@
     ]
   },
   {
+    "id": "1449781",
+    "name": "CAFARCHIA, ANTHONY",
+    "address": "11100 SANTA MONICA BOULEVARD, SUITE 1700\nLOS ANGELES, CA 90025",
+    "phone": "(310) 478-8496",
+    "email": "compliance@aristotlecap.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARISTOTLE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1456458",
     "name": "CAHN, STEVEN",
     "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
@@ -6578,8 +6595,8 @@
     "id": "1355961",
     "name": "CHESTNUT, EDWARD",
     "address": "343 PILOT POINT LANE\nBOCA GRANDE, FL 33921",
-    "phone": "(212) 588-1327",
-    "email": "edward.chestnut@provequity.com",
+    "phone": "(312) 622-7543",
+    "email": "edward.chestnut@psgequity.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
@@ -6590,6 +6607,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "01/01/2024"
+      },
+      {
+        "entityName": "PSG EQUITY L.L.C",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -8709,7 +8731,8 @@
       {
         "entityName": "ANCHORAGE CAPITAL GROUP, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -8898,6 +8921,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (712) 452-2110\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11637,6 +11661,22 @@
     ]
   },
   {
+    "id": "1370585",
+    "name": "FARQUHARSON, NATASHA S.",
+    "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK, NY 10111",
+    "phone": "(212) 907-5100",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STONEPEAK PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "01/12/2024"
+      }
+    ]
+  },
+  {
     "id": "1148979",
     "name": "FARREL, GLENN",
     "address": "925 L STREET, SUITE 600\nSACRAMENTO, CA 95814",
@@ -12500,6 +12540,22 @@
         "entityName": "AFFINIUS CAPITAL",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465961",
+    "name": "FOX , LINDSAY",
+    "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK , NY 10001",
+    "phone": "(212) 907-5100",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STONEPEAK PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "01/12/2024"
       }
     ]
   },
@@ -20002,7 +20058,8 @@
       {
         "entityName": "ANCHORAGE CAPITAL GROUP, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "03/20/2023"
+        "effectiveDate": "03/20/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -21483,7 +21540,8 @@
       {
         "entityName": "ANCHORAGE CAPITAL GROUP, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2202"
       }
     ]
   },
@@ -22139,9 +22197,9 @@
   {
     "id": "1336818",
     "name": "LEE, LISA",
-    "address": "31 WEST 52ND STREET, SUITE 2400\nNEW YORK, NY 10019",
-    "phone": "(212) 588-6710",
-    "email": "lisa.lee@provequity.com",
+    "address": "401 PARK DRIVE, SUITE 204\nBOSTON, MA 02215",
+    "phone": "(617) 554-8828",
+    "email": "lisa.lee@psgequity.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
@@ -22152,6 +22210,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "01/01/2024"
+      },
+      {
+        "entityName": "PSG EQUITY L.L.C",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -24856,6 +24919,23 @@
         "entityName": "BC PARTNERS",
         "type": "Employer",
         "effectiveDate": "11/08/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465956",
+    "name": "MASON , RYAN ",
+    "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK , NY 10001",
+    "phone": "(212) 907-5100",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/12/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STONEPEAK PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "01/12/2024"
       }
     ]
   },
@@ -33500,6 +33580,23 @@
     ]
   },
   {
+    "id": "1449780",
+    "name": "ROZELL, EDWARD",
+    "address": "11100 SANTA MONICA BOULEVARD, SUITE 1700\nLOS ANGELES, CA 90025",
+    "phone": "(310) 478-4005",
+    "email": "erozell@aristotlecap.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARISTOTLE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1456957",
     "name": "RUANE, ANGELA",
     "address": "200 PARK AVENE, METLIFE BUILDING\nNEW YORK, NY 10166",
@@ -35036,9 +35133,15 @@
     "address": "225 WEST WACKER DRIVE SUITE 1200\nCHICAGO, IL 60606",
     "phone": "(312) 816-7476",
     "email": "jeffrey.seaver@ppmamerican.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
+    "registrationDate": "02/08/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "PPM AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "05/15/2023"
+      },
       {
         "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
         "type": "Employer",
@@ -35888,9 +35991,16 @@
     "address": "1299 OCEAN AVENUE\nSANTA MONICA, CA 90401",
     "phone": "(310) 917-1446",
     "email": "clientservice@deminsional.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/07/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DIMENSIONAL FUND ADVISORS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1377396",
@@ -37576,6 +37686,23 @@
       {
         "entityName": "CAPITOL CONNECTION",
         "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1335844",
+    "name": "SUFI, RANJIT ",
+    "address": "11100 SANTA MONICA BOULEVARD, SUITE 1700\nLOS ANGELES, CA 90025",
+    "phone": "(310) 478-4005",
+    "email": "rsufi@aristotlecap.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARISTOTLE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
     ]
