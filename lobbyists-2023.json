@@ -1930,6 +1930,22 @@
     ]
   },
   {
+    "id": "1467215",
+    "name": "BALEWICZ, GREG",
+    "address": "225 W WACKER DRIVE, SUITE 1200\nCHICAGO, IL 60606",
+    "phone": "(312) 843-5903",
+    "email": "greg.balewicz@ppmamerica.com",
+    "registrationDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PPM AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/25/2024"
+      }
+    ]
+  },
+  {
     "id": "1149533",
     "name": "BALL, ANDREA",
     "address": "1029 J STREET, SUITE 310\nSACRAMENTO, CA 95814",
@@ -6100,6 +6116,7 @@
     "phone": "(312) 585-0300",
     "email": "danielle.cassidy@lgima.com",
     "registrationDate": "11/09/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Terminated",
     "relationships": [
       {
@@ -7376,6 +7393,22 @@
         "entityName": "CHARTERHOUSE CAPITAL PARTNERS LLP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467224",
+    "name": "COLSON, TIMOTHY",
+    "address": "375 PARK AVENUE, SUITE 2201\nNEW YORK, NY 10022",
+    "phone": "(212) 430-1400",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -10266,6 +10299,7 @@
     "phone": "(202) 573-7758",
     "email": "jdold@humanrightsforkids.org",
     "registrationDate": "03/27/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -13154,9 +13188,9 @@
   {
     "id": "1400151",
     "name": "GAGNIER, JAMISON ",
-    "address": "655 BROAD STREET\nNEWARK, NJ 07102",
-    "phone": "(973) 802-6000",
-    "email": "lobbying@prudential.com",
+    "address": "225 W WACKER DRIVE, SUITE 1200\nCHICAGO, IL 60606",
+    "phone": "(312) 843-5930",
+    "email": "jamisongagnier@ppmamerica.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
@@ -13166,6 +13200,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "01/06/2024"
+      },
+      {
+        "entityName": "PPM AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "02/01/2024"
       }
     ]
   },
@@ -16630,6 +16669,7 @@
     "phone": "(656) 603-0860",
     "email": "khassanali@hillhouseinvestment.com",
     "registrationDate": "09/07/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21217,9 +21257,9 @@
     "name": "KOJIMA, CHRIS",
     "address": "200 WEST STREET\nNEW YORK, NY 10282",
     "phone": "(212) 902-1000",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/26/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "GOLDMAN SACHS & CO. LLC",
@@ -23067,6 +23107,7 @@
     "phone": "(916) 270-9172",
     "email": "elmer@calaborfed.org",
     "registrationDate": "01/03/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -26686,6 +26727,22 @@
     ]
   },
   {
+    "id": "1467221",
+    "name": "MINTERN, JAMES",
+    "address": "375 PARK AVENUE, SUITE 2201\nNEW YORK, NY 10022",
+    "phone": "(212) 430-1400",
+    "email": "info@capvest.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1462363",
     "name": "MIRAMONTES, BRYANT",
     "address": "1121 L STREET, SUITE 904\nSACRAMENTO, CA 95814",
@@ -27723,6 +27780,21 @@
         "entityName": "AMERICAN COUNCIL OF ENGINEERING COMPANIES CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467220",
+    "name": "MURPHY, MICHAEL",
+    "address": "4TH FLOOR, 100 PALL MALL\nLONDON UK SW1Y5NQ",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -29012,6 +29084,22 @@
     ]
   },
   {
+    "id": "1466367",
+    "name": "OJEIKERE, KEHINDE",
+    "address": "1020 12TH STREET, SUITE 406 \nSACRAMENTO, CA 95814",
+    "phone": "(916) 409-7223",
+    "email": "kehinde@primestrategies.com",
+    "registrationDate": "01/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PRIME STRATEGIES OF CALIFORNIA",
+        "type": "Firm",
+        "effectiveDate": "01/23/2024"
+      }
+    ]
+  },
+  {
     "id": "1449945",
     "name": "OLAGO, EVELINA",
     "address": "20 AIR STREET\nLONDON UK W1B 5AN",
@@ -29574,6 +29662,7 @@
     "address": "2017 O STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 444-8641",
     "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32979,6 +33068,22 @@
         "entityName": "WHOLE CONSULTING",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466365",
+    "name": "RODGERS , NATALIE ",
+    "address": "1020 12TH STREET, SUITE 406 \nSACRAMENTO, CA 95814",
+    "phone": "(916) 409-7223",
+    "email": "natalie@prime-strategies.com",
+    "registrationDate": "01/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PRIME STRATEGIES OF CALIFORNIA",
+        "type": "Firm",
+        "effectiveDate": "01/23/2024"
       }
     ]
   },
@@ -39038,6 +39143,7 @@
     "phone": "(415) 527-6921",
     "email": "nicholas_trager@ssga.com",
     "registrationDate": "10/11/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
