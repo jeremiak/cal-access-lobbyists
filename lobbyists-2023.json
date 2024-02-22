@@ -22058,9 +22058,16 @@
     "address": "3767 WORSHAM AVENUE\nLONG BEACH, CA 90808",
     "phone": "(213) 628-0808",
     "email": "hfl@leal-law.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/07/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEGISLATIVE ADVOCACY GROUP",
+        "type": "Firm",
+        "effectiveDate": "03/28/2023"
+      }
+    ]
   },
   {
     "id": "1428509",
@@ -25850,6 +25857,7 @@
     "phone": "(212) 310-5845",
     "mailingAddress": "800 THIRD AVENUE SUITE 1801\nNEW YORK, NY 10022\nPhone: (212) 310-5845",
     "registrationDate": "11/17/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -29276,6 +29284,7 @@
     "phone": "(215) 609-3500",
     "email": "evan.moskow@brandywineglobal.com",
     "registrationDate": "02/22/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -29597,6 +29606,7 @@
     "email": "sylvia.owens@klimllc.com",
     "mailingAddress": "225 LIBERTY STREET, SUITE 4210\nNEW YORK, NY 10281",
     "registrationDate": "01/02/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -30654,7 +30664,8 @@
       {
         "entityName": "TISHMAN SPEYER PROPERTIES, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/16/2024"
       }
     ]
   },
@@ -36731,13 +36742,14 @@
     "address": "1099 NEW YORK AVENUE NW #900\nWASHINGTON , DC 20003",
     "phone": "(202) 639-6000",
     "email": "jsobel@jenner.com",
-    "registrationDate": "08/29/2023",
-    "status": "Active",
+    "registrationDate": "11/27/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "JENNER & BLOCK LLP",
         "type": "Firm",
-        "effectiveDate": "08/29/2023"
+        "effectiveDate": "08/29/2023",
+        "terminationDate": "11/27/2023"
       }
     ]
   },
@@ -36847,7 +36859,7 @@
   {
     "id": "1466537",
     "name": "SOLIS-MARICH, MARIO R.",
-    "address": "1800 E OCEAN BOULEVARD #9\nLONG BEACH, CA 90802",
+    "address": "1800 E. OCEAN BOULEVARD, #9\nLONG BEACH, CA 90802",
     "phone": "(323) 697-9358",
     "email": "mario@targetedtech.org",
     "registrationDate": "10/31/2023",
@@ -40729,14 +40741,15 @@
     "address": "1215 K STREET, SUITE 1650\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-4806",
     "email": "mwarmerdam@rcrcnet.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
