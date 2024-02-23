@@ -3937,7 +3937,8 @@
       {
         "entityName": "CALIFORNIA ADVOCATES, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/26/2024"
       }
     ]
   },
@@ -30433,6 +30434,22 @@
     ]
   },
   {
+    "id": "1466293",
+    "name": "PEREZ, EDSON",
+    "address": "1801 PENNSYLVANIA AVENUE NW, STE 410\nWASHINGTON, DC 20005",
+    "phone": "(202) 380-1950",
+    "email": "compliance_ca_aeu_f@multistate.us",
+    "registrationDate": "01/24/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ADVANCED ENERGY UNITED",
+        "type": "Employer",
+        "effectiveDate": "01/24/2024"
+      }
+    ]
+  },
+  {
     "id": "1353187",
     "name": "PERKINS, THEODORE GREY",
     "address": "10 E. 53RD STREET, 35TH FLOOR\nNEW YORK, NY 10022",
@@ -38680,14 +38697,15 @@
     "address": "1215 K STREET, SUITE 1200\nSACRAMENTO, CA 95814",
     "phone": "(916) 340-3338",
     "email": "pathomas@cbia.org",
-    "registrationDate": "03/06/2023",
+    "registrationDate": "01/02/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "03/06/2023"
+        "effectiveDate": "03/06/2023",
+        "terminationDate": "01/02/2024"
       }
     ]
   },
