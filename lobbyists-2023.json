@@ -32274,6 +32274,21 @@
     ]
   },
   {
+    "id": "1467116",
+    "name": "REHILL, SIMREEN",
+    "address": "1401 DOVE STREET SUITE 330\nNEWPORT, CA 92660",
+    "phone": "(949) 399-9050",
+    "registrationDate": "02/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "02/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1395512",
     "name": "REID, JOSEPH A.",
     "address": "ONE MARKET STREET, STEUART TOWER\n23RD FLOOR",
