@@ -309,6 +309,7 @@
     "phone": "(213) 740-5371",
     "email": "vpgr@usc.edu",
     "registrationDate": "09/05/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -6158,7 +6159,8 @@
       {
         "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/27/2024"
       }
     ]
   },
@@ -14446,12 +14448,12 @@
   {
     "id": "1322999",
     "name": "GONZALES, REBECCA",
-    "address": "2110 K STREET\nSACRAMENTO, CA 95816",
-    "phone": "(916) 442-4565",
-    "email": "rgonzales.naswca@socialworkers.com",
-    "registrationDate": "11/08/2023",
+    "address": "1107 NINTH STREET, SUITE 680\nSACRAMENTO, CA 95814",
+    "phone": "(916) 282-5119",
+    "email": "rgonzales@wclp.org",
+    "registrationDate": "01/19/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "NATIONAL ASSOCIATION OF SOCIAL WORKERS, CALIFORNIA CHAPTER",
@@ -18936,6 +18938,23 @@
       {
         "entityName": "ASANTE CAPITAL GROUP ADVISORS LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1382200",
+    "name": "JARDINI, BARRY",
+    "address": "1107 9TH STREET, SUITE 1025\nSACRAMENTO, CA 95816",
+    "phone": "(916) 441-5844",
+    "email": "bjardini@cal-dsa.org",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA DISABILITY SERVICES ASSOCIATION",
+        "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -25058,6 +25077,22 @@
     ]
   },
   {
+    "id": "1466895",
+    "name": "MATHER, JOHN",
+    "address": "875 3RD AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 624-1200",
+    "email": "jmather@cifc.com",
+    "registrationDate": "01/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CIFC ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/11/2024"
+      }
+    ]
+  },
+  {
     "id": "1366778",
     "name": "MATSON, JONATHAN ",
     "address": "152 WEST 57TH STREET, 56TH FLOOR\nNEW YORK, NY 10019",
@@ -26219,7 +26254,8 @@
       {
         "entityName": "BANSK GROUP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/16/2024"
       }
     ]
   },
@@ -35511,6 +35547,22 @@
     ]
   },
   {
+    "id": "1466637",
+    "name": "SHAH, JAIMIR",
+    "address": "320 PARK AVENUE, 28TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 386-7480",
+    "email": "jaimir.shah@permira.com",
+    "registrationDate": "02/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "02/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1358135",
     "name": "SHAH, JENNIFER ",
     "address": "2775 SAND HILL ROAD, SUITE 100\nMENLO PARK, CA 94025",
@@ -41274,6 +41326,22 @@
         "entityName": "BAKER & WELSH, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465623",
+    "name": "WELSH, MATTHEW",
+    "address": "2223 SAN MARCO DRIVE\nLOS ANGELES, CA 90068",
+    "phone": "(407) 221-5901",
+    "email": "mtwe@lundbeck.com",
+    "registrationDate": "01/16/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LUNDBECK PHARMACEUTICALS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/16/2024"
       }
     ]
   },
