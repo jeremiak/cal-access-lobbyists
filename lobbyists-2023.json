@@ -8411,6 +8411,7 @@
     "phone": "(203) 344-6350",
     "email": "brian.crowell@mlp.com",
     "registrationDate": "07/28/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21263,6 +21264,7 @@
     "phone": "(212) 708-4679",
     "email": "rick.kohly@mlp.com",
     "registrationDate": "04/08/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23634,6 +23636,22 @@
         "entityName": "OEP CAPITAL ADVISORS, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466143",
+    "name": "MAAS, JARED",
+    "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
+    "phone": "(916) 955-7635",
+    "email": "sacramentogovcompliance@gtlaw.com",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARC STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -27800,14 +27818,15 @@
     "name": "MUNSON, MADDIE",
     "address": "925 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-4383",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WEST COAST ADVISORS",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -33377,14 +33396,15 @@
     "address": "4700 WILSHIRE BOULEVARD\nLOS ANGELES , CA 90010",
     "phone": "(323) 860-1759",
     "email": "rromero@cimgroup.com",
-    "registrationDate": "02/22/2023",
+    "registrationDate": "02/02/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CIM GROUP L.P.",
         "type": "Employer",
-        "effectiveDate": "02/22/2023"
+        "effectiveDate": "02/22/2023",
+        "terminationDate": "02/02/2024"
       }
     ]
   },
@@ -40222,7 +40242,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "TIKTOK INC. US",
+        "entityName": "TIKTOK INC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
