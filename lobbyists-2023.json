@@ -2327,6 +2327,22 @@
     ]
   },
   {
+    "id": "1465033",
+    "name": "BARRY, NICHOLAS A.",
+    "address": "1521 ALTON ROAD\nMIAMI BEACH, FL 33139",
+    "phone": "(917) 757-1180",
+    "email": "nickbarry@safeharborequity.com",
+    "registrationDate": "11/20/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SAFE HARBOR EQUITY FUND 4",
+        "type": "Firm",
+        "effectiveDate": "11/20/2023"
+      }
+    ]
+  },
+  {
     "id": "1425001",
     "name": "BARSOTTI, BRITTNEY",
     "address": "1517 H STREET #407\nSACRAMENTO, CA 95814",
@@ -9287,6 +9303,23 @@
     ]
   },
   {
+    "id": "1345096",
+    "name": "DE BURGH, KATHARINE ",
+    "address": "1100 11TH STREET, SUITE 323\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-7405",
+    "email": "deburgh@yourhoac.org",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HEALTH OFFICERS ASSOCIATION OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1454851",
     "name": "DE FILIPPO, MARGARET",
     "address": "20 HORSENECK LANE\nGREENWICH, CT 06830",
@@ -9505,23 +9538,6 @@
         "entityName": "SAPPHIRE VENTURES, LLC",
         "type": "Employer",
         "effectiveDate": "02/10/2023"
-      }
-    ]
-  },
-  {
-    "id": "1345096",
-    "name": "DEBURGH, KATHARINE ",
-    "address": "1100 11TH STREET, SUITE 323\nSACRAMENTO, CA 95814",
-    "phone": "(916) 441-7405",
-    "email": "deburgh@yourhoac.org",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "HEALTH OFFICERS ASSOCIATION OF CALIFORNIA",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -26505,10 +26521,9 @@
   },
   {
     "id": "1148533",
-    "name": "MICHELI, CHRIS M",
-    "address": "1415 L STREET, SUITE 620\nSACRAMENTO, CA 95814",
-    "phone": "(916) 448-3075",
-    "email": "cmicheli@apreamicheli.com",
+    "name": "MICHELI, CHRISTOPHER M.",
+    "address": "1127 11TH STREET, SUITE 210\nSACRAMENTO, CA 95814",
+    "phone": "(916) 743-6802",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
