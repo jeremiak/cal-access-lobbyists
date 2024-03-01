@@ -19364,6 +19364,23 @@
     ]
   },
   {
+    "id": "1234233",
+    "name": "JOHNSON, LAURIE",
+    "address": "3945 E. PACIFIC AVENUE\nSACRAMENTO, CA 95820",
+    "phone": "(916) 524-5627",
+    "email": "lauriejconsult@gmail.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "L J CONSULTING & ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1377281",
     "name": "JOHNSON, MC DONALD STEPHENS",
     "address": "60 EAST 42ND STREET, SUITE 5230\nNEW YORK, NY 10165",
@@ -24513,6 +24530,15 @@
     ]
   },
   {
+    "id": "1467504",
+    "name": "MARCUS, ALAIN",
+    "address": "395 9TH AVE, 1 MANHATTAN WEST, 56TH FLOOR\nNEW YORK, NY 10001",
+    "phone": "(332) 455-0415",
+    "registrationDate": "02/29/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1401136",
     "name": "MARCUS, REBECCA RUPPERT",
     "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
@@ -26631,6 +26657,22 @@
         "entityName": "ACADIAN ASSET MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1460421",
+    "name": "MILLER, DOUGLAS",
+    "address": "1370 AVENUE OF THE AMERICAS\nNEW YORK, NY 10019",
+    "phone": "(212) 506-5610",
+    "email": "douglas.miller@ardian.com",
+    "registrationDate": "01/30/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARDIAN US LLC",
+        "type": "Employer",
+        "effectiveDate": "01/30/2023"
       }
     ]
   },
@@ -34583,9 +34625,9 @@
     "phone": "(916) 403-0520",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 6000\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ELEVANCE HEALTH, INC. AND ITS AFFILIATED COMPANIES",
