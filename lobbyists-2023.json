@@ -4240,6 +4240,7 @@
     "phone": "(916) 447-1488",
     "email": "sarah@weidemangroup.com",
     "registrationDate": "02/01/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24788,6 +24789,7 @@
     "address": "925 L STREET, SUITE 1404\nSACRAMENTO, CA 95814",
     "phone": "(949) 399-9050",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -38453,14 +38455,15 @@
     "name": "TANG, GENESIS",
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(202) 296-8086",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "02/16/2024",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AJW, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/16/2024"
       }
     ]
   },
