@@ -6973,23 +6973,6 @@
     ]
   },
   {
-    "id": "1443259",
-    "name": "CIRRINCIONE, CAROLINE",
-    "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
-    "phone": "(916) 658-8200",
-    "email": "ccirrincione@calcities.org",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LEAGUE OF CALIFORNIA CITIES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
     "id": "1395646",
     "name": "CIULLO, JENNIFER V.",
     "address": "465 MEETING STREET, SUITE 500\nCHARLESTON, SC 29403",
@@ -15088,6 +15071,21 @@
     ]
   },
   {
+    "id": "1428296",
+    "name": "GRANT, KENDALL",
+    "address": "1370 AVENUE OF THE AMERICAS, 30TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 314-1600",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CANYON PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1434056",
     "name": "GRANZ, GLENN",
     "address": "11150 SANTA MONICA BOULEVARD, SUITE 200\nLOS ANGELES, CA 90025",
@@ -15408,6 +15406,23 @@
         "entityName": "RXN GROUP",
         "type": "Firm",
         "effectiveDate": "05/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1443259",
+    "name": "GRINDER, CAROLINE",
+    "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 658-8200",
+    "email": "ccirrincione@calcities.org",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/10/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEAGUE OF CALIFORNIA CITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -17680,6 +17695,7 @@
     "phone": "(914) 329-0347",
     "email": "thintze@uaw.net",
     "registrationDate": "06/21/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21925,6 +21941,21 @@
         "entityName": "WCAS MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467630",
+    "name": "LAW, MELANIE",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(202) 296-8086",
+    "registrationDate": "02/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AJW, INC.",
+        "type": "Firm",
+        "effectiveDate": "02/27/2024"
       }
     ]
   },
@@ -27060,7 +27091,8 @@
       {
         "entityName": "CALIFORNIA ADVOCATES, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/12/2024"
       }
     ]
   },
@@ -27800,7 +27832,8 @@
       {
         "entityName": "CANYON PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/23/2024"
       }
     ]
   },
@@ -43051,12 +43084,12 @@
   {
     "id": "1424961",
     "name": "ZWEBNER, MARC",
-    "address": "11 WEST 42ND STREET, 9TH FLOOR\nNEW YORK, NY 10036",
-    "phone": "(212) 878-3596",
-    "email": "icrawford@avenuecapital.com",
-    "registrationDate": "12/06/2023",
+    "address": "55 HUDSON YARDS\nNEW YORK, NY 10001",
+    "phone": "(212) 715-3880",
+    "email": "mzwebner@thirdpoint.com",
+    "registrationDate": "02/12/2024",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "AVENUE CAPITAL MANAGEMENT II, L.P. AND ITS AFFILIATES",
