@@ -4808,6 +4808,7 @@
     "phone": "(203) 226-3030",
     "email": "katie.bruce@bwater.com",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -6523,6 +6524,22 @@
         "entityName": "BLUE VISTA CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466788",
+    "name": "CHASTAIN-CHAPMAN, ALEXANDER U.",
+    "address": "9 WEST 57TH STREET\nNEW YORK, NY 10019",
+    "phone": "(212) 822-0419",
+    "email": "achastain-chapman@apollo.com",
+    "registrationDate": "01/31/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/31/2024"
       }
     ]
   },
@@ -8323,6 +8340,22 @@
         "entityName": "CALIFORNIA-NEVADA CONFERENCE OF OPERATING ENGINEERS",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467284",
+    "name": "CRENSHAW, JAMES",
+    "address": "ONE VANDERBILT AVENUE, SUITE 3400\nNEW YORK, NY 10017",
+    "phone": "(212) 813-4722",
+    "email": "james.crenshaw@carlyle.com",
+    "registrationDate": "10/11/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/11/2023"
       }
     ]
   },
@@ -10244,6 +10277,22 @@
     ]
   },
   {
+    "id": "1467677",
+    "name": "DOHEMANN, SCOTT R.",
+    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
+    "phone": "(415) 670-2312",
+    "email": "scott.dohemann@blackrock.com",
+    "registrationDate": "02/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLACKROCK CORPORATION US INC.",
+        "type": "Employer",
+        "effectiveDate": "02/20/2024"
+      }
+    ]
+  },
+  {
     "id": "1435344",
     "name": "DOHERTY, JOHANNA",
     "address": "300 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
@@ -10274,7 +10323,8 @@
       {
         "entityName": "DOHERTY LAW GROUP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/31/2024"
       }
     ]
   },
@@ -10428,6 +10478,22 @@
         "entityName": "LEFT LANE CAPITAL LLC",
         "type": "Employer",
         "effectiveDate": "10/23/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466890",
+    "name": "DORAN , JEFFREY",
+    "address": "200 CLARENDON STREET FLOOR 59\nBOSTON, MA 02116",
+    "phone": "(617) 889-3023",
+    "email": "jeff@sparkcapital.com",
+    "registrationDate": "02/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SPARK CAPITAL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/07/2024"
       }
     ]
   },
@@ -11736,7 +11802,7 @@
     "name": "FASAN, SEYE",
     "address": "395 9TH AVENUE, ONE MANHATTAN WEST\n56TH FLOOR",
     "phone": "(332) 455-0419",
-    "email": "lobbying@campaignlawyers.com",
+    "email": "seye.fasan@eislercapital.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
@@ -14316,6 +14382,23 @@
     ]
   },
   {
+    "id": "1467276",
+    "name": "GOLDSTEIN, DAVID",
+    "address": "600 WASHINGTON BOULEVARD\nSTAMFORD, CT 06901",
+    "phone": "(203) 863-5000",
+    "email": "dgoldstein@vikingglobal.com",
+    "mailingAddress": "660 FIFTH AVENUE\nNEW YORK, NY 10103",
+    "registrationDate": "02/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VIKING GLOBAL INVESTORS LP",
+        "type": "Employer",
+        "effectiveDate": "02/07/2024"
+      }
+    ]
+  },
+  {
     "id": "1443015",
     "name": "GOLDSTEIN, ERIC",
     "address": "259 WILSON HILL ROAD\nCOLRAIN, MA 01340",
@@ -14454,13 +14537,18 @@
     "email": "rgonzales@wclp.org",
     "registrationDate": "01/19/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "NATIONAL ASSOCIATION OF SOCIAL WORKERS, CALIFORNIA CHAPTER",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "11/08/2023"
+      },
+      {
+        "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/19/2024"
       }
     ]
   },
@@ -18038,7 +18126,7 @@
     "name": "HOMAYOUN, ALI",
     "address": "395 9TH AVENUE, ONE MANHATTAN STREET\n56TH FLOOR",
     "phone": "(332) 455-0419",
-    "email": "lobbying@campaignlawyers.com",
+    "email": "ali.homayoun@eislercapital.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
@@ -19051,6 +19139,7 @@
     "phone": "(916) 650-2600",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "05/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -19098,7 +19187,7 @@
     "name": "JENKINS, TIMOTHY",
     "address": "395 9TH AVE,1 MANHATTAN WEST, 56 FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 455-0422",
-    "email": "lobbying@campaignlawyers.com",
+    "email": "timothy.jenkins@eislercapital.com",
     "registrationDate": "04/05/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
@@ -19906,7 +19995,8 @@
       {
         "entityName": "BRIGHT LIGHT STRATEGIES",
         "type": "Firm",
-        "effectiveDate": "04/01/2023"
+        "effectiveDate": "04/01/2023",
+        "terminationDate": "08/31/2023"
       }
     ]
   },
@@ -21274,6 +21364,22 @@
     ]
   },
   {
+    "id": "1415874",
+    "name": "KOCH, LAUREN C.",
+    "address": "60 COLUMBUS CIRCLE, FLOOR 20\nNEW YORK, NY 10023",
+    "phone": "(212) 484-0047",
+    "email": "lauren.koch@cbreim.com",
+    "registrationDate": "03/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/05/2024"
+      }
+    ]
+  },
+  {
     "id": "1274098",
     "name": "KOEPKE, DAWN M.",
     "address": "915 L STREET, SUITE 1250\nSACRAMENTO, CA 95814",
@@ -21331,13 +21437,34 @@
     "phone": "(212) 902-1000",
     "registrationDate": "01/26/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "GENERAL ATLANTIC SERVICE COMPANY, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/26/2024"
+      },
       {
         "entityName": "GOLDMAN SACHS & CO. LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "01/22/2024"
+      }
+    ]
+  },
+  {
+    "id": "1467285",
+    "name": "KONG, DAN",
+    "address": "ONE VANDERBILT AVENUE, SUITE 3400\nNEW YORK, NY 10017",
+    "phone": "(646) 984-1704",
+    "email": "dan.kong@carlyle.com",
+    "registrationDate": "10/11/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/11/2023"
       }
     ]
   },
@@ -21541,6 +21668,22 @@
         "entityName": "GLOBAL EVOLUTION USA, LLC",
         "type": "Employer",
         "effectiveDate": "01/19/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466556",
+    "name": "KUMAR, KESHAV",
+    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 594-9700",
+    "email": "kkumar@bhfs.com",
+    "registrationDate": "01/18/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/18/2024"
       }
     ]
   },
@@ -24566,9 +24709,16 @@
     "name": "MARCUS, ALAIN",
     "address": "395 9TH AVE, 1 MANHATTAN WEST, 56TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 455-0415",
-    "registrationDate": "02/29/2024",
+    "email": "alain.marcus@eislercapital.com",
+    "registrationDate": "03/01/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "EISLER CAPITAL (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "03/01/2024"
+      }
+    ]
   },
   {
     "id": "1401136",
@@ -26014,6 +26164,22 @@
     ]
   },
   {
+    "id": "1334502",
+    "name": "MC MENOMY, MICHAEL K.",
+    "address": "601 SOUTH FIGUEROA STREET, 49TH FLOOR\nLOS ANGELES, CA 90017",
+    "phone": "(213) 683-4200",
+    "email": "mmcmenomy@cbreim.com",
+    "registrationDate": "03/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/05/2024"
+      }
+    ]
+  },
+  {
     "id": "1431972",
     "name": "MC MILLAN, PETER HAMIL",
     "address": "909 MONTGOMERY STREET, 4TH FLOOR\nSAN FRANCISCO, CA 94133",
@@ -26061,6 +26227,22 @@
         "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1415043",
+    "name": "MC NAMARA, BERNIE",
+    "address": "601 SOUTH FIGUEROA STREET, 49TH FLOOR\nLOS ANGELES, CA 90017-0000",
+    "phone": "(213) 683-4200",
+    "email": "bernie.mcnamara@cbreim.com",
+    "registrationDate": "03/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/05/2024"
       }
     ]
   },
@@ -26161,6 +26343,22 @@
         "entityName": "CRESTVIEW ADVISORS, L.L.C.",
         "type": "Employer",
         "effectiveDate": "07/07/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467686",
+    "name": "MCNAMARA, KEVIN",
+    "address": "888 BOYLSTON STREET, SUITE 1400\nBOSTON, MA 02199",
+    "phone": "(617) 424-4700",
+    "email": "kevin.mcnamara@martingale.com",
+    "registrationDate": "02/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MARTINGALE ASSET MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "02/07/2024"
       }
     ]
   },
@@ -26446,14 +26644,15 @@
     "address": "909 MARINA VILLAGE PARKWAY, #289\nALAMEDA, CA 94501",
     "phone": "(916) 600-0083",
     "email": "jeanne@jeannemerrillconsulting.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MERRILL CONSULTING, LLC; JEANNE",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -26592,6 +26791,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "12/31/2023"
+      },
+      {
+        "entityName": "SNODGRASS & MICHELI, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -28059,8 +28263,8 @@
   {
     "id": "1405870",
     "name": "MYERS, GREGORY",
-    "address": "4 EMBARCADERO CENTER, 20TH FLOOR\nSAN FRANCISCO, CA 94111",
-    "phone": "(415) 362-4365",
+    "address": "50 HUDSON YARDS, FLOOR 77\nNEW YORK, CA 10001",
+    "phone": "(212) 804-9191",
     "email": "gmyers@vistaequitypartners.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
@@ -30273,9 +30477,16 @@
     "address": "277 PARK AVENUE, FLOOR 08\nNEW YORK, NY 10172",
     "phone": "(212) 648-0460",
     "email": "kathryn.m.pasqualone@jpmorgan.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1463799",
@@ -30511,7 +30722,7 @@
     "name": "PENA, ANDREW",
     "address": "395 9TH AVENUE, ONCE MANHATTAN WEST\n56TH FLOOR",
     "phone": "(332) 455-0419",
-    "email": "lobbying@campaignlawyers.com",
+    "email": "andrew.pena@eislercapital.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
@@ -31050,6 +31261,22 @@
         "entityName": "MARCH OF DIMES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466294",
+    "name": "PITCHER, JULIA",
+    "address": "GRAND CENTRAL STATION, PO BOX 4777\nNEW YORK, NY 10163",
+    "phone": "(212) 509-0995",
+    "email": "compliance_ ca_ mj ff_ @multistate.us",
+    "registrationDate": "01/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FOX FOUNDATION FOR PARKINSON'S RESEARCH; THE MICHAEL J.",
+        "type": "Employer",
+        "effectiveDate": "01/03/2024"
       }
     ]
   },
@@ -31802,8 +32029,8 @@
     "id": "1449295",
     "name": "RAFFEL, ALIZA",
     "address": "395 9TH AVENUE, ONE MAHATTAN WEST\n56TH FLOOR",
-    "phone": "(332) 455-0419",
-    "email": "lobbying@campaignlawyers.com",
+    "phone": "(332) 455-0430",
+    "email": "aliza.raffel@eislercapital.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
@@ -35681,14 +35908,15 @@
     "phone": "(650) 234-2555",
     "email": "jennifer.shah@silverlake.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (650) 234-2555\nEmail: jennifer.shah@silverlake.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "02/29/2024",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SILVER LAKE TECHNOLOGY MANAGEMENT, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/29/2024"
       }
     ]
   },
@@ -35844,6 +36072,22 @@
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1446115",
+    "name": "SHEPHERDSON, CHRIS",
+    "address": "601 SOUTH FIGUEROA STREET, 49TH FLOOR\nLOS ANGELES, CA 90017",
+    "phone": "(213) 683-4200",
+    "email": "chris.shepherdson@cbreim.com",
+    "registrationDate": "03/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/05/2024"
       }
     ]
   },
@@ -36152,7 +36396,7 @@
     "name": "SILVER, JESSE",
     "address": "1 MANHATTAN WEST, 395 9TH AVE, 56TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 445-0425",
-    "email": "lobbying@campaignlawyers.com",
+    "email": "jesse.silver@eislercapital.com",
     "registrationDate": "04/05/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
@@ -37219,6 +37463,22 @@
         "entityName": "SOUZA LAW FIRM, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1444251",
+    "name": "SPALDING, SCOTT",
+    "address": "3501 JAMBOREE ROAD\nNEWPORT BEACH, CA 92660",
+    "phone": "(949) 315-9900",
+    "email": "scott.spalding@cbreim.com",
+    "registrationDate": "03/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/05/2024"
       }
     ]
   },
@@ -39381,6 +39641,22 @@
     ]
   },
   {
+    "id": "1467108",
+    "name": "TRANT, CAROLINE",
+    "address": "50 HUDSON YARDS FLOOR 77\nNEW YORK, NY 10001",
+    "phone": "(332) 270-5496",
+    "email": "ctrant@vistaequitypartners.com",
+    "registrationDate": "02/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/14/2024"
+      }
+    ]
+  },
+  {
     "id": "1149037",
     "name": "TRATTEN, LEA-ANN",
     "address": "1029 J STREET, SUITE 150\nSACRAMENTO, CA 95814",
@@ -41131,6 +41407,22 @@
         "entityName": "EASTDIL SECURED ADVISORS",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1466588",
+    "name": "WEBER, JULIA FELICE",
+    "address": "12 JOY STREET\nSAN FRANCISCO, CA 94110",
+    "phone": "(415) 537-1226",
+    "email": "juliafweber@gmail.com",
+    "registrationDate": "01/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEBER; JULIA",
+        "type": "Firm",
+        "effectiveDate": "01/05/2024"
       }
     ]
   },
@@ -43087,15 +43379,20 @@
     "address": "55 HUDSON YARDS\nNEW YORK, NY 10001",
     "phone": "(212) 715-3880",
     "email": "mzwebner@thirdpoint.com",
-    "registrationDate": "02/12/2024",
+    "registrationDate": "02/11/2024",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "AVENUE CAPITAL MANAGEMENT II, L.P. AND ITS AFFILIATES",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "12/06/2023"
+      },
+      {
+        "entityName": "THIRD POINT LLC",
+        "type": "Employer",
+        "effectiveDate": "02/11/2024"
       }
     ]
   }
