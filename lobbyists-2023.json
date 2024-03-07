@@ -5510,7 +5510,8 @@
       {
         "entityName": "CAPVEST PARTNERS LLP",
         "type": "Employer",
-        "effectiveDate": "01/01/2024"
+        "effectiveDate": "01/01/2024",
+        "terminationDate": "02/26/2024"
       }
     ]
   },
@@ -7581,6 +7582,22 @@
         "entityName": "CONOVER; GARY H.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1334749",
+    "name": "CONSIDINE, DEBORAH A.",
+    "address": "1980 WASHINGTON STREET, #808\nSAN FRANCISCO, CA 94109",
+    "phone": "(415) 298-4999",
+    "mailingAddress": "630 WEST GREMANTOWN PIKE, SUITE 300\nPLYMOUTH MEETING, PA 19462",
+    "registrationDate": "02/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CENTERSQUARE INVESTMENT MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "02/05/2024"
       }
     ]
   },
@@ -10325,6 +10342,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "01/31/2024"
+      },
+      {
+        "entityName": "KP PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "02/01/2024"
       }
     ]
   },
@@ -11363,6 +11385,22 @@
     ]
   },
   {
+    "id": "1467726",
+    "name": "ENCISO, JASMID M.",
+    "address": "10809 FOOTHILL BOULEVARD, SUITE 160-516\nRANCHO CUCAMONGA, CA 91730",
+    "phone": "(213) 400-8664",
+    "email": "jasmid@rojascommunications.com",
+    "registrationDate": "03/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
+        "type": "Firm",
+        "effectiveDate": "03/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1443237",
     "name": "ENGSTROM, JENNIFER A.",
     "address": "4201 HUNTLEY AVENUE\nCULVER CITY, CA 90230",
@@ -11434,14 +11472,15 @@
     "address": "200 CLAREDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
     "phone": "(617) 531-6335",
     "email": "rertmann@arclight.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/09/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/09/2024"
       }
     ]
   },
@@ -12191,6 +12230,22 @@
     "relationships": []
   },
   {
+    "id": "1467711",
+    "name": "FINLEY, DYLAN L.",
+    "address": "1107 9TH STREET, SUITE 1011\nSACRAMENTO , CA 95814",
+    "phone": "(916) 447-9884",
+    "email": "laura@houstonmagnani.com",
+    "registrationDate": "03/04/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOUSTON MAGNANI AND ASSOCIATES",
+        "type": "Firm",
+        "effectiveDate": "03/04/2024"
+      }
+    ]
+  },
+  {
     "id": "1399084",
     "name": "FISCELLA, JOHN",
     "address": "ONE VANDERBILT AVENUE\nNEW YORK, NY 10017",
@@ -12272,6 +12327,21 @@
         "entityName": "RIVERSIDE COUNTY DISTRICT ATTORNEY'S OFFICE",
         "type": "Employer",
         "effectiveDate": "05/30/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467712",
+    "name": "FITZPATRICK, SEAMUS",
+    "address": "4TH FLOOR, 100 PALL MALL \nLONDON SW1Y5NQ",
+    "email": "info@capvest.com",
+    "registrationDate": "02/26/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "02/26/2024"
       }
     ]
   },
@@ -26409,7 +26479,8 @@
       {
         "entityName": "STRATEGIC EDUCATION SERVICES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2024"
       }
     ]
   },
@@ -27106,6 +27177,7 @@
     "phone": "(916) 441-1571",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "08/14/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28473,7 +28545,8 @@
       {
         "entityName": "STRATEGIC EDUCATION SERVICES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/01/2024"
       }
     ]
   },
@@ -33642,6 +33715,22 @@
     ]
   },
   {
+    "id": "1403990",
+    "name": "ROJAS, JR., JAIME",
+    "address": "10809 FOOTHILL BOULEVARD, SUITE 160-516\nRANCHO CUCAMONGA, CA 91730",
+    "phone": "(213) 400-8664",
+    "email": "jaime@rojascommunications.com",
+    "registrationDate": "03/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
+        "type": "Firm",
+        "effectiveDate": "03/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1149151",
     "name": "ROLLENS, RICK",
     "address": "5300 ASHBY LANE\nGRANITE BAY, CA 95746",
@@ -36964,6 +37053,7 @@
     "phone": "(206) 623-7580",
     "email": "robert.smith@klgates.com",
     "registrationDate": "06/12/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -37318,14 +37408,15 @@
     "address": "245 PARK AVENUE, 42ND FLOOR\nNEW YORK, NY 10167",
     "phone": "(212) 515-3343",
     "email": "jsolomon@aresmgmt.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "02/12/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ARES MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/12/2024"
       }
     ]
   },
@@ -42287,6 +42378,22 @@
         "entityName": "FAP USA, LP",
         "type": "Firm",
         "effectiveDate": "06/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467734",
+    "name": "WILSON, CLIFTON J.",
+    "address": "1415 L STREET #1000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-4656",
+    "email": "clifton@syaslpartners.com",
+    "registrationDate": "03/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
+        "type": "Firm",
+        "effectiveDate": "03/01/2024"
       }
     ]
   },
