@@ -21892,14 +21892,15 @@
     "name": "LACA, GASPAR",
     "address": "1718 CAPITOL STREET AVENUE\nSACRAMENTO, CA 95811",
     "phone": "(916) 273-1080",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/14/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GSK",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/14/2023"
       }
     ]
   },
@@ -23638,9 +23639,15 @@
     "phone": "(415) 964-7029",
     "email": "tjlotharius@statestreet.com",
     "mailingAddress": "3588 BRODY WAY\nOCEANSIDE, CA 92056",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "status": "Withdrawn",
+    "relationships": [
+      {
+        "entityName": "STATE STREET BANK AND TRUST COMPANY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1434906",
@@ -28119,14 +28126,15 @@
     "address": "10 MILL POND LANE\nSIMSBURY, CT 06070",
     "phone": "(917) 940-2175",
     "email": "geoffrey.mullen@landmarkpartners.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "02/29/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ARES MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/29/2024"
       }
     ]
   },
@@ -34558,14 +34566,15 @@
     "phone": "(619) 788-3978",
     "email": "melissa@everydayimpactconsulting.com",
     "mailingAddress": "1815 P STREET, APT. A\nSACRAMENTO, CA 95811",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/25/2024",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EVERYDAY IMPACT CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "01/25/2024"
       }
     ]
   },
