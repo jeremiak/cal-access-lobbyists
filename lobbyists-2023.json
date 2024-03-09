@@ -20384,6 +20384,22 @@
     ]
   },
   {
+    "id": "1464676",
+    "name": "KELLY, JAMES F.",
+    "address": "12 WATERS EDGE\nRYE, NY 10580",
+    "phone": "(914) 844-6405",
+    "email": "jkelly@forestadvisers.co",
+    "registrationDate": "12/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FOREST ADVISERS INC",
+        "type": "Firm",
+        "effectiveDate": "12/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1417643",
     "name": "KELLY, JOSEPH D.",
     "address": "2850 QUARRY LAKE DRIVE \nBALTIMORE, MD 21209",
