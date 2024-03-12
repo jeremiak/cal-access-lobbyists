@@ -25735,13 +25735,14 @@
     "address": "2100 MC KINNEY AVENUE\nDALLAS, TX 75201",
     "phone": "(214) 932-9614",
     "email": "lmccarthy@carlsoncapital.com",
-    "registrationDate": "09/21/2023",
-    "status": "Active",
+    "registrationDate": "03/01/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CARLSON CAPITAL, L.P.",
         "type": "Employer",
-        "effectiveDate": "09/21/2023"
+        "effectiveDate": "09/21/2023",
+        "terminationDate": "03/01/2024"
       }
     ]
   },
@@ -26623,24 +26624,6 @@
         "entityName": "GOLDENTREE ASSET MANAGEMENT LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1417426",
-    "name": "MELCHIOR, EMILY",
-    "address": "340 MADISON AVENUE, SUITE 22C\nNEW YORK, NY 10173",
-    "phone": "(646) 827-8710",
-    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (646) 827-8710",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BANSK GROUP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "02/16/2024"
       }
     ]
   },
