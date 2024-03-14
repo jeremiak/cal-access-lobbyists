@@ -11286,6 +11286,22 @@
     ]
   },
   {
+    "id": "1467868",
+    "name": "ELLIOTT, DYLAN",
+    "address": "1415 L STREET #1000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-4656",
+    "email": "dylan@syaslpartners.com",
+    "registrationDate": "03/18/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
+        "type": "Firm",
+        "effectiveDate": "03/18/2024"
+      }
+    ]
+  },
+  {
     "id": "1374456",
     "name": "ELLIOTT, GARETH",
     "address": "1215 K STREET, SUITE 2030\nSACRAMENTO, CA 95814",
@@ -22900,6 +22916,23 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "07/19/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467878",
+    "name": "LESOVSKY, DILLON",
+    "address": "655 EAST 3RD STREET\nSAN BERNARDINO, CA 92415",
+    "phone": "(909) 387-0683",
+    "email": "dlesovsky@sbcsd.org",
+    "registrationDate": "03/01/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
+        "type": "Employer",
+        "effectiveDate": "03/01/2024"
       }
     ]
   },
@@ -40178,6 +40211,21 @@
     ]
   },
   {
+    "id": "1467458",
+    "name": "TRUJILLO, JACOB",
+    "address": "222 SOUTH RIVERSIDE PLAZA FLOOR 34\nCHICAGO, IL 60606",
+    "phone": "(312) 537-3613",
+    "registrationDate": "02/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DWS INVESTMENT MANAGEMENT AMERICAS INC",
+        "type": "Employer",
+        "effectiveDate": "02/28/2024"
+      }
+    ]
+  },
+  {
     "id": "1462297",
     "name": "TRUONG, EDDIE D. ",
     "address": "10 JACKSON STREET, SUITE 105\nLOS GATOS, CA 95030",
@@ -41131,6 +41179,7 @@
     "phone": "(207) 034-3500",
     "email": "daniel.wagener@bridgepoint.eu",
     "registrationDate": "05/15/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
