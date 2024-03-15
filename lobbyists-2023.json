@@ -19571,9 +19571,9 @@
   {
     "id": "1406215",
     "name": "JOHNSON, ANGELA ",
-    "address": "1 LITTLE WEST, 12TH STREET, 4TH FLOOR\nNEW YORK, NY 10014",
-    "phone": "(646) 812-4437",
-    "email": "angela@fifthwall.com",
+    "address": "3424PEACHTREE ROAD NORTHEAST SUITE 2000\nATLANTA, GA 30326",
+    "phone": "(404) 419-1000",
+    "email": "angela.johnson@nobleinvestment.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
@@ -20970,9 +20970,9 @@
   {
     "id": "1440051",
     "name": "KILEY, JONATHAN B.",
-    "address": "767 FIFTH AVENUE\nNEW YORK, NY 10153",
-    "phone": "(646) 362-0923",
-    "email": "jbkiley@gcmlp.com",
+    "address": "10 EAST 53RD STREET, 28TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(917) 513-0829",
+    "email": "jb.kiley@bridgepoint.eu",
     "registrationDate": "03/17/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
     "status": "Terminated",
@@ -21879,13 +21879,14 @@
     "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 594-9700",
     "email": "kkumar@bhfs.com",
-    "registrationDate": "01/18/2024",
-    "status": "Active",
+    "registrationDate": "03/11/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
-        "effectiveDate": "01/18/2024"
+        "effectiveDate": "01/18/2024",
+        "terminationDate": "03/11/2024"
       }
     ]
   },
