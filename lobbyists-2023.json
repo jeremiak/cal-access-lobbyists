@@ -4217,6 +4217,22 @@
     ]
   },
   {
+    "id": "1467862",
+    "name": "BREEN, LOREN",
+    "address": "13802 SCOTTSDALE ROAD\nSCOTTSDALE, AZ 85254",
+    "phone": "(971) 344-1347",
+    "email": "elizabeth@animalpolicygroup.com",
+    "registrationDate": "03/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ANIMAL POLICY GROUP",
+        "type": "Firm",
+        "effectiveDate": "03/12/2024"
+      }
+    ]
+  },
+  {
     "id": "1456374",
     "name": "BRENNAN, JESSICA",
     "address": "111 RADIO CIRCLE DRIVE\nMOUNT KISCO, NY 10549",
@@ -25427,6 +25443,22 @@
     ]
   },
   {
+    "id": "1467907",
+    "name": "MASCARINAS, CHRIS",
+    "address": "510 MADISON AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "02/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JAIN GLOBAL LLC",
+        "type": "Employer",
+        "effectiveDate": "02/08/2024"
+      }
+    ]
+  },
+  {
     "id": "1338859",
     "name": "MASDEA, JOHN",
     "address": "100 EAST PRATT STREET\nBALTIMORE, MD 21209",
@@ -26649,6 +26681,11 @@
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      },
       {
         "entityName": "STRATEGIC EDUCATION SERVICES",
         "type": "Firm",
@@ -28714,6 +28751,11 @@
     "ethicsCourseCompletionDate": "12/08/2022",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      },
       {
         "entityName": "STRATEGIC EDUCATION SERVICES",
         "type": "Firm",
@@ -31159,6 +31201,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "02/27/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -31992,9 +32035,15 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "02/01/2024"
+      },
+      {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/06/2024"
       }
     ]
   },
@@ -33633,6 +33682,7 @@
     "email": "edwardrobinson@thesocialservant.com",
     "mailingAddress": "P.O. BOX 1023\nBAKERSFIELD, CA 93302",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39292,7 +39342,8 @@
       {
         "entityName": "BC PARTNERS",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/04/2024"
       }
     ]
   },
