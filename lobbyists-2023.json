@@ -730,7 +730,7 @@
     "id": "1422542",
     "name": "ALTSHULER, DAVID",
     "address": "800 CAPITOL STREET, SUITE 3600\nHOUSTON, TX 77002",
-    "phone": "(339) 364-9732",
+    "phone": "(212) 393-4200",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2024",
@@ -1057,6 +1057,22 @@
         "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1393600",
+    "name": "ANGLE, BRADFORD L.",
+    "address": "290 CONGRESS STREET\nBOSTON, MA 02210",
+    "phone": "(949) 500-5523",
+    "email": "brad.angle@columbiathreadneedle.com",
+    "registrationDate": "02/21/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COLUMBIA MANAGEMENT INVESTMENT ADVISERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/21/2024"
       }
     ]
   },
@@ -1896,6 +1912,24 @@
     ]
   },
   {
+    "id": "1465823",
+    "name": "BALASANYAN, BOGDAN",
+    "address": "17201 SHERMAN WAY\nLAKE BALBOA, CA 91406",
+    "phone": "(310) 849-8944",
+    "email": "usagodgiven@yahoo.com",
+    "mailingAddress": "13805 SHERMAN WAY, #116\nVAN NUYS, CA 91405",
+    "registrationDate": "01/25/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOVE FOR ELDERS",
+        "type": "Firm",
+        "effectiveDate": "01/25/2024"
+      }
+    ]
+  },
+  {
     "id": "1426399",
     "name": "BALAVENDER, KELLY",
     "address": "800 THIRD AVENUE, 37TH FLOOR\nNEW YORK, NY 10022",
@@ -2504,6 +2538,7 @@
     "phone": "(929) 668-4276",
     "email": "ania.batko@apax.com",
     "registrationDate": "10/05/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -5943,13 +5978,14 @@
     "address": "1756 PLATTE STREET\nDENVER, CO 80202",
     "phone": "(720) 443-4194",
     "email": "taylor.carrington@jupiteram.com",
-    "registrationDate": "06/19/2023",
-    "status": "Active",
+    "registrationDate": "03/14/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "JUPITER ASSET MANAGEMENT US LLC",
         "type": "Firm",
-        "effectiveDate": "06/19/2023"
+        "effectiveDate": "06/19/2023",
+        "terminationDate": "03/14/2024"
       }
     ]
   },
@@ -12288,9 +12324,16 @@
     "address": "6 CORPORATE DRIVE, SUITE 650\nSHELTON, CT 06484",
     "phone": "(203) 426-1320",
     "email": "mfindlay@nssf.org",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1467711",
@@ -18412,6 +18455,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "06/08/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20989,9 +21033,9 @@
     "address": "10 EAST 53RD STREET, 28TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(917) 513-0829",
     "email": "jb.kiley@bridgepoint.eu",
-    "registrationDate": "03/17/2023",
+    "registrationDate": "01/01/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "GROSVENOR CAPITAL MANAGEMENT, L.P.",
@@ -25342,18 +25386,22 @@
   },
   {
     "id": "1290581",
-    "name": "MARTINEZ, JUANITA  M.",
-    "address": "1121 L STREET, STE 700\nSACRAMENTO, CA 95814",
-    "phone": "(916) 584-4178",
-    "email": "juanita.martinez@gm.com",
-    "registrationDate": "11/01/2023",
-    "status": "Terminated",
+    "name": "MARTINEZ, JUANITA  ",
+    "address": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
+    "phone": "(916) 510-5177",
+    "registrationDate": "02/15/2024",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "GENERAL MOTORS LLC",
         "type": "Employer",
         "effectiveDate": "05/16/2023",
         "terminationDate": "11/01/2023"
+      },
+      {
+        "entityName": "MARTINEZ CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "02/15/2024"
       }
     ]
   },
@@ -25483,6 +25531,7 @@
     "email": "FPPC@BMHLAW.COM",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "11/08/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25585,6 +25634,7 @@
     "phone": "(212) 624-1200",
     "email": "jmather@cifc.com",
     "registrationDate": "01/11/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25606,6 +25656,23 @@
         "entityName": "MATHEWS; ANNA",
         "type": "Firm",
         "effectiveDate": "02/15/2024"
+      }
+    ]
+  },
+  {
+    "id": "1465621",
+    "name": "MATINYAN, YEVA S",
+    "address": "17201 SHERMAN WAY\nLAKE BALBOA, CA 91406",
+    "phone": "(818) 605-0805",
+    "email": "eva.matinyan@yahoo.com",
+    "registrationDate": "01/25/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOVE FOR ELDERS",
+        "type": "Firm",
+        "effectiveDate": "01/25/2024"
       }
     ]
   },
@@ -34185,14 +34252,15 @@
     "address": "925 L STREET, SUITE 1404\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-4086",
     "email": "crose@townsandpa.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/09/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/09/2024"
       }
     ]
   },
@@ -39782,6 +39850,22 @@
     ]
   },
   {
+    "id": "1467623",
+    "name": "TOMLIN, TODD",
+    "address": "5847 SAN FELIPE, SUITE 3100\nHOUSTON, TX 77057",
+    "phone": "(713) 437-5114",
+    "email": "ttomlin@firststreserve.com",
+    "registrationDate": "03/06/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIRST RESERVE MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "03/06/2024"
+      }
+    ]
+  },
+  {
     "id": "1419703",
     "name": "TOMPKINS, EDWARD GRAVES",
     "address": "55 EAST 52ND STREET, 33RD FLOOR\nNEW YORK, NY 10055",
@@ -40242,8 +40326,15 @@
     "phone": "(714) 330-0645",
     "mailingAddress": "PO BOX 2437\nFULLERTON, CA 92833990",
     "registrationDate": "03/01/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "TROUT CONSULTING; TAD",
+        "type": "Firm",
+        "effectiveDate": "03/01/2024"
+      }
+    ]
   },
   {
     "id": "1392311",
@@ -42803,7 +42894,9 @@
     "name": "WOLF , DANIEL",
     "address": "600 MASSACHUSETTS AVE NW \nWASHINGTON , DC 20001",
     "phone": "(202) 344-4000",
+    "email": "adilobbying@venable.com",
     "registrationDate": "08/31/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
