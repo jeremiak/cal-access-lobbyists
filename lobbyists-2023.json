@@ -2505,6 +2505,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "10/01/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -3583,6 +3584,21 @@
     ]
   },
   {
+    "id": "1222944",
+    "name": "BLAND, TYRONE D.",
+    "address": "6344 MOJAVE SKY STREET\nLOS VEGAS, CA 89135",
+    "phone": "(214) 994-5658",
+    "registrationDate": "02/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PORTER TELLUS, LLC",
+        "type": "Firm",
+        "effectiveDate": "02/27/2024"
+      }
+    ]
+  },
+  {
     "id": "1148769",
     "name": "BLATTNER, ROBERT W",
     "address": "1121 L STREET, SUITE 507\nSACRAMENTO, CA 95814",
@@ -4001,6 +4017,7 @@
     "phone": "(212) 332-6345",
     "email": "john.borys@carlyle.com",
     "registrationDate": "12/04/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24815,6 +24832,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "03/01/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -30124,14 +30142,15 @@
     "name": "ORTIZ, ELENA",
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "02/09/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/09/2024"
       }
     ]
   },
@@ -30278,6 +30297,7 @@
     "email": "orrick@gobergroup.com",
     "mailingAddress": "1501 WILSON BOULEVARD, SUITE 1050\nARLINGTON, VA 22209",
     "registrationDate": "09/19/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32104,7 +32124,7 @@
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
-        "effectiveDate": "02/01/2024"
+        "effectiveDate": "02/07/2024"
       },
       {
         "entityName": "STRATEGIES 360",
@@ -39403,10 +39423,15 @@
     "phone": "(212) 891-2884",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (212) 891-2884\nEmail: fppc@bmhlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/05/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
+      {
+        "entityName": "BAYPINE LP",
+        "type": "Employer",
+        "effectiveDate": "03/05/2024"
+      },
       {
         "entityName": "BC PARTNERS",
         "type": "Employer",
@@ -39980,6 +40005,7 @@
     "phone": "(916) 594-9700",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "07/25/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
