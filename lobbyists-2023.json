@@ -1169,6 +1169,7 @@
     "phone": "(916) 320-2647",
     "email": "shant@apekianadvocacy.com",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -4511,6 +4512,7 @@
     "phone": "(330) 301-2562",
     "email": "ed.brockway@novartis.com",
     "registrationDate": "01/16/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11926,6 +11928,7 @@
     "phone": "(212) 907-5100",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/12/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -12847,6 +12850,7 @@
     "phone": "(212) 907-5100",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/12/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -17560,6 +17564,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "10/01/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19659,7 +19664,8 @@
       {
         "entityName": "FIFTH WALL VENTURES MANAGEMENT LLC AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/29/2024"
       }
     ]
   },
@@ -33472,6 +33478,23 @@
     ]
   },
   {
+    "id": "1467816",
+    "name": "RIEDELL, JUSTIN",
+    "address": "12 EAST 49TH STREET, 43RD FLOOR\nNEW YORK, NY 10017",
+    "phone": "(917) 565-1483",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CINVEN AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1439390",
     "name": "RIEMER, JONATHAN \"YONI\"",
     "address": "13413 GALLERIA CIRCLE, SUITE Q-300\nAUSTIN, TX 78738",
@@ -39425,7 +39448,7 @@
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (212) 891-2884\nEmail: fppc@bmhlaw.com",
     "registrationDate": "03/05/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "BAYPINE LP",
