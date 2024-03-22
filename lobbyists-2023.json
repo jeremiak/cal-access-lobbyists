@@ -5424,6 +5424,23 @@
     ]
   },
   {
+    "id": "1379815",
+    "name": "CAHILL, JENNIFER",
+    "address": "40 NEW BOND STREET, 4TH FLOOR\nLONDON UK W1S 2RX",
+    "phone": "(646) 335-3159",
+    "email": "jennifer.cahill@fasanara.com",
+    "registrationDate": "03/25/2024",
+    "ethicsCourseCompletionDate": "05/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FASANARA CAPITAL LTD",
+        "type": "Employer",
+        "effectiveDate": "03/25/2024"
+      }
+    ]
+  },
+  {
     "id": "1456458",
     "name": "CAHN, STEVEN",
     "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
@@ -10047,6 +10064,23 @@
     ]
   },
   {
+    "id": "1417828",
+    "name": "DEVREKER, CAREY",
+    "address": "ONE MARKET, STEUART, SUITE 2625\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 659-7201",
+    "email": "carey@valiantcapital.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VALIANT CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1390745",
     "name": "DHARMARAJAN, SHEILA",
     "address": "110 EAST 59TH STREET, 24TH FLOOR\nNEW YORK, NY 10022",
@@ -12586,6 +12620,7 @@
     "email": "lobbying@prudential.com",
     "mailingAddress": "1011 CATALPA ROAD\nARCADIA, CA 91007",
     "registrationDate": "10/10/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15028,6 +15063,7 @@
     "phone": "(626) 844-9517",
     "email": "kgore@westernasset.com",
     "registrationDate": "10/25/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20649,6 +20685,23 @@
     ]
   },
   {
+    "id": "1338653",
+    "name": "KELSEY, WILLIAM WINFIELD",
+    "address": "4TH FLOOR, 40 NEW BOND STREET\nLONDON, UK W1S 2RX",
+    "phone": "(203) 912-0402",
+    "email": "bill.kelsey@fasanara.com",
+    "registrationDate": "03/25/2024",
+    "ethicsCourseCompletionDate": "05/18/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FASANARA CAPITAL LTD",
+        "type": "Employer",
+        "effectiveDate": "03/25/2024"
+      }
+    ]
+  },
+  {
     "id": "1445168",
     "name": "KENDRICK, JONATHAN T.",
     "address": "55 2ND STREET, SUITE 1700\nSAN FRANCISCO, CA 94105",
@@ -26074,14 +26127,15 @@
     "address": "655 E. 3RD STREET\nSAN BERNARDINO, CA 92415",
     "phone": "(909) 531-3375",
     "email": "jmcchristian@sbcsd.org",
-    "registrationDate": "01/29/2024",
+    "registrationDate": "03/23/2024",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/23/2024"
       }
     ]
   },
@@ -26936,6 +26990,22 @@
         "entityName": "COMVEST ADVISORS, LLC",
         "type": "Employer",
         "effectiveDate": "03/09/2023"
+      }
+    ]
+  },
+  {
+    "id": "1396729",
+    "name": "MENDOZA, MARK",
+    "address": "1455 PENNSYLVANIA AVENUE NW SUITE 1225\nWASHINGTON, DC 20004",
+    "phone": "(310) 984-0746",
+    "email": "compliance_ca_ebsi_1@multistate.us",
+    "registrationDate": "03/19/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EMERGENT BIOSOLUTIONS INC. (EBSI)",
+        "type": "Employer",
+        "effectiveDate": "03/19/2024"
       }
     ]
   },
@@ -42287,6 +42357,7 @@
     "phone": "(407) 221-5901",
     "email": "mtwe@lundbeck.com",
     "registrationDate": "01/16/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
