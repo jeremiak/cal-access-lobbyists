@@ -26042,7 +26042,7 @@
     "name": "MC CARTHY, JOHN J.",
     "address": "255 WEST 25TH STREET\nAPT 4D",
     "phone": "(917) 535-0199",
-    "email": "chefjmc@gmail.com",
+    "email": "chefjmc3@gmail.com",
     "registrationDate": "10/30/2023",
     "status": "Terminated",
     "relationships": [
@@ -26955,6 +26955,29 @@
         "entityName": "GOLDENTREE ASSET MANAGEMENT LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1417426",
+    "name": "MELCHIOR, EMILY",
+    "address": "340 MADISON AVENUE, SUITE 22C\nNEW YORK, NY 10173",
+    "phone": "(646) 827-8710",
+    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (646) 827-8710",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AIP, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/01/2024"
+      },
+      {
+        "entityName": "BANSK GROUP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/16/2024"
       }
     ]
   },
