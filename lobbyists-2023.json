@@ -87,14 +87,15 @@
     "address": "1 CAPITOL MALL, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3568",
     "email": "bachermann@amgroup.us",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ADVOCACY & MANAGEMENT GROUP, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -12984,7 +12985,7 @@
       {
         "entityName": "CAXTON ASSOCIATES LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "03/30/2023"
       }
     ]
   },
@@ -13578,7 +13579,7 @@
       {
         "entityName": "GALLARDO GOVERNMENT RELATIONS & CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "04/01/2023"
       }
     ]
   },
@@ -17249,14 +17250,15 @@
     "address": "1215 K STREET, SUITE 2030\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-4912",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/04/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "KAISER FOUNDATION HEALTH PLAN, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/04/2024"
       }
     ]
   },
@@ -29617,6 +29619,7 @@
     "phone": "(650) 543-1837",
     "email": "kokane@ivp.com",
     "registrationDate": "02/05/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -40533,6 +40536,7 @@
     "phone": "(917) 670-5263",
     "email": "netty.tsai@morganstanley.com",
     "registrationDate": "11/22/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
