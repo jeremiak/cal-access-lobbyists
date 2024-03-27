@@ -3856,7 +3856,8 @@
       {
         "entityName": "CENTENE AND ITS AFFILIATE HEALTH NET",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/29/2024"
       }
     ]
   },
@@ -12282,6 +12283,7 @@
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "915 L STREET SUITE 1190\nSAN FRANCISCO, CA 95814",
     "registrationDate": "04/17/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19170,6 +19172,22 @@
     ]
   },
   {
+    "id": "1468173",
+    "name": "JACKSON, BRIAN",
+    "address": "4405 WEST RIVERSIDE DRIVE, SUITE 211\nBURBANK, CA 91505",
+    "phone": "(818) 729-9900",
+    "email": "bjackson@mcmorgan.com",
+    "registrationDate": "03/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MC MORGAN & COMPANY LLC",
+        "type": "Employer",
+        "effectiveDate": "03/07/2024"
+      }
+    ]
+  },
+  {
     "id": "1448737",
     "name": "JACKSON, KHIEEM",
     "address": "1029 J STREET, SUITE 310\nSACRAMENTO, CA 95814",
@@ -20829,6 +20847,22 @@
         "entityName": "MOSAIC SOLUTIONS AND ADVOCACY",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1365483",
+    "name": "KERR, GREGG L.",
+    "address": "33 NEW MONTGOMERY STREET, SUITE 2000\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 788-9300",
+    "email": "gkerr@mcmorgan.com",
+    "registrationDate": "03/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MC MORGAN & COMPANY LLC",
+        "type": "Employer",
+        "effectiveDate": "03/07/2024"
       }
     ]
   },
@@ -24976,6 +25010,7 @@
     "address": "915 L STREET, SUITE 1130\nSACRAMENTO, CA 95814",
     "phone": "(916) 661-5365",
     "registrationDate": "12/04/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28020,6 +28055,22 @@
         "entityName": "EDUCATION TRUST; THE",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467776",
+    "name": "MORALES, MATEO PALACIO",
+    "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 417-2559",
+    "email": "mateo.palacio@brookfield.com",
+    "registrationDate": "03/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "03/08/2024"
       }
     ]
   },
@@ -35241,7 +35292,8 @@
       {
         "entityName": "NATIONAL AUDUBON SOCIETY",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/12/2024"
       }
     ]
   },
@@ -35275,7 +35327,8 @@
       {
         "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/25/2024"
       }
     ]
   },
@@ -36536,6 +36589,23 @@
         "entityName": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467947",
+    "name": "SHANER, LAUREN",
+    "address": "100 SAINT PAUL STREET, STE 800\nDENVER, CO 80206",
+    "phone": "(720) 284-6426",
+    "email": "lauren.shaner@kslcapital.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "03/18/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KSL ADVISORS, LLC DBA KSL CAPITAL PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "03/18/2024"
       }
     ]
   },
@@ -41418,6 +41488,7 @@
     "address": "747 FRONT STREET\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 694-8776",
     "registrationDate": "02/05/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -42755,6 +42826,7 @@
     "address": "1201 K STREET, SUITE 1920\nSACRAMENTO, CA 95814",
     "phone": "(916) 706-2677",
     "registrationDate": "02/20/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
