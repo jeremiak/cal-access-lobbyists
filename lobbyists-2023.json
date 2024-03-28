@@ -8930,6 +8930,22 @@
     ]
   },
   {
+    "id": "1468108",
+    "name": "CURRY, HEATHER",
+    "address": "500 EAST CORONADO ROAD \nPHOENIX, AZ 85004",
+    "phone": "(602) 462-5000",
+    "email": "hcurry@goldwaterinstitute.org",
+    "registrationDate": "03/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDWATER INSTITUTE FOR PUBLIC POLICY RESEARCH; BARRY",
+        "type": "Employer",
+        "effectiveDate": "03/08/2024"
+      }
+    ]
+  },
+  {
     "id": "1456453",
     "name": "CURRY, JAMES",
     "address": "707 MELANIE WAY\nSACRAMENTO, CA 95831",
@@ -20834,6 +20850,22 @@
     ]
   },
   {
+    "id": "1462451",
+    "name": "KERN , BELLA ",
+    "address": "925 L STREET SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1374787",
     "name": "KERNAN, DARBY",
     "address": "808 R STREET, SUITE 102\nSACRAMENTO, CA 95811",
@@ -26775,14 +26807,15 @@
     "name": "MC REYNOLDS, SEAN",
     "address": "1401 DOVE STREET, SUITE 330\nNEWPORT BEACH, CA 92660",
     "phone": "(949) 399-9050",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/09/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/09/2024"
       }
     ]
   },
@@ -29477,6 +29510,22 @@
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468116",
+    "name": "NORMAN, BRIAN",
+    "address": "500 EAST CORONADO ROAD \nPHOENIX, AZ 85004",
+    "phone": "(602) 462-5000",
+    "email": "bnorman@goldwaterinstitute.org",
+    "registrationDate": "03/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDWATER INSTITUTE FOR PUBLIC POLICY RESEARCH; BARRY",
+        "type": "Employer",
+        "effectiveDate": "03/08/2024"
       }
     ]
   },
@@ -43009,10 +43058,11 @@
   {
     "id": "1467734",
     "name": "WILSON, CLIFTON J.",
-    "address": "1415 L STREET #1000\nSACRAMENTO, CA 95814",
+    "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-4656",
     "email": "clifton@syaslpartners.com",
     "registrationDate": "03/01/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
