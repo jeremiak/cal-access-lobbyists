@@ -18385,6 +18385,7 @@
     "address": "1290 AVENUE OF THE AMERICAS\nNEW YORK, NY 10104",
     "phone": "(646) 497-7057",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -18710,6 +18711,22 @@
         "entityName": "WARBURG PINCUS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467896",
+    "name": "HUANG, WILLIAM W.",
+    "address": "2850 QUARRY LAKE DRIVE, SUITE 100\nBALTIMORE, MD 21209",
+    "phone": "(212) 763-7629",
+    "email": "jaymee.mcandrew@campbell.com",
+    "registrationDate": "03/21/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPBELL & COMPANY, LP AND CAMPBELL & COMPANY INVESTMENT ADVISER LLC, A WHOLLY OWNED SUBSIDIARY",
+        "type": "Employer",
+        "effectiveDate": "03/21/2024"
       }
     ]
   },
@@ -22007,6 +22024,23 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "09/15/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467798",
+    "name": "KREITLER, WILL",
+    "address": "540 MADISON AVENUE\nNEW YORK, NY 10022",
+    "phone": "(646) 685-8935",
+    "email": "will.kreitler@parksquarecapital.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600,\n SACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
@@ -33285,6 +33319,7 @@
     "address": "1401 DOVE STREET SUITE 330\nNEWPORT, CA 92660",
     "phone": "(949) 399-9050",
     "registrationDate": "02/01/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -40876,6 +40911,7 @@
     "phone": "(213) 528-8870",
     "email": "raquel@ballardpartners.com",
     "registrationDate": "11/15/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
