@@ -787,6 +787,23 @@
     ]
   },
   {
+    "id": "1464481",
+    "name": "ALVAREZ, CARMEN",
+    "address": "320 PARK AVENUE, 28TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 386-7480",
+    "email": "carmen.alvarez@permira.com",
+    "registrationDate": "11/22/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "11/22/2023"
+      }
+    ]
+  },
+  {
     "id": "1356413",
     "name": "ALVAREZ, MARTHA ",
     "address": "333 SOUTH BEAUDRY AVENUE, FLOOR 24\nLOS ANGELES, CA 90017",
@@ -23397,6 +23414,7 @@
     "phone": "(916) 850-9585",
     "email": "drew.liebert@comcast.net",
     "registrationDate": "11/21/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25416,6 +25434,22 @@
     ]
   },
   {
+    "id": "1467788",
+    "name": "MARTI, FRANCESC",
+    "address": "1121 L STREET, SUITE 210\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "01/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA YIMBY",
+        "type": "Employer",
+        "effectiveDate": "01/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1399026",
     "name": "MARTIN, CHRISTOPHER C.",
     "address": "1107 9TH STREET\nSACRAMENTO, CA 95814",
@@ -25830,6 +25864,7 @@
     "address": "1823 11TH STREET\nSACRAMENTO, CA 95811",
     "phone": "(209) 244-2888",
     "registrationDate": "02/15/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39832,14 +39867,15 @@
     "phone": "(617) 424-4700",
     "email": "john.thomas@martingale.com",
     "mailingAddress": "626 GOODHILL ROAD\nKENTFIELD, CA 94904",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/17/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MARTINGALE ASSET MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/17/2023"
       }
     ]
   },
