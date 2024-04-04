@@ -1015,14 +1015,15 @@
     "address": "1 CAPITOL MALL, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3568",
     "email": "kandosca@amgroup.us",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ADVOCACY & MANAGEMENT GROUP, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -5376,9 +5377,16 @@
     "address": "1 CAPITOL MALL, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3568",
     "email": "dbutler@amgroup.us",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/31/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "ADVOCACY & MANAGEMENT GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
+      }
+    ]
   },
   {
     "id": "1338865",
@@ -18202,7 +18210,7 @@
   },
   {
     "id": "1339660",
-    "name": "HOBBEHEYDAR, JAMSHID D.",
+    "name": "HOBBEHEYDAR, JAIME",
     "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 671-4500",
     "email": "lobbying@campaignlawyers.com",
@@ -31409,13 +31417,14 @@
     "address": "1 CAPITOL MALL, STE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3568",
     "email": "mperalta@amgroup.us",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "12/31/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ADVOCACY & MANAGEMENT GROUP, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
