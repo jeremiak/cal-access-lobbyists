@@ -23433,6 +23433,22 @@
     ]
   },
   {
+    "id": "1468355",
+    "name": "LIEN, MAX J.",
+    "address": "900 LARKSPUR LANDING CIRCLE, SUITE 150\nLARKSPUR, CA 94939",
+    "phone": "(415) 877-4887",
+    "email": "compliance@foresitecapital.com",
+    "registrationDate": "03/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FORESITE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/28/2024"
+      }
+    ]
+  },
+  {
     "id": "1423244",
     "name": "LIEPERT, MATTHEW D.",
     "address": "500 WEST MONROE STREET\nCHICAGO, IL 60661",
@@ -38116,9 +38132,9 @@
   {
     "id": "1417473",
     "name": "SOLOV, NATHAN",
-    "address": "621 CAPITOL MALL, SUITE 2500\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-8888",
-    "email": "nsolov@nossaman.com",
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 768-1378",
+    "email": "nate@solovadvocacy.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
     "status": "Active",
@@ -38126,7 +38142,13 @@
       {
         "entityName": "NOSSAMAN LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
+      },
+      {
+        "entityName": "SOLOV ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "04/01/2024"
       }
     ]
   },
@@ -39353,17 +39375,22 @@
   {
     "id": "1379770",
     "name": "TABBAA, HADI",
-    "address": "B CAPITAL GROUP, 10 HUDSON YARDS\nNEW YORK, NY 10001",
-    "phone": "(917) 765-1597",
-    "email": "htabbaa@bcapgroup.com",
-    "registrationDate": "07/31/2023",
-    "status": "Terminated",
+    "address": "900 LARKSPUR LANDING CIRCLE, SUITE 150\nLARKSPUR, CA 94939",
+    "phone": "(415) 877-4887",
+    "email": "compliance@foresitecapital.com",
+    "registrationDate": "03/28/2024",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "B CAPITAL GROUP U.S., LLC",
         "type": "Employer",
         "effectiveDate": "02/27/2023",
         "terminationDate": "07/31/2023"
+      },
+      {
+        "entityName": "FORESITE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/28/2024"
       }
     ]
   },
