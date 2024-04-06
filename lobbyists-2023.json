@@ -1911,9 +1911,16 @@
     "address": "1107 9TH STREET, SUITE 901\nSACRAMENTO, CA 95814",
     "phone": "(916) 822-5631",
     "email": "matthew@pcl.org",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "03/21/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLANNING AND CONSERVATION LEAGUE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1148259",
@@ -6132,14 +6139,15 @@
     "name": "CARTER, SAKEREH",
     "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
     "phone": "(916) 557-1100",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/21/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIERRA CLUB",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/28/2024"
       }
     ]
   },
@@ -10090,6 +10098,22 @@
     ]
   },
   {
+    "id": "1465143",
+    "name": "DEVLIN, JOSEPH M",
+    "address": "1601 12TH AVENUE\nSACRAMENTO, CA 95818",
+    "phone": "(916) 718-9143",
+    "email": "joe@delastrategiesgroup.com",
+    "registrationDate": "11/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DEVLIN DBA AS DELTA STRATEGIES; JOSEPH",
+        "type": "Firm",
+        "effectiveDate": "11/26/2023"
+      }
+    ]
+  },
+  {
     "id": "1402620",
     "name": "DEVLIN, TIMOTHY",
     "address": "277 PARK AVENUE, FLOOR 10\nNEW YORK, NY 10172",
@@ -10688,13 +10712,14 @@
     "address": "200 CLARENDON STREET FLOOR 59\nBOSTON, MA 02116",
     "phone": "(617) 889-3023",
     "email": "jeff@sparkcapital.com",
-    "registrationDate": "02/07/2024",
-    "status": "Active",
+    "registrationDate": "03/22/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SPARK CAPITAL PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "02/07/2024"
+        "effectiveDate": "02/07/2024",
+        "terminationDate": "03/22/2024"
       }
     ]
   },
@@ -16066,6 +16091,7 @@
     "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 658-8200",
     "registrationDate": "01/16/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -18254,14 +18280,15 @@
     "address": "2121 AVENUE OF THE STARS, SUITE 3200\nLOS ANGELES, CA 90067",
     "phone": "(617) 261-9000",
     "email": "candida.hoeberichts@aew.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/22/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AEW CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/22/2024"
       }
     ]
   },
@@ -26829,6 +26856,23 @@
     ]
   },
   {
+    "id": "1467686",
+    "name": "MC NAMARA, KEVIN",
+    "address": "888 BOYLSTON STREET, SUITE 1400\nBOSTON, MA 02199",
+    "phone": "(617) 424-4700",
+    "email": "kevin.mcnamara@martingale.com",
+    "registrationDate": "02/07/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MARTINGALE ASSET MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "02/07/2024"
+      }
+    ]
+  },
+  {
     "id": "1461423",
     "name": "MC NEIL, DANIEL WILLIAM",
     "address": "5100 TOWN CENTER CIRCLE TOWER II SUITE 430\nBOCA RATON , FL 33486",
@@ -26926,22 +26970,6 @@
         "entityName": "CRESTVIEW ADVISORS, L.L.C.",
         "type": "Employer",
         "effectiveDate": "07/07/2023"
-      }
-    ]
-  },
-  {
-    "id": "1467686",
-    "name": "MCNAMARA, KEVIN",
-    "address": "888 BOYLSTON STREET, SUITE 1400\nBOSTON, MA 02199",
-    "phone": "(617) 424-4700",
-    "email": "kevin.mcnamara@martingale.com",
-    "registrationDate": "02/07/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MARTINGALE ASSET MANAGEMENT, L.P.",
-        "type": "Employer",
-        "effectiveDate": "02/07/2024"
       }
     ]
   },
@@ -32927,6 +32955,7 @@
     "phone": "(415) 249-8041",
     "email": "dan.ransenberg@nb.com",
     "registrationDate": "10/04/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39382,15 +39411,15 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "FORESITE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/28/2024"
+      },
+      {
         "entityName": "B CAPITAL GROUP U.S., LLC",
         "type": "Employer",
         "effectiveDate": "02/27/2023",
         "terminationDate": "07/31/2023"
-      },
-      {
-        "entityName": "FORESITE CAPITAL MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "03/28/2024"
       }
     ]
   },
@@ -41397,6 +41426,22 @@
         "entityName": "VELADA CONSULTING LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468382",
+    "name": "VERAZA, KATIA",
+    "address": "1920 BALLENGER AVENUE, 4TH FLOOR\nALEXANDRIA, VA 22314",
+    "phone": "(210) 388-3019",
+    "email": "katia.veraza@rotor.org",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VERTICAL AVIATION INTERNATIONAL (VAI)",
+        "type": "Employer",
+        "effectiveDate": "04/01/2024"
       }
     ]
   },
@@ -43795,6 +43840,7 @@
     "address": "16 YORK STREET, SUITE 2900\nTORONTO ON M5J0E6",
     "phone": "(416) 369-8591",
     "registrationDate": "09/08/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
