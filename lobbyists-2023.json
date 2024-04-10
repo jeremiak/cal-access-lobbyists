@@ -549,6 +549,7 @@
     "address": "PO BOX 139\nKAILUA, HI 96734",
     "phone": "(805) 285-3185",
     "registrationDate": "01/30/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -580,14 +581,15 @@
     "address": "250 WEST 55TH STREET, 36TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(213) 309-2608",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GAMUT CAPITAL MANAGEMENT, LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -26776,7 +26778,8 @@
       {
         "entityName": "RWE CLEAN ENERGY",
         "type": "Employer",
-        "effectiveDate": "02/09/2023"
+        "effectiveDate": "02/09/2023",
+        "terminationDate": "02/22/2024"
       }
     ]
   },
@@ -32328,6 +32331,22 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467034",
+    "name": "PORTER, CATHERINE A",
+    "address": "3000 CLAREMONT AVE #1\nBERKELEY, CA 94705",
+    "phone": "(510) 393-2358",
+    "registrationDate": "02/13/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PORTER; CATHERINE A.",
+        "type": "Firm",
+        "effectiveDate": "02/13/2024"
       }
     ]
   },
