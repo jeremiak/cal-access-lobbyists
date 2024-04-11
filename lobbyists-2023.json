@@ -2900,6 +2900,23 @@
     ]
   },
   {
+    "id": "1366285",
+    "name": "BENAVIDEZ, ALICIA ",
+    "address": "1016 L STREET, #302\nSACRAMENTO, CA 95814",
+    "phone": "(916) 462-4120",
+    "email": "alicia@bluecoaststrategies.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "02/16/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLUE COAST STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1462156",
     "name": "BENEDICT, REBECCA E",
     "address": "777 THIRD AVENUE, FLOOR 30\nNEW YORK, NY 10017",
@@ -18622,6 +18639,22 @@
     ]
   },
   {
+    "id": "1467838",
+    "name": "HOPKINS, ANNABELLE",
+    "address": "2516 7TH AVENUE\nSACRAMENTO, CA 95818",
+    "phone": "(312) 659-6628",
+    "email": "compliance_ca_rwe_3@multistate.us",
+    "registrationDate": "02/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RWE OFFSHORE WIND HOLDINGS, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1455984",
     "name": "HOPPER, JOHN",
     "registrationDate": "06/01/2023",
@@ -21075,6 +21108,29 @@
     ]
   },
   {
+    "id": "1452212",
+    "name": "KESTER, ERIN",
+    "address": "350 NORTH CLARK STREET, 30TH FLOOR\nCHICAGO, IL 60654",
+    "phone": "(503) 915-0031",
+    "email": "compliance_ca_rwe_1@multistate.us",
+    "registrationDate": "02/09/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RWE CLEAN ENERGY",
+        "type": "Employer",
+        "effectiveDate": "02/09/2023",
+        "terminationDate": "02/22/2024"
+      },
+      {
+        "entityName": "RWE OFFSHORE WIND HOLDINGS, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1460515",
     "name": "KEVITT, DAMIAN",
     "address": "4470 W. SUNSET BOULEVARD, SUITE 453\nLOS ANGELES, CA 90027",
@@ -23396,23 +23452,6 @@
     "relationships": [
       {
         "entityName": "CAPITOL PARTNERS, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1366285",
-    "name": "LEWIS, ALICIA R.",
-    "address": "2219 MABRY DRIVE\nSACRAMENTO, CA 95835",
-    "phone": "(916) 462-4120",
-    "email": "alicia@bluecoaststrategies.com",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BLUE COAST STRATEGIES",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -26780,6 +26819,11 @@
         "type": "Employer",
         "effectiveDate": "02/09/2023",
         "terminationDate": "02/22/2024"
+      },
+      {
+        "entityName": "RWE OFFSHORE WIND HOLDINGS, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/22/2024"
       }
     ]
   },
@@ -27387,6 +27431,22 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "12/31/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468017",
+    "name": "MERRILL, JONATHAN",
+    "address": "53 FOREST AVENUE\nOLD GREENWICH, CT 06870",
+    "phone": "(203) 698-1200",
+    "email": "jmerrill@ellington.com",
+    "registrationDate": "03/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ELLINGTON MANAGEMENT GROUP LLC",
+        "type": "Employer",
+        "effectiveDate": "03/20/2024"
       }
     ]
   },
@@ -38849,6 +38909,23 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "09/22/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468419",
+    "name": "STELZER, CAROLINE G.",
+    "address": "1201 J STREET, SUITE 325\nSACRAMENTO, CA 95814",
+    "phone": "(209) 915-9809",
+    "email": "carli@brightlightstrat.com",
+    "mailingAddress": "417 41ST STREET\nSACRAMENTO, CA 95819",
+    "registrationDate": "03/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIGHT LIGHT STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "03/20/2024"
       }
     ]
   },
