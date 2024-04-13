@@ -691,7 +691,8 @@
       {
         "entityName": "CAPITOL STRATEGIC ADVISORS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -3064,7 +3065,8 @@
       {
         "entityName": "CALIFORNIA HOSPITAL ASSOCIATION/CALIFORNIA ASSOCIATION OF HOSPITALS AND HEALTH SYSTEMS",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/10/2024"
       }
     ]
   },
@@ -6758,7 +6760,7 @@
   {
     "id": "1368262",
     "name": "CHAVES, LISA M.",
-    "address": "640 5TH AVENUE, 22/F\nNEW YORK, NY 10019",
+    "address": "640 FIFTH AVENUE, 22ND FLOOR \nNEW YORK, NY 10019",
     "phone": "(646) 998-3039",
     "email": "lisa.chaves@cbridgecap.com",
     "registrationDate": "04/01/2023",
