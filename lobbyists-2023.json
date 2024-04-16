@@ -6861,7 +6861,7 @@
         "terminationDate": "01/01/2024"
       },
       {
-        "entityName": "PSG EQUITY L.L.C",
+        "entityName": "PSG EQUITY L.L.C.",
         "type": "Employer",
         "effectiveDate": "01/01/2024"
       }
@@ -13111,9 +13111,16 @@
     "address": "599 LEXINGTON AVENUE\nNEW YORK, NY 10022",
     "phone": "(212) 845-7939",
     "email": "fred.fraenkel@cowen.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/28/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "COWEN INVESTMENT MANAGEMENT LLC (AND ITS AFFILIATED INVESTMENT ADVISORS)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/28/2023"
+      }
+    ]
   },
   {
     "id": "1438549",
@@ -23142,7 +23149,7 @@
         "terminationDate": "01/01/2024"
       },
       {
-        "entityName": "PSG EQUITY L.L.C",
+        "entityName": "PSG EQUITY L.L.C.",
         "type": "Employer",
         "effectiveDate": "01/01/2024"
       }
@@ -31283,6 +31290,23 @@
     ]
   },
   {
+    "id": "1380526",
+    "name": "PARJUS, PEDRO",
+    "address": "600 WASHINGTON BOULEVARD\nSTAMFORD, CT 06901",
+    "phone": "(203) 863-5000",
+    "email": "pparjus@vikingglobal.com",
+    "mailingAddress": "660 FIFTH AVENUE\nNEW YORK, NY 10103",
+    "registrationDate": "04/09/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VIKING GLOBAL INVESTORS LP",
+        "type": "Employer",
+        "effectiveDate": "04/09/2024"
+      }
+    ]
+  },
+  {
     "id": "1334820",
     "name": "PARK, SONYA",
     "address": "1 IRON STREET\nBOSTON, MA 02210",
@@ -32883,6 +32907,7 @@
     "email": "freddie.quintana@lacity.org",
     "mailingAddress": "1121 L STREET, SUITE 505\nSACRAMENTO, CA 95814",
     "registrationDate": "02/01/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35651,9 +35676,8 @@
   {
     "id": "1453641",
     "name": "SAMUELSEN, SAMANTHA",
-    "address": "455 CAPITOL MALL, STE 415\nSACRAMENTO, CA 95814",
-    "phone": "(650) 678-0530",
-    "email": "info@keyslawcorp.com",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
@@ -39401,6 +39425,7 @@
     "email": "FPPC@BMHLAW.COM",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "04/03/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -44178,6 +44203,23 @@
         "entityName": "STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468621",
+    "name": "YU, TIFFANY",
+    "address": "600 WASHINGTON BOULEVARD\nSTAMFORD, CT 06901",
+    "phone": "(203) 863-5000",
+    "email": "tyu@vikingglobal.com",
+    "mailingAddress": "660 FIFTH AVENUE\nNEW YORK, NY 10103",
+    "registrationDate": "04/09/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VIKING GLOBAL INVESTORS LP",
+        "type": "Employer",
+        "effectiveDate": "04/09/2024"
       }
     ]
   },
