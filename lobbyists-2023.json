@@ -8135,6 +8135,22 @@
     ]
   },
   {
+    "id": "1467659",
+    "name": "CORDEIRO, BRANDEN",
+    "address": "1455 PENNSYLVANIA AVENUE NW\nWASHINGTON , DC 20004",
+    "phone": "(508) 415-0975",
+    "email": "branden@kpmgroupdc.com",
+    "registrationDate": "02/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KPM GROUP DC, LLC; THE",
+        "type": "Firm",
+        "effectiveDate": "02/28/2024"
+      }
+    ]
+  },
+  {
     "id": "1416956",
     "name": "CORDER, EVAN",
     "address": "1414 K STREET, SUITE 470\nSACRAMENTO, CA 95814",
@@ -9157,7 +9173,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "LYXOR ASSET MANAGEMENT INC.",
+        "entityName": "WAM MORASH LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -19395,6 +19411,22 @@
     ]
   },
   {
+    "id": "1467658",
+    "name": "JACKSON, JACOB",
+    "address": "1455 PENNSYLVANIA AVENUE NW\nWASHINGTON, DC 20004",
+    "phone": "(572) 215-7861",
+    "email": "jake@kpmgroupdc.com",
+    "registrationDate": "02/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KPM GROUP DC, LLC; THE",
+        "type": "Firm",
+        "effectiveDate": "02/28/2024"
+      }
+    ]
+  },
+  {
     "id": "1448737",
     "name": "JACKSON, KHIEEM",
     "address": "1029 J STREET, SUITE 310\nSACRAMENTO, CA 95814",
@@ -26200,14 +26232,15 @@
     "address": "712 5TH AVENUE, 25TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(332) 214-4403",
     "email": "nmarvo@pictet.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PICTET ASSET MANAGEMENT USA CORP.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -30002,6 +30035,22 @@
         "entityName": "CHAMPLAIN INVESTMENT PARTNERS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468650",
+    "name": "O'CONNOR, JOHN",
+    "address": "303 BROADWAY, SUITE 1200\nCINCINNATI , OH 45202",
+    "phone": "(513) 361-7944",
+    "email": "jack.oconnor@fortwashington.com",
+    "registrationDate": "04/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FORT WASHINGTON INVESTMENT ADVISORS, INC.",
+        "type": "Employer",
+        "effectiveDate": "04/12/2024"
       }
     ]
   },
@@ -40195,6 +40244,21 @@
     "relationships": []
   },
   {
+    "id": "1468519",
+    "name": "THOMAS, DAVON",
+    "address": "925 L STREET, SUITE 1404\nSACRAMENTO, CA 95814",
+    "phone": "(949) 399-9050",
+    "registrationDate": "02/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "02/28/2024"
+      }
+    ]
+  },
+  {
     "id": "1443454",
     "name": "THOMAS, ELIZABETH A.",
     "address": "150 SECOND STREET\nCAMBRIDGE, MA 02141",
@@ -42178,6 +42242,7 @@
     "address": "1215 K STREET, SUITE 1110\nSACRAMENTO, CA 95814",
     "phone": "(916) 534-1043",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
