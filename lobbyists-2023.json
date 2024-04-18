@@ -3160,14 +3160,15 @@
     "address": "875 3RD AVENUE\nNEW YORK, NY 10022",
     "phone": "(212) 891-2100",
     "email": "gberlin@cerberus.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CERBERUS CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -7427,6 +7428,23 @@
     ]
   },
   {
+    "id": "1465369",
+    "name": "CLEVELAND, NATHAN ",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(415) 486-5912",
+    "email": "ncleveland@sixthstreet.com",
+    "registrationDate": "12/19/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "12/19/2023"
+      }
+    ]
+  },
+  {
     "id": "1426375",
     "name": "CLINE, MADELINE E.",
     "address": "1130 K STREET, SUITE 150\nSACRAMENTO, CA 95814",
@@ -10966,6 +10984,21 @@
     ]
   },
   {
+    "id": "1468700",
+    "name": "DRISCOLL, JIM",
+    "address": "8396 EAST 50TH AVENUE\nDENVER, C0 80238",
+    "phone": "(720) 626-4475",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DRISCOLL CONSULTING LLC; JIM",
+        "type": "Firm",
+        "effectiveDate": "04/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1396692",
     "name": "DRISSI, KARIM",
     "address": "915 L STREET, SUITE 1460\nSACRAMENTO, CA 95814",
@@ -11969,14 +12002,15 @@
     "address": "875 THIRD AVENUE\nNEW YORK, NY 10022",
     "phone": "(212) 891-2100",
     "email": "kfahrman@cerberus.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CERBERUS CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -24569,6 +24603,7 @@
     "phone": "(916) 955-7635",
     "email": "sacramentogovcompliance@gtlaw.com",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -26815,6 +26850,23 @@
         "entityName": "READ & ASSOCIATES, LLC; AARON",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462620",
+    "name": "MC HUGH, BRENDAN",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(212) 405-7560",
+    "email": "bmchugh@sixthstreet.com",
+    "registrationDate": "08/25/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/25/2023"
       }
     ]
   },
@@ -33608,6 +33660,23 @@
     ]
   },
   {
+    "id": "1462621",
+    "name": "REEDER, JOHN S.",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(212) 405-7563",
+    "email": "sreeder@sixthstreet.com",
+    "registrationDate": "08/25/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/25/2023"
+      }
+    ]
+  },
+  {
     "id": "1438028",
     "name": "REEFE, CHRIS",
     "address": "3251 BEACON BOULEVARD\nWEST SACRAMENTO, CA 95691",
@@ -34848,6 +34917,23 @@
     ]
   },
   {
+    "id": "1465368",
+    "name": "ROOD, LAUREN",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(628) 220-7270",
+    "email": "lrood@sixthstreet.com",
+    "registrationDate": "12/19/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "12/19/2023"
+      }
+    ]
+  },
+  {
     "id": "1249067",
     "name": "ROSA, KRIS",
     "address": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
@@ -35601,15 +35687,9 @@
     "address": "925 L STREET SUITE 200\nSACRAMENTO, CA 95814-3703",
     "phone": "(916) 446-0388",
     "email": "ssaks@casaweb.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA ASSOCIATION OF SANITATION AGENCIES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "registrationDate": "11/10/2023",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1364944",
@@ -36961,6 +37041,23 @@
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
         "effectiveDate": "01/23/2023"
+      }
+    ]
+  },
+  {
+    "id": "1462622",
+    "name": "SHAH, AALAP",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(212) 405-8486",
+    "email": "alshah@sixthstreet.com",
+    "registrationDate": "08/25/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/25/2023"
       }
     ]
   },
@@ -39186,7 +39283,7 @@
   {
     "id": "1277487",
     "name": "STONE, KIMBERLY",
-    "address": "1415 L STREET, SUITE 940\nSACRAMENTO, CA 95814",
+    "address": "1611 10TH STREET #2\nSACRAMENTO, CA 95814",
     "phone": "(916) 798-1878",
     "email": "kim@stoneadvocacy.com",
     "mailingAddress": "1017 L STREET, #633\nSACRAMENTO, CA 95814",
@@ -40376,6 +40473,23 @@
         "entityName": "ONEX PARTNERS ADVISOR INC",
         "type": "Employer",
         "effectiveDate": "01/23/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465367",
+    "name": "THOMPSON, REDDEN",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(332) 345-8508",
+    "email": "rthompson@sixthstreet.com",
+    "registrationDate": "12/19/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "12/19/2023"
       }
     ]
   },
@@ -41932,6 +42046,23 @@
     ]
   },
   {
+    "id": "1465366",
+    "name": "VINCELETTE, NICOLE",
+    "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(415) 964-9539",
+    "email": "nvincelette@sixthstreet.com",
+    "registrationDate": "12/19/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "12/19/2023"
+      }
+    ]
+  },
+  {
     "id": "1422366",
     "name": "VITORIA, MONICA",
     "address": "40 10TH AVENUE, 5TH FLOOR\nNEW YORK, NY 10014",
@@ -43438,6 +43569,22 @@
         "entityName": "MUDRICK CAPITAL MANAGEMENT LP",
         "type": "Employer",
         "effectiveDate": "10/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1297598",
+    "name": "WILLIAMS, ANTHONY C.",
+    "address": "743 SEWARD STREET, SUITE 200\nLOS ANGELES, CA 90038",
+    "phone": "(916) 307-6080",
+    "email": "anthony@ballardpartners.com",
+    "registrationDate": "02/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BALLARD PARTNERS",
+        "type": "Firm",
+        "effectiveDate": "02/15/2024"
       }
     ]
   },
