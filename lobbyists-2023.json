@@ -693,6 +693,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "03/31/2024"
+      },
+      {
+        "entityName": "ELIZABETH ADVOCACY, LLC; MEGAN",
+        "type": "Firm",
+        "effectiveDate": "04/01/2024"
       }
     ]
   },
@@ -4366,7 +4371,7 @@
     "relationships": [
       {
         "entityName": "ANIMAL POLICY GROUP",
-        "type": "Firm",
+        "type": "Employer",
         "effectiveDate": "03/12/2024"
       }
     ]
@@ -5903,14 +5908,15 @@
     "address": "333 SOUTH GRAND AVENUE, 28TH FLOOR\nLOS ANGELES, CA 90071",
     "phone": "(213) 830-6840",
     "email": "tcarleton@oaktreecapital.com",
-    "registrationDate": "02/10/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "OAKTREE CAPITAL MANAGEMENT, L.P. AND ITS AFFILIATE OCM INVESTMENTS, LLC",
         "type": "Employer",
-        "effectiveDate": "02/10/2023"
+        "effectiveDate": "02/10/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -41051,6 +41057,22 @@
     ]
   },
   {
+    "id": "1468743",
+    "name": "TREFZ, MICHAEL",
+    "address": "1301 AVENUE OF THE AMERICAS \nNEW YORK, CA 10019",
+    "phone": "(212) 284-1923",
+    "email": "mtrefz@oaktreecapital.com",
+    "registrationDate": "04/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OAKTREE CAPITAL MANAGEMENT, L.P. AND ITS AFFILIATE OCM INVESTMENTS, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/15/2024"
+      }
+    ]
+  },
+  {
     "id": "1466184",
     "name": "TREIS, JENNY",
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
@@ -42537,6 +42559,21 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "12/31/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468741",
+    "name": "WANG, KEN",
+    "address": "1809 S STREET, SUITE 101-231\nSACRAMENTO, CA 95811",
+    "phone": "(916) 340-5084",
+    "registrationDate": "04/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "YOSHIHARA LAW & POLICY, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/08/2024"
       }
     ]
   },
