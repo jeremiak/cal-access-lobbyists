@@ -4072,8 +4072,8 @@
   {
     "id": "1394429",
     "name": "BORGES, FAITH",
-    "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
-    "phone": "(916) 441-5050",
+    "address": "1102 R STREET, SUITE 300\nSACRAMENTO, CA 95811",
+    "phone": "(916) 898-9305",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
     "status": "Active",
@@ -7913,14 +7913,15 @@
     "address": "385 EAST COLORADO BOULEVARD\nPASADENA, CA 91101",
     "phone": "(626) 844-9557",
     "email": "frances.coombes@westernasset.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/05/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/05/2024"
       }
     ]
   },
@@ -23669,9 +23670,9 @@
     "address": "721 ESTATES DRIVE\nSACRAMENTO, CA 95864",
     "phone": "(916) 850-9585",
     "email": "drew.liebert@comcast.net",
-    "registrationDate": "11/21/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LIEBERT ADVOCACY",
@@ -28204,8 +28205,8 @@
   {
     "id": "1383947",
     "name": "MOLINA, ANTHONY",
-    "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
-    "phone": "(916) 441-5050",
+    "address": "1102 R STREET, SUITE 300\nSACRAMENTO, CA 95811",
+    "phone": "(916) 898-9305",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
     "status": "Active",
