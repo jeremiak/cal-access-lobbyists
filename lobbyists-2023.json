@@ -1159,7 +1159,6 @@
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-4656",
     "email": "andrew@syaslpartners.com",
-    "mailingAddress": "1415 L STREET, SUITE 200\nSACRAMENTO, CA 95814\nPhone: (916) 446-4656",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
@@ -3145,8 +3144,8 @@
   {
     "id": "1397509",
     "name": "BERGMAN, JEREMY",
-    "address": "2000 AVENUE OF THE STARS, 12TH FLOOR \nLOS ANGELES, CA 90067",
-    "phone": "(310) 432-8609",
+    "address": "245 PARK AVENUE, 43RD FLOOR\nNEW YORK, NY 10167",
+    "phone": "(212) 808-1115",
     "email": "jbergman@aresmgmt.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "03/10/2022",
@@ -4078,6 +4077,11 @@
     "ethicsCourseCompletionDate": "12/01/2022",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "02/01/2024"
+      },
       {
         "entityName": "CALIFORNIA ADVOCATES, INC.",
         "type": "Firm",
@@ -7579,6 +7583,22 @@
     ]
   },
   {
+    "id": "1468805",
+    "name": "COLBY, CHARLES",
+    "address": "385 EAST COLORADO BOULEVARD\nPASADENA, CA 91101",
+    "phone": "(626) 844-9712",
+    "email": "charles.colby@westernasset.com",
+    "registrationDate": "04/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
+        "type": "Employer",
+        "effectiveDate": "04/08/2024"
+      }
+    ]
+  },
+  {
     "id": "1425288",
     "name": "COLE, ANN E.",
     "address": "277 PARK AVENUE, FLOOR 09\nNEW YORK, NY 10172",
@@ -9334,15 +9354,14 @@
     "address": "415 MISSION STREET, SUITE 5700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 788-5111",
     "email": "sdaniels@hf.com",
-    "registrationDate": "08/15/2023",
+    "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "HELLMAN & FRIEDMAN LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "08/15/2023"
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -21503,14 +21522,15 @@
     "address": "415 MISSION STREET, SUITE 5700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 788-5111",
     "email": "kim@hf.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/15/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HELLMAN & FRIEDMAN LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/15/2023"
       }
     ]
   },
@@ -28212,6 +28232,11 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "02/01/2024"
+      },
+      {
         "entityName": "CALIFORNIA ADVOCATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023",
@@ -32299,13 +32324,14 @@
     "address": "GRAND CENTRAL STATION, PO BOX 4777\nNEW YORK, NY 10163",
     "phone": "(212) 509-0995",
     "email": "compliance_ ca_ mj ff_ @multistate.us",
-    "registrationDate": "01/03/2024",
-    "status": "Active",
+    "registrationDate": "01/04/2024",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "FOX FOUNDATION FOR PARKINSON'S RESEARCH; THE MICHAEL J.",
         "type": "Employer",
-        "effectiveDate": "01/03/2024"
+        "effectiveDate": "01/03/2024",
+        "terminationDate": "01/04/2024"
       }
     ]
   },
@@ -32806,6 +32832,23 @@
     ]
   },
   {
+    "id": "1467748",
+    "name": "PRINCE, ELIZABETH",
+    "address": "590 PACIFIC AVENUE\nSAN FRANCISCO, CA 94133",
+    "phone": "(203) 252-9516",
+    "email": "liz@westcap.com",
+    "mailingAddress": "2669 GREENWICH STREET\nSAN FRANCISCO, CA 94123",
+    "registrationDate": "04/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTCAP MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/08/2024"
+      }
+    ]
+  },
+  {
     "id": "1351268",
     "name": "PRINTZ, ROBERT A",
     "address": "777 YAMATO ROAD, SUITE 300\nBOCA RATON, FL 33431",
@@ -33047,7 +33090,7 @@
     "name": "QUIROZ, PRISCILLA",
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-4656",
-    "email": "priscella@syaslpartners.com",
+    "email": "priscilla@syaslpartners.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
     "status": "Active",
@@ -35850,9 +35893,9 @@
     "address": "1107 NINTH STREET, STE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 282-5104",
     "email": "csanchez@welp.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/01/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
@@ -36377,8 +36420,7 @@
     "name": "SCHMELZER, JASON D.",
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-4656",
-    "email": "jason@sysalpartners.com",
-    "mailingAddress": "P.O. BOX 1736\nSACRAMENTO, CA 95812-1736",
+    "email": "jason@syaslpartners.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
@@ -38501,7 +38543,6 @@
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-4656",
     "email": "silvia@syaslpartners.com",
-    "mailingAddress": "1015 K STREET, SUITE 200\nSACRAMENTO, CA 95814\nPhone: (916) 441-0702",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
     "status": "Active",
@@ -41800,7 +41841,7 @@
   {
     "id": "1422440",
     "name": "VASWANI, SUNIL",
-    "address": "277 PSRK AVENUE, 40TH FLOOR\nNEW YORK, NY 10172",
+    "address": "277 PARK AVENUE, 40TH FLOOR\nNEW YORK, NY 10172",
     "phone": "(212) 295-5867",
     "email": "sunil.vaswani@icgam.com",
     "registrationDate": "01/01/2023",
