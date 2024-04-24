@@ -10847,14 +10847,15 @@
     "address": "30 ROCKEFELLER PLAZA\nNEW YORK, NY 10112",
     "phone": "(212) 700-6439",
     "email": "tony.dote@lazard.com",
-    "registrationDate": "11/15/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "11/08/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LAZARD ASSET MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "01/30/2023"
+        "effectiveDate": "01/30/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -11885,6 +11886,21 @@
         "entityName": "CALIFORNIA ASSOCIATION OF SCHOOL BUSINESS OFFICIALS",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468858",
+    "name": "ESTIPONA, MATTHEW",
+    "address": "4577 LAS POSITAS ROAD UNIT C\nLIVERMORE, CA 94451",
+    "phone": "(447) 235-2853",
+    "registrationDate": "04/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATED BUILDERS AND CONTRACTORS NORTHERN CALIFORNIA CHAPTER (ABC NORCAL)",
+        "type": "Employer",
+        "effectiveDate": "04/15/2024"
       }
     ]
   },
@@ -13161,7 +13177,8 @@
       {
         "entityName": "AXA INVESTMENT MANAGERS, INC. & ITS AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -13890,6 +13907,22 @@
       {
         "entityName": "ACADIAN ASSET MANAGEMENT LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1464931",
+    "name": "GANTT, GENE",
+    "address": "1826 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
+    "phone": "(916) 769-9609",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "K STREET CONSULTING, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -17164,6 +17197,22 @@
     ]
   },
   {
+    "id": "1468863",
+    "name": "HARRISON, RANDAL",
+    "address": "50 SOUTH 6TH STREET, SUITE 2350\nMINNEAPOLIS, CA 55402",
+    "phone": "(612) 376-7000",
+    "email": "gamus_compliance@rbc.com",
+    "registrationDate": "04/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
+        "type": "Employer",
+        "effectiveDate": "04/11/2024"
+      }
+    ]
+  },
+  {
     "id": "1449776",
     "name": "HARROW, LISA",
     "address": "360 SOUTH ROSEMARY AVENUE, SUITE #1700\nWEST PALM BEACH, FL 33401-6052",
@@ -19694,7 +19743,7 @@
     "email": "fvr@asantecapital.com",
     "mailingAddress": "10 EAST, 53RD STREET-12TH FLOOR\nNEW YORK, NY 10022",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "11/03/2022",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24309,6 +24358,23 @@
       {
         "entityName": "CALIFORNIA NURSES ASSOCIATION",
         "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1296831",
+    "name": "LOPEZ, PAMELA S.",
+    "address": "1826 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
+    "phone": "(916) 658-1688",
+    "mailingAddress": "5443 BUCKWOOD WAY\nSACRAMENTO, CA 95835",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "K STREET CONSULTING, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -41822,6 +41888,22 @@
     ]
   },
   {
+    "id": "1243948",
+    "name": "VARGAS, AFRACK ",
+    "address": "1826 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
+    "phone": "(916) 658-1688",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "K STREET CONSULTING, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1419755",
     "name": "VASAMI, RALPH",
     "address": "590 MADISON AVENUE, 31ST FLOOR\nNEW YORK, NY 10022",
@@ -42090,6 +42172,22 @@
         "entityName": "ACTUM CA OPCO, LLC",
         "type": "Firm",
         "effectiveDate": "06/15/2023"
+      }
+    ]
+  },
+  {
+    "id": "1438459",
+    "name": "VILLESCAZ, PAULA",
+    "address": "925 L STREET, SUITE 350\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-1749",
+    "email": "pvillescaz@cwda.org",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COUNTY WELFARE DIRECTORS ASSOCIATION OF CALIFORNIA (CWDA)",
+        "type": "Employer",
+        "effectiveDate": "04/10/2024"
       }
     ]
   },
