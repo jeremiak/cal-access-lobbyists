@@ -6702,24 +6702,6 @@
     ]
   },
   {
-    "id": "1378578",
-    "name": "CHASE, MONICA",
-    "address": "320 PARK AVENUE, 28TH FLOOR\nNEW YORK, NY 10022",
-    "phone": "(212) 386-7473",
-    "email": "monica.chase@permira.com",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "11/07/2023"
-      }
-    ]
-  },
-  {
     "id": "1438560",
     "name": "CHASE, STEVE",
     "address": "353 NORTH CLARK STREET, SUITE 730\nCHICAGO, IL 60654",
@@ -12235,7 +12217,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "HINES SECURITIES, INC.",
+        "entityName": "HINES PRIVATE WEALTH SOLUTIONS LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -19254,7 +19236,7 @@
   {
     "id": "1457105",
     "name": "HWANG, JENNIE",
-    "address": "30 ROCKEFELLER PLAZA, 54TH FLOOR\nNEW YORK, NY 10012",
+    "address": "45 ROCKEFELLER PLAZA, 39TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 605-6081",
     "email": "jhwang@onerockcapital",
     "registrationDate": "01/01/2023",
@@ -19622,7 +19604,9 @@
   {
     "id": "1149654",
     "name": "JACOBSON, DANIEL L.",
-    "address": "1111 H STREET, SUITE 207\nSACRAMENTO, CA 95814\n\t",
+    "address": "6620 SPRINGRIDGE WAY\nELK GROVE, CA 95758",
+    "phone": "(916) 446-8062",
+    "email": "djacobson@environmentcalifornia.org",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
@@ -29527,6 +29511,16 @@
     ]
   },
   {
+    "id": "1468487",
+    "name": "NEGGIA, ANDREW",
+    "address": "527 MADISON AVE, FLOOR 6\nNEW YORK, NY 10022",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "04/12/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1415072",
     "name": "NEILL, GEOFFREY",
     "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95814",
@@ -31609,7 +31603,7 @@
   {
     "id": "1335935",
     "name": "PATIL, DEEPA D.",
-    "address": "30 ROCKEFELLER PLAZA, 54TH FLOOR\nNEW YORK, NY 10112",
+    "address": "45 ROCKEFELLER PLAZA, 39TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 605-6089",
     "email": "info@onerockcapital.com",
     "registrationDate": "01/01/2023",
@@ -41374,7 +41368,8 @@
       {
         "entityName": "UNITE STRATEGIES, LLC",
         "type": "Firm",
-        "effectiveDate": "08/03/2023"
+        "effectiveDate": "08/03/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
