@@ -5701,6 +5701,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2024",
         "terminationDate": "02/26/2024"
+      },
+      {
+        "entityName": "CAPVEST PARTNERS, INC.",
+        "type": "Employer",
+        "effectiveDate": "02/26/2024"
       }
     ]
   },
@@ -7650,7 +7655,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CAPVEST PARTNERS LLP",
+        "entityName": "CAPVEST PARTNERS, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2024"
       }
@@ -12061,14 +12066,15 @@
     "address": "225 FRANKLIN STREET, SUITE 2700\nBOSTON, MA 02110",
     "phone": "(650) 274-9659",
     "email": "brian.fairhurst@rbc.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/22/2024",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/22/2024"
       }
     ]
   },
@@ -26970,14 +26976,15 @@
     "address": "250 SOUTH AUSTRALIAN AVENUE, SUITE 1800\nWEST PALM BEACH, FL 33401",
     "phone": "(561) 714-0256",
     "email": "legal@intechinvestments.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "INTECH INVESTMENT MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -28081,7 +28088,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CAPVEST PARTNERS LLP",
+        "entityName": "CAPVEST PARTNERS, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2024"
       }
@@ -29511,16 +29518,6 @@
     ]
   },
   {
-    "id": "1468487",
-    "name": "NEGGIA, ANDREW",
-    "address": "527 MADISON AVE, FLOOR 6\nNEW YORK, NY 10022",
-    "phone": "(415) 389-6800",
-    "email": "calobby@nmgovlaw.com",
-    "registrationDate": "04/12/2024",
-    "status": "Active",
-    "relationships": []
-  },
-  {
     "id": "1415072",
     "name": "NEILL, GEOFFREY",
     "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95814",
@@ -30309,7 +30306,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CAPVEST PARTNERS LLP",
+        "entityName": "CAPVEST IRISH PARTNERS LIMITED",
         "type": "Employer",
         "effectiveDate": "01/01/2024"
       }
@@ -31052,14 +31049,15 @@
     "address": "10 EAST 53RD STREET, FLOOR 21\nNEW YORK, NY 10022",
     "phone": "(502) 315-9995",
     "email": "randy.paas@firstsentier.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/22/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FIRST SENTIER INVESTORS  (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/22/2024"
       }
     ]
   },
@@ -32841,13 +32839,14 @@
     "address": "600 CALIFORNIA STREET, STE 560\nSAN FRANCISCO, CA 94108",
     "phone": "(415) 601-4788",
     "email": "richard.price@bentallgreenoaks.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "08/31/2023",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BENTALLGREENOAK REAL ESTATE US LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/31/2023"
       }
     ]
   },
