@@ -377,14 +377,15 @@
     "phone": "(916) 890-3670",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/31/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LONE VIEW CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -1821,9 +1822,16 @@
     "phone": "(212) 878-0600",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET SUITE 412\nC/O KEYS CORP\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/31/2023",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "WARBURG PINCUS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
+      }
+    ]
   },
   {
     "id": "1442134",
@@ -40335,7 +40343,7 @@
     "phone": "(212) 891-2884",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (212) 891-2884\nEmail: fppc@bmhlaw.com",
-    "registrationDate": "03/05/2024",
+    "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
@@ -40553,7 +40561,7 @@
   {
     "id": "1460068",
     "name": "THOMPSON, CARMEN",
-    "address": "60 SOUTH ROSEMARY AVENUE, 18 FLOOR \nWEST PALM BEACH, FL 33401",
+    "address": "360 SOUTH ROSEMARY AVENUE, 18TH FLOOR\nWEST PALM BEACH, FL 33401",
     "phone": "(203) 404-5232",
     "email": "cthompson@elliottmgmt.com",
     "registrationDate": "02/24/2023",
@@ -43942,7 +43950,8 @@
       {
         "entityName": "BRIDGE INVESTMENT GROUP HOLDINGS LLC AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
