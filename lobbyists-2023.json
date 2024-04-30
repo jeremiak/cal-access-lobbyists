@@ -44325,6 +44325,22 @@
     ]
   },
   {
+    "id": "1402732",
+    "name": "YAFFEE, BEN J.",
+    "address": "300 PARK AVENUE \nNEW YORK, NY 10022",
+    "phone": "(646) 845-3551",
+    "email": "benjamin.yaffee@bnymellon.com",
+    "registrationDate": "04/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INNOCAP INVESTMENT ADVISERS, LLC.",
+        "type": "Employer",
+        "effectiveDate": "04/25/2024"
+      }
+    ]
+  },
+  {
     "id": "1459457",
     "name": "YAHYA, ZEENAT",
     "address": "90 CHURCH STREET, #3417\nNEW YORK, NY 10008",
