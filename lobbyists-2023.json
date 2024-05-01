@@ -9204,22 +9204,6 @@
     ]
   },
   {
-    "id": "1384040",
-    "name": "DABINETT, ANDREW",
-    "address": "1251 AVENUE OF THE AMERICAS, 46TH FLOOR\nNEW YORK, NY 10020",
-    "phone": "(212) 205-4100",
-    "email": "us-lyxor-compliance@lyxor.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "WAM MORASH LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
     "id": "1148425",
     "name": "DAIJOGO, KENDRA L.",
     "address": "500 CAPITOL MALL, SUITE 2600\nSACRAMENTO, CA 95814",
@@ -11839,13 +11823,14 @@
     "address": "401 CLOVIS AVE, STE 201\nCLOVIS, CA 93612",
     "phone": "(559) 318-6068",
     "email": "calobby@nmgovlaw.com",
-    "registrationDate": "03/15/2023",
-    "status": "Active",
+    "registrationDate": "01/30/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VISTA CONSULTING",
         "type": "Firm",
-        "effectiveDate": "03/15/2023"
+        "effectiveDate": "03/15/2023",
+        "terminationDate": "01/30/2024"
       }
     ]
   },
@@ -12312,6 +12297,7 @@
     "phone": "(916) 341-0808",
     "email": "jfeldman@lawpolicy.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
       {
@@ -13073,7 +13059,14 @@
     "email": "fred.foss@rokoscapital.com",
     "registrationDate": "12/14/2023",
     "status": "Terminated",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "ROKOS CAPITAL MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "04/26/2023",
+        "terminationDate": "12/14/2023"
+      }
+    ]
   },
   {
     "id": "1373408",
@@ -20338,7 +20331,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "EMANUELS JONES AND ASSOCIATES",
+        "entityName": "EMANUELS JONES & ASSOCIATES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -22909,8 +22902,13 @@
     "phone": "(203) 900-3658",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "07/18/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "1543 CAPITAL LP",
+        "type": "Employer",
+        "effectiveDate": "07/18/2023"
+      },
       {
         "entityName": "CHRISTOFFERSON, ROBB & COMPANY, LLC",
         "type": "Employer",
@@ -23275,7 +23273,7 @@
     "id": "1336818",
     "name": "LEE, LISA",
     "address": "401 PARK DRIVE, SUITE 204\nBOSTON, MA 02215",
-    "phone": "(617) 554-8828",
+    "phone": "(646) 200-2901",
     "email": "lisa.lee@psgequity.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
@@ -28205,7 +28203,7 @@
   {
     "id": "1435719",
     "name": "MOFFATT, LAUREN",
-    "address": "188 NASSAU STREET, STE 1\nPRINCETON, NJ 08542",
+    "address": "300 WITHERSPOON STREET SUITE 202\nPRINCETON, NJ 08542",
     "phone": "(917) 349-6030",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2023",
@@ -29522,6 +29520,22 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "01/01/2024"
+      }
+    ]
+  },
+  {
+    "id": "1468487",
+    "name": "NEGGIA, ANDREW",
+    "address": "527 MADISON AVENUE, FLOOR 6\nNEW YORK, NY 10022",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "04/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MUDRICK CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "04/12/2024"
       }
     ]
   },
@@ -35243,7 +35257,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "EMANUELS JONES AND ASSOCIATES",
+        "entityName": "EMANUELS JONES & ASSOCIATES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -38778,6 +38792,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "09/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1357787",
+    "name": "SOTIRHOS, MICHAEL",
+    "address": "40 10TH AVENUE, 10TH FLOOR\nNEW YORK, NY 10014",
+    "phone": "(347) 601-5121",
+    "email": "ms@westcap.com",
+    "registrationDate": "04/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTCAP MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/08/2024"
       }
     ]
   },
@@ -43153,6 +43183,21 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "11/07/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468204",
+    "name": "WEISS, BARUCH",
+    "address": "601 MASSACHUSETTS AVENUE NW\nWASHINGTON, DC 20001",
+    "phone": "(202) 942-6819",
+    "registrationDate": "02/13/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARNOLD & PORTER KAYE SCHOLER LLP",
+        "type": "Firm",
+        "effectiveDate": "02/13/2024"
       }
     ]
   },
