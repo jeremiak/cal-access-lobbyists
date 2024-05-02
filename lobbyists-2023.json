@@ -2163,6 +2163,22 @@
     ]
   },
   {
+    "id": "1468174",
+    "name": "BARBEE, SYMPHONI",
+    "address": "1201 K STREET, STE 710\nSACRAMENTO, CA 95814",
+    "phone": "(916) 516-5208",
+    "registrationDate": "03/18/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "03/18/2024"
+      }
+    ]
+  },
+  {
     "id": "1450610",
     "name": "BARDO, MELISSA R.",
     "address": "580 2ND STREET, SUITE 200\nOAKLAND, CA 94607",
@@ -2314,6 +2330,21 @@
         "entityName": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469129",
+    "name": "BARRERA, LINDA",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(202) 296-8086",
+    "registrationDate": "04/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AJW, INC.",
+        "type": "Firm",
+        "effectiveDate": "04/22/2024"
       }
     ]
   },
@@ -3329,6 +3360,22 @@
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
         "effectiveDate": "05/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469099",
+    "name": "BHATTACHARJEE, PURVA",
+    "address": "2201 K STREET, SUITE 100\nSACRAMENTO , CA 95814",
+    "phone": "(408) 901-9687",
+    "email": "pbhattacharjee@cacfs.org",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "04/01/2024"
       }
     ]
   },
@@ -11924,14 +11971,15 @@
     "name": "EVANS-FUDEM, ERIN",
     "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/30/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/30/2024"
       }
     ]
   },
@@ -17858,7 +17906,8 @@
       {
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
-        "effectiveDate": "07/17/2023"
+        "effectiveDate": "07/17/2023",
+        "terminationDate": "04/26/2024"
       }
     ]
   },
@@ -23453,14 +23502,15 @@
     "address": "65 EAST 55TH STREET\nNEW YORK, NY 10022",
     "phone": "(646) 968-7140",
     "email": "peter.lelek@castlelake.com",
-    "registrationDate": "01/23/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CASTLELAKE, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/23/2023"
+        "effectiveDate": "01/23/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -24132,6 +24182,22 @@
         "entityName": "ENVIRONMENTAL WORKING GROUP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469101",
+    "name": "LIU-RAPHAEL, SELENA",
+    "address": "2201 K STREET, SUITE 100\nSACRAMENTO, CA 95814",
+    "phone": "(626) 297-7367",
+    "email": "sraphael@cacfs.org",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "04/01/2024"
       }
     ]
   },
@@ -34367,7 +34433,8 @@
       {
         "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/30/2024"
       }
     ]
   },
@@ -35957,14 +36024,15 @@
     "address": "1201 K STREET, SUITE 710\nSACRAMENTO, CA 95814",
     "phone": "(916) 516-5208",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/15/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/15/2024"
       }
     ]
   },
@@ -42472,7 +42540,8 @@
       {
         "entityName": "ARNOLD & PORTER KAYE SCHOLER LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
