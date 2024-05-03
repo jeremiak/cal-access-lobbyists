@@ -2623,6 +2623,22 @@
     ]
   },
   {
+    "id": "1469146",
+    "name": "BATTLES, DAVID",
+    "address": "PO BOX 7601\nCITRUS HEIGHTS, CA 95621",
+    "phone": "(916) 580-5004",
+    "mailingAddress": "6642 WILLOWLEAF DRIVE\nCITRUS HEIGHTS, CA 95621\nPhone: (916) 580-5004",
+    "registrationDate": "05/02/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MODIFIED MOTORCYCLE ASSOCIATION OF CALIFORNIA (MMA OF CA)",
+        "type": "Employer",
+        "effectiveDate": "05/02/2024"
+      }
+    ]
+  },
+  {
     "id": "1357293",
     "name": "BAUER, CHARLES W.",
     "address": "9651 KATY FREEWAY, SUITE 600\nHOUSTON, TX 77024",
@@ -3515,6 +3531,22 @@
     ]
   },
   {
+    "id": "1468971",
+    "name": "BIRKEY, SCOTT",
+    "address": "50 CALIFORNIA STREET, SUITE 3200\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 262-5100",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "04/16/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COX, CASTLE & NICHOLSON",
+        "type": "Firm",
+        "effectiveDate": "04/16/2024"
+      }
+    ]
+  },
+  {
     "id": "1459628",
     "name": "BISHEN, PRIYA",
     "address": "55 RAILROAD AVE \nGREENWICH, CT 06830",
@@ -4284,6 +4316,22 @@
         "entityName": "CALIFORNIA ASSOCIATION OF COUNCILS OF GOVERNMENTS",
         "type": "Employer",
         "effectiveDate": "04/25/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468950",
+    "name": "BRADISH, MARGO",
+    "address": "50 CALIFORNIA STREET, SUITE 3200\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 262-5100",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "04/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COX, CASTLE & NICHOLSON",
+        "type": "Firm",
+        "effectiveDate": "04/11/2024"
       }
     ]
   },
@@ -6308,23 +6356,6 @@
     "relationships": [
       {
         "entityName": "MODIFIED MOTORCYCLE ASSOCIATION OF CALIFORNIA (MMA OF CA)",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1336778",
-    "name": "CASEY, COLLEEN ",
-    "address": "245 PARK AVENUE\nNEW YORK, NY 10167",
-    "phone": "(212) 692-2283",
-    "email": "ccasey@angelogordon.com",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ANGELO GORDON & CO. L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -17053,6 +17084,22 @@
     ]
   },
   {
+    "id": "1468951",
+    "name": "HARRIS, ARIELLE",
+    "address": "50 CALIFORNIA STREET, SUITE 3200\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 262-5100",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "04/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COX, CASTLE & NICHOLSON",
+        "type": "Firm",
+        "effectiveDate": "04/23/2024"
+      }
+    ]
+  },
+  {
     "id": "1334630",
     "name": "HARRIS, CHRISTOPHER M.",
     "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281-1023",
@@ -19200,7 +19247,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CYNOSURE MANAGEMENT, LLC",
+        "entityName": "CYNOSURE MANAGEMENT, LLC; THE",
         "type": "Employer",
         "effectiveDate": "01/09/2023"
       }
@@ -24616,6 +24663,21 @@
     ]
   },
   {
+    "id": "1468939",
+    "name": "LUGO, VANESSA",
+    "address": "1303 J STREET, SUITE 600\nSACRAMENTO, CA 95814",
+    "phone": "(916) 438-4402",
+    "registrationDate": "01/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA BANKERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/08/2024"
+      }
+    ]
+  },
+  {
     "id": "1404535",
     "name": "LUNDMARK, JENNIFER ",
     "address": "197 CLARENDON STREET\nBOSTON, MA 02116",
@@ -25229,9 +25291,16 @@
     "address": "980 9TH STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-5021",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA NURSES ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1442628",
@@ -40537,7 +40606,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "AGL CREDIT MANAGEMENT LP",
+        "entityName": "AGL CREDIT MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "09/22/2023"
       }
@@ -42325,6 +42394,22 @@
     ]
   },
   {
+    "id": "1468414",
+    "name": "VISCARRA, LINDSEY",
+    "address": "1779 MASSACHUSETTS AVENUE, SUITE 500\nWASHINGTON, DC 20036",
+    "phone": "(202) 329-1983",
+    "email": "nordlobbying@gmail.com",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL ORGANIZATION FOR RARE DISORDERS",
+        "type": "Employer",
+        "effectiveDate": "04/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1422366",
     "name": "VITORIA, MONICA",
     "address": "40 10TH AVENUE, 5TH FLOOR\nNEW YORK, NY 10014",
@@ -42533,9 +42618,9 @@
     "address": "1215 K STREET, SUITE 1110\nSACRAMENTO, CA 95814",
     "phone": "(916) 534-1044",
     "email": "will.wagner@arnoldporter.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/15/2024",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "ARNOLD & PORTER KAYE SCHOLER LLP",
