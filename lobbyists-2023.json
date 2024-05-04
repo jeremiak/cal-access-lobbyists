@@ -4450,6 +4450,21 @@
     ]
   },
   {
+    "id": "1467330",
+    "name": "BRAWER, RUSS",
+    "address": "452 FIFTH AVENUE 28TH FL\nNEW YORK, NY 10018",
+    "phone": "(646) 480-3099",
+    "registrationDate": "03/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TILDEN PARK CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "03/12/2024"
+      }
+    ]
+  },
+  {
     "id": "1415122",
     "name": "BREEN, JENNIFER M.",
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
@@ -11585,7 +11600,7 @@
   {
     "id": "1462378",
     "name": "EL-ASMAR, MARWAN",
-    "address": "717 FIFTH  AVENUE,  24TH FLOOR\nNEW YORK, NY 10022",
+    "address": "550 MADISON AVENUE 27TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 224-9400",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
@@ -18364,7 +18379,7 @@
   {
     "id": "1381244",
     "name": "HILL, LAURA",
-    "address": "717 FIFTH AVENUE, 24TH FLOOR\nNEW YORK, NY 10022",
+    "address": "550 MADISON AVENUE, 27TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 224-9400",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (212) 224-9400\nEmail: info@keyslawcorp.com",
@@ -23252,14 +23267,15 @@
     "address": "299 PARK  AVENUE, 40TH FLOOR\nNEW YORK, NY 10171",
     "phone": "(212) 812-3100",
     "email": "registration@kingstreet.com",
-    "registrationDate": "06/01/2023",
+    "registrationDate": "04/24/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "KING STREET CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "06/01/2023"
+        "effectiveDate": "06/01/2023",
+        "terminationDate": "04/24/2024"
       }
     ]
   },
@@ -27867,14 +27883,15 @@
     "address": "3251 BEACON BOULEVARD\nWEST SACRAMENTO, CA 95691",
     "phone": "(916) 669-2551",
     "email": "govrel@csba.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA SCHOOL BOARDS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -32654,6 +32671,21 @@
         "entityName": "GOLDENTREE ASSET MANAGEMENT LP",
         "type": "Employer",
         "effectiveDate": "06/15/2023"
+      }
+    ]
+  },
+  {
+    "id": "1396849",
+    "name": "POKORA, LARRY S.",
+    "address": "452 FIFTH AVENUE 28TH FLOOR\nNEW YORK, NY 10018",
+    "phone": "(610) 715-2001",
+    "registrationDate": "03/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TILDEN PARK CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "03/12/2024"
       }
     ]
   },
@@ -42103,6 +42135,22 @@
         "entityName": "INTERMEDIATE CAPITAL GROUP, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1354315",
+    "name": "VAUGHN, CATHERINE E.",
+    "address": "452 FIFTH AVENUE 28TH FL\nNEW YORK, NY 10018",
+    "phone": "(212) 754-1700",
+    "email": "cvaughn@varaderocapital.com",
+    "registrationDate": "03/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TILDEN PARK CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "03/12/2024"
       }
     ]
   },
