@@ -4759,14 +4759,15 @@
     "phone": "(510) 299-0456",
     "email": "lbrodzinsky@commoncause.org",
     "mailingAddress": "3790 LATIMER PLACE\nOAKLAN, CA 94609\nPhone: (510) 299-0456\nEmail: lbrodzinsky@commoncause.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/26/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA COMMON CAUSE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/26/2024"
       }
     ]
   },
@@ -5420,7 +5421,8 @@
       {
         "entityName": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/03/2024"
       }
     ]
   },
@@ -6373,6 +6375,24 @@
         "entityName": "MODIFIED MOTORCYCLE ASSOCIATION OF CALIFORNIA (MMA OF CA)",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1336778",
+    "name": "CASEY, COLLEEN ",
+    "address": "245 PARK AVENUE\nNEW YORK, NY 10167",
+    "phone": "(212) 692-2283",
+    "email": "ccasey@angelogordon.com",
+    "registrationDate": "04/24/2024",
+    "ethicsCourseCompletionDate": "07/21/2022",
+    "status": "Withdrawn",
+    "relationships": [
+      {
+        "entityName": "ANGELO GORDON & CO. L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/24/2024"
       }
     ]
   },
@@ -7911,6 +7931,21 @@
         "entityName": "CONOVER; GARY H.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1356937",
+    "name": "CONROD, DAVID ",
+    "address": "712 5TH AVENUE., 8TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 887-1142",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FPCG, LLC (D/B/A FOCUS POINT PRIVATE CAPITAL GROUP)",
+        "type": "Employer",
+        "effectiveDate": "04/01/2024"
       }
     ]
   },
@@ -16795,6 +16830,22 @@
     ]
   },
   {
+    "id": "1469179",
+    "name": "HAKE , DAVIS ",
+    "address": "600 MASSACHUSETTS AVENUE NW \nWASHINGTON , DC 20001",
+    "phone": "(202) 344-4000",
+    "email": "dyhake@venable.com",
+    "registrationDate": "05/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VENABLE LLP",
+        "type": "Firm",
+        "effectiveDate": "05/03/2024"
+      }
+    ]
+  },
+  {
     "id": "1148242",
     "name": "HALEVA, JERRY M.",
     "address": "2377 GOLD MEADOW WAY, SUITE 100\nGOLD RIVER, CA 95670",
@@ -23855,7 +23906,8 @@
       {
         "entityName": "LIEBERT ADVOCACY",
         "type": "Firm",
-        "effectiveDate": "11/21/2023"
+        "effectiveDate": "11/21/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -32585,6 +32637,22 @@
     ]
   },
   {
+    "id": "1441005",
+    "name": "PIZZOLO, KEVIN",
+    "address": "712 5TH AVENUE, 8TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 887-1207",
+    "email": "kkatona@fpcgllc.com",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FPCG, LLC (D/B/A FOCUS POINT PRIVATE CAPITAL GROUP)",
+        "type": "Employer",
+        "effectiveDate": "04/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1318712",
     "name": "PIZZOTTI, COBY K. ",
     "address": "1220 S STREET, SUITE 100\nSACRAMENTO , CA 95811",
@@ -32959,14 +33027,15 @@
     "address": "712 5TH AVE, 36TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 993-0077",
     "email": "josh@riverstonellc.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RIVERSTONE EQUITY PARTNERS LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -33108,6 +33177,22 @@
         "entityName": "AVM, L.P.",
         "type": "Firm",
         "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
+    "id": "1468311",
+    "name": "PRITCHARD, BROOKE",
+    "address": "1121 L STREET, SUITE 210\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "03/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA YIMBY",
+        "type": "Employer",
+        "effectiveDate": "03/28/2024"
       }
     ]
   },
@@ -34740,6 +34825,22 @@
         "entityName": "PAAMCO PRISMA, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468089",
+    "name": "ROBERTSON, MARK",
+    "address": "875 3RD AVENUE, FLOOR 24\nNEW YORK, NY 10022",
+    "phone": "(212) 628-1200",
+    "email": "mrobertson@cifc.com",
+    "registrationDate": "03/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CIFC ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "03/20/2024"
       }
     ]
   },
@@ -37512,6 +37613,22 @@
         "entityName": "CALIFORNIA CATHOLIC CONFERENCE",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1384098",
+    "name": "SHEEHAN, LIESL",
+    "address": "ONE BEACON STREET, SUITE 16300\nBOSTON, MA 02108",
+    "phone": "(617) 236-5830",
+    "email": "sheehan@tremontstrategies.com",
+    "registrationDate": "04/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TREMONT STRATEGIES GROUP",
+        "type": "Firm",
+        "effectiveDate": "04/23/2024"
       }
     ]
   },
