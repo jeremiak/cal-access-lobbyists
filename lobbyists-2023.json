@@ -12335,6 +12335,21 @@
     ]
   },
   {
+    "id": "1468964",
+    "name": "FASCHING, HOPE",
+    "address": "P.O. BOX 160274\nSACRAMENTO, CA 95816",
+    "phone": "(858) 243-3448",
+    "registrationDate": "03/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIBER STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "03/27/2024"
+      }
+    ]
+  },
+  {
     "id": "1373342",
     "name": "FAUST, JOHN F.",
     "address": "101 CALIFORNIA STREET, SUITE 1050\nSAN FRANCISCO, CA 94111",
@@ -18021,6 +18036,11 @@
         "type": "Employer",
         "effectiveDate": "07/17/2023",
         "terminationDate": "04/26/2024"
+      },
+      {
+        "entityName": "HENDERSON CONSULTING; ERIC",
+        "type": "Firm",
+        "effectiveDate": "04/27/2024"
       }
     ]
   },
@@ -25100,7 +25120,8 @@
       {
         "entityName": "FRANKLIN RESOURCES, INC. AND ITS AFFILIATE, FRANKLIN TEMPLETON INSTITUTIONAL, LLC AND BENEFIT STREET PARTNERS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/15/2024"
       }
     ]
   },
@@ -29507,7 +29528,7 @@
   {
     "id": "1405870",
     "name": "MYERS, GREGORY",
-    "address": "50 HUDSON YARDS, FLOOR 77\nNEW YORK, CA 10001",
+    "address": "50 HUDSON YARDS, FLOOR 77\nNEW YORK, NY 10001",
     "phone": "(212) 804-9191",
     "email": "gmyers@vistaequitypartners.com",
     "registrationDate": "01/01/2023",
@@ -36836,6 +36857,23 @@
     ]
   },
   {
+    "id": "1294777",
+    "name": "SCHMITZ, BARBARA G.",
+    "address": "201 ALABAMA STREET\nSAN FRANCISCO, CA 94103",
+    "phone": "(415) 554-3000",
+    "email": "bschmitz@sfspca.org",
+    "registrationDate": "03/09/2023",
+    "ethicsCourseCompletionDate": "04/27/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SAN FRANCISCO SPCA",
+        "type": "Employer",
+        "effectiveDate": "03/09/2023"
+      }
+    ]
+  },
+  {
     "id": "1424977",
     "name": "SCHMITZ, DANIEL",
     "address": " 55 HUDSON YARDS, 48TH FL., 550 W. 34TH ST.\nNEW YORK, NY 10001",
@@ -41322,14 +41360,15 @@
     "address": "70 WEST HEDDING STREET, EAST WING\n9TH FLOOR",
     "phone": "(669) 677-1384",
     "email": "josh.tosney@cco.sccgov.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/29/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SANTA CLARA; COUNTY OF",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/29/2024"
       }
     ]
   },
@@ -43568,7 +43607,8 @@
       {
         "entityName": "SUN LIFE CAPITAL MANAGEMENT (U.S.) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/17/2024"
       }
     ]
   },
