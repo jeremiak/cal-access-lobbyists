@@ -1277,8 +1277,8 @@
   {
     "id": "1441188",
     "name": "ARGUETA, ISABELLA",
-    "address": "1100 11TH STREET, SUITE 323\nSACRAMENTO, CA 95814",
-    "phone": "(916) 804-1751",
+    "address": "P.O. BOX 160634\nSACRAMENTO, CA 95816",
+    "phone": "(916) 340-4055",
     "email": "isabella@yourhoac.org",
     "mailingAddress": "1100 11TH STREET, SUITE 323\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
@@ -9332,6 +9332,28 @@
     ]
   },
   {
+    "id": "1384040",
+    "name": "DABINETT, ANDREW",
+    "address": "320 PARK AVENUE, 7TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 205-4100",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WAM MORASH LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/22/2024"
+      },
+      {
+        "entityName": "WILSHIRE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "04/25/2024"
+      }
+    ]
+  },
+  {
     "id": "1148425",
     "name": "DAIJOGO, KENDRA L.",
     "address": "500 CAPITOL MALL, SUITE 2600\nSACRAMENTO, CA 95814",
@@ -9719,7 +9741,7 @@
   {
     "id": "1345096",
     "name": "DE BURGH, KATHARINE ",
-    "address": "1100 11TH STREET, SUITE 323\nSACRAMENTO, CA 95814",
+    "address": "P.O. BOX 160634\nSACRAMENTO, CA 95816",
     "phone": "(916) 441-7405",
     "email": "deburgh@yourhoac.org",
     "registrationDate": "01/01/2023",
@@ -15118,7 +15140,7 @@
   {
     "id": "1438037",
     "name": "GOMEZ, BERT",
-    "address": "1215 K STREET, SUITE 1760\nSACRAMENTO, CA 95814",
+    "address": "1215 K STREET, SUITE 1120\nSACRAMENTO, CA 95814",
     "phone": "(916) 325-8591",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
@@ -24756,6 +24778,7 @@
     "address": "1303 J STREET, SUITE 600\nSACRAMENTO, CA 95814",
     "phone": "(916) 438-4402",
     "registrationDate": "01/08/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
