@@ -13602,14 +13602,15 @@
     "address": "777 3RD AVENUE, 25TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(646) 380-4476",
     "email": "dfridson@mccarvillcapital.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/15/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MCP SECURITIES, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/15/2024"
       }
     ]
   },
@@ -20439,6 +20440,16 @@
         "terminationDate": "01/01/2024"
       }
     ]
+  },
+  {
+    "id": "1463283",
+    "name": "JOHNSTON, DARION N.",
+    "address": "601 GATEWAY BLVD, STE 1000\nSO. SAN FRANCISCO, CA 94080",
+    "phone": "(650) 589-1660",
+    "registrationDate": "03/14/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "In Suspense",
+    "relationships": []
   },
   {
     "id": "1393020",
@@ -42526,7 +42537,7 @@
     "name": "VILLACRES, GENEVE",
     "address": "5800 BRISTOL CITY PARKWAY\nCULVER CITY, CA 90230",
     "phone": "(916) 747-7791",
-    "email": "compliance_ca_ticktok_1@multistate.us",
+    "email": "compliance_ca_tiktok_1@multistate.us",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
