@@ -1717,7 +1717,7 @@
     "id": "1460500",
     "name": "AYUB, ANEESAH",
     "address": "277 PARK AVENUE, FLOOR 8\nNEW YORK, NY 10172",
-    "phone": "(718) 501-5701",
+    "phone": "(646) 797-9964",
     "email": "aneesah.ayub@jpmorgan.com",
     "registrationDate": "04/25/2023",
     "ethicsCourseCompletionDate": "05/18/2023",
@@ -4002,6 +4002,22 @@
         "entityName": "RESILIENT ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "04/01/2024"
+      }
+    ]
+  },
+  {
+    "id": "1469367",
+    "name": "BOLANTE, JAMES",
+    "address": "ONE LEWIS WHARF, FLOOR 3\nBOSTON, MA 02110",
+    "phone": "(212) 300-1600",
+    "email": "jbolante@fieracapital.com",
+    "registrationDate": "05/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIERA CAPITAL INC.",
+        "type": "Employer",
+        "effectiveDate": "05/07/2024"
       }
     ]
   },
@@ -12849,6 +12865,7 @@
     "email": "emmett.fitzgerald@aspectcapital.com",
     "mailingAddress": "ONE STATION PLACE\nSTAMFORD, CT 06902",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
     "relationships": [
       {
@@ -19073,6 +19090,22 @@
     ]
   },
   {
+    "id": "1463666",
+    "name": "HOTHI, MANMIT (MIKEY) S.",
+    "address": "2507 CARRIAGE DRIVE\nLODI, CA 95242",
+    "phone": "(209) 625-5876",
+    "email": "mhothi@commonsense.org",
+    "registrationDate": "10/09/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COMMON SENSE MEDIA",
+        "type": "Employer",
+        "effectiveDate": "10/09/2023"
+      }
+    ]
+  },
+  {
     "id": "1148502",
     "name": "HOUSTON, DOUGLAS D.",
     "address": "1107 9TH STREET, SUITE 1011\nSACRAMENTO, CA 95814",
@@ -21084,18 +21117,23 @@
   {
     "id": "1414722",
     "name": "KEATSEANGSILP, JANNA",
-    "address": "1345 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10105",
-    "phone": "(212) 418-8208",
-    "email": "janna.keatseangsilp@brevanhoward.com",
-    "registrationDate": "09/30/2023",
+    "address": "2 GREENWICH PLAZA SUITE 220\nGREENWICH, CT 06830",
+    "phone": "(203) 618-1400",
+    "email": "jkeatseangsilp@lpcap.com",
+    "registrationDate": "05/15/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "BREVAN HOWARD US LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "09/30/2023"
+      },
+      {
+        "entityName": "LONE PINE CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "05/15/2024"
       }
     ]
   },
@@ -30097,13 +30135,14 @@
     "address": "ONE LEWIS WHARF, FLOOR 3\nBOSTON, MA 02110",
     "phone": "(212) 300-1600",
     "email": "rnino@fieracapital.com",
-    "registrationDate": "10/01/2023",
-    "status": "Active",
+    "registrationDate": "05/07/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FIERA CAPITAL INC.",
         "type": "Employer",
-        "effectiveDate": "10/01/2023"
+        "effectiveDate": "10/01/2023",
+        "terminationDate": "05/07/2024"
       }
     ]
   },
@@ -40287,13 +40326,17 @@
   {
     "id": "1419795",
     "name": "SYED, ZAAHIR",
-    "address": "1114 AVENUE OF THE AMERICAS, SUITE 2210\nNEW YORK, NY 10036",
-    "phone": "(310) 869-0948",
-    "email": "zaahir.syed@seraadvisory.com",
-    "registrationDate": "12/31/2023",
+    "address": "1114 AVENUE OF THE STARS\nLOS ANGELES, CA 90067",
+    "phone": "(310) 550-2500",
+    "registrationDate": "05/07/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "CBRE",
+        "type": "Firm",
+        "effectiveDate": "05/07/2024"
+      },
       {
         "entityName": "SERA GLOBAL SECURITIES US LLC",
         "type": "Firm",
