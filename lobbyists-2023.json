@@ -179,7 +179,8 @@
       {
         "entityName": "SUN LIFE CAPITAL MANAGEMENT (U.S.) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/10/2024"
       }
     ]
   },
@@ -3727,7 +3728,7 @@
   {
     "id": "1222944",
     "name": "BLAND, TYRONE D.",
-    "address": "6344 MOJAVE SKY STREET\nLOS VEGAS, CA 89135",
+    "address": "4480 RISING HILL ROAD\nALTADENA, CA 91001",
     "phone": "(214) 994-5658",
     "registrationDate": "02/27/2024",
     "status": "Active",
@@ -9893,8 +9894,8 @@
     "id": "1323170",
     "name": "DE VALENCIA Y SANCHEZ, LAUREN ",
     "address": "1121 L STREET, SUITE 606\nSACRAMENTO, CA 95814",
-    "phone": "(916) 443-5801",
-    "email": "fppc@bmhlaw.com",
+    "phone": "(916) 443-5301",
+    "email": "lauren@stefangeorge.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
@@ -12629,13 +12630,14 @@
     "name": "FERRANTE, LAURA J.",
     "address": "1413 MARCHBANKS DRIVE, #1\nWALNUT CREEK, CA 94598",
     "phone": "(203) 209-3302",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "03/31/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WASTE ALTERNATIVES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -30484,6 +30486,16 @@
     ]
   },
   {
+    "id": "1469450",
+    "name": "O'BRIEN, KEELY",
+    "address": "1107 NINTH STREET SUITE 680\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-0753",
+    "email": "kobrien@wclp.org",
+    "registrationDate": "05/07/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1338795",
     "name": "O'CONNELL, JUDITH W.",
     "address": "180 BATTERY STREET\nBURLINGTON, VT 05401",
@@ -40333,7 +40345,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CBRE",
+        "entityName": "CBRE INC",
         "type": "Firm",
         "effectiveDate": "05/07/2024"
       },
