@@ -2692,13 +2692,18 @@
   {
     "id": "1341086",
     "name": "BAYARDO, RENE",
-    "address": "1029 K STREET\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-3838",
-    "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "address": "1201 J STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 606-2785",
+    "email": "rene@bayardostrategies.com",
+    "registrationDate": "03/15/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "BAYARDO STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "03/15/2024"
+      },
       {
         "entityName": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
         "type": "Employer",
@@ -6402,9 +6407,9 @@
     "address": "245 PARK AVENUE\nNEW YORK, NY 10167",
     "phone": "(212) 692-2283",
     "email": "ccasey@angelogordon.com",
-    "registrationDate": "04/24/2024",
+    "registrationDate": "04/25/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Withdrawn",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "ANGELO GORDON & CO. L.P.",
@@ -37013,6 +37018,23 @@
     ]
   },
   {
+    "id": "1441217",
+    "name": "SCHNEIDER, ANNA",
+    "address": "11111 SANTA MONICA BLVD., STE. 2000\nLOS ANGELES, CA 90035",
+    "phone": "(310) 954-0436",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "05/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEONARD GREEN & PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "05/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1354104",
     "name": "SCHNEIDER, KIMBERLY",
     "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
@@ -41644,13 +41666,18 @@
   {
     "id": "1442536",
     "name": "TREMBLAY, JOSEPH",
-    "address": "114 WEST 47TH STREET, 19TH FLOOR\nNEW YORK, NY 10036",
-    "phone": "(860) 961-7901",
-    "email": "joe.tremblay@ifminvestors.com",
-    "registrationDate": "10/05/2023",
+    "address": "ONE SANSOME STREET 37TH FLOOR\nSAN FRANCISCO, CA 94104",
+    "phone": "415439500",
+    "email": "jtremblay@hig.com",
+    "registrationDate": "05/09/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/09/2024"
+      },
       {
         "entityName": "IFM INVESTORS (US) LLC",
         "type": "Employer",
