@@ -1243,12 +1243,11 @@
   {
     "id": "1436387",
     "name": "ARCIDIACONO, ELISA",
-    "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
-    "phone": "(916) 658-8200",
-    "email": "earcidiacono@calcities.org",
-    "registrationDate": "06/09/2023",
+    "address": "1401 DOVE STREET, SUITE 330\nSACRAMENTO, CA 95814",
+    "phone": "(949) 399-9050",
+    "registrationDate": "05/06/2024",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "LEAGUE OF CALIFORNIA CITIES",
@@ -3121,9 +3120,9 @@
   {
     "id": "1380744",
     "name": "BERDUGO, RONALD",
-    "address": "1215 K STREET, SUITE 700\nSACRAMENTO, CA 95814",
-    "phone": "(916) 443-7401",
-    "email": "rberdugo@calhospital.org",
+    "address": "1215 K STREET, SUITE 2030\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-9875",
+    "email": ".com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "09/09/2022",
     "status": "Active",
@@ -3133,6 +3132,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "04/10/2024"
+      },
+      {
+        "entityName": "KAISER FOUNDATION HEALTH PLAN, INC.",
+        "type": "Employer",
+        "effectiveDate": "04/15/2024"
       }
     ]
   },
@@ -9524,14 +9528,15 @@
     "phone": "(619) 894-1280",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "900 J STREET, THIRD FLOOR\nSACRAMENTO, CA 95814\nPhone: (619) 894-1280\nEmail: compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/20/2024",
     "ethicsCourseCompletionDate": "12/01/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/20/2024"
       }
     ]
   },
@@ -12794,6 +12799,22 @@
         "entityName": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469517",
+    "name": "FINE, JEFFREY",
+    "address": "200 WEST STREET\nNEW YORK, NY 10282",
+    "phone": "(212) 902-1000",
+    "email": "gs-lobbying-ny@gs.com",
+    "registrationDate": "05/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDMAN SACHS & CO. LLC",
+        "type": "Employer",
+        "effectiveDate": "05/07/2024"
       }
     ]
   },
@@ -26879,7 +26900,7 @@
         "entityName": "MC CARTHY HOSPITALITY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023",
-        "terminationDate": "10/30/2023"
+        "terminationDate": "06/30/2023"
       }
     ]
   },
