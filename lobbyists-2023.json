@@ -6619,7 +6619,7 @@
     "address": "800 5TH AVENUE, SUITE 2800\nSEATTLE, WA 98104",
     "phone": "(612) 749-2847",
     "email": "jcauble@paraport.com",
-    "mailingAddress": "6007 ATLAS PLACE SW\nSEATTLE, WA 98136\nPhone: (612) 749-2847\nEmail: jcauble@paraport.com",
+    "mailingAddress": "2764 CAMINITO SAN MARINO\nDEL MAR, CA 92014\nPhone: (612) 749-2847",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/17/2022",
     "status": "Active",
@@ -7629,22 +7629,6 @@
         "entityName": "ARGA INVESTMENT MANAGEMENT, LP",
         "type": "Employer",
         "effectiveDate": "11/17/2023"
-      }
-    ]
-  },
-  {
-    "id": "1462248",
-    "name": "COAN, PATRICK",
-    "address": "55 HUDSON YARDS, 47TH FLOOR, SUITE C\nNEW YORK, NY 10001",
-    "phone": "(646) 762-8539",
-    "email": "compliance@olsonremcho.com",
-    "registrationDate": "07/31/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ANTARA CAPITAL LP",
-        "type": "Employer",
-        "effectiveDate": "07/31/2023"
       }
     ]
   },
@@ -9151,7 +9135,8 @@
       {
         "entityName": "DIGITALBRIDGE GROUP, INC. AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "05/18/2023"
+        "effectiveDate": "05/18/2023",
+        "terminationDate": "05/14/2024"
       },
       {
         "entityName": "UBS ASSET MANAGEMENT (AMERICAS) INC.",
@@ -17908,25 +17893,6 @@
     ]
   },
   {
-    "id": "1369035",
-    "name": "HECHINGER-IVERS, KATE",
-    "address": "55 HUDSON YARDS, 47TH FLOOR, STE C\nNEW YORK, NY 10001",
-    "phone": "(646) 762-8593",
-    "email": "compliance@olsonremcho.com",
-    "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/31/2023",
-    "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Terminated",
-    "relationships": [
-      {
-        "entityName": "ANTARA CAPITAL LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "07/31/2023"
-      }
-    ]
-  },
-  {
     "id": "1291298",
     "name": "HECKLER, DAVID F.",
     "address": "1121 L STREET, SUITE 1060\nSACRAMENTO, CA 95814",
@@ -19405,6 +19371,22 @@
     ]
   },
   {
+    "id": "1469287",
+    "name": "HUNT , KASHA B.",
+    "address": "621 CAPITOL MALL, SUITE 2500\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-8888",
+    "email": "dhuck@nossaman.com",
+    "registrationDate": "05/13/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NOSSAMAN LLP",
+        "type": "Firm",
+        "effectiveDate": "05/13/2024"
+      }
+    ]
+  },
+  {
     "id": "1460451",
     "name": "HUNT , SARAH",
     "address": "100 WILSHIRE BOULEVARD\nSANTA MONICA, CA 90401",
@@ -20341,6 +20323,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "02/29/2024"
+      },
+      {
+        "entityName": "NOBLE MANAGEMENT HOLDINGS, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/05/2024"
       }
     ]
   },
