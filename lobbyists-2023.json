@@ -1247,13 +1247,18 @@
     "phone": "(949) 399-9050",
     "registrationDate": "05/06/2024",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "LEAGUE OF CALIFORNIA CITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/09/2023"
+      },
+      {
+        "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "05/06/2024"
       }
     ]
   },
@@ -16896,12 +16901,12 @@
   {
     "id": "1375480",
     "name": "HAJIK, LAUREN ",
-    "address": "1215 K STREET, SUITE 2010\nSACRAMENTO, CA 95814",
-    "phone": "(916) 552-2960",
-    "email": "bsca@politicomlaw.com",
-    "registrationDate": "10/25/2023",
+    "address": "1121 L STREET SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(559) 816-3067",
+    "email": "lauren_hajik@uhg.com",
+    "registrationDate": "11/13/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "BLUE SHIELD OF CALIFORNIA",
@@ -27573,7 +27578,8 @@
       {
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
-        "effectiveDate": "11/13/2023"
+        "effectiveDate": "11/13/2023",
+        "terminationDate": "05/16/2024"
       }
     ]
   },
@@ -43070,6 +43076,22 @@
         "entityName": "ARNOLD & PORTER KAYE SCHOLER LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469614",
+    "name": "WALLACE, JAMES",
+    "address": "400 ATLANTIC STREET, SUITE 1000\nSTAMFORD, CT 06901",
+    "phone": "(203) 983-4200",
+    "email": "james.wallace@axa-im.com",
+    "registrationDate": "05/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AXA INVESTMENT MANAGERS, INC. & ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "05/15/2024"
       }
     ]
   },
