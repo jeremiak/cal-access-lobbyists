@@ -34,6 +34,23 @@
     ]
   },
   {
+    "id": "1469399",
+    "name": "ABDUL-ALEEM, ZAID",
+    "address": "160 BOVET ROAD, SUITE 300\nSAN MATEO, CA 94402",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "2350 KERNER BOULEVARD SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "05/13/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INVICTUS GROWTH PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "05/13/2024"
+      }
+    ]
+  },
+  {
     "id": "1433940",
     "name": "ABERGEL, ANDREA",
     "address": "915 L STREET SUITE 1210\nSACRAMENTO, CA 95814",
@@ -9644,14 +9661,15 @@
     "address": "300 SOUTH TRYON STREET, SUITE 2500\nCHARLOTTE, NC 28202",
     "phone": "(303) 460-4100",
     "email": "chris.davis@barings.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/17/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BARINGS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/17/2024"
       }
     ]
   },
@@ -27851,6 +27869,22 @@
     ]
   },
   {
+    "id": "1469688",
+    "name": "MELLER, SCOTT",
+    "address": "303 COLORADO STREET SUITE 1950\nAUSTIN, TX 78701",
+    "phone": "(646) 499-0707",
+    "email": "sdmeller@act.is",
+    "registrationDate": "05/21/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTIS ADVISERS INC.",
+        "type": "Employer",
+        "effectiveDate": "05/21/2024"
+      }
+    ]
+  },
+  {
     "id": "1459182",
     "name": "MELSER, JASON",
     "address": "461 FIFTH AVENUE, 14TH FLOOR\nNEW YORK, NY 10017",
@@ -36352,6 +36386,11 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "03/12/2024"
+      },
+      {
         "entityName": "NATIONAL AUDUBON SOCIETY",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
@@ -41814,6 +41853,22 @@
     ]
   },
   {
+    "id": "1469562",
+    "name": "TRIPP, CAMERON",
+    "address": "65 E 55TH STREET\nNEW YORK, NY 10022",
+    "phone": "(917) 206-5194",
+    "email": "cameron.tripp@ninetyone.com",
+    "registrationDate": "05/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NINETY ONE NORTH AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "05/14/2024"
+      }
+    ]
+  },
+  {
     "id": "1467589",
     "name": "TROUT, TAD",
     "address": "555 NORTH GILBERT STREET\nFULLERTON, CA 92833",
@@ -42123,13 +42178,14 @@
     "address": "201 WEST 5TH STREET, 11TH FLOOR\nAUSTIN, TX 78701",
     "phone": "(646) 822-8054",
     "email": "nvakilian@act.is",
-    "registrationDate": "11/30/2023",
-    "status": "Active",
+    "registrationDate": "05/03/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACTIS ADVISERS INC.",
         "type": "Employer",
-        "effectiveDate": "11/30/2023"
+        "effectiveDate": "11/30/2023",
+        "terminationDate": "05/03/2024"
       }
     ]
   },
@@ -43060,6 +43116,21 @@
         "entityName": "GAM USA INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1465780",
+    "name": "WALKER, KAPRI",
+    "address": "1102 R STREET, SUITE 300\nSACRAMENTO, CA 95811",
+    "phone": "(619) 339-4911",
+    "registrationDate": "01/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2024"
       }
     ]
   },
