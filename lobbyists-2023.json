@@ -10188,6 +10188,22 @@
     ]
   },
   {
+    "id": "1149569",
+    "name": "DELVAC, WILLIAM F",
+    "address": "12100 WILSHIRE BLVD, STE 1600\nLOS ANGELES, CA 90025",
+    "phone": "(310) 209-8800",
+    "email": "bill@agd-landuse.com",
+    "registrationDate": "04/17/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARMBRUSTER GOLDSMITH & DELVAC LLP",
+        "type": "Firm",
+        "effectiveDate": "04/17/2024"
+      }
+    ]
+  },
+  {
     "id": "1418483",
     "name": "DEMETRE, CAMERON G.",
     "address": "1301 I STREET\nSACRAMENTO, CA 95814",
@@ -36275,9 +36291,16 @@
     "address": "925 L STREET SUITE 200\nSACRAMENTO, CA 95814-3703",
     "phone": "(916) 446-0388",
     "email": "ssaks@casaweb.org",
-    "registrationDate": "11/10/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "12/01/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF SANITATION AGENCIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1364944",
