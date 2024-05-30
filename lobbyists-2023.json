@@ -1302,7 +1302,6 @@
     "address": "P.O. BOX 160634\nSACRAMENTO, CA 95816",
     "phone": "(916) 340-4055",
     "email": "isabella@yourhoac.org",
-    "mailingAddress": "1100 11TH STREET, SUITE 323\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "04/27/2023",
     "status": "Active",
@@ -4495,6 +4494,22 @@
         "entityName": "BRANDENBURG GROUP",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469840",
+    "name": "BRAUDE, ESQ, JAYSON",
+    "address": "10809 FOOTHILL BOULEVARD, SUITE 160-516\nRANCHO CUCAMONGA, CA 91730",
+    "phone": "(213) 400-8664",
+    "email": "jasmid@rojascommunications.com",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
+        "type": "Firm",
+        "effectiveDate": "04/01/2024"
       }
     ]
   },
@@ -10844,14 +10859,15 @@
     "phone": "(713) 452-2111",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (713) 452-2111\nEmail: info@keyslawcorp.com",
-    "registrationDate": "11/14/2023",
+    "registrationDate": "05/31/2024",
     "ethicsCourseCompletionDate": "11/08/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "QEP ADVISERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/31/2024"
       }
     ]
   },
@@ -21735,7 +21751,7 @@
   {
     "id": "1389927",
     "name": "KHANDAVILLI, SAYURI",
-    "address": "560 MISSION STREET \nSAN FRANCISCO, CA 94105",
+    "address": "100 FEDERAL STREET\nBOSTON, MA 02110",
     "phone": "(929) 746-9093",
     "email": "compliance_ca_nuveen_4@multistate.us",
     "mailingAddress": "77 SAGAMORE AVENUE\nEDISON, NJ 08820",
@@ -29413,14 +29429,15 @@
     "name": "MUELLER, RACHEL",
     "address": "1215 K STREET, STE 2290\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-1488",
-    "registrationDate": "03/13/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WEIDEMAN GROUP, INC.",
         "type": "Firm",
-        "effectiveDate": "03/13/2023"
+        "effectiveDate": "03/13/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -33760,6 +33777,22 @@
     ]
   },
   {
+    "id": "1469023",
+    "name": "RAMCHANDANI, MANJUL S.",
+    "address": "537 STEAMBOAT ROAD SUITE 300\nGREENWICH, CT 0630",
+    "phone": "(212) 405-1909",
+    "email": "manjul.ramchandani@cortland.com",
+    "registrationDate": "04/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORTLAND INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/25/2024"
+      }
+    ]
+  },
+  {
     "id": "1344388",
     "name": "RAMEY, ALISON ",
     "address": "1231 I STREET, SUITE 206\nSACRAMENTO, CA 95814",
@@ -36462,8 +36495,13 @@
     "email": "csanchez@welp.org",
     "registrationDate": "03/01/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "MESA VERDE GROUP",
+        "type": "Firm",
+        "effectiveDate": "03/01/2024"
+      },
       {
         "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
         "type": "Employer",
@@ -39957,6 +39995,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "10/31/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469022",
+    "name": "STIKER, EDWARD",
+    "address": "537 STEAMBOAT ROAD SUITE 300\nGREENWICH, CT 06830",
+    "phone": "(203) 405-1910",
+    "email": "ned.stiker@cortland.com",
+    "registrationDate": "04/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORTLAND INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/25/2024"
       }
     ]
   },
@@ -43979,9 +44033,16 @@
     "address": "301 SOUTH COLLEGE STREET, SUITE 3800\nCHARLOTTE, NC 28202",
     "phone": "(704) 334-6475",
     "email": "compliance@wedgecapital.com",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "05/28/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEDGE CAPITAL MANAGEMENT",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1417462",
