@@ -6892,6 +6892,16 @@
     ]
   },
   {
+    "id": "1469318",
+    "name": "CHARLTON, SCOTT J",
+    "address": "1001 LIBERTY AVENUE\nPITTSBURGH, PA 15222",
+    "phone": "(412) 288-4850",
+    "email": "scott.charlton@federatedhermes.com",
+    "registrationDate": "05/01/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1438560",
     "name": "CHASE, STEVE",
     "address": "353 NORTH CLARK STREET, SUITE 730\nCHICAGO, IL 60654",
@@ -14718,6 +14728,21 @@
     ]
   },
   {
+    "id": "1468944",
+    "name": "GIBSON, DUANE",
+    "address": "PO BOX 15677\nCHEVY CHASE, MD 20825",
+    "phone": "(301) 693-7145",
+    "registrationDate": "04/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOVBIZ ADVANTAGE",
+        "type": "Firm",
+        "effectiveDate": "04/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1149383",
     "name": "GILBERT, DONALD B.",
     "address": "1127 11TH STREET, SUITE 1030\nSACRAMENTO, CA 95814",
@@ -20490,6 +20515,22 @@
     ]
   },
   {
+    "id": "1469507",
+    "name": "JOHNSON, MALCOLM",
+    "address": "125 W 55TH STREET\nNEW YORK , NY 10019",
+    "phone": "(917) 862-5716",
+    "email": "malcolm.johnson@macquarie.com",
+    "registrationDate": "05/13/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MACQUARIE INFRASTRUCTURE AND REAL ASSETS INC.",
+        "type": "Employer",
+        "effectiveDate": "05/13/2024"
+      }
+    ]
+  },
+  {
     "id": "1377281",
     "name": "JOHNSON, MC DONALD STEPHENS",
     "address": "60 EAST 42ND STREET, SUITE 5230\nNEW YORK, NY 10165",
@@ -22451,7 +22492,8 @@
       {
         "entityName": "KNUDSEN & ASSOCIATES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/24/2024"
       }
     ]
   },
@@ -29429,9 +29471,9 @@
     "name": "MUELLER, RACHEL",
     "address": "1215 K STREET, STE 2290\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-1488",
-    "registrationDate": "03/31/2024",
+    "registrationDate": "03/13/2023",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "WEIDEMAN GROUP, INC.",
@@ -34217,14 +34259,15 @@
     "address": "1001 LIBERTY AVENUE\nPITTSBURGH, PA 15222",
     "phone": "(412) 288-4516",
     "email": "richard.recker@federatedhermes.com",
-    "registrationDate": "05/24/2023",
+    "registrationDate": "05/16/2024",
     "ethicsCourseCompletionDate": "08/10/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FEDERATED HERMES, INC. (FORMERLY FEDERATED INVESTORS, INC.)",
         "type": "Employer",
-        "effectiveDate": "05/24/2023"
+        "effectiveDate": "05/24/2023",
+        "terminationDate": "05/16/2024"
       }
     ]
   },
@@ -44830,6 +44873,7 @@
     "address": "1121 L STREET, SUITE 501\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-4676",
     "registrationDate": "01/02/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
