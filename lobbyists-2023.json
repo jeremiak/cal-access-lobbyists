@@ -30775,14 +30775,15 @@
     "phone": "(213) 630-6430",
     "email": "jennifer.o'neill@bnymellon.com",
     "mailingAddress": "500 GRANT STREET, SUITE 2245\nPITTSBURGH, PA 15258\nPhone: (213) 630-6430\nEmail: jennifer.o'neill@bnymellon.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "02/05/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BANK OF NEW YORK MELLON; THE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "02/05/2024"
       }
     ]
   },
