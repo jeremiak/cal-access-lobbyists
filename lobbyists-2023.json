@@ -572,9 +572,15 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "GRIDWELL CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "12/15/2023"
+      },
+      {
         "entityName": "HUA NANI ADVOCATES, LLC",
         "type": "Firm",
-        "effectiveDate": "01/30/2023"
+        "effectiveDate": "01/30/2023",
+        "terminationDate": "12/14/2023"
       }
     ]
   },
@@ -5670,7 +5676,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
+        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA, UDW/AFSCME, LOCAL 3930",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -9565,7 +9571,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
+        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA, UDW/AFSCME, LOCAL 3930",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "03/20/2024"
@@ -17741,9 +17747,15 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "GRIDWELL CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "12/15/2023"
+      },
+      {
         "entityName": "HUA NANI ADVOCATES, LLC",
         "type": "Firm",
-        "effectiveDate": "01/30/2023"
+        "effectiveDate": "01/30/2023",
+        "terminationDate": "12/14/2023"
       }
     ]
   },
@@ -20041,14 +20053,15 @@
     "phone": "(561) 727-2000",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412 \nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (561) 727-2000\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/01/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COMVEST ADVISORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/01/2024"
       }
     ]
   },
@@ -22483,8 +22496,8 @@
   {
     "id": "1405371",
     "name": "KNUDSEN, JOSHUA M.",
-    "address": "1127 11TH STREET, SUITE 550\nSACRAMENTO, CA 95814",
-    "phone": "(916) 448-7500",
+    "address": "1215 K STREET, SUITE 1120\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-8891",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
@@ -26436,14 +26449,15 @@
     "phone": "(561) 727-2000",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/01/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COMVEST ADVISORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/01/2024"
       }
     ]
   },
@@ -28700,7 +28714,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
+        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA, UDW/AFSCME, LOCAL 3930",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "09/05/2023"
@@ -28785,14 +28799,15 @@
     "name": "MOLINA, NICO A.",
     "address": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
     "phone": "(916) 580-0700",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/31/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ROSTRUM, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/31/2024"
       }
     ]
   },
@@ -30833,6 +30848,23 @@
         "entityName": "UBS ASSET MANAGEMENT (AMERICAS) INC.",
         "type": "Employer",
         "effectiveDate": "06/22/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469234",
+    "name": "O'SULLIVAN, ROBERT",
+    "address": "360 S. ROSEMARY AVENUE, SUITE 1700\nWEST PALM BEACH, FL 33401",
+    "phone": "(561) 727-2000",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nKEYS LAW CORP\nSACRAMENTO, CA 95814",
+    "registrationDate": "05/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COMVEST ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/01/2024"
       }
     ]
   },
@@ -33011,6 +33043,7 @@
     "name": "POKORA, LARRY S.",
     "address": "452 FIFTH AVENUE 28TH FLOOR\nNEW YORK, NY 10018",
     "phone": "(610) 715-2001",
+    "email": "lpokora@tildenparkcapital.com",
     "registrationDate": "03/12/2024",
     "status": "Active",
     "relationships": [
@@ -38602,6 +38635,22 @@
     ]
   },
   {
+    "id": "1469111",
+    "name": "SINGLETON, ROBERT",
+    "address": "1390 CHAIN BRIDGE ROAD SUITE A108\nMCLEAN, VA 22101",
+    "phone": "(202) 470-3046",
+    "email": "robert@progresschamber.org",
+    "registrationDate": "03/31/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHAMBER OF PROGRESS",
+        "type": "Employer",
+        "effectiveDate": "03/31/2024"
+      }
+    ]
+  },
+  {
     "id": "1343511",
     "name": "SINOR, SANDY L.",
     "address": "2501 NORTH HARWOOD\nDALLAS, TX 75201",
@@ -39765,14 +39814,15 @@
     "address": "780 3RD AVE, 12TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(212) 688-8800",
     "email": "jstark@penso.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/19/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PENSO ADVISORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/19/2024"
       }
     ]
   },
@@ -40388,6 +40438,22 @@
     "relationships": []
   },
   {
+    "id": "1342878",
+    "name": "SUTTER, CHRISTOPHER F.",
+    "address": "3737 BUFFALO SPEEDWAY, STE 700\nHOUSTON , TX 77098",
+    "phone": "(310) 720-7500",
+    "email": "chris.sutter@orchardglobal.com",
+    "registrationDate": "05/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OGAM, LP",
+        "type": "Employer",
+        "effectiveDate": "05/28/2024"
+      }
+    ]
+  },
+  {
     "id": "1232163",
     "name": "SUTTON, MATTHEW ",
     "address": "621 CAPITOL MALL, SUITE 2000\nSACRAMENTO, CA 95814",
@@ -40986,7 +41052,7 @@
     "name": "TEHRANIAN, CHRISTOPHER P.",
     "address": "12 EAST 20TH STREET\nNEW YORK, NY 10016",
     "phone": "(602) 402-6511",
-    "email": "compliance@vision-ride.com",
+    "email": "compliance@vision-ridge.com",
     "registrationDate": "03/20/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
@@ -42652,7 +42718,7 @@
     "name": "VAUGHN, CATHERINE E.",
     "address": "452 FIFTH AVENUE 28TH FL\nNEW YORK, NY 10018",
     "phone": "(212) 754-1700",
-    "email": "cvaughn@varaderocapital.com",
+    "email": "cvaughn@tildenparkcapital.com",
     "registrationDate": "03/12/2024",
     "status": "Active",
     "relationships": [
@@ -43950,14 +44016,15 @@
     "phone": "(561) 727-2000",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/01/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COMVEST ADVISORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/01/2024"
       }
     ]
   },
@@ -44331,14 +44398,15 @@
     "phone": "(561) 727-2000",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/01/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COMVEST ADVISORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/01/2024"
       }
     ]
   },
@@ -45680,6 +45748,23 @@
         "entityName": "MESIROW FINANCIAL SERVICES, INC. AND/OR SUBSIDIARIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469444",
+    "name": "ZEISS, MADELINE",
+    "address": "450 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(215) 749-0612",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nKEY LAW CORP\nSACARMENTO, CA 95814",
+    "registrationDate": "05/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GARNETT STATION PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "05/15/2024"
       }
     ]
   },
