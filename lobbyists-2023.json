@@ -6051,6 +6051,21 @@
     ]
   },
   {
+    "id": "1468924",
+    "name": "CARDINALI, JOHN A.",
+    "address": "250 SOUTH AUSTRALIAN AVENUE\nWEST PALM BEACH, FL 33401",
+    "email": "legal@intechinvestments.com",
+    "registrationDate": "06/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INTECH INVESTMENT MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "06/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1350761",
     "name": "CARDINI, FILIPPO J.",
     "address": "65 EAST 55TH STREET, 19TH FLOOR\nNEW YORK, NY 10022",
@@ -20018,14 +20033,15 @@
     "address": "909 A STREET, SUITE 810\nTACOMA, WA 98402",
     "phone": "(253) 238-0417",
     "email": "ajamieson@paccurrent.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/20/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NLCG DISTRIBUTORS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/20/2024"
       }
     ]
   },
@@ -22808,14 +22824,15 @@
     "address": "909 A STREET, SUITE 810\nTACOMA, WA 98402",
     "phone": "(253) 238-0417",
     "email": "jkroll@paccurrent.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/20/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NLCG DISTRIBUTORS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/20/2024"
       }
     ]
   },
