@@ -2495,6 +2495,21 @@
     ]
   },
   {
+    "id": "1323508",
+    "name": "BARTHOLOW, JESSICA",
+    "address": "1029 K STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-3838",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
+        "type": "Employer",
+        "effectiveDate": "04/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1358644",
     "name": "BAS HAMILTON, KRISTINA ",
     "address": "1015 RILEY STREET\nP.O. BOX 6754",
@@ -12169,6 +12184,22 @@
     ]
   },
   {
+    "id": "1469348",
+    "name": "EVANS, JAKOB",
+    "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-1107",
+    "email": "jakob.evans@sierraclub.org",
+    "registrationDate": "05/16/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIERRA CLUB",
+        "type": "Employer",
+        "effectiveDate": "05/16/2024"
+      }
+    ]
+  },
+  {
     "id": "1342574",
     "name": "EVANS-FUDEM, ERIN",
     "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
@@ -12604,6 +12635,22 @@
         "entityName": "LOS ANGELES COUNTY DISTRICT ATTORNEY'S OFFICE",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469309",
+    "name": "FENAROLI, STEVEN",
+    "address": "2600 RIVER PLAZA DRIVE\nSACRAMENTO, CA 95833",
+    "phone": "(916) 561-5617",
+    "email": "sfenaroli@cfbf.com",
+    "registrationDate": "04/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
+        "type": "Employer",
+        "effectiveDate": "04/30/2024"
       }
     ]
   },
@@ -26239,6 +26286,22 @@
     ]
   },
   {
+    "id": "1468993",
+    "name": "MARSHALL, DEVAN",
+    "address": "1300 EL CAMINO REAL, STE 300\nMENLO PARK, CA 94025",
+    "phone": "(650) 935-9594",
+    "email": "devan@stg.com",
+    "registrationDate": "04/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STG PARTNERS LLC",
+        "type": "Employer",
+        "effectiveDate": "04/30/2024"
+      }
+    ]
+  },
+  {
     "id": "1439575",
     "name": "MARSHALL, KATHRYN B.",
     "address": "600 MASSACHUSETTS AVENUE, NW\nWASHINGTON, DC 20001",
@@ -27269,6 +27332,21 @@
         "entityName": "GOLDENTREE ASSET MANAGEMENT LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469593",
+    "name": "MC DOWELL, KATHERINE E.",
+    "address": "292 MADISON AVENUE, FL 8\nNEW YORK, NY 10017",
+    "phone": "(212) 756-3508",
+    "registrationDate": "05/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREYCROFT LP",
+        "type": "Employer",
+        "effectiveDate": "05/23/2024"
       }
     ]
   },
@@ -34007,14 +34085,15 @@
     "address": "1110 K STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/08/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA FACULTY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/08/2024"
       }
     ]
   },
@@ -38244,6 +38323,22 @@
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470065",
+    "name": "SHIV, DIVYA",
+    "address": "1107 9TH STREET SUITE 560\nSACRAMENTO, CA 95814",
+    "phone": "(916) 287-9887",
+    "email": "dshiv@housingca.org",
+    "registrationDate": "05/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOUSING CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "05/08/2024"
       }
     ]
   },
@@ -43991,6 +44086,21 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "04/28/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469598",
+    "name": "WEINSTOCK, TAMMY SCHLOSBERG",
+    "address": "292 MADISON AVENUE, FL 8\nNEW YORK, NY 10017",
+    "phone": "(212) 756-3508",
+    "registrationDate": "05/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREYCROFT LP",
+        "type": "Employer",
+        "effectiveDate": "05/23/2024"
       }
     ]
   },
