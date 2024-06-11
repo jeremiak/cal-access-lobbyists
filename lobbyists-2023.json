@@ -172,14 +172,15 @@
     "address": "299 PARK AVENUE, 24TH FLOOR\nNEW YORK, NY 10171",
     "phone": "(202) 303-9400",
     "email": "nacquavito@bardinhill.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/31/2024",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BARDIN HILL INVESTMENT PARTNERS LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/31/2024"
       }
     ]
   },
@@ -18673,13 +18674,14 @@
     "address": "99 HIGH STREET FLOOR 26\nBOSTON, MA 02110",
     "phone": "(857) 449-2244",
     "email": "Compliance_ca_karuna_1@multiatate.us",
-    "registrationDate": "02/06/2024",
-    "status": "Active",
+    "registrationDate": "06/15/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "KARUNA THERAPEUTICS, INC.",
         "type": "Employer",
-        "effectiveDate": "02/06/2024"
+        "effectiveDate": "02/06/2024",
+        "terminationDate": "06/15/2024"
       }
     ]
   },
@@ -24097,6 +24099,22 @@
         "entityName": "CAPITOL PARTNERS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469779",
+    "name": "LEVINE, ELISE G",
+    "address": "10650 KINNARD AVENUE #309\nLOS ANGELES, CA 90024",
+    "phone": "(213) 215-2436",
+    "email": "elise.levine@redcross.org",
+    "registrationDate": "05/29/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN NATIONAL RED CROSS",
+        "type": "Employer",
+        "effectiveDate": "05/29/2024"
       }
     ]
   },
@@ -45158,6 +45176,21 @@
         "entityName": "STONEPEAK PARTNERS LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469780",
+    "name": "WOODS, CHRISTINA M",
+    "address": "1561 HALIFAX WAY\nEL DORADO HILLS, CA 95762",
+    "phone": "(916) 281-5170",
+    "registrationDate": "05/29/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN NATIONAL RED CROSS",
+        "type": "Employer",
+        "effectiveDate": "05/29/2024"
       }
     ]
   },
