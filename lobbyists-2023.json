@@ -11363,7 +11363,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
+        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -18041,7 +18041,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
+        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -21088,7 +21088,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
+        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -21567,7 +21567,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
+        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -22572,6 +22572,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "05/24/2024"
+      },
+      {
+        "entityName": "PLATINUM ADVISORS, LLC",
+        "type": "Firm",
+        "effectiveDate": "05/25/2024"
       }
     ]
   },
@@ -27104,7 +27109,7 @@
     "address": "255 WEST 25TH STREET\nAPT 4D",
     "phone": "(917) 535-0199",
     "email": "chefjmc3@gmail.com",
-    "registrationDate": "10/30/2023",
+    "registrationDate": "06/30/2023",
     "status": "Terminated",
     "relationships": [
       {
@@ -27179,6 +27184,21 @@
         "entityName": "SCHOOL SERVICES OF CALIFORNIA INC.",
         "type": "Firm",
         "effectiveDate": "03/31/2023"
+      }
+    ]
+  },
+  {
+    "id": "1148471",
+    "name": "MC CAULEY, DOUGLAS R.",
+    "address": "1201 J STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 601-3244",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "IMPACT",
+        "type": "Firm",
+        "effectiveDate": "04/01/2024"
       }
     ]
   },
@@ -29962,7 +29982,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
+        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -34840,7 +34860,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
+        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -35169,7 +35189,8 @@
       {
         "entityName": "CALIFORNIA PAN - ETHNIC HEALTH NETWORK",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/01/2024"
       }
     ]
   },
@@ -40313,14 +40334,15 @@
     "name": "STOUT, KAREN",
     "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
-    "registrationDate": "06/20/2023",
+    "registrationDate": "06/04/2024",
     "ethicsCourseCompletionDate": "08/10/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
         "type": "Firm",
-        "effectiveDate": "06/20/2023"
+        "effectiveDate": "06/20/2023",
+        "terminationDate": "06/04/2024"
       }
     ]
   },
@@ -43765,7 +43787,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY AND RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY",
+        "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "12/31/2023"
