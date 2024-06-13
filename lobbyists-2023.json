@@ -12938,6 +12938,22 @@
     ]
   },
   {
+    "id": "1389444",
+    "name": "FINK, JAMES",
+    "address": "200 PARK AVENUE 14TH FLOOR\nNEW YORK, NY 10166",
+    "phone": "(212) 634-5942",
+    "email": "jfink@sigulerguff.com",
+    "registrationDate": "05/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIGULER GUFF & COMPANY, LP",
+        "type": "Employer",
+        "effectiveDate": "05/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1467711",
     "name": "FINLEY, DYLAN L.",
     "address": "1107 9TH STREET, SUITE 1011\nSACRAMENTO , CA 95814",
@@ -16223,6 +16239,22 @@
         "entityName": "CLOCKTOWER GROUP LP",
         "type": "Employer",
         "effectiveDate": "04/24/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469676",
+    "name": "GRENLEY, PEYTON",
+    "address": "200 PARK AVENUE 14TH FLOOR\nNEW YORK, NY 10166",
+    "phone": "(212) 634-5941",
+    "email": "pgrenley@sigulerguff.com",
+    "registrationDate": "05/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIGULER GUFF & COMPANY, LP",
+        "type": "Employer",
+        "effectiveDate": "05/22/2024"
       }
     ]
   },
@@ -24700,6 +24732,22 @@
     ]
   },
   {
+    "id": "1370594",
+    "name": "LO, ZEN FEI",
+    "address": "8 SOUND SHORE DRIVE\nGREENWICH, CT 06830",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "07/05/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LITTLEJOHN & CO. LLC",
+        "type": "Employer",
+        "effectiveDate": "07/05/2023"
+      }
+    ]
+  },
+  {
     "id": "1438325",
     "name": "LOCKHART, SABRINA",
     "address": "1127 11TH STREET, SUITE 214\nSACRAMENTO, CA 95814",
@@ -25423,8 +25471,9 @@
   {
     "id": "1385044",
     "name": "MACIARIELLO, MARNIE B.",
-    "address": "ONE FRANKLIN PARKWAY\nSAN MATEO, CA 94403",
-    "phone": "(415) 389-6800",
+    "address": "111 HUNTINGTON AVENUE\nBOSTON, MA 02199",
+    "phone": "(617) 954-5000",
+    "email": "mmaciariello@mfs.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
@@ -25435,6 +25484,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "04/15/2024"
+      },
+      {
+        "entityName": "MFS INSTITUTIONAL ADVISORS, INC. AND ITS AFFILIATE MFS FUND DISTRIBUTORS, INC.",
+        "type": "Employer",
+        "effectiveDate": "05/29/2024"
       }
     ]
   },
@@ -39550,13 +39604,14 @@
     "phone": "(646) 483-3806",
     "email": "marisa.woodrum@carlyle.com",
     "mailingAddress": "30 CHARLTON STREET, APPRTMENT 1G\nNEW YORK, NY 10014\nPhone: (646) 483-3806\nEmail: marisa.woodrum@carlyle.com",
-    "registrationDate": "05/09/2023",
-    "status": "Active",
+    "registrationDate": "05/31/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
-        "effectiveDate": "05/09/2023"
+        "effectiveDate": "05/09/2023",
+        "terminationDate": "05/31/2024"
       }
     ]
   },
