@@ -7368,6 +7368,22 @@
     ]
   },
   {
+    "id": "1470271",
+    "name": "CHUNG, REX R.K.",
+    "address": "630 FIFTH AVENUE 26TH FLOOR \nNEW YORK, NY 10111",
+    "phone": "(646) 690-2820",
+    "email": "rchung@brinleypartners.com",
+    "registrationDate": "06/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRINLEY PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "06/07/2024"
+      }
+    ]
+  },
+  {
     "id": "1374160",
     "name": "CHURCH, SCOTT A.",
     "address": "1270 AVENUE OF THE AMERICAS, SUITE 408\nNEW YORK, NY 10020",
