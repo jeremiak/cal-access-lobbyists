@@ -12219,17 +12219,23 @@
   {
     "id": "1342574",
     "name": "EVANS-FUDEM, ERIN",
-    "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "phone": "(916) 318-8866",
-    "registrationDate": "04/30/2024",
+    "address": "1100 K STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-3805",
+    "email": "erin.evans-fudem@cco.sccgov.org",
+    "registrationDate": "05/29/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "04/30/2024"
+      },
+      {
+        "entityName": "SANTA CLARA; COUNTY OF",
+        "type": "Employer",
+        "effectiveDate": "05/29/2024"
       }
     ]
   },
@@ -12999,6 +13005,22 @@
         "entityName": "OAK HILL ADVISORS, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470321",
+    "name": "FISCHER, ALLEGRA CIRA",
+    "address": "1831 K STREET\nSACRAMENTO, CA 95811",
+    "phone": "(916) 504-5800",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "05/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DISABILITY RIGHTS CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "05/25/2024"
       }
     ]
   },
@@ -23861,14 +23883,15 @@
     "address": "1 LETTERMAN DR., BLDG D, STE M-500\nSAN FRANCISCO, CA 94129",
     "phone": "(415) 801-4647",
     "email": "sophia@dragoneer.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/13/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DRAGONEER INVESTMENT GROUP, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/13/2024"
       }
     ]
   },
@@ -25823,6 +25846,22 @@
         "entityName": "ARES MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469781",
+    "name": "MALAK, HANNA J",
+    "address": "1663 MARKET STREET\nSAN FRANCISCO, CA 94103",
+    "phone": "(510) 365-5837",
+    "email": "hanna.malak@redcross.org",
+    "registrationDate": "05/29/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN NATIONAL RED CROSS",
+        "type": "Employer",
+        "effectiveDate": "05/29/2024"
       }
     ]
   },
@@ -34142,14 +34181,15 @@
     "name": "RAMOS, VANESSA",
     "address": "1831 K STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 504-5800",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/25/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DISABILITY RIGHTS CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/25/2024"
       }
     ]
   },
@@ -42797,7 +42837,8 @@
       {
         "entityName": "CALIFORNIA CHAMBER OF COMMERCE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/06/2024"
       }
     ]
   },
