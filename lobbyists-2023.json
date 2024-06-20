@@ -20315,7 +20315,8 @@
       {
         "entityName": "REGENERATIVE STRATEGIES CONSULTING LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
@@ -32427,6 +32428,22 @@
     ]
   },
   {
+    "id": "1470414",
+    "name": "PE, ARIEL",
+    "address": "10809 FOOTHILL BOULEVARD, SUITE 160-516\nRANCHO CUCAMONGA, CA 91730",
+    "phone": "(213) 400-8664",
+    "email": "ariel@rojascommunications.com",
+    "registrationDate": "06/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
+        "type": "Firm",
+        "effectiveDate": "06/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1441838",
     "name": "PEACOCK, BAILEY",
     "address": "9 WEST 57TH STREET\nNEW YORK, NY 10019",
@@ -32801,14 +32818,15 @@
     "address": "8 SOUND SHORE DRIVE\nGREENWICH, CT 06830",
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "02/27/2023",
+    "registrationDate": "06/07/2024",
     "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LITTLEJOHN & CO. LLC",
         "type": "Employer",
-        "effectiveDate": "02/27/2023"
+        "effectiveDate": "02/27/2023",
+        "terminationDate": "06/07/2024"
       }
     ]
   },
@@ -34185,7 +34203,8 @@
       {
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/13/2024"
       }
     ]
   },
