@@ -2620,14 +2620,15 @@
     "address": "105 WIGMORE STREET\nLONDON UK W1U ",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "10/01/2023",
+    "registrationDate": "05/22/2024",
     "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VITRUVIAN PARTNERS LTD",
         "type": "Employer",
-        "effectiveDate": "10/01/2023"
+        "effectiveDate": "10/01/2023",
+        "terminationDate": "05/22/2024"
       }
     ]
   },
@@ -9239,7 +9240,7 @@
         "terminationDate": "05/14/2024"
       },
       {
-        "entityName": "UBS ASSET MANAGEMENT (AMERICAS) INC.",
+        "entityName": "UBS ASSET MANAGEMENT (AMERICAS) LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "04/30/2023"
@@ -18694,14 +18695,15 @@
     "address": "ONE NORTH WACKER DRIVE\nCHICAGO, IL 60606",
     "phone": "(714) 767-6191",
     "email": "lisa.higa@ubs.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/13/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
-        "entityName": "UBS ASSET MANAGEMENT (AMERICAS) INC.",
+        "entityName": "UBS ASSET MANAGEMENT (AMERICAS) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/13/2024"
       }
     ]
   },
@@ -25711,14 +25713,15 @@
     "address": "555 CAPITOL MALL SUITE 180\nSACRAMENTO, CA 95814",
     "phone": "(650) 776-8417",
     "email": "michael@majorityadvisors.com",
-    "registrationDate": "05/01/2023",
+    "registrationDate": "05/03/2024",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MAJORITY ADVISORS, LLC",
         "type": "Firm",
-        "effectiveDate": "05/01/2023"
+        "effectiveDate": "05/01/2023",
+        "terminationDate": "05/03/2024"
       }
     ]
   },
@@ -31118,7 +31121,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "UBS ASSET MANAGEMENT (AMERICAS) INC.",
+        "entityName": "UBS ASSET MANAGEMENT (AMERICAS) LLC",
         "type": "Employer",
         "effectiveDate": "06/22/2023"
       }
@@ -32861,6 +32864,22 @@
         "entityName": "JAMESTOWN, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470253",
+    "name": "PETERSON, SHAUN",
+    "address": "ELEVEN MADISON AVENUE\nNEW YORK, NY 10010-3629",
+    "phone": "(212) 538-9416",
+    "email": "shaun.peterson@ubs.com",
+    "registrationDate": "06/13/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UBS ASSET MANAGEMENT (AMERICAS) LLC",
+        "type": "Employer",
+        "effectiveDate": "06/13/2024"
       }
     ]
   },
@@ -42870,24 +42889,6 @@
         "entityName": "HEALTH ACCESS CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1456237",
-    "name": "VAN ENGELEN, BRADY",
-    "address": "1215 K STREET, 14TH FLOOR\nSACRAMENTO, CA 95814",
-    "phone": "(916) 444-6670",
-    "email": "brady.vanengelen@calchamber.com",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA CHAMBER OF COMMERCE",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "06/06/2024"
       }
     ]
   },
