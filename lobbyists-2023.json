@@ -22395,6 +22395,23 @@
     ]
   },
   {
+    "id": "1469669",
+    "name": "KINZETT, ISABELLE",
+    "address": "105 WIGMORE STREET, LONDON UK\nWIU 1QY",
+    "phone": "(916) 890-3670",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 890-3670",
+    "registrationDate": "05/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VITRUVIAN PARTNERS LTD",
+        "type": "Employer",
+        "effectiveDate": "05/23/2024"
+      }
+    ]
+  },
+  {
     "id": "1448057",
     "name": "KIRCHNER, AMANDA",
     "address": "925 L STREET, SUITE 350\nSACRAMENTO, CA 95814",
@@ -35779,7 +35796,8 @@
       {
         "entityName": "ODYSSEY INVESTMENT PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/21/2024"
       }
     ]
   },
@@ -45126,25 +45144,6 @@
         "entityName": "CALIFORNIA CREDIT UNION LEAGUE",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1395648",
-    "name": "WINIARSKI, MICHAEL",
-    "address": "2000 ALAMEDA DE LAS PULGAS, SUITE 160\nSAN MATEO, CA 94403",
-    "phone": "(408) 889-1633",
-    "email": "info@keyslawcorp.com",
-    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (408) 889-1633\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BRIDGE INVESTMENT GROUP HOLDINGS LLC AND AFFILIATED ENTITIES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "03/31/2024"
       }
     ]
   },
