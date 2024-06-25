@@ -12381,14 +12381,15 @@
     "name": "FANDRICH, ELISE",
     "address": "1029 J STREET, SUITE 150\nSACRAMENTO, CA 95814",
     "phone": "(916) 996-2034",
-    "registrationDate": "03/15/2023",
+    "registrationDate": "06/01/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TRATTENPRICE CONSULTING LLC",
         "type": "Firm",
-        "effectiveDate": "03/15/2023"
+        "effectiveDate": "03/15/2023",
+        "terminationDate": "06/01/2024"
       }
     ]
   },
@@ -26623,7 +26624,8 @@
       {
         "entityName": "CALIFORNIA ADVOCACY LLC",
         "type": "Firm",
-        "effectiveDate": "01/11/2023"
+        "effectiveDate": "01/11/2023",
+        "terminationDate": "06/20/2024"
       }
     ]
   },
