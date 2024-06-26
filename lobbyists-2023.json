@@ -8723,14 +8723,15 @@
     "name": "COX, EMILY C.",
     "address": "399 PARK AVE, 22ND FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 359-7300",
-    "registrationDate": "01/19/2023",
+    "registrationDate": "06/25/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TFG ASSET MANAGEMENT US LP",
         "type": "Employer",
-        "effectiveDate": "01/19/2023"
+        "effectiveDate": "01/19/2023",
+        "terminationDate": "06/25/2024"
       }
     ]
   },
@@ -25839,7 +25840,8 @@
       {
         "entityName": "CALIFORNIA NURSES ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/22/2024"
       }
     ]
   },
