@@ -5498,10 +5498,11 @@
   {
     "id": "1446833",
     "name": "BURKE, CORNELIOUS",
-    "address": "1215 K STREET, SUITE 1200\nSACRAMENTO, CA 95814",
-    "phone": "(916) 340-3332",
-    "email": "cburke@cbia.org",
-    "registrationDate": "01/01/2023",
+    "address": "PIER 1, BAY 1\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 733-9521",
+    "email": "cburke@prologis.com",
+    "mailingAddress": "1800 WAZEE STREET, SUITE 500\nDENVER, CO 80202\nPhone: (415) 733-9521\nEmail: cburke@prologis.com",
+    "registrationDate": "06/24/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
     "relationships": [
@@ -5510,6 +5511,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "05/03/2024"
+      },
+      {
+        "entityName": "PLD FINANCE MANAGEMENT LLC, AND ITS AFFILIATES, INCLUDING PROLOGIS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "06/24/2024"
       }
     ]
   },
@@ -6486,15 +6492,20 @@
     "address": "245 PARK AVENUE\nNEW YORK, NY 10167",
     "phone": "(212) 692-2283",
     "email": "ccasey@angelogordon.com",
-    "registrationDate": "04/25/2024",
+    "registrationDate": "04/24/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "ANGELO GORDON & CO. L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "04/24/2024"
+      },
+      {
+        "entityName": "TPG CAPITAL BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/24/2024"
       }
     ]
   },
@@ -7247,6 +7258,22 @@
         "entityName": "APAX PARTNERS US, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468916",
+    "name": "CHOI, VICTORIA",
+    "address": "2000 AVENUE OF THE STARS, STE 1020\nLOS ANGELES, CA 90067",
+    "phone": "(310) 777-5440",
+    "email": "compliancedocreview@tpg.com",
+    "registrationDate": "04/24/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TPG CAPITAL BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/24/2024"
       }
     ]
   },
@@ -19164,7 +19191,7 @@
   {
     "id": "1339830",
     "name": "HOLLORAN, ANNE F.",
-    "address": "707 2ND AVENUE SOUTH / MAIL STOP H17-/759\nMINNEAPOLIS, MN 55402",
+    "address": "901 THIRD AVENUE SOUTH, ROUTING: 10S\nMINNEAPOLIS, MN 55402",
     "phone": "(612) 678-4044",
     "email": "anne.f.holloran@columbiathreadneedle",
     "registrationDate": "01/01/2023",
@@ -25840,8 +25867,7 @@
       {
         "entityName": "CALIFORNIA NURSES ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "04/22/2024"
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -36250,7 +36276,7 @@
   {
     "id": "1456773",
     "name": "ROSSOW, TROY M.",
-    "address": "707 2ND AVENUE, SOUTH/MAIL STOP H17-/759\nMINNEAPOLIS, MN 55402",
+    "address": "901 THIRD AVENUE SOUTH, ROUTING: 10S\nMINNEAPOLIS, MN 55402",
     "phone": "(612) 671-1047",
     "email": "troy.rossow@columbiathreadneedle.com",
     "registrationDate": "01/01/2023",
@@ -38116,14 +38142,15 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814\nPhone: (916) 442-2952\nEmail: compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/22/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA NURSES ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/22/2024"
       }
     ]
   },
