@@ -45215,6 +45215,24 @@
     ]
   },
   {
+    "id": "1395648",
+    "name": "WINIARSKI, MICHAEL",
+    "address": "200 CLARENDON STREET\nBOSTON, MA 02116",
+    "phone": "(617) 516-2000",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIDGE INVESTMENT GROUP HOLDINGS LLC AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
+      }
+    ]
+  },
+  {
     "id": "1377317",
     "name": "WIRAATMADJA, VINCENT",
     "address": "4000 MACARTHUR BOULEVARD, SUITE 420\nEAST TOWER, NEWPORT BEACH, CA 92660",
