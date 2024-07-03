@@ -19500,7 +19500,8 @@
       {
         "entityName": "CIM GROUP L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/26/2024"
       }
     ]
   },
@@ -25386,6 +25387,22 @@
     ]
   },
   {
+    "id": "1470800",
+    "name": "LYNCH, ALYSSA",
+    "address": "131 EL BOSQUE DRIVE\nSAN JOSE, CA 95134",
+    "phone": "(408) 781-0345",
+    "email": "alyssa_lynch@sbcglobal.net",
+    "registrationDate": "06/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDEN STATE ADVOCACY PARTNERS",
+        "type": "Firm",
+        "effectiveDate": "06/28/2024"
+      }
+    ]
+  },
+  {
     "id": "1442036",
     "name": "LYNCH, MIKE",
     "address": "601 LEXINGTON AVE, 53RD FLOOR\nNEW YORK, NY 10022",
@@ -28315,14 +28332,15 @@
     "phone": "(212) 808-0124",
     "email": "smehrotra@tcv.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/04/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TCMI, INC. AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/04/2024"
       }
     ]
   },
