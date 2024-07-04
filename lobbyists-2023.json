@@ -2948,6 +2948,7 @@
     "email": "khaoula.begdouri@newtonim.com",
     "mailingAddress": "500 GRANT STREET, SUITE 2245\nPITTSBURGH, PA 15258\nPhone: (415) 350-0591\nEmail: khaoula.begdouri@newtonim.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -42511,7 +42512,7 @@
   {
     "id": "1468743",
     "name": "TREFZ, MICHAEL",
-    "address": "1301 AVENUE OF THE AMERICAS \nNEW YORK, CA 10019",
+    "address": "1301 AVENUE OF THE AMERICAS \nNEW YORK, NY 10019",
     "phone": "(212) 284-1923",
     "email": "mtrefz@oaktreecapital.com",
     "registrationDate": "04/15/2024",
