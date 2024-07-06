@@ -2876,14 +2876,15 @@
     "address": "640 FIFTH AVE, 20TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 688-2550",
     "email": "campaign@campaignlawyers.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/31/2024",
     "ethicsCourseCompletionDate": "12/01/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "OWL CREEK ASSET MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/31/2024"
       }
     ]
   },
@@ -3381,6 +3382,7 @@
     "address": "11 CHARLES II STREET\nLONDON UK SW1Y 4QU ",
     "email": "mb@crossoceanpartners.com",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -9188,13 +9190,14 @@
     "name": "CUEVAS-ROMERO, DENNIS R.",
     "address": "1231 I STREET, SUITE 400\nSACRAMENTO, CA 95814",
     "phone": "(916) 440-8170",
-    "email": "dennis@cpca.org",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORPORATION 428 J STREET\nSUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 440-8170\nEmail: info@keyslawcorp.com",
     "registrationDate": "03/17/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA HEALTH+ADVOCATES",
+        "entityName": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA PRIMARY CARE ASSOCIATION ADVOCATES",
         "type": "Employer",
         "effectiveDate": "03/17/2023"
       }
@@ -19247,14 +19250,15 @@
     "address": "292 MADISON AVENUE, 22ND FLOOR\nNEW YORK, NY 10017",
     "phone": "(475) 214-1004",
     "email": "lobbying@campaignlawyers.com",
-    "registrationDate": "01/24/2023",
+    "registrationDate": "05/03/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CLEAR SKY ADVISERS LLC",
         "type": "Employer",
-        "effectiveDate": "01/24/2023"
+        "effectiveDate": "01/24/2023",
+        "terminationDate": "05/03/2024"
       }
     ]
   },
@@ -20169,13 +20173,14 @@
     "name": "JACKSON, TAYLOR",
     "address": "1231 I STREET, SUITE 400\nSACRAMENTO, CA 95814",
     "phone": "(916) 440-8170",
-    "email": "tjackson@cpca.org",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORPORATION 428 J STREET\nSUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 440-8170\nEmail: info@keyslawcorp.com",
     "registrationDate": "03/17/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA HEALTH+ADVOCATES",
+        "entityName": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA PRIMARY CARE ASSOCIATION ADVOCATES",
         "type": "Employer",
         "effectiveDate": "03/17/2023"
       }
@@ -24690,14 +24695,15 @@
     "address": "515 SOUTH FLOWER STREET, 49TH FLOOR\nLOS ANGELES, CA 90071",
     "phone": "(213) 233-5831",
     "email": "mlink@aracapital.com",
-    "registrationDate": "01/09/2023",
+    "registrationDate": "06/30/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AMERICAN REALTY ADVISORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/09/2023"
+        "effectiveDate": "01/09/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
@@ -28579,13 +28585,14 @@
     "phone": "(914) 217-8096",
     "email": "alex.meyer@carlyle.com",
     "mailingAddress": "ONE VANDERBILT AVENUE, SUITE 3400\nFLOOR 32, DESK3236-G, NEW YORK, NY 10017",
-    "registrationDate": "11/01/2023",
-    "status": "Active",
+    "registrationDate": "06/30/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
-        "effectiveDate": "11/01/2023"
+        "effectiveDate": "11/01/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
@@ -34389,9 +34396,10 @@
   {
     "id": "1419634",
     "name": "RAMIREZ, RAUL ANDRES",
-    "address": "925 L STREET, SUITE 1404\nSACRAMENTO, CA 95814",
-    "phone": "(916) 447-4086",
-    "registrationDate": "01/01/2023",
+    "address": "1215 K STREET SUITE 2010\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-2960",
+    "email": "bsca@politicomlaw.com",
+    "registrationDate": "06/17/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
     "status": "Active",
     "relationships": [
