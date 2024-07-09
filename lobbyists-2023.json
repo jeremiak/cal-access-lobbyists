@@ -14112,14 +14112,15 @@
     "address": "10 EAST 53RD STREET, 31ST FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 931-0238",
     "email": "ailyn.fun@altariscap.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/25/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ALTARIS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/25/2024"
       }
     ]
   },
@@ -20515,14 +20516,15 @@
     "name": "JENSEN, CAROLYN ",
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "KP PUBLIC AFFAIRS",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
@@ -37463,7 +37465,8 @@
       {
         "entityName": "NOMURA ASSET MANAGEMENT U.S.A. INC. (\"NAM-USA\")",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
