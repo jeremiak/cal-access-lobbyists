@@ -3914,6 +3914,22 @@
     ]
   },
   {
+    "id": "1361571",
+    "name": "BLOIS, TARA",
+    "address": "315 PARK AVENUE SOUTH, 18TH FLOOR\nNEW YORK, NY 10010",
+    "phone": "(347) 705-5162",
+    "email": "tblois@docksideplatforms.com",
+    "registrationDate": "06/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DOCKSIDE LLC",
+        "type": "Employer",
+        "effectiveDate": "06/20/2024"
+      }
+    ]
+  },
+  {
     "id": "1346581",
     "name": "BLONIEN, JARHETT",
     "address": "1121 L STREET, SUITE 105\nSACRAMENTO, CA 95814",
@@ -7840,14 +7856,15 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/01/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TWO SIGMA INVESTMENTS, LP AND ITS AFFILIATES, TWO SIGMA ADVISERS, LP, TWO SIGMA VENTURES, LP AND TSPI, LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/01/2024"
       }
     ]
   },
@@ -8560,6 +8577,22 @@
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
         "effectiveDate": "02/06/2023"
+      }
+    ]
+  },
+  {
+    "id": "1469819",
+    "name": "CORREIA, ANDREA",
+    "address": "1201 F STREET NW\nWASHINGTON, DC 20004",
+    "phone": "(279) 789-0011",
+    "email": "andrea.m.correia@gsk.com",
+    "registrationDate": "05/21/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GSK",
+        "type": "Employer",
+        "effectiveDate": "05/21/2024"
       }
     ]
   },
@@ -13908,6 +13941,7 @@
     "phone": "(212) 303-7100",
     "email": "LOBBYING@CAMPAIGNLAWYERS .COM",
     "registrationDate": "10/25/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21072,6 +21106,22 @@
         "entityName": "CRESTLINE MANAGEMENT,  LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470324",
+    "name": "JORDAN, MICHAEL KEVIN",
+    "address": "315 PARK AVENUE SO., 18TH FLOOR\nNEW YORK, NY 10010",
+    "phone": "(646) 756-1199",
+    "email": "mjordan@docksideplatforms.com",
+    "registrationDate": "06/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DOCKSIDE LLC",
+        "type": "Employer",
+        "effectiveDate": "06/20/2024"
       }
     ]
   },
@@ -35021,6 +35071,21 @@
         "entityName": "ACCESS SECURITIES LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1385316",
+    "name": "REINHARDT, ALISA M.",
+    "address": "1121 L STREET, #700\nSACRAMENTO, CA 95814",
+    "phone": "(279) 599-0090",
+    "registrationDate": "05/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERAL MOTORS LLC",
+        "type": "Employer",
+        "effectiveDate": "05/23/2024"
       }
     ]
   },
