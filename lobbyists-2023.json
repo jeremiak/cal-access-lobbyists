@@ -19937,22 +19937,6 @@
     ]
   },
   {
-    "id": "1395039",
-    "name": "HYZDU, MELISSA",
-    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
-    "phone": "(916) 492-2766",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "12/01/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "POLITICAL SOLUTIONS, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
     "id": "1360452",
     "name": "IFCHER, WHITNEY A.",
     "address": "200 WEST STREET\nNEW YORK, NY 10282",
@@ -27573,6 +27557,16 @@
         "terminationDate": "03/23/2024"
       }
     ]
+  },
+  {
+    "id": "1439395",
+    "name": "MC CONNELL, JEFF",
+    "address": "2335 EAST COLORADO BOULIVARD, SUITE 115\nPASADENA , CA 91107",
+    "phone": "(213) 741-1500",
+    "email": "jeff@ekapr.com",
+    "registrationDate": "06/06/2024",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1446648",
@@ -37506,14 +37500,15 @@
     "address": "980 9TH STREET, SUITE 1450\nSACRAMENTO, CA 95814",
     "phone": "(916) 877-8620",
     "email": "dsavino@arcanet.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/27/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ASSOCIATION OF REGIONAL CENTER AGENCIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/27/2024"
       }
     ]
   },
@@ -44891,6 +44886,22 @@
     "relationships": [
       {
         "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1395039",
+    "name": "WERNER, MELISSA",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "12/01/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
