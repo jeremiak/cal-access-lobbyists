@@ -809,14 +809,15 @@
     "phone": "(503) 761-1208",
     "email": "abigail@everydayimpactconsulting.com",
     "mailingAddress": "1816 K STREET\nSACRAMENTO, CA 95811",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/24/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EVERYDAY IMPACT CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/24/2024"
       }
     ]
   },
@@ -11287,9 +11288,9 @@
     "address": "1107 9TH STREET, SUITE 500\nSACRAMENTO, CA 95814",
     "phone": "(916) 440-8809",
     "email": "dowden@hrdowden.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2023",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DOWDEN & ASSOCIATES; HR",
@@ -11809,14 +11810,15 @@
     "address": "307 MC NAB AVENUE\nLONG BEACH, CA 90808",
     "phone": "(562) 216-3894",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2024",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EDMOND GROUP LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
@@ -14304,6 +14306,22 @@
         "entityName": "GAINES & ASSOCIATES",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1471148",
+    "name": "GAITAN, IVY",
+    "address": "515 S. FLOWER STREET, 49TH FLOOR\nLOS ANGELES, CA 90071",
+    "phone": "(213) 233-5776",
+    "email": "iholz@aracapital.com",
+    "registrationDate": "07/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN REALTY ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/01/2024"
       }
     ]
   },
@@ -17292,6 +17310,7 @@
     "phone": "(202) 344-4000",
     "email": "dyhake@venable.com",
     "registrationDate": "05/03/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -29487,13 +29506,14 @@
     "address": "56 HILLSIDE AVENUE\nMILL VALLEY, CA 94941",
     "phone": "(415) 377-6442",
     "email": "mark@ferncreekventures.com",
-    "registrationDate": "03/06/2023",
-    "status": "Active",
+    "registrationDate": "07/08/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FERN CREEK VENTURES, LLC",
         "type": "Firm",
-        "effectiveDate": "03/06/2023"
+        "effectiveDate": "03/06/2023",
+        "terminationDate": "07/08/2024"
       }
     ]
   },
@@ -36733,6 +36753,21 @@
     ]
   },
   {
+    "id": "1467927",
+    "name": "RUSHTON, JOSEPH",
+    "address": "399 PARK AVE\nNEW YORK, NY 10022",
+    "phone": "(212) 320-1792",
+    "registrationDate": "04/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MILLENNIUM MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "04/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1382774",
     "name": "RUSSELL, RYAN Z.",
     "address": "2495 NATOMAS PARK DRIVE, SUITE 400\nSACRAMENTO, CA 95833",
@@ -37199,7 +37234,7 @@
         "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
-        "terminationDate": "03/25/2024"
+        "terminationDate": "02/29/2024"
       }
     ]
   },
@@ -40484,14 +40519,15 @@
     "address": "375 PARK AVE, 33RD FLOOR\nNEW YORK, NY 10152",
     "phone": "(212) 393-4072",
     "email": "lobbying@campaignlawyers.com",
-    "registrationDate": "03/15/2023",
+    "registrationDate": "02/24/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SOUNDPOINT CAPITAL MANAGEMENT, LP",
         "type": "Employer",
-        "effectiveDate": "03/15/2023"
+        "effectiveDate": "03/15/2023",
+        "terminationDate": "02/24/2024"
       }
     ]
   },
@@ -44123,6 +44159,23 @@
     ]
   },
   {
+    "id": "1470645",
+    "name": "WALLS, KEVIN",
+    "address": "540 MADISON AVENUE, 30TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(646) 688-1591",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "07/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "07/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1147801",
     "name": "WALRATH, DAVID L.",
     "address": "1303 J STREET, SUITE 520\nSACRAMENTO, CA 95814",
@@ -45608,14 +45661,15 @@
     "address": "40 WEST 57TH STREET, 33RD FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 287-5545",
     "email": "stephanie.wong@hpspartners.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/01/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HPS INVESTMENT PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/01/2024"
       }
     ]
   },
@@ -46096,14 +46150,15 @@
     "address": "421 AVIATION WAY\nFREDERICK, MD 21701",
     "phone": "(202) 851-7513",
     "email": "jared.yoshiki@aopa.org",
-    "registrationDate": "03/06/2023",
+    "registrationDate": "07/01/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "AIRCRAFT OWNERS & PILOTS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "03/06/2023"
+        "effectiveDate": "03/06/2023",
+        "terminationDate": "07/01/2024"
       }
     ]
   },
