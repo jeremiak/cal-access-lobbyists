@@ -6033,6 +6033,22 @@
     ]
   },
   {
+    "id": "1470804",
+    "name": "CANOVA, JAMES D.",
+    "address": "131 EL BOSQUE DRIVE\nSAN JOSE, CA 95134",
+    "phone": "(408) 921-2039",
+    "email": "july1776@sbcglobal.net",
+    "registrationDate": "06/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDEN STATE ADVOCACY PARTNERS",
+        "type": "Firm",
+        "effectiveDate": "06/28/2024"
+      }
+    ]
+  },
+  {
     "id": "1147949",
     "name": "CAPELL, BETH",
     "address": "1127 11TH STREET, SUITE 925\nSACRAMENTO, CA 95814",
@@ -10163,9 +10179,9 @@
   {
     "id": "1436266",
     "name": "DEAN, KALYN M.",
-    "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95814",
-    "phone": "(916) 327-7500",
-    "email": "kdean@counties.org",
+    "address": "1215 K STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-7401",
+    "email": "kdean@calhospital.org",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
     "status": "Active",
@@ -16277,6 +16293,7 @@
     "address": "1370 AVENUE OF THE AMERICAS, 30TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 314-1600",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -26103,6 +26120,7 @@
     "phone": "(510) 365-5837",
     "email": "hanna.malak@redcross.org",
     "registrationDate": "05/29/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -42826,6 +42844,7 @@
     "address": "222 SOUTH RIVERSIDE PLAZA FLOOR 34\nCHICAGO, IL 60606",
     "phone": "(312) 537-3613",
     "registrationDate": "02/28/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
