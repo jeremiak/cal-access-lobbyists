@@ -3361,6 +3361,21 @@
     ]
   },
   {
+    "id": "1470511",
+    "name": "BERRY, ERIN",
+    "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 359-7345",
+    "registrationDate": "06/24/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TFG ASSET MANAGEMENT US LP",
+        "type": "Employer",
+        "effectiveDate": "06/24/2024"
+      }
+    ]
+  },
+  {
     "id": "1381170",
     "name": "BERRY, JOE",
     "address": "915 L STREET, SUITE 1150\nSACRAMENTO, CA 95814",
@@ -3921,6 +3936,7 @@
     "phone": "(347) 705-5162",
     "email": "tblois@docksideplatforms.com",
     "registrationDate": "06/20/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -4394,6 +4410,23 @@
         "entityName": "VIKING GLOBAL INVESTORS LP",
         "type": "Employer",
         "effectiveDate": "02/14/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470709",
+    "name": "BOYCE, BEN",
+    "address": "401 B STREET\nSAN DIEGO, CA 92101",
+    "phone": "(858) 361-4750",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "06/20/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOUTHWEST STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "06/20/2024"
       }
     ]
   },
@@ -7040,6 +7073,29 @@
     "relationships": []
   },
   {
+    "id": "1378578",
+    "name": "CHASE, MONICA",
+    "address": "712 5TH AVENUE 35TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(781) 883-2774",
+    "email": "mchase@tsgconsumer.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/12/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/07/2023"
+      },
+      {
+        "entityName": "TSG CONSUMER PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "04/17/2024"
+      }
+    ]
+  },
+  {
     "id": "1438560",
     "name": "CHASE, STEVE",
     "address": "353 NORTH CLARK STREET, SUITE 730\nCHICAGO, IL 60654",
@@ -7886,6 +7942,22 @@
     ]
   },
   {
+    "id": "1470539",
+    "name": "COHEN, ELLEN",
+    "address": "4425 PONCE DE LEON BOULEVARD\nCORAL GABLES, FL 33146",
+    "phone": "(305) 854-8880",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "06/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BAYVIEW ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/20/2024"
+      }
+    ]
+  },
+  {
     "id": "1449895",
     "name": "COHEN, MICHAEL",
     "address": "320 PARK AVENUE, 28TH FLOOR\nNEW YORK, NY 10022",
@@ -8501,17 +8573,18 @@
   {
     "id": "1347731",
     "name": "CORBIN, SAMANTHA A.",
-    "address": "1121 L STREET, SUITE 602\nSACRAMENTO, CA 95814",
-    "phone": "(916) 476-5103",
-    "email": "fppc@bmhlaw.com",
-    "registrationDate": "01/01/2023",
+    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 594-9700",
+    "email": "scorbin@bhfs.com",
+    "registrationDate": "07/15/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "CORBIN AND KAISER, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/10/2024"
       }
     ]
   },
@@ -11093,6 +11166,7 @@
     "address": "915 L STREET, SUITE 1210\nSACRAMENTO, CA 95814",
     "phone": "(916) 326-5800",
     "registrationDate": "01/30/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13435,6 +13509,22 @@
         "entityName": "AXA INVESTMENT MANAGERS, INC. & ITS AFFILIATES",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1468891",
+    "name": "FLYNN, TROY",
+    "address": "712 5TH AVENUE, 35TH FLOOR\nNEW YORK , CA 10019",
+    "phone": "(646) 689-5066",
+    "email": "tflynn@tsgconsumer.com",
+    "registrationDate": "04/17/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TSG CONSUMER PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "04/17/2024"
       }
     ]
   },
@@ -15947,6 +16037,21 @@
     ]
   },
   {
+    "id": "1469660",
+    "name": "GOREE, KRISTIN ",
+    "address": "1121 L STREET, #309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "04/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "04/15/2024"
+      }
+    ]
+  },
+  {
     "id": "1440649",
     "name": "GORET, ARI",
     "address": "330 RAILROAD AVENUE, SUITE 201\nGREENWICH , CT 06830",
@@ -17401,6 +17506,22 @@
         "entityName": "GENENTECH, INC., A MEMBER OF THE ROCHE GROUP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470859",
+    "name": "HAMMOND, ELIZABETH",
+    "address": "510 MADISON AVENUE, 17TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 612-3101",
+    "email": "lobbying@campaignlawyers.com",
+    "registrationDate": "07/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "400 CAPITAL MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "07/01/2024"
       }
     ]
   },
@@ -21136,6 +21257,7 @@
     "phone": "(646) 756-1199",
     "email": "mjordan@docksideplatforms.com",
     "registrationDate": "06/20/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21292,6 +21414,22 @@
         "entityName": "BLUE OWL CAPITAL HOLDINGS, LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470689",
+    "name": "KAHL, LOUIS R",
+    "address": "787 ELEVENTH AVENUE 9TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 652-3144",
+    "email": "kahl@persq.com",
+    "registrationDate": "07/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PERSHING SQUARE CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "07/03/2024"
       }
     ]
   },
@@ -21805,6 +21943,7 @@
     "phone": "(714) 721-0385",
     "email": "tanner@tannerkelly.com",
     "registrationDate": "02/21/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -22790,18 +22929,19 @@
   {
     "id": "1458499",
     "name": "KNAPP, BRANDON",
-    "address": "1121 L STREET, STE 602\nSACRAMENTO, CA 95814",
-    "phone": "(916) 476-5103",
-    "email": "fppc@bmhlaw.com",
+    "address": "1415 L STREET SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 594-9700",
+    "email": "bknapp@bhfs.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "02/16/2023",
+    "registrationDate": "07/15/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "CORBIN AND KAISER, LLC",
         "type": "Firm",
-        "effectiveDate": "02/16/2023"
+        "effectiveDate": "02/16/2023",
+        "terminationDate": "06/28/2024"
       }
     ]
   },
@@ -24939,14 +25079,15 @@
     "address": "915 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
     "phone": "(916) 494-9664",
     "email": "slittle@ewg.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL WORKING GROUP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
@@ -27603,7 +27744,13 @@
     "email": "jeff@ekapr.com",
     "registrationDate": "06/06/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "ENGLANDER KNABE & ALLEN",
+        "type": "Firm",
+        "effectiveDate": "06/06/2024"
+      }
+    ]
   },
   {
     "id": "1446648",
@@ -29615,7 +29762,8 @@
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
-        "effectiveDate": "02/26/2024"
+        "effectiveDate": "02/26/2024",
+        "terminationDate": "05/31/2024"
       }
     ]
   },
@@ -29777,14 +29925,15 @@
     "address": "5052 PALMERA DRIVE\nOCEANSIDE, CA 90256",
     "phone": "(916) 716-2670",
     "email": "compliance_ca_astella_1@multistate.us",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2024",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ASTELLAS PHARMA US, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
@@ -32484,6 +32633,7 @@
     "phone": "(916) 442-1036",
     "email": "gparampathu@acluca.org",
     "registrationDate": "06/17/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35437,6 +35587,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35556,14 +35707,15 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "erika@caleec.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/30/2024",
     "ethicsCourseCompletionDate": "07/01/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/30/2024"
       }
     ]
   },
@@ -35949,14 +36101,15 @@
     "address": "201 K STREET, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-5532",
     "email": "arodriguez@cmadocs.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/28/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA MEDICAL ASSOCIATION AND AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/28/2024"
       }
     ]
   },
@@ -39571,6 +39724,7 @@
     "address": "1127 11TH STREET, SUITE 925\nSACRAMENTO, CA 95814",
     "phone": "(916) 497-0923",
     "registrationDate": "03/18/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
