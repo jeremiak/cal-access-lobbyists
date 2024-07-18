@@ -3260,6 +3260,7 @@
     "phone": "(212) 671-4500",
     "email": "lobbying@campaignlawyers.com",
     "registrationDate": "10/05/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -7948,6 +7949,7 @@
     "phone": "(305) 854-8880",
     "email": "lobbying@campaignlawyers.com",
     "registrationDate": "06/20/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13228,6 +13230,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "05/25/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -17819,6 +17822,7 @@
     "phone": "(707) 525-1665",
     "email": "kendra@theclimatecenter.org",
     "registrationDate": "01/03/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23821,6 +23825,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(202) 296-8086",
     "registrationDate": "02/27/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -27138,6 +27143,7 @@
     "phone": "(212) 671-4500",
     "email": "lobbying@campaignlawyers.com",
     "registrationDate": "02/08/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -36277,6 +36283,7 @@
     "phone": "(415) 295-6333",
     "email": "tara.rolle@capso.org",
     "registrationDate": "06/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -37724,10 +37731,10 @@
   },
   {
     "id": "1446598",
-    "name": "SAVVA, MICHAEL",
+    "name": "SAVVA, MICHAEL P",
     "address": "WORLDWIDE PLAZA, 309 WEST 49TH STREET\nNEW YORK, NY 10019",
     "phone": "(212) 667-9714",
-    "email": "msavva@nomura-asset.com",
+    "email": "barbara.keller@nomura.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
@@ -37737,6 +37744,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/30/2024"
+      },
+      {
+        "entityName": "NOMURA CAPITAL MANAGEMENT LLC (\"NCM\")",
+        "type": "Firm",
+        "effectiveDate": "07/01/2024"
       }
     ]
   },
@@ -42869,6 +42881,7 @@
     "phone": "(212) 671-4500",
     "email": "lobbying@campaignlawyers.com",
     "registrationDate": "10/05/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
