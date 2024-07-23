@@ -3666,6 +3666,7 @@
     "phone": "(415) 262-5100",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "04/16/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -4505,6 +4506,7 @@
     "phone": "(415) 262-5100",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "04/11/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -10114,6 +10116,24 @@
     ]
   },
   {
+    "id": "1471524",
+    "name": "DE DOMENICO, MARGARET",
+    "address": "2049 CENTURY PARK EAST, SUITE 3050\nLOS ANGELES, CA 90067",
+    "phone": "(310) 996-9600",
+    "email": "compliance@postadvisory.com",
+    "mailingAddress": "833 7TH STREET, APT A\nLOS ANGELES, CA 90403",
+    "registrationDate": "07/11/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POST ADVISORY GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/11/2024"
+      }
+    ]
+  },
+  {
     "id": "1454851",
     "name": "DE FILIPPO, MARGARET",
     "address": "20 HORSENECK LANE\nGREENWICH, CT 06830",
@@ -10297,7 +10317,8 @@
       {
         "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/28/2024"
       }
     ]
   },
@@ -18425,7 +18446,7 @@
     "email": "khp@asantecapital.com",
     "mailingAddress": "10 EAST, 53RD STREET- 12TH FLOOR\nNEW YORK, NY 10022",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "11/03/2022",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35840,9 +35861,9 @@
     "phone": "(916) 447-1299",
     "email": "arivera@cpehn.org",
     "mailingAddress": "1221 PRESERVATION PARK WAY SUITE 200\nOAKLAND, CA 95812\nPhone: (916) 447-1299\nEmail: arivera@cpehn.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/01/2024",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA PAN - ETHNIC HEALTH NETWORK",
@@ -45478,6 +45499,22 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "09/30/2023"
+      }
+    ]
+  },
+  {
+    "id": "1372250",
+    "name": "WHITNEY, MELISSA ",
+    "address": "6001 BOLD RULER WAY, SUITE 110\nAUSTIN, TX 78746",
+    "phone": "(512) 361-2837",
+    "email": "melissa.whitney@palisades-group.com",
+    "registrationDate": "07/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PALISADES GROUP, LLC; THE",
+        "type": "Employer",
+        "effectiveDate": "07/01/2024"
       }
     ]
   },
