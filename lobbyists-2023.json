@@ -2400,6 +2400,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(202) 296-8086",
     "registrationDate": "04/22/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -3856,9 +3857,10 @@
   {
     "id": "1222944",
     "name": "BLAND, TYRONE D.",
-    "address": "4480 RISING HILL ROAD\nALTADENA, CA 91001",
+    "address": "12100 WILSHIRE BOULEVARD\nLOS ANGELES, CA 90025",
     "phone": "(214) 994-5658",
     "registrationDate": "02/27/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -7958,6 +7960,21 @@
     ]
   },
   {
+    "id": "1470530",
+    "name": "COFFMAN, ALEXANDER",
+    "address": "214 BARTON SPRINGS RD, APT 1003\nAUSTIN, TX 78704",
+    "phone": "(916) 840-6875",
+    "registrationDate": "08/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FRONTIER TECHNOLOGY PARTNERS, LLC",
+        "type": "Firm",
+        "effectiveDate": "08/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1417166",
     "name": "COHEN, DAVID",
     "address": "100 AVENUE OF THE AMERICAS, FLOOR 16\nNEW YORK, NY 10013",
@@ -10315,6 +10332,11 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "CALIFORNIA HOSPITAL ASSOCIATION/CALIFORNIA ASSOCIATION OF HOSPITALS AND HEALTH SYSTEMS",
+        "type": "Employer",
+        "effectiveDate": "07/08/2024"
+      },
+      {
         "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
@@ -10896,6 +10918,7 @@
     "address": "399 PARK AVE, 22ND FLOOR\nNEW YORK , NY 10022",
     "phone": "(212) 259-7300",
     "registrationDate": "01/19/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -12060,6 +12083,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nEmail: info@keyslawcorp.com",
     "registrationDate": "08/16/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -12476,6 +12500,7 @@
     "phone": "(916) 557-1107",
     "email": "jakob.evans@sierraclub.org",
     "registrationDate": "05/16/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16641,6 +16666,7 @@
     "phone": "(212) 634-5941",
     "email": "pgrenley@sigulerguff.com",
     "registrationDate": "05/22/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20480,6 +20506,7 @@
     "phone": "(914) 241-7430",
     "email": "jaidev@kohlberg.com",
     "registrationDate": "10/25/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -22803,6 +22830,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 890-3670",
     "registrationDate": "05/23/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24004,7 +24032,7 @@
     "email": "bl@asantecapital.com",
     "mailingAddress": "10 EAST 53RD STREET, 12TH FLOOR\nNEW YORK, NY 10022",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "12/01/2022",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24021,6 +24049,7 @@
     "phone": "(212) 232-1420",
     "email": "compliance@capstoneco.com",
     "registrationDate": "07/01/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Revoked",
     "relationships": []
   },
@@ -24471,6 +24500,11 @@
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      },
       {
         "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
         "type": "Employer",
@@ -25056,6 +25090,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "11/10/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25159,6 +25194,7 @@
     "phone": "(626) 297-7367",
     "email": "sraphael@cacfs.org",
     "registrationDate": "04/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -31430,6 +31466,7 @@
     "phone": "(513) 361-7944",
     "email": "jack.oconnor@fortwashington.com",
     "registrationDate": "04/12/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -31599,6 +31636,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nKEYS LAW CORP\nSACRAMENTO, CA 95814",
     "registrationDate": "05/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -33730,6 +33768,7 @@
     "phone": "(212) 887-1207",
     "email": "kkatona@fpcgllc.com",
     "registrationDate": "04/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -37070,6 +37109,11 @@
     "ethicsCourseCompletionDate": "01/27/2022",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      },
       {
         "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
         "type": "Employer",
@@ -41217,6 +41261,7 @@
     "address": "925 L STREET, SUITE 1404\nSACRAMENTO , CA 95814",
     "phone": "(949) 399-9050",
     "registrationDate": "07/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -41661,15 +41706,15 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "FORESITE CAPITAL MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "03/28/2024"
-      },
-      {
         "entityName": "B CAPITAL GROUP U.S., LLC",
         "type": "Employer",
         "effectiveDate": "02/27/2023",
         "terminationDate": "07/31/2023"
+      },
+      {
+        "entityName": "FORESITE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/28/2024"
       }
     ]
   },
@@ -42640,6 +42685,11 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      },
+      {
         "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
@@ -42743,6 +42793,7 @@
     "phone": "(929) 999-3565",
     "email": "mark.tower@am-one-usa.com",
     "registrationDate": "10/11/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -44325,7 +44376,8 @@
       {
         "entityName": "ACTUM CA OPCO, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2024"
+        "effectiveDate": "01/01/2024",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
