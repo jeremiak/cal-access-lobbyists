@@ -1137,6 +1137,7 @@
     "phone": "(917) 206-5173",
     "email": "philip.anker@ninetyone.com",
     "registrationDate": "10/02/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -2569,6 +2570,7 @@
     "phone": "(212) 813-4571",
     "email": "roman.bas@carlyle.com",
     "registrationDate": "12/04/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -3778,6 +3780,27 @@
         "entityName": "ARGAND PARTNERS, LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1471047",
+    "name": "BLACKWELL, REBECCA",
+    "address": "17 STATE STREET, 30TH FLOOR\nNEW YORK, NY 10004",
+    "phone": "(212) 806-3731",
+    "email": "rebecca.blackwell@adyne.com",
+    "registrationDate": "06/17/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "06/17/2024"
+      },
+      {
+        "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "06/17/2024"
       }
     ]
   },
@@ -6746,6 +6769,7 @@
     "address": "12 EAST 49TH STREET\nNEW YORK, NY 10017",
     "phone": "(212) 224-8929",
     "registrationDate": "10/05/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9120,6 +9144,7 @@
     "phone": "(212) 813-4722",
     "email": "james.crenshaw@carlyle.com",
     "registrationDate": "10/11/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13169,6 +13194,23 @@
         "entityName": "BLAIR INVESTMENT MANAGEMENT, LLC; WILLIAM",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1471710",
+    "name": "FILGAS, RICHARD",
+    "address": "1127 11TH STREET, SUITE 626\nSACRAMENTO, CA 95814",
+    "phone": "(916) 261-0906",
+    "email": "rfilgas@cfbf.com",
+    "registrationDate": "07/15/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
+        "type": "Employer",
+        "effectiveDate": "07/11/2024"
       }
     ]
   },
@@ -19160,13 +19202,14 @@
     "address": "385 EAST COLORADO BOULEVARD\nPASADENA, CA 91101",
     "phone": "(626) 817-5129",
     "email": "mhillier@westernasset.com",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "07/01/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/01/2024"
       }
     ]
   },
@@ -21882,6 +21925,22 @@
     ]
   },
   {
+    "id": "1471194",
+    "name": "KEENEY, JOHN",
+    "address": "200 CLAREDON STREET, 54TH FLOOR\nBOSTON, MA 02116",
+    "phone": "(617) 619-5400",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "07/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHARLESBANK CAPITAL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1412405",
     "name": "KEHOE, KATHRYN ",
     "address": "31 WEST 52ND STREET SUITE 2400\nNEW YORK, NY 10019",
@@ -23254,6 +23313,7 @@
     "phone": "(646) 984-1704",
     "email": "dan.kong@carlyle.com",
     "registrationDate": "10/11/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35293,7 +35353,7 @@
   {
     "id": "1395512",
     "name": "REID, JOSEPH A.",
-    "address": "ONE MARKET STREET, STEUART TOWER\n23RD FLOOR",
+    "address": "650 CALIFORNIA STREET, 32ND FLOOR\nSAN FRANCISCO, CA 94108",
     "phone": "(415) 389-6800",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800",
     "registrationDate": "01/01/2023",
@@ -35775,10 +35835,11 @@
   {
     "id": "1420631",
     "name": "RINDE, TYLER",
-    "address": "2201 K STREET\nSACRAMENTO, CA 95816",
-    "phone": "(916) 449-2273",
-    "email": "trinde@cacfs.org",
+    "address": "1231 I STREET, SUITE 204\nSACRAMENTO, CA 95814",
+    "phone": "(916) 286-7979",
+    "email": "trinde@cpapsych.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35786,6 +35847,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "03/30/2024"
+      },
+      {
+        "entityName": "CALIFORNIA PSYCHOLOGICAL ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "06/28/2024"
       }
     ]
   },
@@ -37589,6 +37655,22 @@
     ]
   },
   {
+    "id": "1469990",
+    "name": "SANDERS, DUBREA",
+    "address": "1107 9TH STREET, SUITE 880\nSACRAMENTO, CA 95814",
+    "phone": "(661) 221-0208",
+    "email": "dsanders@catalystcalifornia.org",
+    "registrationDate": "06/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CATALYST CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "06/03/2024"
+      }
+    ]
+  },
+  {
     "id": "1427667",
     "name": "SANDERS, GLENN T",
     "address": "1211 AVENUE OF THE AMERICAS, FLOOR 23\nNEW YORK, NY 10036",
@@ -38564,6 +38646,7 @@
     "phone": "(415) 274-6750",
     "email": "ssantana@caasf.org",
     "registrationDate": "04/02/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -41441,6 +41524,7 @@
     "phone": "(310) 720-7500",
     "email": "chris.sutter@orchardglobal.com",
     "registrationDate": "05/28/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
