@@ -1121,6 +1121,7 @@
     "phone": "(949) 500-5523",
     "email": "brad.angle@columbiathreadneedle.com",
     "registrationDate": "02/21/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15579,6 +15580,23 @@
     ]
   },
   {
+    "id": "1471066",
+    "name": "GODDARD, JOHN",
+    "address": "1215 K STREET, SUITE 1800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 468-3665",
+    "email": "jg266@att.com",
+    "registrationDate": "07/09/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AT&T SERVICES INC. AND ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "07/09/2024"
+      }
+    ]
+  },
+  {
     "id": "1460450",
     "name": "GOENS , TRENT ",
     "address": "100 WILSHIRE BOULEVARD SUITE 1400\nSANTA MONICA, CA 90401",
@@ -18761,8 +18779,8 @@
   {
     "id": "1462648",
     "name": "HENDERSON, ERIC",
-    "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-1036",
+    "address": "1026 17TH STREET, APARTMENT 408\nSACRAMENTO, CA 95811",
+    "phone": "(408) 857-7713",
     "registrationDate": "07/17/2023",
     "ethicsCourseCompletionDate": "08/10/2023",
     "status": "Active",
@@ -19171,10 +19189,11 @@
   },
   {
     "id": "1362402",
-    "name": "HILKENE, AMBER",
+    "name": "HILKENE, AMBER Y.",
     "address": "1 OLD QUEEN STREET\nLONDON UK SW1H 9JA,   ",
     "email": "amber@stanley-capital.com",
     "registrationDate": "10/23/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21325,7 +21344,9 @@
     "name": "JONES, DAVID E.",
     "address": "3610 CUTTER WAY\nSACRAMENTO, CA 95818",
     "phone": "(916) 804-2499",
+    "email": "teamdavejones@gmail.com",
     "registrationDate": "03/13/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24013,6 +24034,7 @@
     "phone": "(203) 900-3658",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "07/18/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25350,6 +25372,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "07/05/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28902,14 +28925,15 @@
     "address": "1118 10TH STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 325-1500",
     "email": "sharper@cta.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/17/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA TEACHERS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/17/2024"
       }
     ]
   },
@@ -34474,6 +34498,7 @@
     "phone": "(714) 949-0819",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "10/01/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -38580,6 +38605,21 @@
         "entityName": "PJT PARTNERS LP",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1471385",
+    "name": "SCOTT, JANEA",
+    "address": "P.O. BOX 160274\nSACRAMENTO, CA 95816",
+    "phone": "(858) 243-3448",
+    "registrationDate": "06/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIBER STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "06/28/2024"
       }
     ]
   },
