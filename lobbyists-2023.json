@@ -2711,6 +2711,7 @@
     "phone": "(916) 580-5004",
     "mailingAddress": "6642 WILLOWLEAF DRIVE\nCITRUS HEIGHTS, CA 95621\nPhone: (916) 580-5004",
     "registrationDate": "05/02/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11513,7 +11514,8 @@
       {
         "entityName": "DOWDEN & ASSOCIATES; HR",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2023"
       }
     ]
   },
@@ -11720,6 +11722,21 @@
         "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470116",
+    "name": "DUMAIS III, WILLIAM",
+    "address": "601 PENNSYLVANIA AVENUE NORTHWEST\nWASHINGTON, DC 20004",
+    "phone": "(202) 789-0300",
+    "registrationDate": "05/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN BAKERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "05/15/2024"
       }
     ]
   },
@@ -13428,7 +13445,7 @@
     "email": "emmett.fitzgerald@aspectcapital.com",
     "mailingAddress": "ONE STATION PLACE\nSTAMFORD, CT 06902",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "07/21/2022",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15285,6 +15302,7 @@
     "address": "PO BOX 15677\nCHEVY CHASE, MD 20825",
     "phone": "(301) 693-7145",
     "registrationDate": "04/25/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19189,7 +19207,7 @@
   },
   {
     "id": "1362402",
-    "name": "HILKENE, AMBER Y.",
+    "name": "HILKENE, AMBER",
     "address": "1 OLD QUEEN STREET\nLONDON UK SW1H 9JA,   ",
     "email": "amber@stanley-capital.com",
     "registrationDate": "10/23/2023",
@@ -27578,6 +27596,22 @@
     ]
   },
   {
+    "id": "1340487",
+    "name": "MATTHEWS, GEORGE",
+    "address": "2121 AVENUE OF THE STARS, 9TH FLOOR\nLOS ANGELES, CA 90067",
+    "phone": "(310) 284-6434",
+    "email": "gmatthews@kaynecapital.com",
+    "registrationDate": "08/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KAYNE ANDERSON CAPITAL ADVISORS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "08/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1148107",
     "name": "MATTOS, DEBORAH",
     "address": "4413 OTIS COURT\nCARMICHAEL, CA 95608",
@@ -28726,6 +28760,22 @@
     ]
   },
   {
+    "id": "1470344",
+    "name": "MEDEIROS, JONATHAN",
+    "address": "5008 BENT CREEK COURT\nEL DORADO HILLS, CA 95762",
+    "phone": "(916) 932-3018",
+    "registrationDate": "06/21/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CEPHEID",
+        "type": "Employer",
+        "effectiveDate": "06/21/2024"
+      }
+    ]
+  },
+  {
     "id": "1443150",
     "name": "MEDEROS, JILLIAN",
     "address": "600 FIFTEH AVENUE, 2ND FLOOR\nNEW YORK, NY 10010",
@@ -28998,6 +29048,7 @@
     "phone": "(203) 698-1200",
     "email": "jmerrill@ellington.com",
     "registrationDate": "03/20/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -31384,6 +31435,7 @@
     "phone": "(602) 462-5000",
     "email": "bnorman@goldwaterinstitute.org",
     "registrationDate": "03/08/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -38449,6 +38501,7 @@
     "phone": "(212) 782-3480",
     "email": "ben.schryber@klimllc.com",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -45911,6 +45964,7 @@
     "phone": "(916) 307-6080",
     "email": "anthony@ballardpartners.com",
     "registrationDate": "02/15/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
