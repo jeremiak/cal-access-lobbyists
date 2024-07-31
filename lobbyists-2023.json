@@ -390,6 +390,23 @@
     ]
   },
   {
+    "id": "1471653",
+    "name": "AHUMADA, DOMINIQUE",
+    "address": "559 SAN YSIDRO ROAD, SUITE I\nMONTECITO, CA 93108",
+    "phone": "(917) 400-0860",
+    "email": "dominique@leadedgecapital.com",
+    "registrationDate": "07/26/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEAD EDGE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/26/2024"
+      }
+    ]
+  },
+  {
     "id": "1416333",
     "name": "AJJOUR, RABEEH",
     "address": "11611 SAN VICENTE BOULEVARD SUITE 910\nLOS ANGELES , CA 90049",
@@ -9869,6 +9886,23 @@
     ]
   },
   {
+    "id": "1471706",
+    "name": "DAMJANOVIC, EMILA",
+    "address": "559 SAN YSIDRO ROAD, SUITE  I\nMONTECITO, CA 93108",
+    "phone": "(212) 814-8723",
+    "email": "emilia@leadedgecapital.com",
+    "registrationDate": "07/26/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEAD EDGE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/26/2024"
+      }
+    ]
+  },
+  {
     "id": "1357760",
     "name": "DAMON, JAMES G.",
     "address": "10 EAST 53RD STREET\nNEW YORK, NY 10022",
@@ -17982,6 +18016,22 @@
     ]
   },
   {
+    "id": "1470195",
+    "name": "HARRIS, DAVID",
+    "address": "440 N BARRANCA AVENUE, #3263\nCOVINA, CA 91723",
+    "phone": "(415) 347-6735",
+    "email": "harrispolicy@gmail.com",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HARRIS POLICY GROUP",
+        "type": "Firm",
+        "effectiveDate": "04/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1397609",
     "name": "HARRIS, ERIC",
     "address": "1831 K STREET\nSACRAMENTO, CA 95811",
@@ -18839,14 +18889,15 @@
     "phone": "(212) 321-4036",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "10/01/2023",
+    "registrationDate": "05/10/2024",
     "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BAYPINE LP",
         "type": "Employer",
-        "effectiveDate": "10/01/2023"
+        "effectiveDate": "10/01/2023",
+        "terminationDate": "05/10/2024"
       }
     ]
   },
@@ -20107,6 +20158,7 @@
     "phone": "(916) 442-8888",
     "email": "dhuck@nossaman.com",
     "registrationDate": "05/13/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20948,14 +21000,15 @@
     "name": "JOAQUIN, KYLER",
     "address": "1231 I STREET, SUITE 206\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-3413",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "04/23/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CARTER, WETCH & ASSOCIATES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/23/2024"
       }
     ]
   },
@@ -28272,7 +28325,7 @@
     "name": "MC GRATH, TRISHA",
     "address": "ONE MARKET STREET, STEUART TOWER\n23RD FLOOR",
     "phone": "(415) 389-6800",
-    "email": "calobb@nmgovlaw.com",
+    "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/27/2022",
@@ -31602,6 +31655,7 @@
     "phone": "(916) 442-0753",
     "email": "kobrien@wclp.org",
     "registrationDate": "05/07/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32921,14 +32975,15 @@
     "phone": "(312) 683-1900",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412 \nC/O KEYS LAW\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/01/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VALOR MANAGEMENT LLC AND ITS SUBSIDIARIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/01/2024"
       }
     ]
   },
