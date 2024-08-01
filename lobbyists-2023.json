@@ -4426,6 +4426,7 @@
     "phone": "(202) 496-3370",
     "email": "cboswell@natadvisors.com",
     "registrationDate": "03/11/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9653,6 +9654,7 @@
     "phone": "(602) 462-5000",
     "email": "hcurry@goldwaterinstitute.org",
     "registrationDate": "03/08/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -12910,6 +12912,7 @@
     "address": "P.O. BOX 160274\nSACRAMENTO, CA 95816",
     "phone": "(858) 243-3448",
     "registrationDate": "03/27/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15049,6 +15052,23 @@
         "entityName": "HURST BROOKS ESPINOSA, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1471753",
+    "name": "GAVEY, TUCKER",
+    "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(415) 389-6800",
+    "email": "blueowl@nmgovlaw.com",
+    "mailingAddress": "C/O 2350 KERNER BOULEVARD SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "07/17/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLUE OWL CAPITAL HOLDINGS, LP",
+        "type": "Employer",
+        "effectiveDate": "07/17/2024"
       }
     ]
   },
@@ -20527,6 +20547,7 @@
     "phone": "(818) 729-9900",
     "email": "bjackson@mcmorgan.com",
     "registrationDate": "03/07/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28962,6 +28983,7 @@
     "phone": "(646) 499-0707",
     "email": "sdmeller@act.is",
     "registrationDate": "05/21/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -33618,6 +33640,7 @@
     "phone": "(212) 538-9416",
     "email": "shaun.peterson@ubs.com",
     "registrationDate": "06/13/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39483,6 +39506,7 @@
     "phone": "(916) 287-9887",
     "email": "dshiv@housingca.org",
     "registrationDate": "05/08/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -40782,6 +40806,7 @@
     "phone": "(949) 315-9900",
     "email": "scott.spalding@cbreim.com",
     "registrationDate": "03/05/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -43148,6 +43173,7 @@
     "phone": "(332) 270-5496",
     "email": "ctrant@vistaequitypartners.com",
     "registrationDate": "02/14/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -44674,14 +44700,15 @@
     "name": "WALKER-GRIFFIN, ALEXANDER",
     "address": "1215 K STREET, SUITE 1110\nSACRAMENTO, CA 95814",
     "phone": "(916) 534-1043",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/17/2024",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ARNOLD & PORTER KAYE SCHOLER LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/17/2024"
       }
     ]
   },
