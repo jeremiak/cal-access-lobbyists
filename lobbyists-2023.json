@@ -6284,6 +6284,7 @@
     "address": "250 SOUTH AUSTRALIAN AVENUE\nWEST PALM BEACH, FL 33401",
     "email": "legal@intechinvestments.com",
     "registrationDate": "06/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13604,6 +13605,7 @@
     "phone": "(916) 442-1036",
     "email": "mflemming@acluca.org",
     "registrationDate": "06/10/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15665,6 +15667,22 @@
         "entityName": "AT&T SERVICES INC. AND ITS AFFILIATES",
         "type": "Employer",
         "effectiveDate": "07/09/2024"
+      }
+    ]
+  },
+  {
+    "id": "1472208",
+    "name": "GODOWN, LEE",
+    "address": "12705 LAUREL GROVE WAY, SUITE 100\nFAIRFAX, VA 22033",
+    "phone": "(202) 480-7008",
+    "email": "alpexintlcorp@gmail.com",
+    "registrationDate": "05/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALPEX INTERNATIONAL, LLC",
+        "type": "Firm",
+        "effectiveDate": "05/15/2024"
       }
     ]
   },
@@ -20211,8 +20229,8 @@
     "address": "111 S.  MAIN STREET, STE 2350\nSALT LAKE CITY, UT 84111",
     "phone": "(801) 521-3100",
     "email": "david.hunter@cynosuregroup.com",
-    "registrationDate": "01/09/2023",
-    "status": "Active",
+    "registrationDate": "07/18/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CYNOSURE MANAGEMENT, LLC; THE",
@@ -22404,6 +22422,7 @@
     "phone": "(415) 788-9300",
     "email": "gkerr@mcmorgan.com",
     "registrationDate": "03/07/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -36256,6 +36275,7 @@
     "phone": "(212) 628-1200",
     "email": "mrobertson@cifc.com",
     "registrationDate": "03/20/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
