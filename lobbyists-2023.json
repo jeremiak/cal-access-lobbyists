@@ -6029,6 +6029,16 @@
     ]
   },
   {
+    "id": "1471423",
+    "name": "CALLANAN, BILL",
+    "address": "767 FIFTH AVENUE, 50TH FLOOR\nNEW YORK, NY 10153",
+    "phone": "(212) 698-4720",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "06/06/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1224120",
     "name": "CAMMAROTA, NICK J.",
     "address": "1215 K STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -11624,6 +11634,21 @@
     ]
   },
   {
+    "id": "1471995",
+    "name": "DRASSER, MATTHEW",
+    "address": "96 WORCESTER STREET, 3RD FLOOR\nWELLESLEY HILLS, MA 02481",
+    "phone": "(774) 329-0619",
+    "registrationDate": "07/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SUN LIFE CAPITAL MANAGEMENT (U.S.) LLC",
+        "type": "Employer",
+        "effectiveDate": "07/26/2024"
+      }
+    ]
+  },
+  {
     "id": "1453460",
     "name": "DREBINGER III, JOHN W.",
     "address": "1121 L STREET, SUITE 300\nSACRAMENTO, CA 95814",
@@ -15537,6 +15562,16 @@
     ]
   },
   {
+    "id": "1471422",
+    "name": "GIULIANO, MICHELLE",
+    "address": "767 FIFTH AVENUE, 50TH FLOOR\nNEW YORK, NY 10153",
+    "phone": "(212) 698-4720",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "06/06/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1400701",
     "name": "GLADFELTY, BRET",
     "address": "1201 K STREET, SUITE 750\nSACRAMENTO, CA 95814",
@@ -15848,6 +15883,7 @@
     "email": "dgoldstein@vikingglobal.com",
     "mailingAddress": "660 FIFTH AVENUE\nNEW YORK, NY 10103",
     "registrationDate": "02/07/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -18464,6 +18500,7 @@
     "address": "PO BOX 139\nKAILUA, HI 96734",
     "phone": "(805) 285-3185",
     "registrationDate": "01/30/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25107,6 +25144,7 @@
     "phone": "(916) 205-6298",
     "mailingAddress": "1713 Q STREET #6\nSACRAMENTO, CA 95811",
     "registrationDate": "04/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -33070,6 +33108,7 @@
     "email": "pparjus@vikingglobal.com",
     "mailingAddress": "660 FIFTH AVENUE\nNEW YORK, NY 10103",
     "registrationDate": "04/09/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -46965,6 +47004,7 @@
     "email": "tyu@vikingglobal.com",
     "mailingAddress": "660 FIFTH AVENUE\nNEW YORK, NY 10103",
     "registrationDate": "04/09/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -47328,6 +47368,22 @@
         "entityName": "GILEAD SCIENCES, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1471874",
+    "name": "ZOKAIE, TOOKA",
+    "address": "1201 K STREET, 15TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 554-5312",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "08/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA DENTAL ASSOCIATION AND ITS WHOLLY OWNED SUBSIDIARIES",
+        "type": "Employer",
+        "effectiveDate": "08/01/2024"
       }
     ]
   },
