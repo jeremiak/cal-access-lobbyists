@@ -3417,6 +3417,23 @@
     ]
   },
   {
+    "id": "1469481",
+    "name": "BERRY, EDWARD",
+    "address": "55 ST. JAMES STREET\nLONDON UK SW1A 1LA",
+    "phone": "(916) 442-7757",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "05/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALBACORE CAPITAL GROUP AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "05/15/2024"
+      }
+    ]
+  },
+  {
     "id": "1470511",
     "name": "BERRY, ERIN",
     "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
@@ -11914,7 +11931,8 @@
       {
         "entityName": "HMC INVESTMENTS, INC. \"HMCI\"",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/30/2024"
       }
     ]
   },
@@ -19332,6 +19350,22 @@
     ]
   },
   {
+    "id": "1472380",
+    "name": "HIGLEY, JONATHAN",
+    "address": "115 FEDERAL STREET, 22ND FLOOR\nBOSTON, MA 02110",
+    "phone": "(617) 330-9333",
+    "email": "jhigley@incomeresearch.com",
+    "registrationDate": "07/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INCOME RESEARCH & MANAGEMENT",
+        "type": "Employer",
+        "effectiveDate": "07/30/2024"
+      }
+    ]
+  },
+  {
     "id": "1362402",
     "name": "HILKENE, AMBER",
     "address": "1 OLD QUEEN STREET\nLONDON UK SW1H 9JA,   ",
@@ -26257,14 +26291,15 @@
     "address": "100 FEDERAL STREET, 30TH FLOOR\nBOSTON, MA 02110",
     "phone": "(617) 330-9333",
     "email": "pmachoka@incomeresearch.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/31/2024",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "INCOME RESEARCH & MANAGEMENT",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/31/2024"
       }
     ]
   },
