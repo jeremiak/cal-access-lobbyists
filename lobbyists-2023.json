@@ -2666,6 +2666,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/28/2024"
+      },
+      {
+        "entityName": "KP PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "07/01/2024"
       }
     ]
   },
@@ -10882,6 +10887,7 @@
     "phone": "(916) 718-9143",
     "email": "joe@delastrategiesgroup.com",
     "registrationDate": "11/26/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16969,6 +16975,22 @@
         "entityName": "UNITED FOOD AND COMMERCIAL WORKERS, WESTERN STATES COUNCIL",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1471287",
+    "name": "GRIBBLE, LAUREN",
+    "address": "600 MADISON AVENUE, 25TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(917) 451-0619",
+    "email": "lgribble@26n.com",
+    "registrationDate": "07/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "26NORTH PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "07/08/2024"
       }
     ]
   },
@@ -34994,14 +35016,15 @@
     "address": "404 WASHINGTON AVENUE, PH810\nMIAMI, FL 33139",
     "phone": "(305) 831-7090",
     "email": "traja@26n.com",
-    "registrationDate": "01/18/2023",
+    "registrationDate": "06/17/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "26NORTH PARTNERS LP",
         "type": "Employer",
-        "effectiveDate": "01/18/2023"
+        "effectiveDate": "01/18/2023",
+        "terminationDate": "06/17/2024"
       }
     ]
   },
@@ -35337,6 +35360,7 @@
     "phone": "(916) 443-5422",
     "email": "krystal@cawrecycles.org",
     "registrationDate": "01/10/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39267,6 +39291,7 @@
     "email": "lauren.shaner@kslcapital.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "03/18/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -43232,14 +43257,15 @@
     "address": "1 IRON STREET, 6TH FLOOR\nBOSTON, MA 02210",
     "phone": "(415) 527-6921",
     "email": "nicholas_trager@ssga.com",
-    "registrationDate": "10/11/2023",
+    "registrationDate": "05/14/2024",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "STATE STREET GLOBAL ADVISORS TRUST COMPANY",
         "type": "Employer",
-        "effectiveDate": "10/11/2023"
+        "effectiveDate": "10/11/2023",
+        "terminationDate": "05/14/2024"
       }
     ]
   },
@@ -44898,6 +44924,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "07/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -46891,6 +46918,16 @@
         "effectiveDate": "01/01/2023"
       }
     ]
+  },
+  {
+    "id": "1469290",
+    "name": "YOSEF , MICHAEL",
+    "address": "1625 SIENNA COURT \nPALM SPRINGS , CA 92262",
+    "phone": "(310) 428-4178",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1328233",
