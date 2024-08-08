@@ -6180,7 +6180,7 @@
   {
     "id": "1353233",
     "name": "CANADA, RALPH G.",
-    "address": "810 7TH AVENUE, 24 FLOOR\nNEW YORK, NY 10019",
+    "address": "60 COLOUMBUS CIRCLE, 19TH FLOOR\nNEW YORK, NY 10023",
     "phone": "(212) 257-5757",
     "email": "rcanada@pretium.com",
     "mailingAddress": "3001 NORTH VALLEY DRIVE\nMANHATTAN BEACH, CA 90266",
@@ -8152,6 +8152,23 @@
         "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
         "type": "Employer",
         "effectiveDate": "04/08/2024"
+      }
+    ]
+  },
+  {
+    "id": "1342352",
+    "name": "COLE, ALLISON C.",
+    "address": "45 ROCKEFELLER CENTER, 630 FIFTH AVENUE\nSUITE 400",
+    "phone": "(917) 262-2081",
+    "email": "acole@riversidecompany.com",
+    "registrationDate": "04/12/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RIVERSIDE COMPANY L.L.C. D/B/A THE RIVERSIDE COMPANY",
+        "type": "Employer",
+        "effectiveDate": "04/12/2024"
       }
     ]
   },
@@ -11382,6 +11399,7 @@
     "phone": "(212) 938-6366",
     "email": "dana.dolphin@laurioncap.com",
     "registrationDate": "09/01/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13908,14 +13926,15 @@
     "address": "400 SKOKIE BOULEVARD, SUITE 500\nNORTHBROOK, IL 60062",
     "phone": "(847) 509-1160",
     "email": "bill.forsyth@magellangroup.com.au",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "05/31/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MFG ASSET MANAGEMENT AND ITS AFFILIATE MFG SERVICES LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "05/31/2024"
       }
     ]
   },
@@ -20167,6 +20186,7 @@
     "phone": "(212) 763-7629",
     "email": "jaymee.mcandrew@campbell.com",
     "registrationDate": "03/21/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21505,6 +21525,22 @@
         "entityName": "NATIONAL REAL ESTATE ADVISORS LLC",
         "type": "Employer",
         "effectiveDate": "03/11/2024"
+      }
+    ]
+  },
+  {
+    "id": "1470622",
+    "name": "JONES, BEN D.",
+    "address": "400 SKOKIE BOULEVARD\nNORTHBROOK, IL 60062",
+    "phone": "(801) 455-4230",
+    "email": "ben.jones@magellangroup.com",
+    "registrationDate": "06/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MFG ASSET MANAGEMENT AND ITS AFFILIATE MFG SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "06/12/2024"
       }
     ]
   },
@@ -23800,11 +23836,12 @@
   {
     "id": "1466556",
     "name": "KUMAR, KESHAV",
-    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
-    "phone": "(916) 594-9700",
-    "email": "kkumar@bhfs.com",
-    "registrationDate": "03/11/2024",
-    "status": "Terminated",
+    "address": "921 11TH ST, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 318-8866",
+    "email": "info@keyslawkorp.com",
+    "mailingAddress": "KEYS LAW CORPORATION 428 J STREET\nSUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 318-8866\nEmail: info@keyslawkorp.com",
+    "registrationDate": "08/01/2024",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
@@ -41704,7 +41741,7 @@
   {
     "id": "1343479",
     "name": "STRICKLAND, JENNIFER ",
-    "address": "810 SEVENTH AVENUE, 24TH FLOOR\nNEW YORK, NY 10019",
+    "address": "60 COLOUMBUS CIRCLE, 19TH FLOOR\nNEW YORK, NY 10023",
     "phone": "(212) 257-5757",
     "email": "jstrickland@pretium.com",
     "registrationDate": "11/13/2023",
@@ -42135,6 +42172,7 @@
     "phone": "(415) 877-4887",
     "email": "compliance@foresitecapital.com",
     "registrationDate": "03/28/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
