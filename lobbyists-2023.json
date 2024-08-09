@@ -4906,9 +4906,9 @@
     "phone": "(805) 234-5481",
     "email": "sarah@deveauburrgroup.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/16/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS; THE",
@@ -4919,7 +4919,8 @@
       {
         "entityName": "DEVEAU BURR GROUP, LLC",
         "type": "Firm",
-        "effectiveDate": "12/08/2023"
+        "effectiveDate": "12/08/2023",
+        "terminationDate": "07/16/2024"
       },
       {
         "entityName": "STRATEGIES 360",
@@ -24617,14 +24618,15 @@
     "address": "11 EAST 26TH STREET\nNEW YORK, NY 10010",
     "phone": "(925) 209-4432",
     "email": "jessica.lee@iconiqcapital.com",
-    "registrationDate": "01/20/2023",
+    "registrationDate": "08/07/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ICONIQ CAPITAL, LLC AND ITS AFFILIATE, IPI PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/20/2023"
+        "effectiveDate": "01/20/2023",
+        "terminationDate": "08/07/2024"
       }
     ]
   },
