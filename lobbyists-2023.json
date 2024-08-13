@@ -73,6 +73,7 @@
     "phone": "(212) 891-2100",
     "email": "fabinader@cerberus.com",
     "registrationDate": "01/11/2023",
+    "ethicsCourseCompletionDate": "06/22/2023",
     "status": "Active",
     "relationships": [
       {
@@ -8417,6 +8418,23 @@
     ]
   },
   {
+    "id": "1472745",
+    "name": "CONRY, BRIAN M",
+    "address": "228 SAUGATUCK AVENUE\nWESTPORT, CT 06880",
+    "phone": "(646) 857-8244",
+    "email": "brian.conry@pinebridge.com",
+    "mailingAddress": "65 EAST 55TH STREET\nNEW YORK, NY 10022",
+    "registrationDate": "05/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PINEBRIDGE INVESTMENTS LLC",
+        "type": "Employer",
+        "effectiveDate": "05/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1334749",
     "name": "CONSIDINE, DEBORAH A.",
     "address": "1980 WASHINGTON STREET, #808\nSAN FRANCISCO, CA 94109",
@@ -8608,6 +8626,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "12/06/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23070,14 +23089,15 @@
     "address": "711 HIGH STREET\nDES MOINES, IA 50392",
     "phone": "(503) 348-9326",
     "email": "king.peter@principal.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/19/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PRINCIPAL GLOBAL INVESTORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/19/2024"
       }
     ]
   },
@@ -25025,6 +25045,21 @@
         "entityName": "AMERICAN NATIONAL RED CROSS",
         "type": "Employer",
         "effectiveDate": "05/29/2024"
+      }
+    ]
+  },
+  {
+    "id": "1471388",
+    "name": "LEWIS, BRIAN G.",
+    "address": "5900 WILSHIRE BLVD, STE 2350\nLOS ANGELES, CA 90036",
+    "phone": "(323) 655-4660",
+    "registrationDate": "07/16/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MARATHON COMMUNICATIONS",
+        "type": "Firm",
+        "effectiveDate": "07/10/2024"
       }
     ]
   },
@@ -33739,13 +33774,18 @@
   {
     "id": "1458511",
     "name": "PERSICO, FEDERICO",
-    "address": "8 SOUND SHORE DRIVE\nGREENWICH, CT 06830",
-    "phone": "(916) 442-2952",
-    "email": "compliance@olsonremcho.com",
-    "registrationDate": "06/07/2024",
+    "address": "875 THIRD AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 891-2100",
+    "email": "fpersico@cerberus.com",
+    "registrationDate": "08/09/2024",
     "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "CERBERUS CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "08/09/2024"
+      },
       {
         "entityName": "LITTLEJOHN & CO. LLC",
         "type": "Employer",
@@ -42615,6 +42655,7 @@
     "phone": "(916) 642-1726",
     "email": "sterrell@aiacalifornia.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2022",
     "status": "Active",
     "relationships": [
       {
@@ -46795,6 +46836,13 @@
         "effectiveDate": "08/21/2023"
       }
     ]
+  },
+  {
+    "id": "1381852",
+    "name": "WYLIE, JAMES A.",
+    "registrationDate": "08/05/2024",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1424975",
