@@ -23706,14 +23706,15 @@
     "address": "1201 K STREET, SUITE 1810\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-3966",
     "mailingAddress": "515 SOUTH FIGUEROA STREET, SUITE 1110\nLOS ANGELES, CA 90071",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/02/2024",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EDISON INTERNATIONAL AND AFFILIATES, INCLUDING SOUTHERN CALIFORNIA EDISON",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/02/2024"
       }
     ]
   },
@@ -23862,7 +23863,7 @@
     "email": "info@keyslawkorp.com",
     "mailingAddress": "KEYS LAW CORPORATION 428 J STREET\nSUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 318-8866\nEmail: info@keyslawkorp.com",
     "registrationDate": "08/01/2024",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
@@ -41451,6 +41452,7 @@
     "email": "carli@brightlightstrat.com",
     "mailingAddress": "417 41ST STREET\nSACRAMENTO, CA 95819",
     "registrationDate": "03/20/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -43101,6 +43103,22 @@
         "entityName": "TRANSTREND B.V.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1472193",
+    "name": "TOM, JESSICA ESVER",
+    "address": "2107 PATTERSON ROAD, SPC. 3\nRIVERBANK, CA 95367",
+    "phone": "(808) 216-0382",
+    "email": "jesver_cuepo@outlook.com",
+    "registrationDate": "07/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COMMUNITIES UNITING TO ELIMINATE POVERTY ORGANIZATION (CUEPO)",
+        "type": "Employer",
+        "effectiveDate": "07/30/2024"
       }
     ]
   },
