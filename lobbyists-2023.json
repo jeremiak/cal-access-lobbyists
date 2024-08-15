@@ -12978,6 +12978,22 @@
     ]
   },
   {
+    "id": "1472887",
+    "name": "FARRINGTON, EDWARD J",
+    "address": "30 PENHOLLOW STREET\nPORSTMOUTH, NH 03801",
+    "phone": "(603) 501-7344",
+    "email": "e.farrington@impaxam.com",
+    "registrationDate": "08/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "IMPAX ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "08/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1449451",
     "name": "FASAN, SEYE",
     "address": "395 9TH AVENUE, ONE MANHATTAN WEST\n56TH FLOOR",
@@ -23086,13 +23102,17 @@
   {
     "id": "1438362",
     "name": "KING, PETER W.",
-    "address": "711 HIGH STREET\nDES MOINES, IA 50392",
-    "phone": "(503) 348-9326",
-    "email": "king.peter@principal.com",
-    "registrationDate": "07/19/2024",
+    "address": "222 SOUTH RIVERSIDE PLAZA, FLOOR 34\nCHICAGO, IL 60606",
+    "phone": "(415) 262-2023",
+    "registrationDate": "08/07/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "DWS INVESTMENT MANAGEMENT AMERICAS INC",
+        "type": "Employer",
+        "effectiveDate": "08/07/2024"
+      },
       {
         "entityName": "PRINCIPAL GLOBAL INVESTORS, LLC",
         "type": "Employer",
@@ -38252,6 +38272,22 @@
     ]
   },
   {
+    "id": "1472029",
+    "name": "SASINOWSKI, EDWARD",
+    "address": "104 WEST 40TH STREET, 4TH FLOOR\nNEW YORK, NY 10018",
+    "phone": "(646) 472-1804",
+    "email": "esasinowski@colchesterglobal.com",
+    "registrationDate": "08/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COLCHESTER GLOBAL INVESTORS INC.",
+        "type": "Employer",
+        "effectiveDate": "08/12/2024"
+      }
+    ]
+  },
+  {
     "id": "1335443",
     "name": "SAUER, PAUL",
     "address": "9 WEST 57TH STREET, 35TH FLOOR\nNEW YORK, NY 10019",
@@ -42855,6 +42891,23 @@
     ]
   },
   {
+    "id": "1470519",
+    "name": "THOMPSON II, CHARLES",
+    "address": "400 SKOKIE BOULEVARD, SUITE 500\nNORTHBROOK, IL 60062",
+    "phone": "(219) 670-7279",
+    "email": "chuck.thompson@magellangroup.com.au",
+    "registrationDate": "06/12/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MFG ASSET MANAGEMENT AND ITS AFFILIATE MFG SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "06/12/2024"
+      }
+    ]
+  },
+  {
     "id": "1460068",
     "name": "THOMPSON, CARMEN",
     "address": "360 SOUTH ROSEMARY AVENUE, 18TH FLOOR\nWEST PALM BEACH, FL 33401",
@@ -46858,9 +46911,18 @@
   {
     "id": "1381852",
     "name": "WYLIE, JAMES A.",
+    "address": "250 SOUTH AUSTRALIAN AVENUE, SUITE 1700\nWEST PALM BEACH, FL 33401",
+    "phone": "(561) 775-1100",
+    "email": "legal@intechinvestments.com",
     "registrationDate": "08/05/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "INTECH INVESTMENT MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "08/05/2024"
+      }
+    ]
   },
   {
     "id": "1424975",
