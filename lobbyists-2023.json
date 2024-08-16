@@ -14013,14 +14013,15 @@
     "address": "1800 BAYBERRY COURT, SUITE 301\nRICHMOND, VA 23226",
     "phone": "(804) 775-0317",
     "email": "awetzel@tlcadvisory.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/13/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LONDON COMPANY OF VIRGINIA, LLC; THE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/13/2024"
       }
     ]
   },
