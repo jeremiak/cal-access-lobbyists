@@ -4370,6 +4370,22 @@
     ]
   },
   {
+    "id": "1472481",
+    "name": "BOOMER, TIMOTHY",
+    "address": "96 WORCESTER STREET\nWELLESLEY, MA 02841",
+    "phone": "(617) 581-9096",
+    "email": "compliance_ca_slc_4@multistate.us",
+    "registrationDate": "08/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SUN LIFE CAPITAL MANAGEMENT (U.S.) LLC",
+        "type": "Employer",
+        "effectiveDate": "08/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1442182",
     "name": "BORASI, MATT",
     "address": "1201 K STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -8418,6 +8434,22 @@
     ]
   },
   {
+    "id": "1473114",
+    "name": "CONROY, SEAN",
+    "address": "900 NORTH MICHIGAN AVENUE, SUITE 1100\nCHICAGO, IL 60611",
+    "phone": "(312) 593-6673",
+    "email": "sconroy@gcmlp.com",
+    "registrationDate": "08/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GROSVENOR CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "08/14/2024"
+      }
+    ]
+  },
+  {
     "id": "1472745",
     "name": "CONRY, BRIAN M",
     "address": "228 SAUGATUCK AVENUE\nWESTPORT, CT 06880",
@@ -11285,6 +11317,22 @@
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Terminated",
     "relationships": []
+  },
+  {
+    "id": "1473102",
+    "name": "DOBENS, SEAN TEPLITZKY",
+    "address": "15 EAST 26TH STREET\nNEW YORK, NY 10010",
+    "phone": "(917) 280-4014",
+    "email": "sdobens@iconiqcapital.com",
+    "registrationDate": "08/16/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ICONIQ CAPITAL, LLC AND ITS AFFILIATE, IPI PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/16/2024"
+      }
+    ]
   },
   {
     "id": "1223171",
@@ -16966,6 +17014,23 @@
     ]
   },
   {
+    "id": "1469232",
+    "name": "GRESENS , ANNE ",
+    "address": "650 MADISON AVENUE, 23RD FLOOR\nNEW YORK , NY 10022",
+    "phone": "(212) 891-3610",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "08/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BC PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "08/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1399655",
     "name": "GRESHAM, BRANT",
     "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
@@ -18579,14 +18644,15 @@
     "address": "12 TYNG HILL ROAD\nHOLLIS, NH 03049",
     "phone": "(312) 506-4588",
     "email": "ahatch@gcmlp.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GROSVENOR CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
@@ -27604,6 +27670,23 @@
         "entityName": "AFFINIUS CAPITAL",
         "type": "Employer",
         "effectiveDate": "08/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1471946",
+    "name": "MARTINSEN, SHANNON",
+    "address": "40 10TH AVENUE, 5TH FLOOR\nNEW YORK, NY 10014",
+    "phone": "(212) 823-0726",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "08/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STRIPES",
+        "type": "Employer",
+        "effectiveDate": "08/01/2024"
       }
     ]
   },
@@ -46537,6 +46620,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "03/31/2024"
+      }
+    ]
+  },
+  {
+    "id": "1421098",
+    "name": "WINTHER , JENS",
+    "address": "445 PARK AVENUE, 9TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(917) 208-9419",
+    "email": "jens@niobraracap.com",
+    "registrationDate": "07/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIOBRARA CAPITAL PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "07/25/2024"
       }
     ]
   },
