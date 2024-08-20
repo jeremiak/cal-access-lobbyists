@@ -4199,7 +4199,7 @@
     "address": "483 EAST CHESTNUT STREET\nFORT BRAGG, CA 95437",
     "phone": "(707) 684-9431",
     "email": "sarah@gspa.co",
-    "mailingAddress": "P.O. BOX 729\nMENDOCINO, CA 95460\nPhone: (707) 684-9431\nEmail: sarah@gspa.co",
+    "mailingAddress": "PO BOX 729\nMENDOCINO, CA 95460",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
     "status": "Active",
@@ -6076,7 +6076,13 @@
     "email": "lobbying@rutan.com",
     "registrationDate": "06/06/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CASTLE HOOK PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "06/06/2024"
+      }
+    ]
   },
   {
     "id": "1224120",
@@ -11240,6 +11246,22 @@
     ]
   },
   {
+    "id": "1471520",
+    "name": "DILDINE, ALANA",
+    "address": "465 MEETING STREET, SUITE 500\nCHARLESTON, SC 29403",
+    "phone": "(843) 579-9400",
+    "email": "askcompliance@greystar.com",
+    "registrationDate": "06/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/15/2024"
+      }
+    ]
+  },
+  {
     "id": "1462618",
     "name": "DILLON, BRENDAN",
     "address": "9 W. 57TH STREET\nNEW YORK, NY 10019",
@@ -12937,7 +12959,8 @@
       {
         "entityName": "APOGEM CAPITAL LLC",
         "type": "Employer",
-        "effectiveDate": "02/06/2023"
+        "effectiveDate": "02/06/2023",
+        "terminationDate": "08/09/2024"
       }
     ]
   },
@@ -15697,7 +15720,13 @@
     "email": "lobbying@rutan.com",
     "registrationDate": "06/06/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CASTLE HOOK PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "06/06/2024"
+      }
+    ]
   },
   {
     "id": "1400701",
@@ -27552,9 +27581,12 @@
   {
     "id": "1355001",
     "name": "MARTINEZ, ASHLEY T.",
-    "address": "943 CHESTNUT LANE\nDAVIS, CA 95616",
-    "phone": "(916) 212-1951",
+    "address": "500 CAPITOL MALL SUITE 2350\nSACRAMENTO , CA 95814",
+    "phone": "(916) 672-0916",
+    "email": "firm@cprastrategies.com",
+    "mailingAddress": "600 W BROADWAY SUITE 700\nSACRAMENTO , CA 92101\nPhone: (916) 672-0916\nEmail: firm@cprastrategies.com",
     "registrationDate": "01/11/2023",
+    "ethicsCourseCompletionDate": "02/16/2024",
     "status": "Active",
     "relationships": [
       {
@@ -27562,6 +27594,11 @@
         "type": "Firm",
         "effectiveDate": "01/11/2023",
         "terminationDate": "06/20/2024"
+      },
+      {
+        "entityName": "CPRA STRATEGIES, INC.",
+        "type": "Firm",
+        "effectiveDate": "08/01/2024"
       }
     ]
   },
@@ -38352,22 +38389,6 @@
         "entityName": "KING STREET CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1472029",
-    "name": "SASINOWSKI, EDWARD",
-    "address": "104 WEST 40TH STREET, 4TH FLOOR\nNEW YORK, NY 10018",
-    "phone": "(646) 472-1804",
-    "email": "esasinowski@colchesterglobal.com",
-    "registrationDate": "08/12/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "COLCHESTER GLOBAL INVESTORS INC.",
-        "type": "Employer",
-        "effectiveDate": "08/12/2024"
       }
     ]
   },
