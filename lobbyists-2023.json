@@ -4923,16 +4923,10 @@
     "phone": "(805) 234-5481",
     "email": "sarah@deveauburrgroup.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
-    "registrationDate": "07/16/2024",
+    "registrationDate": "07/22/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
-      {
-        "entityName": "ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS; THE",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023",
-        "terminationDate": "07/14/2023"
-      },
       {
         "entityName": "DEVEAU BURR GROUP, LLC",
         "type": "Firm",
@@ -21666,13 +21660,14 @@
     "address": "400 SKOKIE BOULEVARD\nNORTHBROOK, IL 60062",
     "phone": "(801) 455-4230",
     "email": "ben.jones@magellangroup.com",
-    "registrationDate": "06/12/2024",
+    "registrationDate": "07/03/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
         "entityName": "MFG ASSET MANAGEMENT AND ITS AFFILIATE MFG SERVICES LLC",
         "type": "Employer",
-        "effectiveDate": "06/12/2024"
+        "effectiveDate": "07/03/2024"
       }
     ]
   },
@@ -40630,14 +40625,15 @@
     "address": "925 FOURTH AVE, SUITE 2900\nSEATTLE , WA 98104",
     "phone": "(206) 623-7580",
     "email": "robert.smith@klgates.com",
-    "registrationDate": "06/12/2023",
+    "registrationDate": "08/20/2024",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "K&L GATES, LLP",
         "type": "Firm",
-        "effectiveDate": "06/12/2023"
+        "effectiveDate": "06/12/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
