@@ -45890,6 +45890,22 @@
     ]
   },
   {
+    "id": "1473559",
+    "name": "WELLING, MATTHEW",
+    "address": "300 SOUTH TRYON STREET, SUITE 2500\nCHARLOTTE, NC 28202",
+    "phone": "(980) 417-5137",
+    "email": "matthew.welling@barings.com",
+    "registrationDate": "08/19/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BARINGS LLC",
+        "type": "Employer",
+        "effectiveDate": "08/19/2024"
+      }
+    ]
+  },
+  {
     "id": "1441420",
     "name": "WELLS, JORDAN",
     "address": "P.O. BOX 498\nWEST SACRAMENTO, CA 95691",
