@@ -4810,7 +4810,8 @@
       {
         "entityName": "KOHLBERG & COMPANY, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/22/2024"
       }
     ]
   },
