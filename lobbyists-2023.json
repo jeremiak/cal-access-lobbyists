@@ -23982,6 +23982,11 @@
         "type": "Firm",
         "effectiveDate": "01/18/2024",
         "terminationDate": "03/11/2024"
+      },
+      {
+        "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
+        "type": "Firm",
+        "effectiveDate": "08/01/2024"
       }
     ]
   },
@@ -25513,6 +25518,29 @@
         "type": "Employer",
         "effectiveDate": "01/09/2023",
         "terminationDate": "06/30/2024"
+      }
+    ]
+  },
+  {
+    "id": "1440010",
+    "name": "LINTON, DAVID O.",
+    "address": "200 CRESCENT COURT #1200\nDALLAS, TX 75201",
+    "phone": "(214) 756-6900",
+    "email": "dlinton@westwoodgroup.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/10/2022",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SALIENT CAPITAL, L.P.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/25/2023"
+      },
+      {
+        "entityName": "WESTWOOD MANAGEMENT CORP.",
+        "type": "Employer",
+        "effectiveDate": "10/25/2023"
       }
     ]
   },
@@ -42905,14 +42933,15 @@
     "address": "150 SECOND STREET\nCAMBRIDGE, MA 02141",
     "phone": "(952) 836-5190",
     "email": "ethomas@foundationmedicine.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/26/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FOUNDATION MEDICINE, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/26/2024"
       }
     ]
   },
