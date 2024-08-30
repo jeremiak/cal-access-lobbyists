@@ -12889,19 +12889,24 @@
   },
   {
     "id": "1436863",
-    "name": "FAHRMAN, KENNETH",
-    "address": "875 THIRD AVENUE\nNEW YORK, NY 10022",
-    "phone": "(212) 891-2100",
-    "email": "kfahrman@cerberus.com",
-    "registrationDate": "03/31/2024",
-    "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Terminated",
+    "name": "FAHRMAN, KENNETH A",
+    "address": "126 EAST 56TH STREET, SUITE 3200\nNEW YORK, NY 10022",
+    "phone": "(475) 278-8037",
+    "email": "kfahrman@monroecap.com",
+    "registrationDate": "08/28/2024",
+    "ethicsCourseCompletionDate": "02/16/2024",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CERBERUS CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "03/31/2024"
+      },
+      {
+        "entityName": "MONROE CAPITAL MANAGEMENT ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/28/2024"
       }
     ]
   },
