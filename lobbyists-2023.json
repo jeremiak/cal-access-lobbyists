@@ -4926,8 +4926,13 @@
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
     "registrationDate": "07/22/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS; THE",
+        "type": "Employer",
+        "effectiveDate": "07/22/2024"
+      },
       {
         "entityName": "DEVEAU BURR GROUP, LLC",
         "type": "Firm",
@@ -39251,7 +39256,8 @@
       {
         "entityName": "NEW MOMENTUM STRATEGIES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/01/2024"
       }
     ]
   },
