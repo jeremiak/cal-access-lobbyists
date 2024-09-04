@@ -16513,6 +16513,7 @@
     "address": "1121 L STREET, #309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "04/15/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -34073,7 +34074,8 @@
       {
         "entityName": "ARNOLD & PORTER KAYE SCHOLER LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/31/2024"
       }
     ]
   },
@@ -40363,7 +40365,8 @@
       {
         "entityName": "ARNOLD & PORTER KAYE SCHOLER LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/31/2024"
       }
     ]
   },
