@@ -4196,10 +4196,10 @@
   {
     "id": "1449313",
     "name": "BODNAR, SARAH E",
-    "address": "483 EAST CHESTNUT STREET\nFORT BRAGG, CA 95437",
+    "address": "10550 LANSING STREET\nMENDOCINO, CA 95460",
     "phone": "(707) 684-9431",
     "email": "sarah@gspa.co",
-    "mailingAddress": "PO BOX 729\nMENDOCINO, CA 95460",
+    "mailingAddress": "PO BOX 729\nMENDOCINO, CA 95460\nPhone: (707) 684-9431",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
     "status": "Active",
@@ -21968,6 +21968,22 @@
     "relationships": []
   },
   {
+    "id": "1468872",
+    "name": "KAGAN, ARI",
+    "address": "150 POST STREET, STE 405\nSAN FRANCISCO, CA 94108",
+    "phone": "(650) 320-1500",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "04/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KAGAN; ARI",
+        "type": "Firm",
+        "effectiveDate": "04/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1439044",
     "name": "KAHL, ELIZABETH",
     "address": "399 PARK AVE\nNEW YORK, NY 10022",
@@ -22318,6 +22334,22 @@
         "entityName": "PFIZER INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1474232",
+    "name": "KAZLEY, PATRICK",
+    "address": "2200 ATLANTIC STREET, SUITE 310\nSTAMFORD, CT 06902",
+    "phone": "(203) 489-1459",
+    "email": "compliance@oneriveram.com",
+    "registrationDate": "08/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ONE RIVER ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/30/2024"
       }
     ]
   },
@@ -29397,6 +29429,22 @@
     ]
   },
   {
+    "id": "1474181",
+    "name": "MENDE, JAN",
+    "address": "2655 BUSH STREET #308\nSAN FRANCISCO, CA 94115",
+    "phone": "(786) 693-5753",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "08/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "I SQUARED CAPITAL",
+        "type": "Employer",
+        "effectiveDate": "08/28/2024"
+      }
+    ]
+  },
+  {
     "id": "1355827",
     "name": "MENDELL, JOHN",
     "address": "360 SOUTH ROSEMARY AVENUE SUITE 1700\nWEST PALM BEACH, FL 33401",
@@ -29628,7 +29676,7 @@
   {
     "id": "1425011",
     "name": "MICHEL, DEBBIE",
-    "address": "1127 11TH STREET, SUITE 414\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 809\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-6948",
     "email": "debbie.michel@ebmud.com",
     "registrationDate": "01/01/2023",
@@ -44682,7 +44730,7 @@
   {
     "id": "1417695",
     "name": "VIATELLA, KATHRYN C.",
-    "address": "1127 11TH STREET, SUITE 414\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 809\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-6948",
     "email": "kathy.viatella@ebmud.com",
     "registrationDate": "01/01/2023",
@@ -46549,7 +46597,7 @@
   {
     "id": "1344737",
     "name": "WILLIAMS, JENNIFER B.",
-    "address": "1127 11TH STREET, SUITE 414\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 809\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-6948",
     "email": "jennifer.williams@ebmud.com",
     "registrationDate": "01/01/2023",
