@@ -13562,6 +13562,7 @@
     "phone": "(212) 902-1000",
     "email": "gs-lobbying-ny@gs.com",
     "registrationDate": "05/07/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -37968,13 +37969,14 @@
     "name": "SAENZ, JOSEPH",
     "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
     "phone": "(916) 327-7540",
-    "registrationDate": "05/15/2023",
-    "status": "Active",
+    "registrationDate": "08/13/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
         "type": "Employer",
-        "effectiveDate": "05/15/2023"
+        "effectiveDate": "05/15/2023",
+        "terminationDate": "08/13/2024"
       }
     ]
   },
@@ -43111,14 +43113,14 @@
     "address": "400 SKOKIE BOULEVARD, SUITE 500\nNORTHBROOK, IL 60062",
     "phone": "(219) 670-7279",
     "email": "chuck.thompson@magellangroup.com.au",
-    "registrationDate": "06/12/2024",
+    "registrationDate": "07/03/2024",
     "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
         "entityName": "MFG ASSET MANAGEMENT AND ITS AFFILIATE MFG SERVICES LLC",
         "type": "Employer",
-        "effectiveDate": "06/12/2024"
+        "effectiveDate": "07/03/2024"
       }
     ]
   },
@@ -45481,6 +45483,7 @@
     "phone": "(916) 992-3667",
     "email": "jeanie@fearlessadvocacy.com",
     "registrationDate": "01/08/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
