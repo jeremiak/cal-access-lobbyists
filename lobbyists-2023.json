@@ -4798,6 +4798,22 @@
     ]
   },
   {
+    "id": "1471539",
+    "name": "BREIT, ZACHARY",
+    "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 382-9333",
+    "email": "zachary.breit@brookfield.com",
+    "registrationDate": "08/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "08/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1456374",
     "name": "BRENNAN, JESSICA",
     "address": "111 RADIO CIRCLE DRIVE\nMOUNT KISCO, NY 10549",
@@ -5568,6 +5584,22 @@
         "entityName": "CALIFORNIA ADVISORS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1474007",
+    "name": "BUFFA, NIKKI",
+    "address": "650 TOWN CENTER DRIVE 20TH FLOOR\nCOSTA MESA, CA 92626",
+    "phone": "(213) 485-1234",
+    "email": "lobbying.compliance@lw.com",
+    "registrationDate": "08/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LATHAM & WATKINS LLP",
+        "type": "Firm",
+        "effectiveDate": "08/30/2024"
       }
     ]
   },
@@ -9528,14 +9560,15 @@
     "name": "CUEVAS, MELANIE ",
     "address": "1303 J STREET, SUITE 600\nSACRAMENTO, CA 95814",
     "phone": "(916) 438-4411",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/06/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA BANKERS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/06/2024"
       }
     ]
   },
@@ -16426,6 +16459,22 @@
     ]
   },
   {
+    "id": "1474009",
+    "name": "GORDIE, BETH",
+    "address": "355 SOUTH GRANDE AVENUE, SUITE 100\nLOS ANGELES, CA 90071",
+    "phone": "(213) 485-1234",
+    "email": "lobbying.compliance@lw.com",
+    "registrationDate": "08/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LATHAM & WATKINS LLP",
+        "type": "Firm",
+        "effectiveDate": "08/30/2024"
+      }
+    ]
+  },
+  {
     "id": "1459385",
     "name": "GORDON, ANDREW M.",
     "address": "20 UNIVERSITY ROAD, SUITE 450\nCAMBRIDGE, MA 02138",
@@ -20233,9 +20282,9 @@
   {
     "id": "1444303",
     "name": "HOVERMAN, MICHAEL",
-    "address": "4700 WILSHIRE BOULEVARD\nLOS ANGELES, CA 90010",
-    "phone": "(323) 860-4900",
-    "email": "mhoverman@cimgroup.com",
+    "address": "465 MEETING STREET\nCHARLESTON, SC 29403",
+    "phone": "(843) 579-9400",
+    "email": "askcompliance@greystar.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "07/21/2022",
     "status": "Active",
@@ -20245,6 +20294,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/26/2024"
+      },
+      {
+        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/14/2024"
       }
     ]
   },
@@ -28353,6 +28407,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "12/31/2023"
+      }
+    ]
+  },
+  {
+    "id": "1474199",
+    "name": "MC CALL, BRIAN",
+    "address": "650 TOWN CENTER DRIVE 20TH FLOOR\nCOASTA MESA, CA 92626",
+    "phone": "(213) 485-1234",
+    "email": "lobbying.compliance@lw.com",
+    "registrationDate": "08/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LATHAM & WATKINS LLP",
+        "type": "Firm",
+        "effectiveDate": "08/30/2024"
       }
     ]
   },
@@ -39126,14 +39196,15 @@
     "address": "1231 I STREET, SUITE 302\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-3302",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/01/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/01/2024"
       }
     ]
   },
@@ -47488,7 +47559,8 @@
       {
         "entityName": "STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/29/2024"
       }
     ]
   },
