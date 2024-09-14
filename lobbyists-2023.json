@@ -3176,7 +3176,7 @@
   {
     "id": "1338490",
     "name": "BENNETT, MERRITT S.",
-    "address": "2000 AVENUE OF THE STARS, 12TH FLOOR\nLOS ANGELES, CA 90067",
+    "address": "1800 AVENUE OF THE STARS, SUITE 1400\nLOS ANGELES, CA 90067",
     "phone": "(310) 201-4190",
     "email": "hooper@aresmgmt.com",
     "registrationDate": "01/01/2023",
@@ -7348,6 +7348,22 @@
     ]
   },
   {
+    "id": "1471483",
+    "name": "CHAVARRIA, BOBBI JO",
+    "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-1102",
+    "email": "bobbijo.chavarria@sierraclub.org",
+    "registrationDate": "07/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIERRA CLUB",
+        "type": "Employer",
+        "effectiveDate": "07/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1368262",
     "name": "CHAVES, LISA M.",
     "address": "640 FIFTH AVENUE, 22ND FLOOR \nNEW YORK, NY 10019",
@@ -7881,7 +7897,7 @@
   {
     "id": "1419364",
     "name": "CLARK, COURTNEY",
-    "address": "2000 AVENUE OF THE STARS, FLOOR 12\nLOS ANGELES, CA 90067",
+    "address": "1800 AVENUE OF THE STARS, SUITE 1400\nLOS ANGELES, CA 90067",
     "phone": "(310) 432-8755",
     "email": "coclark@aresmgmt.com",
     "registrationDate": "01/01/2023",
@@ -10833,14 +10849,15 @@
     "address": "1301 I STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-0400",
     "email": "cdemetre@capitoladvocacy.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/30/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/30/2024"
       }
     ]
   },
@@ -14953,7 +14970,7 @@
   {
     "id": "1405635",
     "name": "GANDHI, AVNI",
-    "address": "2000 AVENUE OF THE STARS, FLOOR 12\nLOS ANGELES, CA 90067",
+    "address": "1800 AVENUE OF THE STARS, SUITE 1400\nLOS ANGELES, CA 90067",
     "phone": "(310) 432-8630",
     "email": "agandhi@aresmgmt.com",
     "registrationDate": "01/01/2023",
@@ -26761,6 +26778,22 @@
         "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1474918",
+    "name": "MACKENZIE, CHARLOTTE",
+    "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
+    "phone": "(914) 275-1774",
+    "email": "charlotte.mackenzie@blackstone.com",
+    "registrationDate": "09/10/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
+        "type": "Employer",
+        "effectiveDate": "09/10/2024"
       }
     ]
   },
