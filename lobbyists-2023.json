@@ -29480,13 +29480,14 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "megan@caleec.com",
-    "registrationDate": "10/02/2023",
-    "status": "Active",
+    "registrationDate": "07/19/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "10/02/2023"
+        "effectiveDate": "10/02/2023",
+        "terminationDate": "07/19/2024"
       }
     ]
   },
