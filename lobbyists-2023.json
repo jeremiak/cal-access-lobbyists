@@ -1155,14 +1155,15 @@
     "address": "65 E. 55TH STREET, 30TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(917) 206-5173",
     "email": "philip.anker@ninetyone.com",
-    "registrationDate": "10/02/2023",
+    "registrationDate": "09/03/2024",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NINETY ONE NORTH AMERICA, INC.",
         "type": "Employer",
-        "effectiveDate": "10/02/2023"
+        "effectiveDate": "10/02/2023",
+        "terminationDate": "09/03/2024"
       }
     ]
   },
@@ -6549,6 +6550,21 @@
         "entityName": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1474978",
+    "name": "CARON, JEAN-OLIVIER",
+    "address": "535 MADISON AVENUE, 24TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 973-8600",
+    "registrationDate": "09/10/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AGL CREDIT MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "09/10/2024"
       }
     ]
   },
@@ -12466,6 +12482,21 @@
         "entityName": "WATERFALL ASSET MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1473873",
+    "name": "ELLINGTON, THEODORE",
+    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 594-9700",
+    "registrationDate": "08/18/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "08/18/2024"
       }
     ]
   },
@@ -39455,8 +39486,13 @@
     "email": "dan@newmomentumstrategies.com",
     "registrationDate": "09/01/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "09/01/2024"
+      },
       {
         "entityName": "NEW MOMENTUM STRATEGIES",
         "type": "Firm",
@@ -44265,6 +44301,23 @@
         "entityName": "VARDE PARTNERS, INC.",
         "type": "Employer",
         "effectiveDate": "04/03/2023"
+      }
+    ]
+  },
+  {
+    "id": "1475049",
+    "name": "TWEEDIE, KATHERINE",
+    "address": "22 ADELAIDE STREET WEST, 3400\nTORONTO, ON",
+    "phone": "(917) 206-5152",
+    "email": "katherine.tweedie@ninetyone.com",
+    "mailingAddress": "65 EAST 55TH STREET, FLOOR 30\nNEW YORK, NY 10022\nPhone: (917) 206-5152\nEmail: katherine.tweedie@ninetyone.com",
+    "registrationDate": "09/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NINETY ONE CANADA, INC.",
+        "type": "Firm",
+        "effectiveDate": "09/11/2024"
       }
     ]
   },
