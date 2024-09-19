@@ -5543,14 +5543,15 @@
     "phone": "(617) 513-4205",
     "email": "lizzie@buchenconsulting.com",
     "mailingAddress": "4080 LAKESHORE AVENUE\nOAKLAND, CA 94610\nPhone: (617) 513-4205\nEmail: lizzie@buchenconsulting.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "03/31/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BUCHEN CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/31/2024"
       }
     ]
   },
@@ -45026,13 +45027,14 @@
     "address": "925 L STREET, SUITE 350\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-1749",
     "email": "pvillescaz@cwda.org",
-    "registrationDate": "01/01/2023",
-    "status": "Active",
+    "registrationDate": "09/12/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COUNTY WELFARE DIRECTORS ASSOCIATION OF CALIFORNIA (CWDA)",
         "type": "Employer",
-        "effectiveDate": "04/10/2024"
+        "effectiveDate": "04/10/2024",
+        "terminationDate": "09/12/2024"
       }
     ]
   },
