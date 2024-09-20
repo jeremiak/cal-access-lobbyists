@@ -15494,14 +15494,15 @@
     "address": "1215 K STREET, SUITE 2010\nSACRAMENTO, CA 95814",
     "phone": "(916) 552-2960",
     "email": "bsca@politicomlaw.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/16/2024",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BLUE SHIELD OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/16/2024"
       }
     ]
   },
