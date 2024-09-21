@@ -28911,6 +28911,22 @@
     ]
   },
   {
+    "id": "1470122",
+    "name": "MC GLINN, DANIEL",
+    "address": "1 MARKET PLAZA, STEUART TOWER\n27TH FLOOR",
+    "phone": "(415) 262-3151",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "07/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PJT PARTNERS LP",
+        "type": "Firm",
+        "effectiveDate": "07/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1423929",
     "name": "MC GOWAN, BRIDGET",
     "address": "1127 11TH STREET, SUITE 1030\nSACRAMENTO, CA 95814",
