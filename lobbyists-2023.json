@@ -24226,6 +24226,22 @@
     ]
   },
   {
+    "id": "1474485",
+    "name": "KUPER, JENNIFER",
+    "address": "450 PLYMOUTH ROAD\nPLYMOUTH MEETING, PA 19462",
+    "phone": "(907) 250-4496",
+    "email": "compliance_ca_braeburn_1@multistate.u",
+    "registrationDate": "09/04/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRAEBURN INC.",
+        "type": "Employer",
+        "effectiveDate": "09/04/2024"
+      }
+    ]
+  },
+  {
     "id": "1441670",
     "name": "KURIAN, NICOLE M.",
     "address": "200 NORTH SPRING STREET, ROOM 303\nLOS ANGELES, CA 90012",
@@ -34328,11 +34344,11 @@
   {
     "id": "1332073",
     "name": "PETTIBONE, KATHERINE ",
-    "address": "1215 K STREET, SUITE 1110\nSACRAMENTO, CA 95814",
-    "phone": "(916) 210-7999",
-    "email": "katie.pettibone@arnoldporter.com",
+    "address": "8612 EL VERANO AVENUE\nELVERTA, CA 95626",
+    "phone": "(916) 402-1678",
+    "email": "katie@psgovernmentstrategies.com",
     "mailingAddress": "THREE EMBARCADERO CENTER, 10TH FLOOR\nSAN FRANCISCO, CA 94111\nPhone: (916) 210-7999\nEmail: katie.pettibone@arnoldporter.com",
-    "registrationDate": "11/09/2023",
+    "registrationDate": "09/01/2023",
     "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
@@ -34341,6 +34357,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "08/31/2024"
+      },
+      {
+        "entityName": "PETTIBONE & SIVALINGAM GOVERNMENT STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "09/01/2024"
       }
     ]
   },
@@ -40531,14 +40552,15 @@
     "address": "300 NORTH LASALLE STREET, SUITE 1500\nCHICAGO, IL 60654",
     "phone": "(215) 837-8629",
     "email": "asinger@ipipartners.com",
-    "registrationDate": "10/06/2023",
+    "registrationDate": "07/31/2024",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "IPI PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "10/06/2023"
+        "effectiveDate": "10/06/2023",
+        "terminationDate": "07/31/2024"
       }
     ]
   },
@@ -40629,8 +40651,9 @@
   {
     "id": "1456742",
     "name": "SIVALINGAM, YUVARAJ",
-    "address": "1215 K STREET, STE 1110\nSACRAMENTO, CA 95814",
-    "phone": "(916) 534-1039",
+    "address": "8612 EL VERANO AVENUE\nELVERTA, CA 95626",
+    "phone": "(202) 704-1342",
+    "email": "yuvaraj@psgovernmentstrategies.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
@@ -40640,6 +40663,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "08/31/2024"
+      },
+      {
+        "entityName": "PETTIBONE & SIVALINGAM GOVERNMENT STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "09/01/2024"
       }
     ]
   },
@@ -43842,6 +43870,22 @@
         "entityName": "ASSET MANAGEMENT ONE USA INC.",
         "type": "Employer",
         "effectiveDate": "10/11/2023"
+      }
+    ]
+  },
+  {
+    "id": "1472510",
+    "name": "TOWNLEY, NICK",
+    "address": "320 PARK AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(917) 984-9345",
+    "email": "nick.townley@permira.com",
+    "registrationDate": "05/06/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "05/06/2024"
       }
     ]
   },
