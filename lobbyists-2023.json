@@ -18187,14 +18187,15 @@
     "address": "1415 L STREET #850\nSACRAMENTO, CA 95814",
     "phone": "(916) 552-2910",
     "email": "jhampton@calheathplans.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/20/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSOCIATION OF HEALTH PLANS",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/20/2024"
       }
     ]
   },
@@ -18262,6 +18263,22 @@
         "entityName": "PARSONS CORPORATION",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470443",
+    "name": "HANSON, GABRIELLE",
+    "address": "110 N WACKER DRIVE, SUITE 4000\nCHICAGO, IL 60606",
+    "phone": "(312) 855-5700",
+    "email": "gabrielle.hanson@heitman.com",
+    "registrationDate": "05/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ON BEHALF OF HEITMAN LLC & AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "05/30/2024"
       }
     ]
   },
@@ -24621,6 +24638,22 @@
         "entityName": "WCAS MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1475641",
+    "name": "LAVY, ALEXANDRA",
+    "address": "925 L STREET, SUITE 100\nSACRAMENTO , CA 95814",
+    "phone": "(916) 441-4383",
+    "email": "alavy@westcoastadvisors.com",
+    "registrationDate": "09/18/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEST COAST ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "09/18/2024"
       }
     ]
   },
