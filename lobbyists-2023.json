@@ -1041,7 +1041,8 @@
       {
         "entityName": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/09/2024"
       }
     ]
   },
@@ -6007,14 +6008,15 @@
     "address": "40 NEW BOND STREET, 4TH FLOOR\nLONDON UK W1S 2RX",
     "phone": "(646) 335-3159",
     "email": "jennifer.cahill@fasanara.com",
-    "registrationDate": "03/25/2024",
+    "registrationDate": "09/11/2024",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FASANARA CAPITAL LTD",
         "type": "Employer",
-        "effectiveDate": "03/25/2024"
+        "effectiveDate": "03/25/2024",
+        "terminationDate": "09/11/2024"
       }
     ]
   },
@@ -11697,6 +11699,22 @@
         "entityName": "LEFT LANE CAPITAL LLC",
         "type": "Employer",
         "effectiveDate": "10/23/2023"
+      }
+    ]
+  },
+  {
+    "id": "1475700",
+    "name": "DONOVAN, RYAN",
+    "address": "280 PARK AVENUE, 35TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(917) 935-6240",
+    "email": "richard.silver@investcorptages.com",
+    "registrationDate": "08/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INVESTCORP ABSOLUTE RETURN INVESTMENTS LLC",
+        "type": "Employer",
+        "effectiveDate": "08/20/2024"
       }
     ]
   },
@@ -19055,6 +19073,22 @@
     ]
   },
   {
+    "id": "1475695",
+    "name": "HAZELL, ISABELLA",
+    "address": "600 LEXINGTON AVENUE, 20TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(929) 593-1122",
+    "email": "ihazel@onex.com",
+    "registrationDate": "09/19/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OMI MANAGEMENT US LP",
+        "type": "Employer",
+        "effectiveDate": "09/19/2024"
+      }
+    ]
+  },
+  {
     "id": "1444724",
     "name": "HEATON, ANASTASIA",
     "address": "1401 DOVE STREET, SUITE 330\nNEWPORT BEACH, CA 92660",
@@ -22251,6 +22285,22 @@
         "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1417764",
+    "name": "KAMPSCHUUR, DONNA",
+    "address": "1 MARITIME PLAZA, SUITE 2100\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 421-2132",
+    "email": "dkampschuur@faralloncapital.com",
+    "registrationDate": "08/29/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FARALLON CAPITAL MANAGEMENT, L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "08/29/2024"
       }
     ]
   },
@@ -44808,6 +44858,22 @@
         "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1475468",
+    "name": "VANDERLAKE (CONVERSE), REBECCA",
+    "address": "110 NORTH WACKER DRIVE, SUITE 4400\nCHICAGO, IL 60606",
+    "phone": "(312) 447-8478",
+    "email": "compliance@ppcpartners.com",
+    "registrationDate": "09/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PPC INVESTMENT PARTNERS LP DBA PRITZKER PRIVATE CAPITAL",
+        "type": "Employer",
+        "effectiveDate": "09/20/2024"
       }
     ]
   },
