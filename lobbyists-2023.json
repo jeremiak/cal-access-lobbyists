@@ -36669,14 +36669,15 @@
     "address": "888 7TH AVENUE, 31ST FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 479-0659",
     "email": "krichardson@adventcap.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/15/2024",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ADVENT CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/15/2024"
       }
     ]
   },
@@ -43623,6 +43624,22 @@
         "entityName": "CALIFORNIA STATE COUNCIL OF LABORERS",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1355260",
+    "name": "TING, FARRAH M",
+    "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
+    "phone": "(916) 327-7540",
+    "email": "admin@cheac.org",
+    "registrationDate": "09/17/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
+        "type": "Employer",
+        "effectiveDate": "09/17/2024"
       }
     ]
   },
