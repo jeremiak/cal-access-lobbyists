@@ -12964,14 +12964,15 @@
     "address": "300 SOUTH TRYON STREET, SUITE 2500\nCHARLOTTE, NC 28202",
     "phone": "(303) 489-6976",
     "email": "saied.ezzeddine@barings.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/27/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BARINGS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/27/2024"
       }
     ]
   },
@@ -16314,7 +16315,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RENNE PUBLIC LAW GROUP, LLP, DBA RENNE PUBLIC POLICY GROUP",
+        "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -20771,7 +20772,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RENNE PUBLIC LAW GROUP, LLP, DBA RENNE PUBLIC POLICY GROUP",
+        "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -22554,6 +22555,22 @@
         "entityName": "ONE RIVER ASSET MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "08/30/2024"
+      }
+    ]
+  },
+  {
+    "id": "1475438",
+    "name": "KEADY, CHARLES",
+    "address": "1585 BROADWAY\nNEW YORK, NY 10036",
+    "phone": "(212) 761-1759",
+    "email": "charlie.keady@morganstanley.com",
+    "registrationDate": "09/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "09/23/2024"
       }
     ]
   },
@@ -31626,7 +31643,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RENNE PUBLIC LAW GROUP, LLP, DBA RENNE PUBLIC POLICY GROUP",
+        "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2024"
       }
@@ -40440,7 +40457,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "RENNE PUBLIC LAW GROUP, LLP, DBA RENNE PUBLIC POLICY GROUP",
+        "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
