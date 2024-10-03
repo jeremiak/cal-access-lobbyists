@@ -5812,7 +5812,8 @@
       {
         "entityName": "RODRIGUEZ STRATEGIES",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -27838,16 +27839,21 @@
   {
     "id": "1467788",
     "name": "MARTI, FRANCESC",
-    "address": "1121 L STREET, SUITE 210\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-2952",
-    "email": "compliance@olsonremcho.com",
+    "address": "1603 CAPITOL AVENUE, SUITE 413 C1543\nCHEYENNE, WY 82001",
+    "phone": "(307) 213-9113",
     "registrationDate": "01/22/2024",
     "status": "Active",
     "relationships": [
       {
+        "entityName": "AVENIR ADVISORS LLC",
+        "type": "Firm",
+        "effectiveDate": "07/22/2024"
+      },
+      {
         "entityName": "CALIFORNIA YIMBY",
         "type": "Employer",
-        "effectiveDate": "01/22/2024"
+        "effectiveDate": "01/22/2024",
+        "terminationDate": "07/04/2024"
       }
     ]
   },
@@ -31975,6 +31981,22 @@
         "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1470549",
+    "name": "NICA, DAVID",
+    "address": "200 CLAREDON STREET, FLOOR 55\nBOSTON, MA 02116",
+    "phone": "(617) 531-6335",
+    "email": "dnica@arclight.com",
+    "registrationDate": "06/10/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/10/2024"
       }
     ]
   },
