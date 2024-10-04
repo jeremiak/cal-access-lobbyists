@@ -46174,14 +46174,15 @@
     "address": "150 NORTH RIVERSIDE PLAZA\nCHICAGO , IL 60606",
     "phone": "(312) 364-8271",
     "email": "sweeks@williamblair.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/31/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BLAIR INVESTMENT MANAGEMENT, LLC; WILLIAM",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/31/2024"
       }
     ]
   },
