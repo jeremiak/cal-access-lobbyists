@@ -4360,14 +4360,15 @@
     "address": "185 DARTMOUTH STREET\n7TH FLOOR",
     "phone": "(617) 531-7200",
     "email": "campaign@campaignlawyers.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DENHAM CAPITAL MANAGEMENT, LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2024"
       }
     ]
   },
