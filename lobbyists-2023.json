@@ -3579,6 +3579,7 @@
     "phone": "(408) 901-9687",
     "email": "pbhattacharjee@cacfs.org",
     "registrationDate": "04/01/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39705,14 +39706,15 @@
     "phone": "(415) 764-3944",
     "email": "anthony.lourerio@natixis.com",
     "mailingAddress": "101 SECOND STREET, SUITE 1600\nSAN FRANCISCO, CA 94105",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/21/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NATIXIS DISTRIBUTION, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/21/2024"
       }
     ]
   },
