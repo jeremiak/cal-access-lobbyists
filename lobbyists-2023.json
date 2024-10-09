@@ -32054,6 +32054,22 @@
     ]
   },
   {
+    "id": "1475740",
+    "name": "NICHOLS, JENNIFER",
+    "address": "150 NORTH RIVERSIDE PLAZA\nCHICAGO, IL 60606",
+    "phone": "(312) 601-9749",
+    "email": "jennichols@williamblair.com",
+    "registrationDate": "09/24/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLAIR INVESTMENT MANAGEMENT, LLC; WILLIAM",
+        "type": "Employer",
+        "effectiveDate": "09/24/2024"
+      }
+    ]
+  },
+  {
     "id": "1458287",
     "name": "NIELSEN , JONAS RAVN",
     "address": "412 WEST 15TH STREET, 15TH FLOOR \nNEW YORK, NY 10011",
@@ -38509,6 +38525,22 @@
     ]
   },
   {
+    "id": "1472379",
+    "name": "SAMEREIE, YASMINE",
+    "address": "277 PARK AVENUE, FLOOR 34\nNEW YORK, NY 10173",
+    "phone": "(646) 992-4420",
+    "email": "ysamereie@arsenalcapital.com",
+    "registrationDate": "06/10/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARSENAL CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "06/10/2024"
+      }
+    ]
+  },
+  {
     "id": "1336421",
     "name": "SAMMON, DARLENE",
     "address": "512 2ND STREET\nSAN FREANCISCO, CA 94107",
@@ -38613,14 +38645,15 @@
     "address": "943 CHESTNUT LANE\nDAVIS, CA 95616",
     "phone": "(909) 647-3444",
     "email": "daniel@lobby-california.com",
-    "registrationDate": "01/10/2023",
+    "registrationDate": "09/30/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA ADVOCACY LLC",
         "type": "Firm",
-        "effectiveDate": "01/10/2023"
+        "effectiveDate": "01/10/2023",
+        "terminationDate": "09/30/2024"
       }
     ]
   },
@@ -41855,9 +41888,9 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
-    "registrationDate": "07/17/2023",
+    "registrationDate": "09/30/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COLUMBIA MANAGEMENT INVESTMENT ADVISERS, LLC",
@@ -41868,7 +41901,8 @@
       {
         "entityName": "RUSSELL INVESTMENTS GROUP, LLC AND AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "07/17/2023"
+        "effectiveDate": "07/17/2023",
+        "terminationDate": "09/30/2024"
       }
     ]
   },
@@ -42426,6 +42460,21 @@
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
         "type": "Firm",
         "effectiveDate": "07/01/2024"
+      }
+    ]
+  },
+  {
+    "id": "1475362",
+    "name": "STRELLA, MANDI",
+    "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "08/26/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "08/26/2024"
       }
     ]
   },
@@ -47314,6 +47363,21 @@
         "entityName": "CALIFORNIA TAXPAYERS ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA TAX FOUNDATION",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1475363",
+    "name": "WONG, BRANDON",
+    "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "09/09/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "09/09/2024"
       }
     ]
   },
