@@ -1929,7 +1929,8 @@
       {
         "entityName": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/11/2024"
       }
     ]
   },
@@ -4823,9 +4824,9 @@
     "address": "111 RADIO CIRCLE DRIVE\nMOUNT KISCO, NY 10549",
     "phone": "(914) 241-7430",
     "email": "brennan@kohlberg.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "08/22/2024",
     "ethicsCourseCompletionDate": "06/22/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "KOHLBERG & COMPANY, L.L.C.",
@@ -25301,6 +25302,21 @@
     ]
   },
   {
+    "id": "1476225",
+    "name": "LEISCHNER, JACOB",
+    "address": "1401 DOVE STREET, SUITE 430\nNEWPORT BEACH, CA 92660",
+    "phone": "(949) 399-9050",
+    "registrationDate": "09/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "09/03/2024"
+      }
+    ]
+  },
+  {
     "id": "1460227",
     "name": "LELEK, PETER",
     "address": "65 EAST 55TH STREET\nNEW YORK, NY 10022",
@@ -28710,6 +28726,21 @@
         "entityName": "WEIDEMAN GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476230",
+    "name": "MC CARTHY, RYAN",
+    "address": "1401 DOVE STREET, SUITE 430\nNEWPORT BEACH, CA 92660",
+    "phone": "(949) 399-9050",
+    "registrationDate": "08/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "08/12/2024"
       }
     ]
   },
@@ -44010,6 +44041,21 @@
         "entityName": "TORRES 2 POLICY CONSULTANTS",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476226",
+    "name": "TORRES, BARBARAH",
+    "address": "925 L STREET, SUITE 1404\nSACRAMENTO, CA 95814",
+    "phone": "(949) 399-9050",
+    "registrationDate": "07/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "07/08/2024"
       }
     ]
   },
