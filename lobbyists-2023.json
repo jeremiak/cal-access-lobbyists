@@ -1466,6 +1466,22 @@
     ]
   },
   {
+    "id": "1476039",
+    "name": "ARTEMENKOV, NICK",
+    "address": "1453 3RD STREET PROMENADE, SUITE 305\nSANTA MONICA, CA 90401",
+    "phone": "(424) 744-4054",
+    "email": "nartemenkov@riversidecompany.com",
+    "registrationDate": "09/09/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RIVERSIDE COMPANY L.L.C. D/B/A THE RIVERSIDE COMPANY",
+        "type": "Employer",
+        "effectiveDate": "09/09/2024"
+      }
+    ]
+  },
+  {
     "id": "1447612",
     "name": "ASHLEY, SAMARA",
     "address": "1100 K STREET, STE 400\nSACRAMENTO, CA 95814",
@@ -4362,10 +4378,15 @@
     "address": "185 DARTMOUTH STREET\n7TH FLOOR",
     "phone": "(617) 531-7200",
     "email": "campaign@campaignlawyers.com",
-    "registrationDate": "09/30/2024",
+    "registrationDate": "10/01/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "10/01/2024"
+      },
       {
         "entityName": "DENHAM CAPITAL MANAGEMENT, LP",
         "type": "Employer",
@@ -17658,6 +17679,22 @@
     ]
   },
   {
+    "id": "1476333",
+    "name": "GUEVARA, GENE M",
+    "address": "30 PENHOLLOW STREET\nPORSTMOUTH, NH 03801",
+    "phone": "(603) 501-7364",
+    "email": "e.farrington@impaxm.com",
+    "registrationDate": "08/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "IMPAX ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "08/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1392372",
     "name": "GUINEE, CAITLIN",
     "address": "485 LEXINGTON AVENUE\nNEW YORK, NY 10017",
@@ -21525,22 +21562,6 @@
         "entityName": "MONOMOY CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1461550",
-    "name": "JOHN, JASON",
-    "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
-    "phone": "(916) 557-1100",
-    "email": "jason.john@sierraclub.org",
-    "registrationDate": "07/07/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SIERRA CLUB",
-        "type": "Employer",
-        "effectiveDate": "07/07/2023"
       }
     ]
   },
@@ -31734,6 +31755,22 @@
         "type": "Firm",
         "effectiveDate": "01/24/2023",
         "terminationDate": "07/31/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476356",
+    "name": "NAUGHTON, KEVIN",
+    "address": "1900 K STREET, NORTHWEST, SUITE 650\nWASHINGTON, DC 20006",
+    "phone": "(202) 779-9056",
+    "email": "knaughton@graingp.com",
+    "registrationDate": "10/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GRAIN MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "10/07/2024"
       }
     ]
   },
@@ -47978,19 +48015,24 @@
   },
   {
     "id": "1377209",
-    "name": "YOUNG, MICHAEL A.",
-    "address": "1107 9TH STREET, SUITE 460\nSACRAMENTO, CA 95814",
-    "phone": "(916) 446-2788",
-    "email": "compliance@olsonremcho.com",
-    "registrationDate": "03/19/2023",
+    "name": "YOUNG, MICHAEL",
+    "address": "1118 10TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 325-1500",
+    "email": "sharper@cta.org",
+    "registrationDate": "09/25/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CALIFORNIA FEDERATION OF TEACHERS",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "03/19/2023"
+      },
+      {
+        "entityName": "CALIFORNIA TEACHERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "09/25/2024"
       }
     ]
   },
