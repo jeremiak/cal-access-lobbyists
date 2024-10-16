@@ -5483,14 +5483,15 @@
     "address": "101 CRAWFORDS CORNER ROAD SUITE 1206\nHOLMDEL, NJ 07733",
     "phone": "(732) 978-7549",
     "email": "CHRISTIAN.BRUNE@zaisgroup.com",
-    "registrationDate": "04/05/2023",
+    "registrationDate": "10/01/2024",
     "ethicsCourseCompletionDate": "08/10/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ZAIS GROUP, LLC",
         "type": "Employer",
-        "effectiveDate": "04/05/2023"
+        "effectiveDate": "04/05/2023",
+        "terminationDate": "10/01/2024"
       }
     ]
   },
@@ -6248,7 +6249,7 @@
   {
     "id": "1460056",
     "name": "CAMPOS, DAVID F.",
-    "address": "70WEST HEDDING STREET EAST WING 11FLOOR\nSAN JOSE, CA 95110",
+    "address": "1100 K STREET\nSACRAMENTO, CA 95814",
     "phone": "(408) 299-5193",
     "email": "david.campos@ceo.sccgov.org",
     "registrationDate": "03/29/2023",
@@ -6286,13 +6287,13 @@
     "address": "131 EL BOSQUE DRIVE\nSAN JOSE, CA 95134",
     "phone": "(408) 921-2039",
     "email": "july1776@sbcglobal.net",
-    "registrationDate": "06/28/2024",
+    "registrationDate": "07/02/2024",
     "status": "Active",
     "relationships": [
       {
         "entityName": "GOLDEN STATE ADVOCACY PARTNERS",
         "type": "Firm",
-        "effectiveDate": "06/28/2024"
+        "effectiveDate": "07/02/2024"
       }
     ]
   },
@@ -15194,6 +15195,23 @@
     ]
   },
   {
+    "id": "1476221",
+    "name": "GARCIA-HERNANDEZ, DANIELA",
+    "address": "1415 L STREET, SUITE 900\nSACRAMENTO, CA 95814",
+    "phone": "(415) 389-6800",
+    "email": "calobbying@nmgovlaw.com",
+    "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "10/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTERN STATES PETROLEUM ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "10/07/2024"
+      }
+    ]
+  },
+  {
     "id": "1457278",
     "name": "GARDINER , LISA",
     "address": "1303 J STREET, SUITE 300\nSACRAMENTO, CA 95814",
@@ -16568,6 +16586,22 @@
     ]
   },
   {
+    "id": "1476092",
+    "name": "GOODELL, JOSH",
+    "address": "1301 SECOND AVENUE, 18TH FLOOR\nSEATTLE, WA 98101",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "10/07/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RUSSELL INVESTMENTS GROUP, LLC AND AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "10/07/2024"
+      }
+    ]
+  },
+  {
     "id": "1474009",
     "name": "GORDIE, BETH",
     "address": "355 SOUTH GRANDE AVENUE, SUITE 100\nLOS ANGELES, CA 90071",
@@ -16902,6 +16936,22 @@
         "entityName": "ARSENAL CAPITAL MANAGEMENT LP",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1475140",
+    "name": "GRADY, ISAIAH",
+    "address": "1345 AVENUE OF THE AMERICAS, 21ST FLOOR\nNEW YORK, NY 10105",
+    "phone": "(212) 649-6697",
+    "email": "isaiah.grady@man.com",
+    "registrationDate": "10/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MAN INVESTMENTS INC.",
+        "type": "Firm",
+        "effectiveDate": "09/24/2024"
       }
     ]
   },
@@ -26613,13 +26663,13 @@
     "address": "131 EL BOSQUE DRIVE\nSAN JOSE, CA 95134",
     "phone": "(408) 781-0345",
     "email": "alyssa_lynch@sbcglobal.net",
-    "registrationDate": "06/28/2024",
+    "registrationDate": "07/02/2024",
     "status": "Active",
     "relationships": [
       {
         "entityName": "GOLDEN STATE ADVOCACY PARTNERS",
         "type": "Firm",
-        "effectiveDate": "06/28/2024"
+        "effectiveDate": "07/02/2024"
       }
     ]
   },
@@ -43452,9 +43502,9 @@
   {
     "id": "1452208",
     "name": "THAWLEY, BRADFORD GRAY",
-    "address": "5425 WISCONSIN AVENUE, SUITE 800\nCHEVY CHASE, MD 20815",
-    "phone": "(301) 272-2299",
-    "email": "compliance@nea.com",
+    "address": "104 5TH AVENUE, 19TH FLOOR\nNEW YORK, NY 10011",
+    "phone": "(646) 677-2777",
+    "email": "legal@nea.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
