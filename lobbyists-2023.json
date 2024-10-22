@@ -21299,9 +21299,9 @@
     "phone": "(561) 727-2000",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412 \nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (561) 727-2000\nEmail: info@keyslawcorp.com",
-    "registrationDate": "05/01/2024",
+    "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "COMVEST ADVISORS, LLC",
@@ -48126,6 +48126,11 @@
     "ethicsCourseCompletionDate": "12/08/2022",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "CARPENTER GARCIA SIEVERS LLC",
+        "type": "Firm",
+        "effectiveDate": "04/01/2024"
+      },
       {
         "entityName": "STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA",
         "type": "Employer",
