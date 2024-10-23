@@ -24553,14 +24553,15 @@
     "address": "1215 K STREET, SUITE 1220\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-4099",
     "email": "alexandra.lamirande@deweysquare.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DEWEY SQUARE GROUP",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2024"
       }
     ]
   },
@@ -26609,8 +26610,8 @@
   {
     "id": "1428829",
     "name": "LUNDY, MEGAN",
-    "address": "101 HUNTINGTON AVENUE\nBOSTON, MA 02199",
-    "phone": "(617) 859-1500",
+    "address": "1 LETTERMAN DRIVE, BUILDING C, SUITE CP-500\nSAN FRANCISCO, CA 94129",
+    "phone": "(415) 738-4340",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2023",
@@ -26620,7 +26621,13 @@
       {
         "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND ITS SUBSIDIARY AUDAX MANAGEMENT COMPANY (NY), LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2024"
+      },
+      {
+        "entityName": "PERCHERON INVESTMENT MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "10/01/2024"
       }
     ]
   },
@@ -30503,6 +30510,21 @@
         "entityName": "APOGEM CAPITAL LLC",
         "type": "Employer",
         "effectiveDate": "02/06/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476326",
+    "name": "MOELLER, ELIZABETH V.",
+    "address": "1200 SEVENTEENTH STREET NW\nWASHINGTON, DC 20036",
+    "phone": "(415) 983-1347",
+    "registrationDate": "10/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PILLSBURY WINTHROP SHAW PITTMAN LLP",
+        "type": "Firm",
+        "effectiveDate": "10/11/2024"
       }
     ]
   },
@@ -42052,6 +42074,22 @@
         "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1475639",
+    "name": "STADTMILLER, COLTON J.",
+    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 594-9700",
+    "email": "cstadtmiller@bhfs.com",
+    "registrationDate": "10/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "10/01/2024"
       }
     ]
   },
