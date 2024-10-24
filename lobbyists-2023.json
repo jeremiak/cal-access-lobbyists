@@ -2216,14 +2216,15 @@
     "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
     "phone": "(212) 390-2571",
     "email": "nathalie.wilson@blackstone.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "06/30/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "06/30/2024"
       }
     ]
   },
@@ -11712,9 +11713,9 @@
     ]
   },
   {
-    "id": "1475700",
+    "id": "1433865",
     "name": "DONOVAN, RYAN",
-    "address": "280 PARK AVENUE, 35TH FLOOR\nNEW YORK, NY 10017",
+    "address": "280 PARK AVENUE, 35TH FLOOR\nNEW YORK, NY 10007",
     "phone": "(917) 935-6240",
     "email": "richard.silver@investcorptages.com",
     "registrationDate": "08/20/2024",
