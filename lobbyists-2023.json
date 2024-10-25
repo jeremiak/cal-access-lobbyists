@@ -1858,7 +1858,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND ITS SUBSIDIARY AUDAX MANAGEMENT COMPANY (NY), LLC",
+        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -23564,7 +23564,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND ITS SUBSIDIARY AUDAX MANAGEMENT COMPANY (NY), LLC",
+        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
@@ -26620,7 +26620,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND ITS SUBSIDIARY AUDAX MANAGEMENT COMPANY (NY), LLC",
+        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "09/30/2024"
@@ -27380,6 +27380,22 @@
         "entityName": "PUBLIC POLICY ADVOCATES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476530",
+    "name": "MALONEY, ADAM J.",
+    "address": "155 NORTH WACKER DRIVE, SUITE 1750\nCHICAGO, IL 60606",
+    "phone": "(312) 465-3399",
+    "email": "amaloney@elementumadvisors.com",
+    "registrationDate": "10/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ELEMENTUM ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/23/2024"
       }
     ]
   },
