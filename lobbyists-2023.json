@@ -3105,7 +3105,8 @@
       {
         "entityName": "NUVEEN SERVICES LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "03/22/2023"
       }
     ]
   },
@@ -5391,7 +5392,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "ACTIS ADVISERS INC.",
+        "entityName": "ACTIS ADVISERS LLC",
         "type": "Employer",
         "effectiveDate": "05/23/2023",
         "terminationDate": "10/31/2023"
@@ -28651,7 +28652,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "ACTIS ADVISERS INC.",
+        "entityName": "ACTIS ADVISERS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "03/31/2023"
@@ -29841,7 +29842,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ACTIS ADVISERS INC.",
+        "entityName": "ACTIS ADVISERS LLC",
         "type": "Employer",
         "effectiveDate": "05/21/2024"
       }
@@ -40574,6 +40575,23 @@
     ]
   },
   {
+    "id": "1470906",
+    "name": "SHROPSHIRE, CHARLOTTE",
+    "address": "1300 EL CAMINO REAL SUITE 150\nMENLO PARK, CA",
+    "phone": "(415) 680-4131",
+    "email": "charlotte@menlovc.com",
+    "registrationDate": "06/17/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MENLO VENTURES",
+        "type": "Firm",
+        "effectiveDate": "07/08/2024"
+      }
+    ]
+  },
+  {
     "id": "1428188",
     "name": "SHULMAN, JACOB",
     "address": "65 EAST 55TH STREET, 32ND FLOOR\nNEW YORK, NY 10022",
@@ -44901,7 +44919,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "ACTIS ADVISERS INC.",
+        "entityName": "ACTIS ADVISERS LLC",
         "type": "Employer",
         "effectiveDate": "11/30/2023",
         "terminationDate": "05/03/2024"
