@@ -23177,14 +23177,15 @@
     "address": "280 PARK AVENUE, FLOOR 27E \nNEW YORK, NY 10017",
     "phone": "(212) 634-3250",
     "email": "skhan@crayhill.com",
-    "registrationDate": "01/26/2023",
+    "registrationDate": "10/07/2024",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CRAYHILL CAPITAL MANAGEMENT",
         "type": "Employer",
-        "effectiveDate": "01/26/2023"
+        "effectiveDate": "01/26/2023",
+        "terminationDate": "10/07/2024"
       }
     ]
   },
