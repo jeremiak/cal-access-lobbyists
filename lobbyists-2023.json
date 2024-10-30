@@ -20581,6 +20581,22 @@
     ]
   },
   {
+    "id": "1476665",
+    "name": "HSU, TIMOTHY",
+    "address": "333 SOUTH GRAND AVENUE, FLOOR 28\nLOS ANGELES, CA 90071",
+    "phone": "(213) 505-0173",
+    "email": "thsu@oaktreecapital.com",
+    "registrationDate": "10/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OAKTREE CAPITAL MANAGEMENT, L.P. AND ITS AFFILIATE OCM INVESTMENTS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/23/2024"
+      }
+    ]
+  },
+  {
     "id": "1442217",
     "name": "HUANG, EDWARD Y.",
     "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
@@ -21408,6 +21424,11 @@
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "NATURE CONSERVANCY; THE",
+        "type": "Employer",
+        "effectiveDate": "09/03/2024"
+      },
       {
         "entityName": "REGENERATIVE STRATEGIES CONSULTING LLC",
         "type": "Firm",
@@ -36478,6 +36499,22 @@
         "entityName": "QUIVIVE GLOBAL ADVISORY LLC",
         "type": "Firm",
         "effectiveDate": "03/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476662",
+    "name": "REGAN, SEAN P.",
+    "address": "333 SOUTH GRAND AVENUE, FLOOR 28\nLOS ANGELES, CA 90071",
+    "phone": "(585) 736-0225",
+    "email": "sregan@oaktreecapital.com",
+    "registrationDate": "10/23/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OAKTREE CAPITAL MANAGEMENT, L.P. AND ITS AFFILIATE OCM INVESTMENTS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/23/2024"
       }
     ]
   },
