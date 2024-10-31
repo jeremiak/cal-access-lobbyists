@@ -1139,14 +1139,15 @@
     "address": "290 CONGRESS STREET\nBOSTON, MA 02210",
     "phone": "(949) 500-5523",
     "email": "brad.angle@columbiathreadneedle.com",
-    "registrationDate": "02/21/2024",
+    "registrationDate": "10/10/2024",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COLUMBIA MANAGEMENT INVESTMENT ADVISERS, LLC",
         "type": "Employer",
-        "effectiveDate": "02/21/2024"
+        "effectiveDate": "02/21/2024",
+        "terminationDate": "10/10/2024"
       }
     ]
   },
@@ -4761,22 +4762,6 @@
     ]
   },
   {
-    "id": "1469840",
-    "name": "BRAUDE, ESQ, JAYSON",
-    "address": "10809 FOOTHILL BOULEVARD, SUITE 160-516\nRANCHO CUCAMONGA, CA 91730",
-    "phone": "(213) 400-8664",
-    "email": "jasmid@rojascommunications.com",
-    "registrationDate": "04/01/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
-        "type": "Firm",
-        "effectiveDate": "04/01/2024"
-      }
-    ]
-  },
-  {
     "id": "1467330",
     "name": "BRAWER, RUSS",
     "address": "452 FIFTH AVENUE 28TH FL\nNEW YORK, NY 10018",
@@ -6824,6 +6809,23 @@
         "entityName": "MODIFIED MOTORCYCLE ASSOCIATION OF CALIFORNIA (MMA OF CA)",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1340381",
+    "name": "CASALE, ALEXANDER A.",
+    "address": "101 HUNTINGTON AVENUE\nBOSTON, MA 02199",
+    "phone": "(617) 859-1500",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O LACEY KEYS 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
+        "type": "Employer",
+        "effectiveDate": "10/01/2024"
       }
     ]
   },
@@ -9252,14 +9254,15 @@
     "address": "21 ST JAMES SQUARE, LONDON UK\nSW1Y 4JZ",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2024",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GHO CAPITAL PARTNERS LLP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2024"
       }
     ]
   },
@@ -21827,9 +21830,15 @@
     "status": "Active",
     "relationships": [
       {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "09/10/2024"
+      },
+      {
         "entityName": "STRATEGIES 360",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "08/31/2024"
       }
     ]
   },
@@ -31634,7 +31643,8 @@
       {
         "entityName": "CREDIT SUISSE ASSET MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "04/30/2024"
       }
     ]
   },
@@ -35664,7 +35674,8 @@
       {
         "entityName": "PLASTICS INDUSTRY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/30/2024"
       }
     ]
   },
@@ -37500,23 +37511,6 @@
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
         "effectiveDate": "06/17/2024"
-      }
-    ]
-  },
-  {
-    "id": "1457602",
-    "name": "RODRIGUEZ, DAN",
-    "address": "160 SOUTH ROUTE 17 N\nPARAMUS, NJ 07652",
-    "phone": "(201) 225-7585",
-    "email": "dan.rodriguez@coachusa.com",
-    "registrationDate": "02/21/2023",
-    "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "COACH USA",
-        "type": "Employer",
-        "effectiveDate": "02/21/2023"
       }
     ]
   },
