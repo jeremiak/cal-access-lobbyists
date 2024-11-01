@@ -11489,6 +11489,23 @@
     ]
   },
   {
+    "id": "1441722",
+    "name": "DODDY, CORMAC",
+    "address": "4 EMBARCADERO CENTER, SUITE 3300\nSAN FRANCISCO, CA 94111",
+    "phone": "(646) 799-1033",
+    "email": "doddy@stockbridge.com",
+    "mailingAddress": "22 FAIRVIEW TERRACE\nMAPLEWOOD, NJ 07040",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORE AND VALUE ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1467677",
     "name": "DOHEMANN, SCOTT R.",
     "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
@@ -11852,6 +11869,7 @@
     "phone": "(202) 506-0500",
     "email": "adoza@higcapital.com",
     "registrationDate": "09/13/2023",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -26838,6 +26856,7 @@
     "phone": "(212) 506-0500",
     "email": "jmacfarlane@higcapital.com",
     "registrationDate": "09/08/2023",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35717,9 +35736,8 @@
   {
     "id": "1401316",
     "name": "QUINONEZ, ADAM",
-    "address": "980 9TH STREET, SUITE 1000\nSACRAMENTO, CA 95814",
-    "phone": "(916) 441-4545",
-    "email": "adamq@acwa.com",
+    "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(816) 441-5050",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
@@ -43798,6 +43816,19 @@
         "entityName": "ONEX PARTNERS ADVISOR INC",
         "type": "Employer",
         "effectiveDate": "01/23/2023"
+      }
+    ]
+  },
+  {
+    "id": "1377554",
+    "name": "THOMPSON, JON R.",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORE AND VALUE ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
       }
     ]
   },
