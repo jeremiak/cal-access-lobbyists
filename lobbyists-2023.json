@@ -11256,6 +11256,22 @@
     ]
   },
   {
+    "id": "1476748",
+    "name": "DIATTA, AYESHA",
+    "address": "385 EAST COLORADO BOULEVARD\nPASADENA, CA 91101",
+    "phone": "(626) 844-9400",
+    "email": "ayesha.diatta@westernasset.com",
+    "registrationDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
+        "type": "Employer",
+        "effectiveDate": "11/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1277372",
     "name": "DIAZ, MANNY J.",
     "address": "580 NORTH 15TH STREET\nSAN JOSE, CA 95112",
@@ -15310,6 +15326,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16681,14 +16698,15 @@
     "address": "385 EAST COLORADO BOULEVARD\nPASADENA, CA 91101",
     "phone": "(626) 844-9517",
     "email": "kgore@westernasset.com",
-    "registrationDate": "10/25/2023",
+    "registrationDate": "10/15/2024",
     "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WESTERN ASSET MANAGEMENT COMPANY",
         "type": "Employer",
-        "effectiveDate": "10/25/2023"
+        "effectiveDate": "10/25/2023",
+        "terminationDate": "10/15/2024"
       }
     ]
   },
@@ -17027,6 +17045,22 @@
         "entityName": "LONE PINE CAPITAL LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476509",
+    "name": "GRANATO, STEPHANIE",
+    "address": "1801 CENTURY PARK EAST, SUITE 2400\nLOS ANGELES, CA 90067",
+    "phone": "(323) 314-0714",
+    "email": "stephanie@electacapital.com",
+    "registrationDate": "10/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KEMA PARTNERS LLC",
+        "type": "Employer",
+        "effectiveDate": "10/28/2024"
       }
     ]
   },
@@ -40638,7 +40672,8 @@
       {
         "entityName": "MENLO VENTURES",
         "type": "Firm",
-        "effectiveDate": "07/08/2024"
+        "effectiveDate": "07/08/2024",
+        "terminationDate": "11/01/2024"
       }
     ]
   },
