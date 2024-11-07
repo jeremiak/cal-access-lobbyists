@@ -999,14 +999,15 @@
     "name": "ANDERSON, DEVON",
     "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
     "phone": "(916) 492-2766",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/15/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "POLITICAL SOLUTIONS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/15/2024"
       }
     ]
   },
@@ -6124,6 +6125,7 @@
     "phone": "(212) 698-4720",
     "email": "lobbying@rutan.com",
     "registrationDate": "06/06/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15942,6 +15944,7 @@
     "phone": "(212) 698-4720",
     "email": "lobbying@rutan.com",
     "registrationDate": "06/06/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24593,7 +24596,8 @@
       {
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/01/2024"
       }
     ]
   },
@@ -28203,14 +28207,15 @@
     "phone": "(415) 217-2000",
     "email": "emartinez@earthjustice.org",
     "mailingAddress": "1121 L STREET #806\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/15/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EARTHJUSTICE",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/15/2024"
       }
     ]
   },
@@ -29973,6 +29978,7 @@
     "phone": "(786) 693-5753",
     "email": "lobbying@rutan.com",
     "registrationDate": "08/28/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -31450,13 +31456,14 @@
     "address": "280 PARK AVENUE, 11TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(212) 883-2800",
     "email": "bmoynihan@torchlightinvestors.com",
-    "registrationDate": "09/01/2023",
-    "status": "Active",
+    "registrationDate": "10/31/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TORCHLIGHT INVESTORS LLC",
         "type": "Employer",
-        "effectiveDate": "09/01/2023"
+        "effectiveDate": "09/01/2023",
+        "terminationDate": "10/31/2024"
       }
     ]
   },
@@ -32543,14 +32550,15 @@
     "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(212) 405-8483",
     "email": "jnorgaard@sixthstreet.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "09/30/2024",
     "ethicsCourseCompletionDate": "11/08/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2024"
       }
     ]
   },
@@ -40790,7 +40798,8 @@
       {
         "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/24/2024"
       }
     ]
   },
@@ -47941,6 +47950,7 @@
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "01/22/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
