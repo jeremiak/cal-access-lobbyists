@@ -5659,14 +5659,15 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 690-1839",
     "email": "cbullis@flo.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/06/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FLO SERVICES USA",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/06/2024"
       }
     ]
   },
@@ -6838,6 +6839,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O LACEY KEYS 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "10/01/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13152,7 +13154,7 @@
   },
   {
     "id": "1459407",
-    "name": "FANN, DAVID",
+    "name": "FANN, DAVID I",
     "address": "299 PARK AVENUE, 37TH FLOOR\nNEW YORK, NY 10171",
     "phone": "(212) 601-3666",
     "email": "david.fann@apogemcapital.com",
@@ -23474,8 +23476,13 @@
     "email": "calobbying@nmgovlaw.com",
     "registrationDate": "10/07/2024",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "HAUN VENTURES",
+        "type": "Employer",
+        "effectiveDate": "10/07/2024"
+      },
       {
         "entityName": "HELLMAN & FRIEDMAN LLC",
         "type": "Employer",
@@ -24598,6 +24605,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2023",
         "terminationDate": "11/01/2024"
+      },
+      {
+        "entityName": "LA VIGNE STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "11/01/2024"
       }
     ]
   },
@@ -31726,6 +31738,22 @@
     ]
   },
   {
+    "id": "1476468",
+    "name": "MURRAY, ETHAN J",
+    "address": "PO BOX 51196\nWASHINGTON, DC 20091",
+    "phone": "(973) 715-9385",
+    "email": "compliance_ca_giffords_1@multistate.us",
+    "registrationDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GIFFORDS",
+        "type": "Employer",
+        "effectiveDate": "11/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1460234",
     "name": "MURRAY, MEEGEN",
     "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
@@ -35804,7 +35832,8 @@
       {
         "entityName": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/04/2024"
       }
     ]
   },
