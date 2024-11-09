@@ -1312,6 +1312,24 @@
     ]
   },
   {
+    "id": "1471544",
+    "name": "ARECHAVALETA, MARISSA",
+    "address": "1900 POWELL STREET\nEMERYVILLE, CA 94608",
+    "phone": "(916) 980-9473",
+    "email": "marec@equinor.com",
+    "mailingAddress": "600 WASHINGTON BOULEVARD\nSTAMFORD, CT 06901\nPhone: (202) 370-5222\nEmail: marec@equinor.com",
+    "registrationDate": "09/18/2024",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "EQUINOR US LLC",
+        "type": "Employer",
+        "effectiveDate": "07/15/2024",
+        "terminationDate": "09/18/2024"
+      }
+    ]
+  },
+  {
     "id": "1307041",
     "name": "AREIAS, RUSTY",
     "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
@@ -3016,14 +3034,15 @@
     "phone": "(415) 350-0591",
     "email": "khaoula.begdouri@newtonim.com",
     "mailingAddress": "500 GRANT STREET, SUITE 2245\nPITTSBURGH, PA 15258\nPhone: (415) 350-0591\nEmail: khaoula.begdouri@newtonim.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/31/2024",
     "ethicsCourseCompletionDate": "11/08/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NEWTON INVESTMENT MANAGEMENT NORTH AMERICA, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/31/2024"
       }
     ]
   },
@@ -12971,6 +12990,22 @@
     ]
   },
   {
+    "id": "1374409",
+    "name": "EVANS, TODD",
+    "address": "100 WEST PUTMAN AVENUE\nGREENWICH, CT 06830",
+    "phone": "(203) 485-5773",
+    "email": "tevans@svpglobal.com",
+    "registrationDate": "10/29/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STRATEGIC VALUE PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/29/2024"
+      }
+    ]
+  },
+  {
     "id": "1342574",
     "name": "EVANS-FUDEM, ERIN",
     "address": "1100 K STREET\nSACRAMENTO, CA 95814",
@@ -18405,6 +18440,22 @@
     ]
   },
   {
+    "id": "1474627",
+    "name": "HANNA, JOHN",
+    "address": "980 9TH STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-5021",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "09/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA NURSES ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "09/03/2024"
+      }
+    ]
+  },
+  {
     "id": "1426493",
     "name": "HANNAMAN, HEIDI",
     "address": "1112 I STREET, STE 200\nSACRAMENTO, CA 95814",
@@ -21273,14 +21324,15 @@
     "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
     "phone": "(415) 670-7019",
     "email": "bryan.jacobi@blackrock.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/31/2024",
     "ethicsCourseCompletionDate": "12/08/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/31/2024"
       }
     ]
   },
@@ -22976,8 +23028,9 @@
     "name": "KENDRICK, JONATHAN T.",
     "address": "55 2ND STREET, SUITE 1700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 227-0900",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/27/2022",
+    "status": "Active",
     "relationships": []
   },
   {
@@ -25492,18 +25545,23 @@
   {
     "id": "1460227",
     "name": "LELEK, PETER",
-    "address": "65 EAST 55TH STREET\nNEW YORK, NY 10022",
-    "phone": "(646) 968-7140",
-    "email": "peter.lelek@castlelake.com",
-    "registrationDate": "03/31/2024",
+    "address": "100 WEST PUTMAN AVENUE\nGREENWICH, CT 06830",
+    "phone": "(203) 485-5753",
+    "email": "plelek@svpglobal.com",
+    "registrationDate": "10/29/2024",
     "ethicsCourseCompletionDate": "03/09/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CASTLELAKE, L.P.",
         "type": "Employer",
         "effectiveDate": "01/23/2023",
         "terminationDate": "03/31/2024"
+      },
+      {
+        "entityName": "STRATEGIC VALUE PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/29/2024"
       }
     ]
   },
@@ -29682,6 +29740,22 @@
     ]
   },
   {
+    "id": "1476403",
+    "name": "MC RAE, NATHALIE",
+    "address": "4 EMBARCADERO CENTER, 3300\nSAN FRANCISCO, CA 94111",
+    "phone": "(770) 363-4443",
+    "email": "judson@stockbridge.com",
+    "registrationDate": "01/01/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORE AND VALUE ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1346826",
     "name": "MC RAY, KENNETH ",
     "address": "2029 CENTURY PARK EAST, 16TH FLOOR\nLOS ANGELES, CA 90067",
@@ -30656,6 +30730,7 @@
     "address": "1200 SEVENTEENTH STREET NW\nWASHINGTON, DC 20036",
     "phone": "(415) 983-1347",
     "registrationDate": "10/11/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -33961,6 +34036,22 @@
     ]
   },
   {
+    "id": "1476780",
+    "name": "PANJAWNI, SURAJ",
+    "address": "100 WEST PUTMAN AVENUE\nGREENWICH, CT 06830",
+    "phone": "(203) 618-3625",
+    "email": "spanjawni@svpglobal.com",
+    "registrationDate": "10/29/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STRATEGIC VALUE PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/29/2024"
+      }
+    ]
+  },
+  {
     "id": "1438540",
     "name": "PANJWANI, SURAJ",
     "address": "151 W 42ND STREET, 53RD FLOOR\nNEW YORK, NY 10036",
@@ -34093,6 +34184,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "05/01/2024"
+      }
+    ]
+  },
+  {
+    "id": "1476707",
+    "name": "PAREDES, ERIC",
+    "address": "1110 K STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-4848",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "09/16/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA FACULTY ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "09/16/2024"
       }
     ]
   },
@@ -38759,10 +38866,10 @@
   {
     "id": "1445878",
     "name": "SALAZAR, CRISTINA",
-    "address": "525 E 7TH STREET, SUITE C203\nLONG BEACH, CA 90813",
+    "address": "525 EAST 7TH STREET, SUITE C203\nLONG BEACH, CA 90813",
     "phone": "(562) 983-1333",
-    "registrationDate": "07/01/2023",
-    "status": "Revoked",
+    "registrationDate": "01/01/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -46733,6 +46840,7 @@
     "address": "601 MASSACHUSETTS AVENUE NW\nWASHINGTON, DC 20001",
     "phone": "(202) 942-6819",
     "registrationDate": "02/13/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
