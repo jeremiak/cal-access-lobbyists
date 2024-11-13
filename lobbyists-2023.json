@@ -9489,7 +9489,8 @@
       {
         "entityName": "SNAP INC.",
         "type": "Employer",
-        "effectiveDate": "10/05/2023"
+        "effectiveDate": "10/05/2023",
+        "terminationDate": "11/08/2024"
       }
     ]
   },
@@ -10534,10 +10535,12 @@
   {
     "id": "1243313",
     "name": "DE JESUS FRAUMENI, HOLLY C. ",
-    "address": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 318-8866",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 318-8866",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "12/01/2022",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35932,7 +35935,7 @@
     "name": "QUINONEZ, ADAM",
     "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
     "phone": "(816) 441-5050",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/14/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
     "relationships": [
@@ -35941,6 +35944,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "10/04/2024"
+      },
+      {
+        "entityName": "CALIFORNIA ADVOCATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "10/14/2024"
       }
     ]
   },
