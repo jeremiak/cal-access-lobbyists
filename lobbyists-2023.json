@@ -4425,6 +4425,7 @@
     "phone": "(617) 581-9096",
     "email": "compliance_ca_slc_4@multistate.us",
     "registrationDate": "08/01/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -5629,6 +5630,7 @@
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
     "registrationDate": "08/30/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9752,6 +9754,7 @@
     "phone": "(646) 569-2342",
     "email": "kayla.cummings@orix.com",
     "registrationDate": "08/21/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -12038,7 +12041,8 @@
       {
         "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/01/2024"
       }
     ]
   },
@@ -12131,6 +12135,7 @@
     "address": "55 M STREET SOUTHEAST, SUITE 540\nWASHINGTON, DC 20003",
     "phone": "(202) 789-0300",
     "registrationDate": "05/15/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16691,6 +16696,7 @@
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
     "registrationDate": "08/30/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19855,14 +19861,15 @@
     "address": "65 EAST 55TH STREET, 24TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 574-8598",
     "email": "ghickey@raine.com",
-    "registrationDate": "07/10/2023",
+    "registrationDate": "11/08/2024",
     "ethicsCourseCompletionDate": "11/08/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RAINE GROUP LLC; THE",
         "type": "Employer",
-        "effectiveDate": "07/10/2023"
+        "effectiveDate": "07/10/2023",
+        "terminationDate": "11/08/2024"
       }
     ]
   },
@@ -24429,12 +24436,12 @@
   {
     "id": "1384136",
     "name": "KROLL, JUSTIN",
-    "address": "909 A STREET, SUITE 810\nTACOMA, WA 98402",
-    "phone": "(253) 238-0417",
+    "address": "450 EAST LAS OLAS BOULEVARD, SUITE 750\nFORT LAUDERDALE, FL 33301",
+    "phone": "(754) 218-5500",
     "email": "jkroll@paccurrent.com",
-    "registrationDate": "04/20/2024",
+    "registrationDate": "10/16/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "NLCG DISTRIBUTORS, LLC",
@@ -28929,6 +28936,7 @@
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
     "registrationDate": "08/30/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -43847,6 +43855,7 @@
     "phone": "(212) 973-8600",
     "email": "ptheoharides@aglcredit.com",
     "registrationDate": "09/22/2023",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
