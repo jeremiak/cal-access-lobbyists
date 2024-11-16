@@ -3364,6 +3364,7 @@
     "phone": "(617) 261-9000",
     "email": "katie.bergen@aew.com",
     "registrationDate": "07/22/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -4349,7 +4350,7 @@
   {
     "id": "1467986",
     "name": "BOMMART, KAREN",
-    "address": "1 MARINA PARK DRIVE, STE 1100\nBOSTON, MA 02210",
+    "address": "1 MARINA PARK DRIVE, SUITE 1100\nBOSTON, MA 02210",
     "phone": "(617) 948-3600",
     "email": "kbommart@battery.com",
     "registrationDate": "03/18/2024",
@@ -6095,14 +6096,15 @@
     "address": "2495 NATOMAS PARK DRIVE, SUITE 400\nSACRAMENTO, CA 95833",
     "phone": "(510) 229-7827",
     "email": "tcalabio@statestreet.com",
-    "registrationDate": "02/16/2023",
+    "registrationDate": "07/31/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "STATE STREET BANK AND TRUST COMPANY",
         "type": "Employer",
-        "effectiveDate": "02/16/2023"
+        "effectiveDate": "02/16/2023",
+        "terminationDate": "07/31/2024"
       }
     ]
   },
@@ -6474,6 +6476,22 @@
     ]
   },
   {
+    "id": "1476663",
+    "name": "CAREGA, LIVIA",
+    "address": "730 THIRD AVENUE, 27TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(212) 887-1688",
+    "email": "livia.carega@paipartners.com",
+    "registrationDate": "11/13/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PAI PARTNERS INC",
+        "type": "Employer",
+        "effectiveDate": "11/13/2024"
+      }
+    ]
+  },
+  {
     "id": "1341399",
     "name": "CARIERI, JOSEPH ",
     "address": "865 SOUTH FIGUEROA STREET, SUITE 1800\nLOS ANGELES, CA 90017",
@@ -6515,14 +6533,15 @@
     "phone": "(212) 823-0720",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 4112\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/31/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "STRIPES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/31/2024"
       }
     ]
   },
@@ -9946,6 +9965,24 @@
     ]
   },
   {
+    "id": "1468108",
+    "name": "CURRY, HEATHER",
+    "address": "500 EAST CORONADO ROAD \nPHOENIX, AZ 85004",
+    "phone": "(602) 462-5000",
+    "email": "hcurry@goldwaterinstitute.org",
+    "registrationDate": "08/23/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "GOLDWATER INSTITUTE FOR PUBLIC POLICY RESEARCH; BARRY",
+        "type": "Employer",
+        "effectiveDate": "03/08/2024",
+        "terminationDate": "08/23/2024"
+      }
+    ]
+  },
+  {
     "id": "1456453",
     "name": "CURRY, JAMES",
     "address": "707 MELANIE WAY\nSACRAMENTO, CA 95831",
@@ -13213,7 +13250,7 @@
   },
   {
     "id": "1459407",
-    "name": "FANN, DAVID I",
+    "name": "FANN, DAVID",
     "address": "299 PARK AVENUE, 37TH FLOOR\nNEW YORK, NY 10171",
     "phone": "(212) 601-3666",
     "email": "david.fann@apogemcapital.com",
@@ -17052,6 +17089,7 @@
     "phone": "(212) 649-6697",
     "email": "isaiah.grady@man.com",
     "registrationDate": "10/15/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24454,11 +24492,16 @@
     "name": "KROLL, JUSTIN",
     "address": "450 EAST LAS OLAS BOULEVARD, SUITE 750\nFORT LAUDERDALE, FL 33301",
     "phone": "(754) 218-5500",
-    "email": "jkroll@paccurrent.com",
+    "email": "jkroll@gqg.com",
     "registrationDate": "10/16/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "GQG PARTNERS LLC",
+        "type": "Employer",
+        "effectiveDate": "10/16/2024"
+      },
       {
         "entityName": "NLCG DISTRIBUTORS, LLC",
         "type": "Firm",
@@ -28141,6 +28184,7 @@
     "address": "1603 CAPITOL AVENUE, SUITE 413 C1543\nCHEYENNE, WY 82001",
     "phone": "(307) 213-9113",
     "registrationDate": "01/22/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28321,6 +28365,7 @@
     "address": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
     "phone": "(916) 510-5177",
     "registrationDate": "02/15/2024",
+    "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
     "relationships": [
       {
@@ -42984,6 +43029,7 @@
     "address": "2 SEAPORT LANE\nBOSTON, MA 02210",
     "phone": "(617) 261-9000",
     "registrationDate": "04/01/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
