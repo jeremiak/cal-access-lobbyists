@@ -5837,6 +5837,22 @@
     ]
   },
   {
+    "id": "1427355",
+    "name": "BURNS , STEPHEN D.",
+    "address": "1102 R STREET, SUITE 300\nSACRAMENTO, CA 95811",
+    "phone": "(916) 898-9305",
+    "email": "sburns@actumllc.com",
+    "registrationDate": "08/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "08/20/2024"
+      }
+    ]
+  },
+  {
     "id": "1444859",
     "name": "BURO, DOMINICK (NICK) M.",
     "address": "2020 CREEKSIDE ROAD\nMONTECITO, CA 93108",
@@ -6366,6 +6382,7 @@
     "phone": "(916) 436-0046",
     "email": "vcaporale@calcog.org",
     "registrationDate": "10/28/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20255,6 +20272,21 @@
     ]
   },
   {
+    "id": "1476694",
+    "name": "HODGKINS, JENNIFER",
+    "address": "2015 J STREET, SUITE 100\nSACRAMENTO , CA 95811",
+    "phone": "(916) 426-8537",
+    "registrationDate": "08/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SUMMIT STRATEGY GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "08/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1339341",
     "name": "HOEBERICHTS, CANDIDA ",
     "address": "ONE CALIFORNIA STREET, SUITE 1920\nSAN FRANCISCO, CA 94111",
@@ -24715,9 +24747,9 @@
   {
     "id": "1334571",
     "name": "LA VIGNE, SHANE ",
-    "address": "1301 I STREET\nSACRAMENTO, CA 95814",
-    "phone": "(916) 444-0400",
-    "email": "slavigne@capitoladvocacy.com",
+    "address": "1215 K STREET, SUITE 2230\nSACRAMENTO, CA 95814",
+    "phone": "(916) 216-9215",
+    "email": "shane@lavignestrategies.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
     "status": "Active",
@@ -30171,6 +30203,7 @@
     "phone": "(310) 984-0746",
     "email": "compliance_ca_ebsi_1@multistate.us",
     "registrationDate": "03/19/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -40531,7 +40564,7 @@
   {
     "id": "1470487",
     "name": "SHARMA, ASHA",
-    "address": "1014 TORNEY AVENUE\nSAN FRANCISCO, CA 94129",
+    "address": "8605 SANTA MONICA BOULEVARD, PMB 771982\nWEST HOLLYWOOD, CA 90069",
     "phone": "(415) 692-4018",
     "email": "talobbying@tides.org",
     "registrationDate": "06/01/2024",
