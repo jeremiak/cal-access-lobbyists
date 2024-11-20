@@ -10606,24 +10606,6 @@
     ]
   },
   {
-    "id": "1243313",
-    "name": "DE JESUS FRAUMENI, HOLLY C. ",
-    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
-    "phone": "(916) 318-8866",
-    "email": "info@keyslawcorp.com",
-    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 318-8866",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
     "id": "1444189",
     "name": "DE LEON, JULIO C.",
     "address": "4095 LEMON STREET\nRIVERSIDE, CA 92501",
@@ -14622,6 +14604,24 @@
     ]
   },
   {
+    "id": "1243313",
+    "name": "FRAUMENI DE JESUS, HOLLY C. ",
+    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 318-8866",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 318-8866",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1462538",
     "name": "FRAZIER JR., JAMES LEROY",
     "address": "1225 8TH STREET, SUITE 350\nSACRAMENTO, CA 95814",
@@ -17358,6 +17358,7 @@
     "address": "777 YAMATO ROAD, SUITE 300\nBOCA RATON, FL 33431",
     "phone": "(561) 544-4552",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20835,6 +20836,23 @@
         "entityName": "WARBURG PINCUS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476990",
+    "name": "HUANG, MICHELLE",
+    "address": "20 AIR STREET, 7TH FLOOR\nLONDON, UK W1B 5AN",
+    "phone": "(415) 619-3242",
+    "email": "michelle.huang@generationim.com",
+    "mailingAddress": "555 MISSION STREET, SUITE 3400\nSAN FRANCISCO, CA 94105",
+    "registrationDate": "11/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERATION INVESTMENT MANAGEMENT LLP AND ITS AFFILIATES INCL JUST CLIMATE LLP",
+        "type": "Employer",
+        "effectiveDate": "11/11/2024"
       }
     ]
   },
@@ -37638,14 +37656,15 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(530) 574-4701",
     "email": "kayla@caleec.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/05/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/05/2024"
       }
     ]
   },
@@ -38233,6 +38252,7 @@
     "address": "777 YAMATO ROAD, SUITE 300\nBOCA RATON, FL 33431",
     "phone": "(561) 544-4552",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39090,14 +39110,15 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/05/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "03/12/2024"
+        "effectiveDate": "03/12/2024",
+        "terminationDate": "11/05/2024"
       },
       {
         "entityName": "NATIONAL AUDUBON SOCIETY",
@@ -41305,10 +41326,11 @@
   {
     "id": "1469111",
     "name": "SINGLETON, ROBERT",
-    "address": "1390 CHAIN BRIDGE ROAD SUITE A108\nMCLEAN, VA 22101",
+    "address": "1390 CHAIN BRIDGE ROAD, SUITE A108\nMCLEAN, VA 22101",
     "phone": "(202) 470-3046",
     "email": "robert@progresschamber.org",
     "registrationDate": "03/31/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -43013,6 +43035,7 @@
     "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "08/26/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -47680,6 +47703,22 @@
         "entityName": "EAST BAY MUNICIPAL UTILITY DISTRICT",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476910",
+    "name": "WILLIAMS, MADISON",
+    "address": "980 9TH STREET, SUITE 1000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-4545",
+    "email": "madisonw@acwa.com",
+    "registrationDate": "10/28/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+        "type": "Employer",
+        "effectiveDate": "10/28/2024"
       }
     ]
   },
