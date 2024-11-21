@@ -2233,18 +2233,23 @@
   {
     "id": "1459373",
     "name": "BANOS, JASON",
-    "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
-    "phone": "(212) 390-2571",
-    "email": "nathalie.wilson@blackstone.com",
-    "registrationDate": "06/30/2024",
+    "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
+    "phone": "(212) 878-0600",
+    "email": "info@keyslawcorp.com",
+    "registrationDate": "11/11/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "06/30/2024"
+      },
+      {
+        "entityName": "WARBURG PINCUS LLC",
+        "type": "Employer",
+        "effectiveDate": "11/11/2024"
       }
     ]
   },
@@ -5108,14 +5113,15 @@
     "address": "9 WEST 57TH STREET\nNEW YORK, NY 10019",
     "phone": "(212) 515-3449",
     "email": "mbrody@apollo.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/31/2024",
     "ethicsCourseCompletionDate": "04/27/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/31/2024"
       }
     ]
   },
@@ -7193,6 +7199,7 @@
     "phone": "(916) 447-5053",
     "email": "gcavinta@nalobby.com",
     "registrationDate": "01/25/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9038,6 +9045,21 @@
     ]
   },
   {
+    "id": "1477010",
+    "name": "CORCORAN, MOLLIE",
+    "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-7464",
+    "registrationDate": "11/04/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AXIOM ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "11/04/2024"
+      }
+    ]
+  },
+  {
     "id": "1467659",
     "name": "CORDEIRO, BRANDEN",
     "address": "1455 PENNSYLVANIA AVENUE NW\nWASHINGTON , DC 20004",
@@ -9110,6 +9132,7 @@
     "phone": "(279) 789-0011",
     "email": "andrea.m.correia@gsk.com",
     "registrationDate": "05/21/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -12405,6 +12428,7 @@
     "phone": "(212) 295-6220",
     "email": "jason.eck@lombardodier.com",
     "registrationDate": "11/27/2023",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -22728,6 +22752,7 @@
     "phone": "(212) 295-6220",
     "email": "jason.eck@lombardodier.com",
     "registrationDate": "11/27/2023",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24768,9 +24793,9 @@
     "address": "1215 K STREET, SUITE 2230\nSACRAMENTO, CA 95814",
     "phone": "(916) 216-9215",
     "email": "shane@lavignestrategies.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/20/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Active",
+    "status": "Inactive",
     "relationships": [
       {
         "entityName": "CAPITOL ADVOCACY, LLC",
@@ -43835,7 +43860,7 @@
   {
     "id": "1441834",
     "name": "TEHRANIAN, CHRISTOPHER P.",
-    "address": "12 EAST 20TH STREET\nNEW YORK, NY 10016",
+    "address": "915 BROADWAY, FLOOR 20\nNEW YORK, NY 10010",
     "phone": "(602) 402-6511",
     "email": "compliance@vision-ridge.com",
     "registrationDate": "03/20/2023",
@@ -46555,7 +46580,8 @@
     "phone": "(917) 655-1525",
     "email": "brennan@activecappartners.com",
     "mailingAddress": "12 GRAMATAN COURT\nBRONXVILLE, NY 10708",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/20/2024",
+    "ethicsCourseCompletionDate": "11/01/2023",
     "status": "Active",
     "relationships": [
       {
@@ -49025,6 +49051,7 @@
     "phone": "(916) 554-5312",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "08/01/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
