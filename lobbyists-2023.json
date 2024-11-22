@@ -37573,6 +37573,22 @@
     ]
   },
   {
+    "id": "1473969",
+    "name": "RIVERA, JENNIFER",
+    "address": "1201 NORTH BROADWAY\nLOS ANGELES, CA 90012",
+    "phone": "(310) 746-4200",
+    "email": "amy.arentowicz@mccourtpartners.com",
+    "registrationDate": "08/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MCCOURT PARTNERS REAL ESTATE LLC AND ITS AFFILIATES, CHAVEZ RAVINE LAND COMPANY LLC AND AERIAL RAPID TRANSIT TECHNOLOGIES LLC",
+        "type": "Employer",
+        "effectiveDate": "08/30/2024"
+      }
+    ]
+  },
+  {
     "id": "1348985",
     "name": "RIVERA, NICOLE",
     "address": "1309 COLLEGE AVENUE, 2ND FLOOR\nSANTA ROSA, CA 95404",
@@ -39592,6 +39608,23 @@
         "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1473968",
+    "name": "SCHAPIRO, DAVE",
+    "address": "1201 NORTH BROADWAY\nLOS ANGELES, CA 90012",
+    "phone": "(310) 746-4200",
+    "email": "amy.arentowicz@mccourtpartners.com",
+    "registrationDate": "08/30/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MCCOURT PARTNERS REAL ESTATE LLC AND ITS AFFILIATES, CHAVEZ RAVINE LAND COMPANY LLC AND AERIAL RAPID TRANSIT TECHNOLOGIES LLC",
+        "type": "Employer",
+        "effectiveDate": "08/30/2024"
       }
     ]
   },
@@ -41806,7 +41839,8 @@
       {
         "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
-        "effectiveDate": "11/22/2023"
+        "effectiveDate": "11/22/2023",
+        "terminationDate": "11/05/2024"
       }
     ]
   },
@@ -47534,6 +47568,7 @@
     "phone": "(512) 361-2837",
     "email": "melissa.whitney@palisades-group.com",
     "registrationDate": "07/01/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
