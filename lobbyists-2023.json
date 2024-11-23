@@ -10981,6 +10981,22 @@
     ]
   },
   {
+    "id": "1477060",
+    "name": "DELLINGER, JAMIE",
+    "address": "4700 WILSHIRE BOULEVARD\nLOS ANGELES, CA 90010",
+    "phone": "(213) 652-3534",
+    "email": "jdellinger@cimgroup.com",
+    "registrationDate": "11/18/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CIM GROUP L.P.",
+        "type": "Employer",
+        "effectiveDate": "11/18/2024"
+      }
+    ]
+  },
+  {
     "id": "1149569",
     "name": "DELVAC, WILLIAM F",
     "address": "12100 WILSHIRE BLVD, STE 1600\nLOS ANGELES, CA 90025",
@@ -35896,6 +35912,7 @@
     "email": "liz@westcap.com",
     "mailingAddress": "2669 GREENWICH STREET\nSAN FRANCISCO, CA 94123",
     "registrationDate": "04/08/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
