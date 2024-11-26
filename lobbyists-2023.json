@@ -312,9 +312,9 @@
     "address": "4801 23RD STREET\nSACRAMENTO, CA 95822",
     "phone": "(916) 718-9079",
     "email": "laguilar@serlinhaley.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/22/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SERLIN HALEY LLP",
@@ -4297,7 +4297,8 @@
       {
         "entityName": "FIERA CAPITAL INC.",
         "type": "Employer",
-        "effectiveDate": "05/07/2024"
+        "effectiveDate": "05/07/2024",
+        "terminationDate": "11/04/2024"
       }
     ]
   },
@@ -8169,14 +8170,15 @@
     "name": "CLAY, DELILAH  ",
     "address": "1215 K STREET, SUITE 1800\nSACRAMENTO, CA 95814",
     "phone": "(916) 341-3470",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/11/2024",
     "ethicsCourseCompletionDate": "11/17/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AT&T SERVICES INC. AND ITS AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/11/2024"
       }
     ]
   },
@@ -13665,6 +13667,7 @@
     "phone": "(323) 422-7365",
     "email": "ivan@calaborfed.org",
     "registrationDate": "01/08/2024",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16942,14 +16945,15 @@
     "phone": "(713) 452-2112",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (713) 452-2112\nEmail: info@keyslawcorp.com",
-    "registrationDate": "11/14/2023",
+    "registrationDate": "09/30/2024",
     "ethicsCourseCompletionDate": "11/08/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "QEP ADVISERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "09/30/2024"
       }
     ]
   },
@@ -37176,14 +37180,15 @@
     "phone": "(818) 781-4680",
     "email": "ronreynolds@capso.org",
     "mailingAddress": "15916 GAULT STREET\nVAN NUYS, CA 91406",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "07/01/2024",
     "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSOCIATION OF PRIVATE SCHOOL ORGANIZATIONS",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "07/01/2024"
       }
     ]
   },
