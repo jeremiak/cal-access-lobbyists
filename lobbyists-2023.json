@@ -3493,6 +3493,7 @@
     "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
     "phone": "(212) 359-7345",
     "registrationDate": "06/24/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15168,6 +15169,7 @@
     "phone": "(213) 233-5776",
     "email": "iholz@aracapital.com",
     "registrationDate": "07/01/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21508,6 +21510,22 @@
         "entityName": "EARLY CARE AND EDUCATION CONSORTIUM",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1477045",
+    "name": "JACOBSON, CAMILLE",
+    "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
+    "phone": "(202) 637-8924",
+    "email": "compliance_ca_nuveen_10@multistate.u",
+    "registrationDate": "11/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "11/20/2024"
       }
     ]
   },
