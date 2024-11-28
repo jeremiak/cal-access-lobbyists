@@ -11663,8 +11663,7 @@
   {
     "id": "1467677",
     "name": "DOHEMANN, SCOTT R.",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
-    "phone": "(415) 670-2312",
+    "address": "725 PONCE DE LEON AVENUE, NE\nATLANTA, GA 30306",
     "email": "scott.dohemann@blackrock.com",
     "registrationDate": "02/20/2024",
     "status": "Active",
@@ -24831,9 +24830,9 @@
     "address": "1215 K STREET, SUITE 2230\nSACRAMENTO, CA 95814",
     "phone": "(916) 216-9215",
     "email": "shane@lavignestrategies.com",
-    "registrationDate": "11/20/2024",
+    "registrationDate": "11/01/2024",
     "ethicsCourseCompletionDate": "11/03/2022",
-    "status": "Inactive",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CAPITOL ADVOCACY, LLC",
@@ -37928,6 +37927,7 @@
     "phone": "(916) 442-1036",
     "email": "arodriguez@acluca.org",
     "registrationDate": "06/17/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -40217,6 +40217,7 @@
     "address": "P.O. BOX 160274\nSACRAMENTO, CA 95816",
     "phone": "(858) 243-3448",
     "registrationDate": "06/28/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -42439,7 +42440,8 @@
       {
         "entityName": "CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/22/2024"
       }
     ]
   },
@@ -43716,7 +43718,8 @@
       {
         "entityName": "CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/15/2024"
       }
     ]
   },
@@ -45526,8 +45529,7 @@
   {
     "id": "1415656",
     "name": "VALVERDE ROJO, MARIO",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
-    "phone": "(310) 581-1846",
+    "address": "725 PONCE DE LEON AVENUE, NE\nATLANTA, GA 30306",
     "email": "mario.valverde@blackrock.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "11/03/2022",
@@ -46806,6 +46808,7 @@
     "address": "4TH FLOOR, 100 PALL MALL\nLONDON SW1Y5NQ, CA",
     "email": "compliance@capvest.com",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -47860,8 +47863,7 @@
   {
     "id": "1359546",
     "name": "WILLIAMSON, SCOTT",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
-    "phone": "(415) 670-7037",
+    "address": "725 PONCE DE LEO AVENUE, NE\nATLANTA, GA 30306",
     "email": "scott.williamson@blackrock.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
