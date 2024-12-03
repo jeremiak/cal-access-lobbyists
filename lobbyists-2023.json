@@ -51,6 +51,22 @@
     ]
   },
   {
+    "id": "1476676",
+    "name": "ABELON, ROBERT",
+    "address": "1717 I STREET\nSACRAMENTO, CA 95811",
+    "phone": "(707) 373-1143",
+    "email": "robbie@capitolconsultingpublicaffairs.co",
+    "registrationDate": "11/21/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL CONSULTING & PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "11/21/2024"
+      }
+    ]
+  },
+  {
     "id": "1433940",
     "name": "ABERGEL, ANDREA",
     "address": "915 L STREET SUITE 1210\nSACRAMENTO, CA 95814",
@@ -18465,6 +18481,23 @@
     ]
   },
   {
+    "id": "1474217",
+    "name": "HAMILTON, SCOTT",
+    "address": "5 HOWICK PLACE\nLONDON UK SWIP 1WG",
+    "phone": "(916) 890-3670",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PEMBERTON CAPITAL ADVISORS US, INC.",
+        "type": "Employer",
+        "effectiveDate": "10/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1470859",
     "name": "HAMMOND, ELIZABETH",
     "address": "510 MADISON AVENUE, 17TH FLOOR\nNEW YORK, NY 10022",
@@ -22941,6 +22974,7 @@
     "phone": "(203) 489-1459",
     "email": "compliance@oneriveram.com",
     "registrationDate": "08/30/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -33174,9 +33208,10 @@
   {
     "id": "1465941",
     "name": "O'REILLY, DYLAN",
-    "address": "35 SHELBOURNE \nBALLSBRIDGE DUBLIN D04 A4E0",
+    "address": "35 SHELBOURNE ROAD\nBALLSBRIDGE DUBLIN D04 A4E0",
     "email": "compliance@capvest.com",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
