@@ -7583,6 +7583,22 @@
     ]
   },
   {
+    "id": "1477082",
+    "name": "CHEN, MICHAEL",
+    "address": "900 N. MICHIGAN AVENUE, 14TH FLOOR\nCHICAGO, IL 60611",
+    "phone": "(312) 915-3543",
+    "email": "mchen@gemrc.com",
+    "registrationDate": "11/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GEM REALTY CAPITAL",
+        "type": "Employer",
+        "effectiveDate": "11/20/2024"
+      }
+    ]
+  },
+  {
     "id": "1327997",
     "name": "CHERIN, ALEX H.",
     "address": "801 SOUTH FIGUEROA STREET, SUITE 1050\nLOS ANGELES, CA 90017",
