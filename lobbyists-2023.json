@@ -15101,14 +15101,15 @@
     "address": "1201 J STREET, SUITE 300, #323\nSACRAMENTO, CA 95814",
     "phone": "(916) 833-0462",
     "email": "compliance_ca_alz_2@multistate.us",
-    "registrationDate": "02/06/2024",
+    "registrationDate": "09/30/2024",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ALZHEIMER'S ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "02/06/2024"
+        "effectiveDate": "02/06/2024",
+        "terminationDate": "09/30/2024"
       },
       {
         "entityName": "SOCIETY FOR HUMAN RESOURCE MANAGEMENT (SHRM)",
@@ -33466,6 +33467,7 @@
     "phone": "(916) 409-7223",
     "email": "kehinde@primestrategies.com",
     "registrationDate": "01/23/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -38123,7 +38125,6 @@
     "phone": "(415) 295-6333",
     "email": "tara.rolle@capso.org",
     "registrationDate": "06/01/2024",
-    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -42336,6 +42337,7 @@
     "phone": "(347) 601-5121",
     "email": "ms@westcap.com",
     "registrationDate": "04/08/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -46106,6 +46108,16 @@
     ]
   },
   {
+    "id": "1469005",
+    "name": "VINDIOLA, MARTIN",
+    "address": "1231 I STREET, SUITE 206\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-3413",
+    "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1468414",
     "name": "VISCARRA, LINDSEY",
     "address": "1779 MASSACHUSETTS AVENUE, SUITE 500\nWASHINGTON, DC 20036",
@@ -48454,7 +48466,7 @@
   {
     "id": "1424975",
     "name": "WYSOCKI, CHRIS",
-    "address": "455 CAPITOL MALL,  SUITE 800\nSACRAMENTO, CA 95814",
+    "address": "2295 GATEWAY OAKS DRIVE, SUITE 240\nSACRAMENTO, CA 95833",
     "phone": "(916) 448-7002",
     "email": "chris@wma.org",
     "registrationDate": "01/01/2023",
