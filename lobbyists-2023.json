@@ -395,14 +395,15 @@
     "address": "ONE HORNET WAY, W7 / 140\nEL SEGUNDO, CA 90245",
     "phone": "(310) 332-4667",
     "email": "joseph.ahn@ngc.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "10/28/2024",
     "ethicsCourseCompletionDate": "05/18/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/28/2024"
       }
     ]
   },
@@ -6675,6 +6676,7 @@
     "address": "535 MADISON AVENUE, 24TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 973-8600",
     "registrationDate": "09/10/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -8510,6 +8512,7 @@
     "phone": "(212) 430-1400",
     "email": "compliance@capvest.com",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19056,6 +19059,7 @@
     "phone": "(212) 476-8071",
     "email": "aharsch@american-securities.com",
     "registrationDate": "08/23/2023",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -30884,6 +30888,7 @@
     "phone": "(212) 430-1400",
     "email": "info@capvest.com",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -37672,6 +37677,7 @@
     "phone": "(310) 746-4200",
     "email": "amy.arentowicz@mccourtpartners.com",
     "registrationDate": "08/30/2024",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
