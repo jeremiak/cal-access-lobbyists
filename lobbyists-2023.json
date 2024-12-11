@@ -11446,6 +11446,22 @@
     ]
   },
   {
+    "id": "1291590",
+    "name": "DIAZ, CESAR",
+    "address": "1301 I STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-0400",
+    "email": "cdiaz@capitoladvocacy.com",
+    "registrationDate": "11/26/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "11/26/2024"
+      }
+    ]
+  },
+  {
     "id": "1277372",
     "name": "DIAZ, MANNY J.",
     "address": "580 NORTH 15TH STREET\nSAN JOSE, CA 95112",
