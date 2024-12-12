@@ -4104,14 +4104,15 @@
     "address": "315 PARK AVENUE SOUTH, 18TH FLOOR\nNEW YORK, NY 10010",
     "phone": "(347) 705-5162",
     "email": "tblois@docksideplatforms.com",
-    "registrationDate": "06/20/2024",
+    "registrationDate": "11/21/2024",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DOCKSIDE LLC",
         "type": "Employer",
-        "effectiveDate": "06/20/2024"
+        "effectiveDate": "06/20/2024",
+        "terminationDate": "11/21/2024"
       }
     ]
   },
@@ -11664,7 +11665,7 @@
   {
     "id": "1473102",
     "name": "DOBENS, SEAN TEPLITZKY",
-    "address": "15 EAST 26TH STREET\nNEW YORK, NY 10010",
+    "address": "4 E. 27TH STREET, P.O BOX 20011\nNEW YORK, NY 10001",
     "phone": "(917) 280-4014",
     "email": "sdobens@iconiqcapital.com",
     "registrationDate": "08/16/2024",
@@ -21080,7 +21081,7 @@
   {
     "id": "1458541",
     "name": "HUNOLD, LEE",
-    "address": "11 EAST 26TH STREET\nNEW YORK, NY 10010",
+    "address": "4 E. 27TH STREET, P.O BOX 20011\nNEW YORK, NY 10001",
     "phone": "(212) 981-6152",
     "email": "lhunold@iconiqcapital.com",
     "registrationDate": "01/20/2023",
@@ -35044,7 +35045,8 @@
       {
         "entityName": "READ & ASSOCIATES, LLC; AARON",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/26/2024"
       }
     ]
   },
