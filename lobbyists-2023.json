@@ -4462,6 +4462,22 @@
     ]
   },
   {
+    "id": "1404248",
+    "name": "BOOT, SARAH",
+    "address": "1215 K STREET, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-6670",
+    "email": "sarah.boot@calchamber.com",
+    "registrationDate": "06/13/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BOOT ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "06/13/2024"
+      }
+    ]
+  },
+  {
     "id": "1442182",
     "name": "BORASI, MATT",
     "address": "1201 K STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -7355,8 +7371,8 @@
   {
     "id": "1357786",
     "name": "CHAMPION, LAURA",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
-    "phone": "(415) 670-4841",
+    "address": "725 PONCE DE LEON AVENUE, NE\nATLANTA, GA 30306",
+    "phone": "(470) 520-5315",
     "email": "laura.champion@blackrock.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/01/2022",
@@ -13876,7 +13892,8 @@
       {
         "entityName": "KAYNE ANDERSON CAPITAL ADVISORS, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/31/2024"
+        "effectiveDate": "01/31/2024",
+        "terminationDate": "11/08/2024"
       }
     ]
   },
@@ -15842,8 +15859,8 @@
   {
     "id": "1456901",
     "name": "GHIA, RAJEEV",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
-    "phone": "(415) 670-2634",
+    "address": "725 PONCE DE LEON AVE, NE\nATLANTA, GA 30306",
+    "phone": "(470) 520-5315",
     "email": "rajeev.ghia@blackrock.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "12/08/2022",
@@ -20706,6 +20723,7 @@
     "phone": "(312) 659-6628",
     "email": "compliance_ca_rwe_3@multistate.us",
     "registrationDate": "02/22/2024",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -22136,23 +22154,6 @@
     "relationships": [
       {
         "entityName": "POLITICAL SOLUTIONS, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1234233",
-    "name": "JOHNSON, LAURIE",
-    "address": "3945 E. PACIFIC AVENUE\nSACRAMENTO, CA 95820",
-    "phone": "(916) 524-5627",
-    "email": "lauriejconsult@gmail.com",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "L J CONSULTING & ADVOCACY",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
       }
@@ -32068,6 +32069,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2023",
         "terminationDate": "04/30/2024"
+      },
+      {
+        "entityName": "UBS ASSET MANAGEMENT (AMERICAS) LLC",
+        "type": "Employer",
+        "effectiveDate": "05/28/2024"
       }
     ]
   },
@@ -45375,7 +45381,7 @@
     "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
     "phone": "(916) 492-9363",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "11/03/2022",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -49009,10 +49015,10 @@
   {
     "id": "1148957",
     "name": "ZARAGOZA-DIAZ, MARTHA ",
-    "address": "5930 SOUTH LAND PARK DRIVE, #221790\nSACRAMENTO, CA 95822",
+    "address": "5960 SOUTH LAND PARK DRIVE #428\nSACRAMENTO, CA 95822",
     "phone": "(916) 395-2616",
     "email": "lobbyist1.mzd@gmail.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/26/2023",
     "status": "Active",
     "relationships": [
