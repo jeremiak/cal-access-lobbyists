@@ -2596,9 +2596,8 @@
   {
     "id": "1425001",
     "name": "BARSOTTI, BRITTNEY",
-    "address": "1517 H STREET #407\nSACRAMENTO, CA 95814",
-    "phone": "(916) 288-6000",
-    "email": "info@keyslawcorp.com",
+    "address": "1201 K STREET, SUITE 1990\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-4900",
     "mailingAddress": "C/O KEYS LAW CORPORATION, 428 J STREET\nSUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 288-6000\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
@@ -8762,6 +8761,7 @@
     "phone": "(916) 448-3545",
     "email": "dconway@cagrocers.com",
     "registrationDate": "11/06/2023",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -22617,7 +22617,13 @@
     "email": "akader@sixthstreet.com",
     "registrationDate": "06/24/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/24/2024"
+      }
+    ]
   },
   {
     "id": "1468872",
@@ -32084,6 +32090,7 @@
     "phone": "(973) 715-9385",
     "email": "compliance_ca_giffords_1@multistate.us",
     "registrationDate": "11/01/2024",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -41239,8 +41246,9 @@
   {
     "id": "1383060",
     "name": "SILHI, ALYSSA",
-    "address": "1127 11TH STREET, SUITE 300\nSACRAMENTO, CA 95814",
-    "phone": "(916) 974-9270",
+    "address": "925 L STREET\nSACRAMENTO, CA 95814",
+    "phone": "(313) 701-9046",
+    "email": "asilhi@ford.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
