@@ -28921,6 +28921,7 @@
     "phone": "(310) 284-6434",
     "email": "gmatthews@kaynecapital.com",
     "registrationDate": "08/01/2024",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32686,6 +32687,7 @@
     "phone": "(312) 601-9749",
     "email": "jennichols@williamblair.com",
     "registrationDate": "09/24/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -48355,14 +48357,15 @@
     "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
     "phone": "(916) 557-1100",
     "email": "erin.woolley@sierraclub.org",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/06/2024",
     "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIERRA CLUB",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/06/2024"
       }
     ]
   },
