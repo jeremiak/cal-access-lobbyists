@@ -8148,13 +8148,14 @@
     "address": "1201 SEVEN LOCKS ROAD, SUITE 360\nROCKVILLE, MD 20854",
     "phone": "(213) 435-1200",
     "email": "liliana@brimleygroup.com",
-    "registrationDate": "08/11/2020",
-    "status": "Active",
+    "registrationDate": "09/11/2020",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BRIMLEY GROUP; THE",
         "type": "Firm",
-        "effectiveDate": "08/11/2020"
+        "effectiveDate": "08/11/2020",
+        "terminationDate": "09/11/2020"
       }
     ]
   },
@@ -14673,14 +14674,15 @@
     "address": "614 27TH STREET\nSACRAMENTO, CA 95816",
     "phone": "(916) 337-9532",
     "email": "greggollihur@sbcglobal.net",
-    "registrationDate": "03/12/2020",
+    "registrationDate": "06/30/2020",
     "ethicsCourseCompletionDate": "03/12/2020",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HIGHER EDUCATION CONSULTING SERVICES LLC",
         "type": "Firm",
-        "effectiveDate": "01/29/2019"
+        "effectiveDate": "01/29/2019",
+        "terminationDate": "06/30/2020"
       }
     ]
   },
@@ -18012,14 +18014,15 @@
     "address": "280 PARK AVENUE TOWER WEST, 35TH FL.\nNEW YORK, NY 10017",
     "phone": "(212) 881-1207",
     "email": "paulszep@fpcgllc.com",
-    "registrationDate": "06/06/2019",
+    "registrationDate": "02/14/2020",
     "ethicsCourseCompletionDate": "03/21/2019",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FPCG, LLC (D/B/A FOCUS POINT PRIVATE CAPITAL GROUP)",
         "type": "Employer",
-        "effectiveDate": "06/06/2019"
+        "effectiveDate": "06/06/2019",
+        "terminationDate": "02/14/2020"
       }
     ]
   },
@@ -24267,7 +24270,6 @@
     "name": "MAGNANI, BRUCE A.",
     "address": "1107 9TH STREET, SUITE 930\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-9884",
-    "mailingAddress": "P.O. BOX 1736\nSACRAMENTO, CA 95812-1736",
     "registrationDate": "01/01/2019",
     "ethicsCourseCompletionDate": "01/10/2019",
     "status": "Active",
@@ -36615,15 +36617,9 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SIVERLING ADVOCACY",
-        "type": "Firm",
-        "effectiveDate": "01/01/2019",
-        "terminationDate": "12/31/2019"
-      },
-      {
         "entityName": "YARYAN SIVERLING",
         "type": "Firm",
-        "effectiveDate": "01/01/2020"
+        "effectiveDate": "01/01/2019"
       }
     ]
   },

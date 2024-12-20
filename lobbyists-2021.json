@@ -1205,8 +1205,6 @@
   {
     "id": "1441188",
     "name": "ARGUETA, ISABELLA",
-    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA",
-    "phone": "(916) 318-8866",
     "registrationDate": "08/16/2021",
     "ethicsCourseCompletionDate": "11/04/2021",
     "status": "Active",
@@ -3592,7 +3590,7 @@
         "entityName": "DISCOVERY CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2021",
-        "terminationDate": "04/01/2021"
+        "terminationDate": "05/01/2021"
       }
     ]
   },
@@ -3810,9 +3808,16 @@
     "address": "712 5TH AVENUE., 8TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 887-1207",
     "email": "paulszep@fpcgllc.com",
-    "registrationDate": "04/13/2022",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/05/2022",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "FPCG, LLC (D/B/A FOCUS POINT PRIVATE CAPITAL GROUP)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2021",
+        "terminationDate": "08/05/2022"
+      }
+    ]
   },
   {
     "id": "1342955",
@@ -6552,9 +6557,16 @@
     "address": "712 TH AVENUE.,8TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 887-1207",
     "email": "paulszep@fpcgll.com",
-    "registrationDate": "04/13/2022",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/14/2022",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "FPCG, LLC (D/B/A FOCUS POINT PRIVATE CAPITAL GROUP)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2021",
+        "terminationDate": "01/14/2022"
+      }
+    ]
   },
   {
     "id": "1222669",
@@ -7398,7 +7410,8 @@
       {
         "entityName": "DISCOVERY CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2021"
+        "effectiveDate": "01/01/2021",
+        "terminationDate": "10/01/2022"
       }
     ]
   },
@@ -7998,7 +8011,8 @@
       {
         "entityName": "N.A. INVESTCORP LLC",
         "type": "Employer",
-        "effectiveDate": "11/01/2021"
+        "effectiveDate": "11/01/2021",
+        "terminationDate": "02/09/2024"
       }
     ]
   },
@@ -8049,7 +8063,8 @@
       {
         "entityName": "CORBIN AND KAISER, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2021"
+        "effectiveDate": "01/01/2021",
+        "terminationDate": "06/10/2024"
       }
     ]
   },
@@ -10506,7 +10521,6 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (713) 452-2111\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2021",
-    "ethicsCourseCompletionDate": "12/03/2020",
     "status": "Active",
     "relationships": [
       {
@@ -11955,7 +11969,7 @@
     "name": "FAHRNEY, LAURA",
     "address": "101 SOUTH TRYON STREET, SUITE 3400\nCHARLOTTE, NC 28280",
     "phone": "(704) 944-0917",
-    "email": "lfahreny@ridgemontep.com",
+    "email": "lfahrney@ridgemontep.com",
     "registrationDate": "03/08/2021",
     "ethicsCourseCompletionDate": "04/15/2021",
     "status": "Active",
@@ -15237,12 +15251,13 @@
     "mailingAddress": "4704 FORMAN AVE\nTOLUCA LAKE, CA 91602\nPhone: (623) 235-0339\nEmail: omar.gonzales@nikolamotor.com",
     "registrationDate": "02/05/2021",
     "ethicsCourseCompletionDate": "11/04/2021",
-    "status": "Active",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "NIKOLA CORPORATION",
         "type": "Employer",
-        "effectiveDate": "02/08/2021"
+        "effectiveDate": "02/05/2021",
+        "terminationDate": "02/05/2021"
       }
     ]
   },
@@ -16655,6 +16670,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO , CA 95814",
     "registrationDate": "10/28/2022",
+    "ethicsCourseCompletionDate": "12/08/2022",
     "status": "Active",
     "relationships": [
       {
@@ -18140,14 +18156,15 @@
     "address": "1029 H STREET, SUITE 401\nSACRAMENTO, CA 95814",
     "phone": "(916) 706-0136",
     "email": "taneicia@josiahyounglaw.com",
-    "registrationDate": "06/17/2021",
+    "registrationDate": "11/17/2021",
     "ethicsCourseCompletionDate": "08/12/2021",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "YOUNG, PC; THE LAW OFFICE OF JOSIAH",
         "type": "Firm",
-        "effectiveDate": "06/17/2021"
+        "effectiveDate": "06/17/2021",
+        "terminationDate": "11/17/2021"
       }
     ]
   },
@@ -20453,9 +20470,9 @@
     "address": "353 NORTH CLARK STREET, SUITE 730\nCHICAGO, IL 60654",
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2021",
+    "registrationDate": "12/31/2022",
     "ethicsCourseCompletionDate": "06/10/2021",
-    "status": "Active",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "BLUE VISTA CAPITAL MANAGEMENT, LLC",
@@ -25538,7 +25555,8 @@
       {
         "entityName": "VITRUVIAN PARTNERS LTD",
         "type": "Employer",
-        "effectiveDate": "02/15/2022"
+        "effectiveDate": "02/15/2022",
+        "terminationDate": "09/30/2023"
       }
     ]
   },
@@ -25930,7 +25948,7 @@
     "address": "1127 11TH STREET, SUITE 206\nSACRAMENTO, CA 95814",
     "phone": "(213) 624-6200",
     "mailingAddress": "515 S. FIGUEROA STREET, SUITE 1110\nLOS  ANGELES, CA 90071",
-    "registrationDate": "12/02/2023",
+    "registrationDate": "12/02/2022",
     "ethicsCourseCompletionDate": "01/28/2021",
     "status": "Terminated",
     "relationships": [
@@ -26713,14 +26731,15 @@
     "address": "527 MADISON AVENUE, FLOOR 6\nNEW YORK, NY 10022",
     "phone": "(646) 747-9526",
     "email": "emceneny@mudrickcapital.com",
-    "registrationDate": "07/13/2021",
+    "registrationDate": "12/20/2022",
     "ethicsCourseCompletionDate": "11/04/2021",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MUDRICK CAPITAL MANAGEMENT, LP",
         "type": "Firm",
-        "effectiveDate": "07/13/2021"
+        "effectiveDate": "07/13/2021",
+        "terminationDate": "12/20/2022"
       }
     ]
   },
@@ -29457,7 +29476,7 @@
   },
   {
     "id": "1421358",
-    "name": "NELSON , CHELSEA",
+    "name": "NELSON, CHELSEA",
     "address": "345 PARK AVENUE\nNEW YORK , NY 10154",
     "phone": "(518) 461-3051",
     "email": "chelsea.nelson@blackstone.com",
@@ -30628,14 +30647,15 @@
     "address": "925 L STREET, SUITE 850\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-7732",
     "email": "borozco@calcable.org",
-    "registrationDate": "01/01/2021",
+    "registrationDate": "09/30/2022",
     "ethicsCourseCompletionDate": "02/12/2021",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA CABLE & TELECOMMUNICATIONS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2021"
+        "effectiveDate": "01/01/2021",
+        "terminationDate": "09/30/2022"
       }
     ]
   },
@@ -31141,19 +31161,10 @@
     ]
   },
   {
-    "id": "1456744",
+    "id": "1456733",
     "name": "PANDYA, RAJ",
     "address": "40 MADISON AVE.\nNEW YORK, NY 10010",
     "phone": "(212) 616-6850",
-    "registrationDate": "12/08/2022",
-    "status": "Active",
-    "relationships": []
-  },
-  {
-    "id": "1456733",
-    "name": "PANDYA, RAJIV",
-    "address": "41 MADISON AVENUE, 40TH FLOOR\nNEW YORK, NY 10010",
-    "phone": "(917) 434-0498",
     "registrationDate": "11/23/2022",
     "status": "Active",
     "relationships": [
@@ -33669,14 +33680,15 @@
     "name": "REIJNDERS, JOHANNUS L.",
     "address": "1401 DOVE STREET, SUITE 300\nNEWPORT BEACH, CA 92660",
     "phone": "(949) 399-9050",
-    "registrationDate": "01/01/2021",
+    "registrationDate": "03/15/2022",
     "ethicsCourseCompletionDate": "02/25/2021",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2021"
+        "effectiveDate": "01/01/2021",
+        "terminationDate": "03/15/2022"
       }
     ]
   },
@@ -33886,15 +33898,6 @@
         "effectiveDate": "01/01/2021"
       }
     ]
-  },
-  {
-    "id": "1395453",
-    "name": "REYES, CATRINA",
-    "address": "816 21ST STREET\nSACRAMENTO, CA 95814",
-    "phone": "(415) 345-8667",
-    "registrationDate": "12/14/2022",
-    "status": "Active",
-    "relationships": []
   },
   {
     "id": "1451773",
@@ -39272,6 +39275,7 @@
     "phone": "(559) 392-8718",
     "email": "cass2011@ymail.com",
     "registrationDate": "12/01/2022",
+    "ethicsCourseCompletionDate": "04/15/2021",
     "status": "Active",
     "relationships": [
       {
@@ -39885,14 +39889,15 @@
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
     "phone": "(916) 432-5217",
     "email": "csweeney@cahf.org",
-    "registrationDate": "03/10/2022",
+    "registrationDate": "09/09/2022",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSOCIATION OF HEALTH FACILITIES",
         "type": "Employer",
-        "effectiveDate": "03/10/2022"
+        "effectiveDate": "03/10/2022",
+        "terminationDate": "09/09/2022"
       }
     ]
   },
@@ -40834,13 +40839,13 @@
     "address": "1177 AVENUE OF THE AMERICAS\nNEW YORK, NY 10036",
     "phone": "(212) 667-5626",
     "email": "patricia.tiralongo@cibc.com",
-    "registrationDate": "09/09/2022",
+    "registrationDate": "10/01/2022",
     "status": "Active",
     "relationships": [
       {
         "entityName": "CIBC PRIVATE WEALTH ADVISORS, INC.",
         "type": "Firm",
-        "effectiveDate": "09/09/2022"
+        "effectiveDate": "10/01/2022"
       }
     ]
   },
