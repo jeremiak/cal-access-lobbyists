@@ -7507,6 +7507,7 @@
     "phone": "(212) 822-0419",
     "email": "achastain-chapman@apollo.com",
     "registrationDate": "01/31/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -8348,8 +8349,8 @@
     "name": "COFFMAN, ALEXANDER",
     "address": "214 BARTON SPRINGS RD, APT 1003\nAUSTIN, TX 78704",
     "phone": "(916) 840-6875",
-    "registrationDate": "08/01/2024",
-    "status": "Active",
+    "registrationDate": "12/06/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FRONTIER TECHNOLOGY PARTNERS, LLC",
@@ -10315,23 +10316,6 @@
         "entityName": "LEAD EDGE CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "07/26/2024"
-      }
-    ]
-  },
-  {
-    "id": "1357760",
-    "name": "DAMON, JAMES G.",
-    "address": "10 EAST 53RD STREET\nNEW YORK, NY 10022",
-    "phone": "(212) 478-9886",
-    "email": "jamie.damon@firstsentier.com",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "01/27/2022",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "FIRST SENTIER INVESTORS  (US) LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -21256,6 +21240,7 @@
     "phone": "(212) 605-6081",
     "email": "jhwang@onerockcapital",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "03/09/2023",
     "status": "Active",
     "relationships": [
       {
@@ -30814,6 +30799,7 @@
     "address": "WEST 35TH FLOOR, MIRAE ASSET CENTER 1\n26 EULJI-RO 5-GIL",
     "email": "jkmin@crescendoep.com",
     "registrationDate": "08/21/2024",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -37362,6 +37348,7 @@
     "email": "ol-compliance-am-us@btgpactual.com",
     "mailingAddress": "601 LEXINGTON AVENUE, 57TH FLOOR\nNEW YORK, NY 10022",
     "registrationDate": "01/22/2024",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -49121,6 +49108,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nKEY LAW CORP\nSACARMENTO, CA 95814",
     "registrationDate": "05/15/2024",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
