@@ -7693,6 +7693,22 @@
     ]
   },
   {
+    "id": "1476783",
+    "name": "CHHUOR, TIFFANY",
+    "address": "10100 SANTA MONICA BOULEVARD, SUITE 600\nLOS ANGELES, CA 90067",
+    "phone": "(310) 270-5089",
+    "email": "tiffany.chhuor@carlyle.com",
+    "registrationDate": "11/06/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/08/2024"
+      }
+    ]
+  },
+  {
     "id": "1445355",
     "name": "CHIA, DAN",
     "address": "1017 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
@@ -10854,14 +10870,15 @@
     "phone": "(916) 890-3670",
     "email": "info@keyslasxorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW \nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "11/01/2024",
     "ethicsCourseCompletionDate": "07/21/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HENDERSON PARK CAPITAL AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "11/01/2024"
       }
     ]
   },
@@ -14598,6 +14615,22 @@
         "entityName": "ARNOLD & ASSOCIATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1476782",
+    "name": "FRACCALVIERI, MACKENZIE",
+    "address": "10100 SANTA MONICA BOULEVARD, SUITE 600\nLOS ANGELES, CA 90067",
+    "phone": "(310) 575-1713",
+    "email": "mackenzie.fraccalvieri@carlyle.com",
+    "registrationDate": "11/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/08/2024"
       }
     ]
   },
@@ -25157,6 +25190,22 @@
     ]
   },
   {
+    "id": "1466377",
+    "name": "LASRY , SOPHIE",
+    "address": "11 WEST 42ND STREET, 9TH FLOOR\nNEW YORK , NY 10036",
+    "phone": "(212) 878-3542",
+    "email": "selasry@avenuecapital.com",
+    "registrationDate": "01/22/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AVENUE CAPITAL MANAGEMENT II, L.P. AND ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "01/22/2024"
+      }
+    ]
+  },
+  {
     "id": "1149559",
     "name": "LATIMER, JOHN ",
     "address": "1301 I STREET\nSACRAMENTO, CA 95814",
@@ -33331,7 +33380,8 @@
       {
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
-        "effectiveDate": "11/13/2023"
+        "effectiveDate": "11/13/2023",
+        "terminationDate": "10/30/2024"
       }
     ]
   },
@@ -40520,7 +40570,7 @@
   {
     "id": "1228607",
     "name": "SENDERLING-MCDONALD, CATHERINE E",
-    "address": "1401 21ST STREET, SUITE R\nSACRAMENTO, CA 95811",
+    "address": "524 GARDEN STREET\nSACRAMENTO, CA 95815",
     "phone": "(916) 799-4471",
     "email": "csm@catbirdstrategies.com",
     "registrationDate": "01/01/2024",
@@ -42575,6 +42625,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL SUITE 600\nSACRAMENTO, CA 95814\nPhone: (310) 954-0436\nEmail: fppc@bmhlaw.com",
     "registrationDate": "05/01/2024",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -45461,6 +45512,22 @@
         "entityName": "COATUE MANAGEMENT, L.L.C.",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1467400",
+    "name": "USIAK, DAVID",
+    "address": "11 WEST 42ND STREET, 9TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(212) 878-3546",
+    "email": "dusiak@avenuecapital.com",
+    "registrationDate": "01/30/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AVENUE CAPITAL MANAGEMENT II, L.P. AND ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "01/30/2024"
       }
     ]
   },
