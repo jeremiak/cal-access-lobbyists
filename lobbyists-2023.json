@@ -24574,7 +24574,8 @@
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
-        "effectiveDate": "08/21/2023"
+        "effectiveDate": "08/21/2023",
+        "terminationDate": "10/10/2024"
       }
     ]
   },
@@ -25399,7 +25400,7 @@
   {
     "id": "1334386",
     "name": "LAZARUS, BENJAMIN",
-    "address": "7 WORLD TRADE CENTER, 250 GREENWICH ST.\n30TH FLOOR",
+    "address": "7 WORLD TRADE CENTER, 250 GREENWICH ST.\n32TH FLOOR",
     "phone": "(212) 232-1420",
     "email": "compliance@capstoneco.com",
     "registrationDate": "07/01/2023",
@@ -32661,6 +32662,7 @@
     "phone": "(617) 531-6335",
     "email": "dnica@arclight.com",
     "registrationDate": "06/10/2024",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -41768,6 +41770,7 @@
     "phone": "(212) 833-2800",
     "email": "msmendzuik@torchlightinvestors.com",
     "registrationDate": "11/01/2023",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -47917,14 +47920,15 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
-    "registrationDate": "10/01/2023",
+    "registrationDate": "09/30/2024",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MUDRICK CAPITAL MANAGEMENT LP",
         "type": "Employer",
-        "effectiveDate": "10/01/2023"
+        "effectiveDate": "10/01/2023",
+        "terminationDate": "09/30/2024"
       }
     ]
   },
