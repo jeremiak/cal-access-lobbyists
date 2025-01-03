@@ -18732,6 +18732,7 @@
     "phone": "(312) 855-5700",
     "email": "gabrielle.hanson@heitman.com",
     "registrationDate": "05/30/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25199,6 +25200,7 @@
     "phone": "(212) 878-3542",
     "email": "selasry@avenuecapital.com",
     "registrationDate": "01/22/2024",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -26891,6 +26893,22 @@
         "entityName": "CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1477190",
+    "name": "LORUSSO, DREW",
+    "address": "200 CLARENDON STREET\nBOSTON, MA 02116",
+    "phone": "(617) 516-2000",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "10/09/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BAIN CAPITAL, LP",
+        "type": "Employer",
+        "effectiveDate": "10/09/2024"
       }
     ]
   },
@@ -45528,6 +45546,7 @@
     "phone": "(212) 878-3546",
     "email": "dusiak@avenuecapital.com",
     "registrationDate": "01/30/2024",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
