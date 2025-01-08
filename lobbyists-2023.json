@@ -13660,6 +13660,7 @@
     "phone": "(916) 561-5617",
     "email": "sfenaroli@cfbf.com",
     "registrationDate": "04/30/2024",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35121,8 +35122,13 @@
     "mailingAddress": "C/O KEYS LAW CORPORATION 428 J STREET\nSUITE 412\nSACRAMENTO, CA 95608",
     "registrationDate": "11/27/2024",
     "ethicsCourseCompletionDate": "09/09/2022",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "PERRY STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "11/27/2024"
+      },
       {
         "entityName": "READ & ASSOCIATES, LLC; AARON",
         "type": "Firm",
