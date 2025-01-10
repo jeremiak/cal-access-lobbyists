@@ -5390,6 +5390,7 @@
     "phone": "(404) 216-6164",
     "email": "lewis.brown@csh.org",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21786,6 +21787,21 @@
     ]
   },
   {
+    "id": "1477578",
+    "name": "JANSEN, DEREK",
+    "address": "150 POST STREET, STE 405\nSAN FRANCISCO, CA 94108",
+    "phone": "(415) 732-7700",
+    "registrationDate": "10/15/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MERCURY PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "10/15/2024"
+      }
+    ]
+  },
+  {
     "id": "1382200",
     "name": "JARDINI, BARRY",
     "address": "1107 9TH STREET, SUITE 1025\nSACRAMENTO, CA 95816",
@@ -24830,6 +24846,7 @@
     "phone": "(907) 250-4496",
     "email": "compliance_ca_braeburn_1@multistate.u",
     "registrationDate": "09/04/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
