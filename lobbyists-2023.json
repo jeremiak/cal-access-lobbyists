@@ -2613,6 +2613,22 @@
     ]
   },
   {
+    "id": "1477577",
+    "name": "BARTHELEMY, FREDERIC",
+    "address": "60 STATE STREET\nBOSTON, MA 02109",
+    "phone": "(617) 422-4915",
+    "email": "frederic.barthelemy@amundi.com",
+    "registrationDate": "12/19/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMUNDI US, INC. AND ITS AFFILIATE  AMUNDI ASSET MANAGEMENT US, INC.",
+        "type": "Employer",
+        "effectiveDate": "12/19/2024"
+      }
+    ]
+  },
+  {
     "id": "1323508",
     "name": "BARTHOLOW, JESSICA",
     "address": "1029 K STREET\nSACRAMENTO, CA 95814",
@@ -10525,13 +10541,14 @@
     "address": "4 EMBARCADERO CENTER, SUITE 550\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 954-4518",
     "email": "ryan.dawley@matthewsasia.com",
-    "registrationDate": "09/19/2023",
-    "status": "Active",
+    "registrationDate": "10/24/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MATTHEWS INTERNATIONAL CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "09/19/2023"
+        "effectiveDate": "09/19/2023",
+        "terminationDate": "10/24/2024"
       }
     ]
   },
@@ -14564,14 +14581,15 @@
     "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK , FL 32789",
     "phone": "(407) 420-9903",
     "email": "compliance@drz-inc.com",
-    "registrationDate": "01/30/2023",
+    "registrationDate": "12/31/2024",
     "ethicsCourseCompletionDate": "02/16/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
         "type": "Employer",
-        "effectiveDate": "01/30/2023"
+        "effectiveDate": "01/30/2023",
+        "terminationDate": "12/31/2024"
       }
     ]
   },
@@ -24606,7 +24624,7 @@
     "name": "KOSIW, YULIA",
     "address": "250 PARK AVENUE, 15TH FLOOR\nNEW YORK, NY 10177",
     "phone": "(917) 589-3400",
-    "email": "yulia.kosiw@globalevolution.net",
+    "email": "yulia.kosiw@globalevolution.com",
     "registrationDate": "01/19/2023",
     "status": "Active",
     "relationships": [
@@ -24788,7 +24806,7 @@
     "name": "KUMAR, JANHAVI",
     "address": "250 PARK AVENUE, 15TH FLOOR\nNEW YORK, NY 10177",
     "phone": "(312) 451-4963",
-    "email": "janhavi.kumar@globalevolution.net",
+    "email": "janhavi.kumar@globalevolution.com",
     "registrationDate": "01/19/2023",
     "status": "Active",
     "relationships": [
@@ -37023,14 +37041,15 @@
     "address": "60 STATE STREET\nBOSTON, MA 02109",
     "phone": "(949) 573-3164",
     "email": "brian.reed@amundipioneer.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/12/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AMUNDI US, INC. AND ITS AFFILIATE  AMUNDI ASSET MANAGEMENT US, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/12/2024"
       }
     ]
   },
