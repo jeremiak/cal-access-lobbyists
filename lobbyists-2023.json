@@ -5470,7 +5470,7 @@
   {
     "id": "1363241",
     "name": "BROWN, TRISTAN",
-    "address": "1107 9TH STREET, SUITE 460\nSACRAMENTO, CA 95814",
+    "address": "1225 H STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-2788",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "1127 11TH STREET, SUITE 346\nSACRAMENTO, CA 95814",
@@ -11994,6 +11994,22 @@
         "entityName": "INVESTCORP ABSOLUTE RETURN INVESTMENTS LLC",
         "type": "Employer",
         "effectiveDate": "08/20/2024"
+      }
+    ]
+  },
+  {
+    "id": "1477062",
+    "name": "DOP, MONTE",
+    "address": "2099 CHAMONIX LANE, 1A\nAVON, CO 81657",
+    "phone": "(212) 300-1600",
+    "email": "mdop@fieracapital.com",
+    "registrationDate": "11/04/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIERA CAPITAL INC.",
+        "type": "Employer",
+        "effectiveDate": "11/04/2024"
       }
     ]
   },
@@ -31194,7 +31210,7 @@
   {
     "id": "1306565",
     "name": "MOK, TIFFANY",
-    "address": "1107 9TH STREET, SUITE 460\nSACRAMENTO, CA 95814",
+    "address": "1225 H STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-2788",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2023",
@@ -42962,7 +42978,7 @@
   {
     "id": "1330846",
     "name": "STEIGER, MITCH",
-    "address": "1107 NINTH STREET SUITE 460\nSACRAMENTO, CA 95814",
+    "address": "1225 H STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-2788",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "09/26/2023",
@@ -43251,7 +43267,13 @@
     "mailingAddress": "880 CARILLON PARKWAY\nST. PETERSBURG, FL 33716",
     "registrationDate": "07/01/2023",
     "status": "Revoked",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CARILLON TOWER ADVISERS, INC D/B/A RAYMOND JAMES INVESTMENT MANAGEMENT",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
   },
   {
     "id": "1421563",
@@ -47898,8 +47920,8 @@
   {
     "id": "1335644",
     "name": "WIENER, GREGORY SETH",
-    "address": "630 5TH AVENUE, SUITE 2502 \nNEW YORK, NY 10111",
-    "phone": "(212) 223-8448",
+    "address": "1901 AVENUE OF THE STARS\nLOS ANGELES, CA 90067",
+    "phone": "(212) 223-1901",
     "email": "wiener@campbell-lutyens.com",
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "08/10/2023",
