@@ -7560,13 +7560,14 @@
     "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
     "phone": "(916) 557-1102",
     "email": "bobbijo.chavarria@sierraclub.org",
-    "registrationDate": "07/22/2024",
-    "status": "Active",
+    "registrationDate": "12/24/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIERRA CLUB",
         "type": "Employer",
-        "effectiveDate": "07/22/2024"
+        "effectiveDate": "07/22/2024",
+        "terminationDate": "12/24/2024"
       }
     ]
   },
@@ -29065,6 +29066,23 @@
     ]
   },
   {
+    "id": "1415112",
+    "name": "MAULA, MOLLY",
+    "address": "1127 11TH STREET, SUITE 1030\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-6400",
+    "email": "sos@stephencompany.com",
+    "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "01/26/2023",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1442220",
     "name": "MAUNG, SOPHIE",
     "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
@@ -38055,23 +38073,6 @@
       {
         "entityName": "EDELSTEIN, GILBERT, ROBSON & SMITH, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
-  },
-  {
-    "id": "1415112",
-    "name": "ROBSON, MOLLY",
-    "address": "1127 11TH STREET, SUITE 1030\nSACRAMENTO, CA 95814",
-    "phone": "(916) 443-6400",
-    "email": "sos@stephencompany.com",
-    "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "01/26/2023",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
-        "type": "Employer",
         "effectiveDate": "01/01/2023"
       }
     ]
@@ -48567,7 +48568,7 @@
     "name": "WRAY, HELEN A.",
     "address": "60 EAST 42ND STREET, SUITE 5230\nNEW YORK, NY 10165",
     "phone": "(397) 472-9840",
-    "email": "hwray@lenexcm.com",
+    "email": "hwray@tenexcm.com",
     "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
