@@ -2602,14 +2602,15 @@
     "address": "1201 K STREET, SUITE 1990\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-4900",
     "mailingAddress": "C/O KEYS LAW CORPORATION, 428 J STREET\nSUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 288-6000\nEmail: info@keyslawcorp.com",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/06/2024",
     "ethicsCourseCompletionDate": "01/12/2023",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "C.N.P.A. SERVICES, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/06/2024"
       }
     ]
   },
@@ -7386,6 +7387,21 @@
         "entityName": "BRATTLE ADVISORS LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
+    "id": "1477203",
+    "name": "CHAMPION, CHARLES",
+    "address": "1517 H STREET, #407\nSACRAMENTO, CA 95814",
+    "phone": "(916) 288-6000",
+    "registrationDate": "12/06/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "C.N.P.A. SERVICES, INC.",
+        "type": "Firm",
+        "effectiveDate": "12/06/2024"
       }
     ]
   },
@@ -48357,6 +48373,7 @@
     "phone": "(916) 441-0490",
     "email": "twolken@caltax.org",
     "registrationDate": "01/01/2023",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
