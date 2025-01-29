@@ -25302,6 +25302,19 @@
     ]
   },
   {
+    "id": "1421966",
+    "name": "LATOUR-JARQUIN, DEANNA",
+    "registrationDate": "12/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MAJORITY ADVISORS, LLC",
+        "type": "Firm",
+        "effectiveDate": "12/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1363013",
     "name": "LAU, GREGORY",
     "address": "599 LEXINGTON AVENUE, SUITE 1800\nNEW YORK, NY 10022",
@@ -45106,7 +45119,6 @@
     "phone": "(332) 270-5496",
     "email": "ctrant@vistaequitypartners.com",
     "registrationDate": "02/14/2024",
-    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
