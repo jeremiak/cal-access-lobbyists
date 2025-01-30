@@ -9422,7 +9422,8 @@
       {
         "entityName": "RK INVESTMENT MANAGEMENT LIMITED",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/15/2024"
       }
     ]
   },
@@ -26284,6 +26285,7 @@
     "phone": "(415) 877-4887",
     "email": "compliance@foresitecapital.com",
     "registrationDate": "03/28/2024",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
