@@ -22216,14 +22216,15 @@
     "phone": "(312) 634-4031",
     "email": "ellann.johnson@antares.com",
     "mailingAddress": "280 PARK AVENUE\nNEW YORK, NY 10017",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/15/2024",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ANTARES CAPITAL LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/15/2024"
       }
     ]
   },
@@ -36250,6 +36251,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "03/28/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -40575,7 +40577,7 @@
     "name": "SEAVER, JEFFREY R",
     "address": "225 WEST WACKER DRIVE SUITE 1200\nCHICAGO, IL 60606",
     "phone": "(312) 816-7476",
-    "email": "jeffrey.seaver@ppmamerican.com",
+    "email": "jeffrey.seaver@ppmamerica.com",
     "registrationDate": "02/08/2024",
     "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
@@ -42891,14 +42893,15 @@
     "address": "500 WEST MONROE STREET\nCHICAGO, IL 60661",
     "phone": "(646) 989-7431",
     "mailingAddress": "280 PARK AVENUE\nNEW YORK, NY 10017\nPhone: (646) 989-7431",
-    "registrationDate": "01/01/2023",
+    "registrationDate": "12/15/2024",
     "ethicsCourseCompletionDate": "03/10/2022",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ANTARES CAPITAL LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/15/2024"
       }
     ]
   },
