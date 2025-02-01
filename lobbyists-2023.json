@@ -27850,6 +27850,16 @@
     ]
   },
   {
+    "id": "1476988",
+    "name": "MAHOOD, SAM",
+    "address": "1301 I STREET\nSACRAMENTO, CA 94814",
+    "phone": "(916) 444-0400",
+    "email": "smahood@capitoladvocacy.com",
+    "registrationDate": "11/01/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1442628",
     "name": "MAINTHIA, AMRITA",
     "address": "20 UNIVERSITY ROAD, STE 450\nCAMBRIDGE, MA 02138",
@@ -35323,7 +35333,6 @@
     "phone": "(212) 538-9416",
     "email": "shaun.peterson@ubs.com",
     "registrationDate": "06/13/2024",
-    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
