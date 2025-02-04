@@ -12966,6 +12966,15 @@
     ]
   },
   {
+    "id": "1477471",
+    "name": "ELROI, NOAM",
+    "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "12/23/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1449402",
     "name": "EMMERSEN, SAM",
     "address": "801 SOUTH GRAND AVENUE, SUITE 200\nLOS ANGELES, CA 90017",
@@ -17062,7 +17071,6 @@
     "address": "1121 L STREET, #309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "04/15/2024",
-    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23846,6 +23854,7 @@
     "address": "292 MADISON AVENUE, FL 8\nNEW YORK, NY 10017",
     "phone": "(212) 756-3508",
     "registrationDate": "05/23/2024",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -29690,6 +29699,7 @@
     "address": "292 MADISON AVENUE, FL 8\nNEW YORK, NY 10017",
     "phone": "(212) 756-3508",
     "registrationDate": "05/23/2024",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -43430,7 +43440,6 @@
     "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "08/26/2024",
-    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
