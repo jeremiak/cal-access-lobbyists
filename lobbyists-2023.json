@@ -9468,6 +9468,7 @@
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-1036",
     "registrationDate": "02/01/2023",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32734,7 +32735,8 @@
       {
         "entityName": "T. ROWE PRICE ASSOCIATES, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "10/01/2024"
       }
     ]
   },
