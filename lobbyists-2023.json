@@ -5359,13 +5359,7 @@
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "09/09/2022",
     "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ARC STRATEGIES, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1444604",
@@ -9522,13 +9516,7 @@
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "09/09/2022",
     "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ARC STRATEGIES, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1414432",
@@ -13676,13 +13664,7 @@
     "registrationDate": "01/01/2023",
     "ethicsCourseCompletionDate": "01/12/2023",
     "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ARC STRATEGIES, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1261544",
@@ -45242,6 +45224,7 @@
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
     "phone": "(916) 441-6400",
     "registrationDate": "01/01/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -46553,7 +46536,8 @@
       {
         "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2023"
+        "effectiveDate": "01/01/2023",
+        "terminationDate": "12/18/2024"
       }
     ]
   },
