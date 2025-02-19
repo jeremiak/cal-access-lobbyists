@@ -3514,6 +3514,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "05/15/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -14796,7 +14797,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 318-8866",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "11/01/2024",
+    "ethicsCourseCompletionDate": "12/01/2022",
     "status": "Active",
     "relationships": [
       {
@@ -24856,6 +24857,7 @@
     "email": "info@keyslawkorp.com",
     "mailingAddress": "KEYS LAW CORPORATION 428 J STREET\nSUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 318-8866\nEmail: info@keyslawkorp.com",
     "registrationDate": "08/01/2024",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28709,7 +28711,6 @@
     "address": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
     "phone": "(916) 510-5177",
     "registrationDate": "02/15/2024",
-    "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
     "relationships": [
       {
@@ -43070,7 +43071,8 @@
       {
         "entityName": "BRIGHT LIGHT STRATEGIES",
         "type": "Firm",
-        "effectiveDate": "03/20/2024"
+        "effectiveDate": "03/20/2024",
+        "terminationDate": "11/15/2024"
       }
     ]
   },
