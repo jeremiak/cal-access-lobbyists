@@ -16229,7 +16229,7 @@
     "address": "1121 L STREET, SUITE 100\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-6222",
     "registrationDate": "01/01/2023",
-    "ethicsCourseCompletionDate": "09/27/2024",
+    "ethicsCourseCompletionDate": "09/09/2022",
     "status": "Active",
     "relationships": [
       {
@@ -44546,6 +44546,9 @@
   {
     "id": "1377554",
     "name": "THOMPSON, JON R.",
+    "address": "300 NORTH LA SALLE STREET #3300\nCHICAGO, IL 60654",
+    "phone": "(415) 658-3300",
+    "email": "jthompson@stockbridge.com",
     "registrationDate": "01/01/2023",
     "status": "Active",
     "relationships": [
