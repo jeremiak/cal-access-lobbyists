@@ -17830,6 +17830,22 @@
     ]
   },
   {
+    "id": "1477289",
+    "name": "GRIMES, BRANT",
+    "address": "230 PARK AVENUE, 14TH FLOOR\nNEW YORK, NY 10169",
+    "phone": "(415) 542-6524",
+    "email": "brant.grimes@voya.com",
+    "registrationDate": "11/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VOYA INVESTMENT MANAGEMENT CO. LLC",
+        "type": "Employer",
+        "effectiveDate": "11/11/2024"
+      }
+    ]
+  },
+  {
     "id": "1460393",
     "name": "GRIMM, CHRIS",
     "address": "295 SEVEN FARMS DRIVE, SC-266\nDANIEL ISLAND , SC 29492",
