@@ -4041,6 +4041,23 @@
     ]
   },
   {
+    "id": "1477118",
+    "name": "CHAUBARD, EMMALYNN",
+    "address": "1107 9TH STREET, SUITE 500\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-5844",
+    "email": "echaubard@cal-dsa.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA DISABILITY SERVICES ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1427093",
     "name": "CHAUDHARY, OMAR",
     "address": "4000 MACARTHUR BOULEVARD, SUITE 1000\nNEWPORT BEACH, CA 92660",
@@ -6075,6 +6092,13 @@
     ]
   },
   {
+    "id": "1273280",
+    "name": "DEVERS, SYRUS",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1417925",
     "name": "DEVINE, HANNAH E.",
     "address": "401 GOLDEN SHORE, #135\nLONG BEACH, CA 90802",
@@ -7589,6 +7613,7 @@
     "phone": "(916) 442-1036",
     "email": "mflemming@acluca.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11260,6 +11285,23 @@
     ]
   },
   {
+    "id": "1149468",
+    "name": "HOWARD, EDWARD",
+    "address": "1043 57TH STREET\nSACRAMENTO, CA 95819",
+    "phone": "(916) 844-5646",
+    "email": "eh4@sbcglobal.net",
+    "mailingAddress": "4700 MARLBOROUGH WAY\nCARMICHAEL, CA 95608-6228",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOWARD ADVOCACY, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1447345",
     "name": "HOWARD, JESSICA J.",
     "address": "1102 Q STREET, SUITE 4800\nSACRAMENTO, CA 95811",
@@ -12764,6 +12806,23 @@
       {
         "entityName": "CAMPBELL & COMPANY, LP AND CAMPBELL & COMPANY INVESTMENT ADVISER LLC, A WHOLLY OWNED SUBSIDIARY",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1421996",
+    "name": "KELLY, TANNER",
+    "address": "2821 ARIZONA AVENUE, SUITE A\nSANTA MONICA, CA 90404",
+    "phone": "(714) 721-0385",
+    "email": "tanner@tannerkelly.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TK PUBLIC AFFAIRS",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -18258,6 +18317,7 @@
     "phone": "(916) 442-1036",
     "email": "gparampathu@acluca.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20151,6 +20211,7 @@
     "phone": "(916) 580-0700",
     "mailingAddress": "1102 Q STREET, SUITE 13\nSACRAMENTO, CA 95811\nPhone: (916) 580-0700",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
     "relationships": [
       {
