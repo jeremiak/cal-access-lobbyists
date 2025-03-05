@@ -1964,6 +1964,22 @@
     ]
   },
   {
+    "id": "1441527",
+    "name": "BEWICK, KEITH",
+    "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 90017",
+    "phone": "(213) 760-7675",
+    "email": "keith.bewick@tcw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCW, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1456046",
     "name": "BEZDEK, CLARISSA ''KAM''",
     "address": "1225 8TH STREET SUITE 340\nSACRAMENTO, CA 95814",
@@ -2921,6 +2937,23 @@
     ]
   },
   {
+    "id": "1223153",
+    "name": "BROWN, AMY L.",
+    "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
+    "phone": "(916) 341-0808",
+    "email": "abrown@lawpolicy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARC STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1444604",
     "name": "BROWN, DEREK",
     "address": "1251 AVENUE OF THE AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
@@ -3413,6 +3446,23 @@
     ]
   },
   {
+    "id": "1345745",
+    "name": "CAMPBELL, CHRISTOPHER",
+    "address": "375 PARK AVENUE, SUITE 2201\nNEW YORK, NY 10022",
+    "phone": "(212) 430-1400",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1383516",
     "name": "CAMPBELL, GREG C",
     "address": "1414 K STREET, SUITE 600\nSACRAMENTO, CA 95814",
@@ -3589,6 +3639,22 @@
       {
         "entityName": "FOLEY & LARDNER LLP",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1341399",
+    "name": "CARIERI, JOSEPH ",
+    "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 90071",
+    "phone": "(213) 760-8046",
+    "email": "joseph.carieri@tcw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCW, LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -4229,6 +4295,22 @@
     ]
   },
   {
+    "id": "1342048",
+    "name": "CHIODI, MASSIMO R.",
+    "address": "2078 PROSPECTOR AVENUE, UNIT 11\nPARK CITY, UT 84060",
+    "phone": "(786) 436-0030",
+    "email": "mchiodi@kpgcapitalpartners.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KPG CAPITAL PARTNERS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1360413",
     "name": "CHONG, RACHELLE",
     "address": "345 WEST PORTAL AVENUE, SUITE 110\nSAN FRANCISCO, CA 94127",
@@ -4337,6 +4419,22 @@
     "relationships": [
       {
         "entityName": "PINESTONE ASSET MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1403000",
+    "name": "CLARK HARVEY, LE ONDRA ",
+    "address": "455 CAPITOL MALL, SUITE 315\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-1166",
+    "email": "lclarkharvey@cccbha.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNCIL OF COMMUNITY BEHAVIORAL HEALTH AGENCIES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -4619,6 +4717,23 @@
     "relationships": [
       {
         "entityName": "CHARTERHOUSE CAPITAL PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1467224",
+    "name": "COLSON, TIMOTHY",
+    "address": "375 PARK AVENUE, SUITE 2201\nNEW YORK, NY 10022",
+    "phone": "(212) 430-1400",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -5163,6 +5278,23 @@
       {
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1346652",
+    "name": "CRAIG, KIM",
+    "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
+    "phone": "(916) 341-0808",
+    "email": "kcraig@lawpolicy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARC STRATEGIES, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -6177,6 +6309,24 @@
       {
         "entityName": "ARIEL INVESTMENTS, LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1148531",
+    "name": "DI MARE, DOMINIC F.",
+    "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
+    "phone": "(916) 341-0808",
+    "email": "ddimare@lawpolicy.com",
+    "mailingAddress": "P.O. BOX 1736\nSACRAMENTO, CA 95812-1736",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARC STRATEGIES, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -7233,6 +7383,22 @@
     ]
   },
   {
+    "id": "1381371",
+    "name": "FELDMAN, JONATHAN",
+    "address": "1121 11TH STREET, SUITE 408\nSACRAMENTO, CA 95814",
+    "phone": "(916) 341-0808",
+    "email": "jfeldman@lawpolicy.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARC STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1231563",
     "name": "FELIZZATTO, DANIEL V",
     "address": "1100 K STREET, SUITE 404\nSACRAMENTO, CA 95814",
@@ -7569,6 +7735,22 @@
     "relationships": [
       {
         "entityName": "RIVERSIDE COUNTY DISTRICT ATTORNEY'S OFFICE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1467712",
+    "name": "FITZPATRICK, SEAMUS",
+    "address": "4TH FLOOR, 100 PALL MALL \nLONDON SW1Y5NQ",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -9850,14 +10032,20 @@
     "address": "1301 I STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-0400",
     "email": "lgullahorn@capitoladvocacy.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/13/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/10/2025"
+      },
+      {
+        "entityName": "GULLAHORN STRATEGIES; LINDSAY",
+        "type": "Firm",
+        "effectiveDate": "01/13/2025"
       }
     ]
   },
@@ -14492,6 +14680,23 @@
     ]
   },
   {
+    "id": "1381265",
+    "name": "LLOYD, WILLIAM ",
+    "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 90017",
+    "phone": "(212) 771-4149",
+    "email": "william.lloyd@tcw.com",
+    "mailingAddress": "865 SOUTH FIGUEROA STREET\nLOS ANGELES, CA 90017\nPhone: (212) 771-4149\nEmail: william.lloyd@tcw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCW, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1370594",
     "name": "LO, ZEN FEI",
     "address": "8 SOUND SHORE DRIVE\nGREENWICH, CT 06830",
@@ -14835,6 +15040,23 @@
     "relationships": [
       {
         "entityName": "LYON CONSULTING; RJ",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1466143",
+    "name": "MAAS, JARED",
+    "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
+    "phone": "(916) 955-7635",
+    "email": "e@glaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARC STRATEGIES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -15754,7 +15976,13 @@
     "email": "irene.mavroyannis@seraadvisory.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "PARTNERS GROUP (USA) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1460713",
@@ -16009,6 +16237,22 @@
     "relationships": [
       {
         "entityName": "PJT PARTNERS LP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477477",
+    "name": "MC HALE, JOHN",
+    "address": "1415 L STREET, STE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-6752",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -16634,6 +16878,23 @@
     ]
   },
   {
+    "id": "1467221",
+    "name": "MINTERN, JAMES",
+    "address": "375 PARK AVENUE, SUITE 2201\nNEW YORK, NY 10022",
+    "phone": "(212) 430-1400",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1462363",
     "name": "MIRAMONTES, BRYANT",
     "address": "1121 L STREET, SUITE 904\nSACRAMENTO, CA 95814",
@@ -16700,6 +16961,22 @@
       {
         "entityName": "PGIM, INC.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1336656",
+    "name": "MOFFATT, JOHN ",
+    "address": "1415 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-6752",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -17133,6 +17410,22 @@
     ]
   },
   {
+    "id": "1467220",
+    "name": "MURPHY, MICHAEL",
+    "address": "4TH FLOOR, 100 PALL MALL\nLONDON UK SW1Y5NQ",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1441675",
     "name": "MURPHY, ROSS",
     "address": "222 BERKELEY STREET, 18TH FLOOR\nBOSTON , MA 02116",
@@ -17292,6 +17585,22 @@
       {
         "entityName": "MUDRICK CAPITAL MANAGEMENT LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1415072",
+    "name": "NEILL, GEOFFREY",
+    "address": "1415 L STREET\nSUITE 1200",
+    "phone": "(916) 446-6752",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -17744,6 +18053,22 @@
     ]
   },
   {
+    "id": "1465941",
+    "name": "O'REILLY, DYLAN",
+    "address": "35 SHELBOURNE, BALLSBRIDGE  \nDUBLIN D04 A4E0",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST IRISH PARTNERS LIMITED",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1437191",
     "name": "O'SHEA, THOMAS",
     "address": "10 STATE HOUSE SQUARE, 12TH FLOOR\nHARTFORD, CT 06103",
@@ -18021,7 +18346,13 @@
     "email": "kyle.osborn@partnersgroup.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "PARTNERS GROUP (USA) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1395584",
@@ -18271,6 +18602,22 @@
     "relationships": [
       {
         "entityName": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1419767",
+    "name": "PAPADOPOULOS, PETER J.",
+    "address": "2301 MISSION STREET, SUITE 301\nSAN FRANCISCO, CA 94110",
+    "phone": "(415) 282-3334",
+    "email": "ppapadopoulos@medasf.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MISSION ECONOMIC DEVELOPMENT AGENCY (MEDA)",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -18568,6 +18915,23 @@
       {
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1405697",
+    "name": "PERRY, MAX",
+    "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
+    "phone": "(916) 341-0808",
+    "email": "mperry@lawpolicy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARC STRATEGIES, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -19912,6 +20276,23 @@
     ]
   },
   {
+    "id": "1297099",
+    "name": "ROBERSON, STEPHANIE A. ",
+    "address": "5930 SOUTH LAND PARK DRIVE, UNIT 22282\nSACRAMENTO, CA 95822",
+    "phone": "(916) 600-7928",
+    "email": "stephanie@srstrategiesca.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROBERSON STRATEGIES LLC; STEPHANIE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1361718",
     "name": "ROBINSON, MATTHEW H.",
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -19953,7 +20334,13 @@
     "email": "carina.lukas@partnersgroup.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "PARTNERS GROUP (USA) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1241733",
@@ -20134,6 +20521,22 @@
       {
         "entityName": "NIEMELA, PAPPAS AND ASSOCIATES",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1334666",
+    "name": "ROMANO, MARK A.",
+    "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 90017",
+    "phone": "(213) 760-7436",
+    "email": "mark.romano@tcw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCW, LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -20486,6 +20889,38 @@
       {
         "entityName": "ROXSON, P.C.; LAW OFFICE OF RANDY D.",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1293564",
+    "name": "RUBALCAVA, MICHELLE",
+    "address": "1415 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-6752",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479432",
+    "name": "RUBIO RINCON, JESSICA V.",
+    "address": "2301 MISSION STREET, SUITE 301\nSAN FRANCISCO, CA 94110",
+    "phone": "(415) 282-3334",
+    "email": "jrubio@medasf.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MISSION ECONOMIC DEVELOPMENT AGENCY (MEDA)",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -22009,6 +22444,21 @@
     ]
   },
   {
+    "id": "1299801",
+    "name": "SMITH, MARK ",
+    "address": "1001 K STREET, 6TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 335-5072",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SMITH POLICY GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1387038",
     "name": "SMITH, MELISSA A.",
     "address": "200 EAST RANDOLPH STREET, SUITE 2900\nCHICAGO, IL 60601-6505",
@@ -22575,10 +23025,15 @@
     "address": "455 CAPITOL MALL, SUITE 315\nSACRAMENTO, CA 95814",
     "phone": "(209) 915-9809",
     "email": "cstelzer@cccbha.org",
-    "mailingAddress": "417 41ST STREET\nSACRAMENTO, CA 95819",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNCIL OF COMMUNITY BEHAVIORAL HEALTH AGENCIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1447310",
@@ -24684,6 +25139,38 @@
     ]
   },
   {
+    "id": "1465932",
+    "name": "WATSON, HENRY",
+    "address": "4TH FLOOR, 100 PALL MALL\nLONDON SW1Y5NQ, CA",
+    "email": "compliance@capvest.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149193",
+    "name": "WATTS, MARK",
+    "address": "1127 11TH STREET, SUITE 747\nSACRAMENTO, CA 95814",
+    "phone": "(916) 813-1107",
+    "email": "mark@whstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WATTS ADVOCACY; MARK",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1348106",
     "name": "WEIL, CARTER",
     "address": "100 WEST PUTNAM AVENUE\nGREENWICH, CT 06830",
@@ -25362,6 +25849,22 @@
         "entityName": "DEVEAU BURR GROUP, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477710",
+    "name": "WRIGHT, KYLIE",
+    "address": "980 9TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-4545",
+    "email": "kyliew@acwa.com",
+    "registrationDate": "01/02/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+        "type": "Employer",
+        "effectiveDate": "01/02/2025"
       }
     ]
   },
