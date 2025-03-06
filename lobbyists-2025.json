@@ -750,6 +750,22 @@
     ]
   },
   {
+    "id": "1148056",
+    "name": "ARRIAGA, JOHN E.",
+    "address": "1017 L STREET SUITE 517\nSACRAMENTO, CA 95814",
+    "phone": "(916) 718-8586",
+    "email": "johnarriaga@jeaandassociates.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JEA AND ASSOCIATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1447612",
     "name": "ASHLEY, SAMARA",
     "address": "1100 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
@@ -1947,6 +1963,21 @@
     ]
   },
   {
+    "id": "1470511",
+    "name": "BERRY, ERIN",
+    "address": "399 PARK AVENUE, 22ND FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 359-7345",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TFG ASSET MANAGEMENT US LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1232024",
     "name": "BETTENCOURT, JOANNE M",
     "address": "1127 11TH STREET, SUITE 700\nSACRAMENTO, CA 95814",
@@ -2760,6 +2791,23 @@
     ]
   },
   {
+    "id": "1476278",
+    "name": "BRESLIN, MARLEY JANE",
+    "address": "10 EAST 53RD STREET\nNEW YORK, NY 10022",
+    "phone": "(212) 848-9255",
+    "email": "marley.breslin@stewartinvestors.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIRST SENTIER INVESTORS  (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2024"
+      }
+    ]
+  },
+  {
     "id": "1339534",
     "name": "BREWER, ROD",
     "address": "1201 K STREET, SUITE 1810\nSACRAMENTO, CA 95814",
@@ -3195,16 +3243,6 @@
         "effectiveDate": "01/01/2025"
       }
     ]
-  },
-  {
-    "id": "1392744",
-    "name": "BUCKLEY, ROSS E.",
-    "address": "111 L STREET\nSACRAMENTO, CA 95814",
-    "phone": "(805) 674-8667",
-    "email": "fppc@bmhlaw.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": []
   },
   {
     "id": "1474007",
@@ -3802,6 +3840,22 @@
     "relationships": [
       {
         "entityName": "TT INTERNATIONAL",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1462883",
+    "name": "CASTIGNETTI, JULIE ",
+    "address": "12 EAST 49TH STREET, 36TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(212) 224-8929",
+    "email": "jcastignetti@qic.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "QIC US INVESTMENT SERVICES INC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -6327,6 +6381,21 @@
       {
         "entityName": "ARC STRATEGIES, LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1337926",
+    "name": "DI PAOLO, EVAN L.",
+    "address": "399 PARK AVENUE, 22ND FLOOR\nNEW YORK , NY 10022",
+    "phone": "(212) 359-7300",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TFG ASSET MANAGEMENT US LP",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -9494,6 +9563,23 @@
         "entityName": "GOVERNMENTAL ADVOCATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479483",
+    "name": "GOZANI, DAFNA",
+    "address": "1212 BROADWAY\nOAKLAND, CA 94612",
+    "phone": "(510) 698-9180",
+    "email": "dgozani@youthlaw.org",
+    "mailingAddress": "2030 BUENA VISTA AVENUE\nALAMEDA, CA 94501",
+    "registrationDate": "01/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL CENTER FOR YOUTH LAW",
+        "type": "Employer",
+        "effectiveDate": "01/06/2025"
       }
     ]
   },
@@ -13863,7 +13949,8 @@
       {
         "entityName": "PLATINUM ADVISORS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/17/2025"
       }
     ]
   },
@@ -15865,6 +15952,22 @@
     ]
   },
   {
+    "id": "1466895",
+    "name": "MATHER, JOHN",
+    "address": "875 3RD AVENUE, 24TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 624-1200",
+    "email": "jmather@cifc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CIFC ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1466662",
     "name": "MATHEWS, ANNA",
     "address": "1823 11TH STREET\nSACRAMENTO, CA 95811",
@@ -17196,6 +17299,23 @@
     ]
   },
   {
+    "id": "1148479",
+    "name": "MORIYAMA, CLIFFORD H.",
+    "address": "9975 VARESE COURT\nELK GROVE, CA 95757",
+    "phone": "(916) 215-5215",
+    "email": "cliff@cmc-us.com",
+    "mailingAddress": "1029 K STREET, #26\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MORIYAMA CONSULTING; CLIFF",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1310705",
     "name": "MORTON, MIRA C.",
     "address": "1215 K STREET, SUITE 2005\nSACRAMENTO, CA 95814",
@@ -17588,6 +17708,17 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1479129",
+    "name": "NEIDER, MARIA SPENCER",
+    "address": "1215 K STREET, SUITE 1150\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-8891",
+    "email": "mfn@platinumadvisors.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1415072",
@@ -18822,6 +18953,23 @@
     ]
   },
   {
+    "id": "1148898",
+    "name": "PELOTE, WILLIE",
+    "address": "351 ROSS WAY\nSACRAMENTO, CA 95864",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PELOTE STRATEGIC ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1460652",
     "name": "PELTON, GREG",
     "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
@@ -19040,6 +19188,23 @@
     "relationships": [
       {
         "entityName": "CONSUMER ATTORNEYS OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1476498",
+    "name": "PHAM, TIEN T",
+    "address": "10 EAST 53RD STREET, 21ST FLOOR\nNEW YORK, NY 10022",
+    "phone": "(240) 426-3351",
+    "email": "tina.pham@igneoip.com",
+    "mailingAddress": "525 OLIVE STREET\nSAN DIEGO, CA 92103",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIRST SENTIER INVESTORS  (US) LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -20216,6 +20381,22 @@
     ]
   },
   {
+    "id": "1387972",
+    "name": "RIPLEY, HILLARY",
+    "address": "10 EAST 53RD STREET\nNEW YORK, NY 10022",
+    "phone": "(917) 656-0816",
+    "email": "hillary.ripley@igneoip.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIRST SENTIER INVESTORS  (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1423807",
     "name": "RITTER, DENNEILE",
     "address": "1415 L STREET, SUITE 670\nSACRAMENTO, CA 95814",
@@ -20288,6 +20469,22 @@
       {
         "entityName": "ROBERSON STRATEGIES LLC; STEPHANIE",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1468089",
+    "name": "ROBERTSON, MARK",
+    "address": "875 3RD AVENUE, 24TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 628-1200",
+    "email": "mrobertson@cifc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CIFC ASSET MANAGEMENT LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -23232,6 +23429,40 @@
       {
         "entityName": "AEW CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1342486",
+    "name": "SUBERS, DOUG",
+    "address": "1127 11TH STREET, SUITE 331\nSACRAMENTO, CA 95814",
+    "phone": "(916) 227-2666",
+    "email": "doug@capconn.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL CONNECTION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1339125",
+    "name": "SUBERS, MEAGAN C.",
+    "address": "1127 11TH STREET, SUITE 331\nSACRAMENTO, CA 95814",
+    "phone": "(916) 227-2666",
+    "email": "meagan@capconn.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL CONNECTION",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
