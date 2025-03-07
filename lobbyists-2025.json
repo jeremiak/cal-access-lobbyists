@@ -315,6 +315,22 @@
     ]
   },
   {
+    "id": "1373664",
+    "name": "ALLRED, MEGAN ",
+    "address": "7510 ISLAND WAY\nSACRAMENTO, CA 95831",
+    "phone": "(916) 793-1733",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ELIZABETH ADVOCACY, LLC; MEGAN",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1424501",
     "name": "ALMARAZ, DORIAN",
     "address": "1020 12TH STREET, SUITE 406\nSACRAMENTO, CA 95814",
@@ -1415,7 +1431,13 @@
       {
         "entityName": "CENTENE AND ITS AFFILIATE HEALTH NET",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/24/2025"
+      },
+      {
+        "entityName": "PLATINUM ADVISORS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/24/2025"
       }
     ]
   },
@@ -1544,6 +1566,22 @@
       {
         "entityName": "CLARION PARTNERS, LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1459710",
+    "name": "BASMAJIAN, JOHN",
+    "address": "9550 TOPANGA CANYON BOULEVARD\nCHATSWORTH, CA 91311",
+    "phone": "(818) 645-1420",
+    "email": "john@thecriscomcompany.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRISCOM COMPANY; THE",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -3411,9 +3449,8 @@
   {
     "id": "1455955",
     "name": "BYNUM, MALIK",
-    "address": "4855 SEMINOLE DRIVE\nSAN DIEGO, CA 92115",
-    "phone": "(619) 263-7254",
-    "email": "compliance@olsonremcho.com",
+    "address": "1303 J STREET, SUITE 300\nSACRAMENTO, CA 95814",
+    "phone": "(916) 833-7699",
     "mailingAddress": "900 J STREET, THIRD FLOOR\nSACRAMENTO, CA 95814\nPhone: (619) 263-7254\nEmail: compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
@@ -8301,6 +8338,22 @@
     ]
   },
   {
+    "id": "1391011",
+    "name": "FUENTES, FELIPE ",
+    "address": "1201 K STREET, SUITE 750\nSACRAMENTO , CA 95814",
+    "phone": "(916) 444-3116",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APEX GROUP; THE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1466810",
     "name": "FULLINCK, CHERMAINE E.",
     "address": "50 SOUTH LASALLE STREET\nCHICAGO, IL 60603",
@@ -9053,6 +9106,22 @@
       {
         "entityName": "CASTLE HOOK PARTNERS LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1400701",
+    "name": "GLADFELTY, BRET",
+    "address": "1201 K STREET, SUITE 750\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-3116",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APEX GROUP; THE",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -13168,6 +13237,23 @@
     ]
   },
   {
+    "id": "1254233",
+    "name": "KESSLER, ALICE",
+    "address": "1201 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1111",
+    "email": "kesslera@gtlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREENBERG TRAURIG, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1437364",
     "name": "KESTENBAUM, ALLISON",
     "address": "9 WEST 57TH STREET, 35TH FLOOR\nNEW YORK, NY 10019",
@@ -16202,6 +16288,22 @@
     ]
   },
   {
+    "id": "1339419",
+    "name": "MC CREA, FREDERICK ",
+    "address": "101 2ND STREET,  SUITE 2400\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 975-3534",
+    "email": "frederick.mccrea@newtonim.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEWTON INVESTMENT MANAGEMENT NORTH AMERICA, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1389352",
     "name": "MC CUNE, MARY",
     "address": "1201 K STREET, 15TH FLOOR\nSACRAMENTO, CA 95814",
@@ -17014,6 +17116,22 @@
     ]
   },
   {
+    "id": "1459709",
+    "name": "MISSAKIAN, RENEE",
+    "address": "9550 TOPANGA CANYON BOULEVARD\nCHATSWORTH , CA 91311",
+    "phone": "(818) 282-6363",
+    "email": "renee@thecriscomcompany.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRISCOM COMPANY; THE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1394204",
     "name": "MITROVICH, CHRIS",
     "address": "51 MADISON AVENUE\nNEW YORK, NY 10010",
@@ -17718,7 +17836,13 @@
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "PLATINUM ADVISORS, LLC",
+        "type": "Firm",
+        "effectiveDate": "02/04/2025"
+      }
+    ]
   },
   {
     "id": "1415072",
@@ -17842,6 +17966,23 @@
       {
         "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1261553",
+    "name": "NICHOL, DANA D.",
+    "address": "1415 L STREET, SUITE 870\nSACRAMENTO, CA 95814",
+    "phone": "(916) 558-1926",
+    "email": "danan@water-warrior.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "REEB GOVERNMENT RELATIONS, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -19068,6 +19209,21 @@
     ]
   },
   {
+    "id": "1464933",
+    "name": "PERRON, MELANIE M.",
+    "address": "1201 K STREET, STE 750\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-3116",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APEX GROUP; THE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1405697",
     "name": "PERRY, MAX",
     "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
@@ -20147,6 +20303,22 @@
       {
         "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1393869",
+    "name": "REEB, SETH",
+    "address": "1415 L STEEET, SUITE 870\nSACRAMENTO, CA 95814",
+    "phone": "(916) 558-1926",
+    "email": "sethr@water-warrior.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "REEB GOVERNMENT RELATIONS, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -21832,22 +22004,6 @@
     ]
   },
   {
-    "id": "1477647",
-    "name": "SCHULTZ, CHRIS",
-    "address": "1303 J STREET, SUITE 600\nSACRAMENTO, CA 95814",
-    "phone": "(916) 438-4400",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA BANKERS ASSOCIATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1378568",
     "name": "SCHULTZ, STEVEN",
     "address": "9797 FALCON MEADOW DRIVE\nELK GROVE, CA 95624",
@@ -22159,6 +22315,23 @@
     ]
   },
   {
+    "id": "1297380",
+    "name": "SHANNON, PATRICK",
+    "address": "1201 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1111",
+    "email": "shannonp@gtlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREENBERG TRAURIG, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1470487",
     "name": "SHARMA, ASHA",
     "address": "8605 SANTA MONICA BOULEVARD, PMB 771982\nWEST HOLLYWOOD, CA 90069",
@@ -22305,6 +22478,22 @@
     ]
   },
   {
+    "id": "1478862",
+    "name": "SHORTNACY, REUBEN",
+    "address": "9550 TOPANGACANYON BLVD.\nCHATSWORTH, CA 91311",
+    "phone": "(559) 469-7355",
+    "email": "reuban@thecriscomcompany.com",
+    "registrationDate": "02/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRISCOM COMPANY; THE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1428188",
     "name": "SHULMAN, JACOB",
     "address": "65 EAST 55TH STREET, 32ND FLOOR\nNEW YORK, NY 10022",
@@ -22315,6 +22504,22 @@
     "relationships": [
       {
         "entityName": "OAK HILL CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477647",
+    "name": "SHULTZ, CHRIS",
+    "address": "1303 J STREET, SUITE 600\nSACRAMENTO, CA 95814",
+    "phone": "(916) 438-4400",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA BANKERS ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -26409,6 +26614,23 @@
       {
         "entityName": "STATE STREET GLOBAL ADVISORS TRUST COMPANY",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1414867",
+    "name": "ZAGAL, MAGALY L.",
+    "address": "1201 K STREET, SUITE 1000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1111",
+    "email": "magaly.zagal@gtlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREENBERG TRAURIG, LLP",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
