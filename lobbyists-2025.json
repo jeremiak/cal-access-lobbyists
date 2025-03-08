@@ -2377,6 +2377,23 @@
     ]
   },
   {
+    "id": "1435081",
+    "name": "BLUCHER, RACHAEL",
+    "address": "1415 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-6752",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1435848",
     "name": "BLUE, JOHN",
     "address": "5960 SOUTH LAND PARK DRIVE, SUITE 399\nSACRAMENTO, CA 95814",
@@ -9298,6 +9315,7 @@
     "email": "dgoldstein@vikingglobal.com",
     "mailingAddress": "660 FIFTH AVENUE, 9TH FLOOR\nNEW YORK, NY 10103",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -10368,6 +10386,22 @@
       {
         "entityName": "COATUE MANAGEMENT, L.L.C.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1471647",
+    "name": "HAGERMAN, MARISSA",
+    "address": "9980 9TH STREET SUITE 9080\nSACRAMENTO, CA 95864",
+    "phone": "(916) 838-4803",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRATTENPRICE CONSULTING",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -12444,6 +12478,23 @@
     ]
   },
   {
+    "id": "1318206",
+    "name": "JOHNSON, SIEGLINDE L.",
+    "address": "1415 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-6752",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1458887",
     "name": "JOHNSON, T. MICHAEL",
     "address": "399 THIRD AVENUE\nNEW YORK, NY 10022",
@@ -13232,6 +13283,23 @@
       {
         "entityName": "COMPASS ROSE ASSET MANAGEMENT, LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1374787",
+    "name": "KERNAN, DARBY",
+    "address": "808 R STREET, SUITE 102\nSACRAMENTO, CA 95811",
+    "phone": "(916) 769-2207",
+    "email": "dkernan@mosaicsol.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MOSAIC SOLUTIONS AND ADVOCACY",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -16294,6 +16362,7 @@
     "phone": "(415) 975-3534",
     "email": "frederick.mccrea@newtonim.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16454,6 +16523,7 @@
     "phone": "(916) 446-6752",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17193,6 +17263,7 @@
     "phone": "(916) 446-6752",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17479,6 +17550,23 @@
       {
         "entityName": "CRESCENT CAPITAL GROUP LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149488",
+    "name": "MOSSBURG, KATHLEEN J.",
+    "address": "808 8TH STREET, SUITE 102\nSACRAMENTO, CA 95811",
+    "phone": "(916) 769-2207",
+    "email": "kmossburg@mosaicsol.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MOSAIC SOLUTIONS AND ADVOCACY",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -18880,6 +18968,22 @@
     ]
   },
   {
+    "id": "1419083",
+    "name": "PANUSH, DAVID",
+    "address": "580 RIVERGATE WAY\nSACRAMENTO, CA 95831",
+    "phone": "(916) 842-0715",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA HEALTH POLICY STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1419767",
     "name": "PAPADOPOULOS, PETER J.",
     "address": "2301 MISSION STREET, SUITE 301\nSAN FRANCISCO, CA 94110",
@@ -18970,6 +19074,7 @@
     "email": "pparjus@vikingglobal.com",
     "mailingAddress": "660 FIFTH AVENUE, 9TH FLOOR\nNEW YORK, NY 10103",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19760,6 +19865,22 @@
       {
         "entityName": "BENTALLGREENOAK (U.S.) LIMITED PARTNERSHIP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1334279",
+    "name": "PRICE, JENA ",
+    "address": "980 9TH STREET SUITE 2080\nSACRAMENTO, CA 95814",
+    "phone": "(916) 834-6344",
+    "mailingAddress": "1575 ALABAMA AVENUE\nWEST SACRAMENTO, CA 95691",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRATTENPRICE CONSULTING",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -24484,6 +24605,36 @@
     ]
   },
   {
+    "id": "1149037",
+    "name": "TRATTEN, LEA-ANN",
+    "address": "980 9TH STREET SUITE 2080\nSACRAMENTO, CA 95814",
+    "phone": "(916) 834-6344",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRATTENPRICE CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1417416",
+    "name": "TRATTEN, TYLER ",
+    "address": "980 9TH STREET SUITE 2080\nSACRAMENTO, CA 95814",
+    "phone": "(916) 316-7236",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRATTENPRICE CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148428",
     "name": "TREAT, PAULA",
     "address": "5072 DODSON LANE\nSACRAMENTO, CA 95835",
@@ -24664,6 +24815,7 @@
     "phone": "(917) 670-5263",
     "email": "netty.tsai@morganstanley.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25340,6 +25492,23 @@
     "relationships": [
       {
         "entityName": "KP PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1446183",
+    "name": "WAGNER, WILL",
+    "address": "400 CAPITOL MALL, SUITE 2400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1111",
+    "email": "will.wagner@gtlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREENBERG TRAURIG, LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -26593,6 +26762,7 @@
     "email": "tyu@vikingglobal.com",
     "mailingAddress": "660 FIFTH AVENUE, 9TH FLOOR\nNEW YORK, NY 10103",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
