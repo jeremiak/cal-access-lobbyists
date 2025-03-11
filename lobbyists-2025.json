@@ -1442,6 +1442,23 @@
     ]
   },
   {
+    "id": "1476631",
+    "name": "BARNETT, RICH",
+    "address": "65 EAST 55TH STREET, 28TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(917) 229-5308",
+    "email": "rich.barnett@castlelake.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1338987",
     "name": "BAROUS, ANDREW",
     "address": "1633 BROADWAY, 48TH FLOOR\nNEW YORK, NY 10019",
@@ -2016,6 +2033,22 @@
     ]
   },
   {
+    "id": "1443452",
+    "name": "BERUTTI, JAMES",
+    "address": "63 EAST 55TH STREET, 28TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(646) 968-7146",
+    "email": "james.berutti@castlelake.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1232024",
     "name": "BETTENCOURT, JOANNE M",
     "address": "1127 11TH STREET, SUITE 700\nSACRAMENTO, CA 95814",
@@ -2451,6 +2484,23 @@
     "registrationDate": "01/01/2025",
     "status": "Active",
     "relationships": []
+  },
+  {
+    "id": "1395038",
+    "name": "BOEHM, KELLI",
+    "address": "1201 J STREET, SUITE 226\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-5284",
+    "email": "kelli@resilientlobby.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESILIENT ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1367598",
@@ -3999,6 +4049,23 @@
     ]
   },
   {
+    "id": "1467492",
+    "name": "CAVINTA, GEORGE",
+    "address": "915 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-5053",
+    "email": "gcavinta@nalobby.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NORWOOD ASSOCIATES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1380530",
     "name": "CECCHINI LEAHY, CHERYL",
     "address": "4 EMBARCADERO CENTER, 20TH FLOOR \nSAN FRANCISCO, CA 94111",
@@ -4010,6 +4077,23 @@
       {
         "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1393937",
+    "name": "CERVANTES, RJ",
+    "address": "1201 J STREET, SUITE 226\nSACRAMENTO, CA 95814",
+    "phone": "(916) 262-4682",
+    "email": "rj@resilientlobby.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESILIENT ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -9210,6 +9294,22 @@
     ]
   },
   {
+    "id": "1373472",
+    "name": "GLERUM, PETE",
+    "address": "250 NICOLLET MALL, SUITE 900\nMINNEAPOLIS, MN 55401",
+    "phone": "(612) 851-3100",
+    "email": "pete.glerum@castlelake.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1451727",
     "name": "GLIKMAN, AMILIA",
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
@@ -12649,6 +12749,23 @@
     ]
   },
   {
+    "id": "1435947",
+    "name": "JONES, SARAH",
+    "address": "250 NICOLLET MALL, SUITE 900\nMINNEAPOLIS, MN 55401",
+    "phone": "(612) 851-3037",
+    "email": "sarah.jones@castlelake.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1336832",
     "name": "JORDAN, FRANK B.",
     "address": "201 MAIN STREET, SUITE 2100\nFORT WORTH, TX 76102",
@@ -14233,6 +14350,7 @@
     "phone": "(203) 900-3658",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -14898,6 +15016,22 @@
     "relationships": [
       {
         "entityName": "ALLIANCE FOR SAFETY AND JUSTICE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1462291",
+    "name": "LITTLE, MATT",
+    "address": "65 EAST 55TH STREET, 28TH FLOOR \nNEW YORK , NY 10022",
+    "phone": "(917) 229-5350",
+    "email": "matt.little@castlelake.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -18283,6 +18417,33 @@
     ]
   },
   {
+    "id": "1262654",
+    "name": "NORWOOD, ERIN K.",
+    "address": "915 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-5053",
+    "email": "enorwood@nalobby.net",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
+    "id": "1147934",
+    "name": "NORWOOD, JOHN A. ",
+    "address": "915 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-5053",
+    "email": "jnorwood@nalobby.net",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NORWOOD ASSOCIATES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1456228",
     "name": "NOSSEIR, LARA",
     "address": "1633 BROADWAY, 48TH FLOOR\nNEW YORK, NY 10019",
@@ -21610,6 +21771,23 @@
     ]
   },
   {
+    "id": "1261662",
+    "name": "SADLER, SCOTT ",
+    "address": "1225 8TH STREET, SUITE 595\nSACRAMENTO, CA 95814",
+    "phone": "(916) 812-2176",
+    "email": "sadler@callobby.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SADLER CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1364944",
     "name": "SALAS, ISRAEL",
     "address": "925 L STREET, SUITE 650\nSACRAMENTO, CA 95814",
@@ -23925,6 +24103,23 @@
     ]
   },
   {
+    "id": "1435949",
+    "name": "SYLVESTER, BETSY",
+    "address": "250 NICOLLET MALL, SUITE 900\nMINNEAPOLIS, MN 55401",
+    "phone": "(612) 851-3010",
+    "email": "betsy.sylvester@castlelake.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1378299",
     "name": "SYME JR., KIRK",
     "address": "909 MONTGOMERY STREET, 4TH FLOOR\nSAN FRANCISCO, CA 94133",
@@ -25192,6 +25387,7 @@
     "phone": "(212) 634-7373",
     "email": "rvasami@corbincapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25396,6 +25592,23 @@
     "relationships": [
       {
         "entityName": "STRIPES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479580",
+    "name": "VIVA, JENNY",
+    "address": "65 EST 55TH STREET, 28TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(646) 968-7152",
+    "email": "jennifer.viva@castlelake.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
