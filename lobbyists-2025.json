@@ -7769,6 +7769,23 @@
     ]
   },
   {
+    "id": "1361935",
+    "name": "FIKRI, WALID M.",
+    "address": "150 NORTH RIVERSIDE PLAZA\nCHICAGO, IL 60606",
+    "phone": "(312) 364-8089",
+    "email": "wfikri@williamblair.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLAIR INVESTMENT MANAGEMENT, LLC; WILLIAM",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1471710",
     "name": "FILGAS, RICHARD",
     "address": "1127 11TH STREET, SUITE 626\nSACRAMENTO, CA 95814",
@@ -7974,6 +7991,21 @@
     "relationships": [
       {
         "entityName": "FLANIGAN FIRM; THE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1300334",
+    "name": "FLANIGAN, SHAUN",
+    "address": "1215 K STREET, SUITE 1120\nSACRAMENTO, CA 95814",
+    "phone": "(916) 207-8008",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STF CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -12418,6 +12450,23 @@
     ]
   },
   {
+    "id": "1375254",
+    "name": "JENKINS, AMY",
+    "address": "921 11TH STREET, 8TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(707) 291-3270",
+    "email": "amy@precisionadvocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PRECISION ADVOCACY GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1477227",
     "name": "JENKINS, SELBY A",
     "address": "450 PARK AVENUE, 9TH FLOOR\nNEW YORK, NY 10022",
@@ -12654,7 +12703,13 @@
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN MATEO, CA 94901",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "FRANKLIN RESOURCES, INC. AND ITS AFFILIATE, FRANKLIN TEMPLETON INSTITUTIONAL, LLC AND BENEFIT STREET PARTNERS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1468047",
@@ -13902,6 +13957,7 @@
     "address": "1127 11TH STREET, SUITE 550\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-7500",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
     "relationships": [
       {
@@ -18242,6 +18298,23 @@
     ]
   },
   {
+    "id": "1475740",
+    "name": "NICHOLS, JENNIFER",
+    "address": "150 NORTH RIVERSIDE PLAZA\nCHICAGO, IL 60606",
+    "phone": "(312) 601-9749",
+    "email": "jennichols@williamblair.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLAIR INVESTMENT MANAGEMENT, LLC; WILLIAM",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1458287",
     "name": "NIELSEN , JONAS RAVN",
     "address": "412 WEST 15TH STREET, 15TH FLOOR \nNEW YORK, NY 10011",
@@ -18425,7 +18498,13 @@
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "NORWOOD ASSOCIATES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1147934",
@@ -18855,6 +18934,22 @@
       {
         "entityName": "ASSOCIATION OF REGIONAL CENTER AGENCIES",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1266958",
+    "name": "OSBORN, GEORGE L.",
+    "address": "4840 FINLANDIA WAY\nCARMICHAEL, CA 95608",
+    "phone": "(916) 290-2789",
+    "email": "george@osbornstrategies.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OSBORN STRATEGIES, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -22000,6 +22095,23 @@
     ]
   },
   {
+    "id": "1399769",
+    "name": "SARKAR, SUPRIYA",
+    "address": "100 AVENUE OF THE AMERICAS, FLOOR 16\nNEW YORK, NY 10013",
+    "phone": "(415) 389-6800",
+    "email": "calobb@nmgovlaw.com",
+    "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TWO SIGMA INVESTMENTS, LP AND ITS AFFILIATES, TWO SIGMA ADVISERS, LP, TWO SIGMA VENTURES, LP AND TSPI, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1392623",
     "name": "SAROKEN, HARLAN F.",
     "address": "299 PARK AVENUE, 40TH FLOOR\nNEW YORK, NY 10171",
@@ -24952,6 +25064,7 @@
     "phone": "(917) 206-5194",
     "email": "uscompliance@ninetyone.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -26643,6 +26756,23 @@
     ]
   },
   {
+    "id": "1282403",
+    "name": "WORDELMAN, NICOLE A.",
+    "address": "921 11TH STREET, 8TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 718-8886",
+    "email": "nicole@precisionadvocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PRECISION ADVOCACY GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1436005",
     "name": "WORLEY, TIM C.",
     "address": "1370 N. BREA BOULEVARD, SUITE 235\nFULLERTON, CA 92835",
@@ -27157,7 +27287,13 @@
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "FRANKLIN RESOURCES, INC. AND ITS AFFILIATE, FRANKLIN TEMPLETON INSTITUTIONAL, LLC AND BENEFIT STREET PARTNERS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1471874",
