@@ -1867,6 +1867,22 @@
     ]
   },
   {
+    "id": "1149595",
+    "name": "BENSON, YOLANDA ",
+    "address": "1127 11TH STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-2211",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOVERNMENT STRATEGIES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1434885",
     "name": "BENTO, ANTHONY",
     "address": "1517 L STREET\nSACRAMENTO, CA 95814",
@@ -2028,6 +2044,21 @@
       {
         "entityName": "TFG ASSET MANAGEMENT US LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1392642",
+    "name": "BERRY, MARK",
+    "address": "11 CHARLES II STREET\nLONDON UK SW1Y 4QU ",
+    "email": "mb@crossoceanpartners.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BERRY; MARK",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -7606,6 +7637,23 @@
     ]
   },
   {
+    "id": "1261544",
+    "name": "FELICIANO, ARMAND",
+    "address": "1015 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-0702",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC POLICY ADVOCATES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1231563",
     "name": "FELIZZATTO, DANIEL V",
     "address": "1100 K STREET, SUITE 404\nSACRAMENTO, CA 95814",
@@ -8252,6 +8300,22 @@
       {
         "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1462931",
+    "name": "FRANCO, OBED",
+    "address": "1015 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-0702",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC POLICY ADVOCATES, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -10910,6 +10974,22 @@
     "relationships": [
       {
         "entityName": "WOMBLE BOND DICKINSON (US) LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1242953",
+    "name": "HARTMANN, AUDRA",
+    "address": "1015 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-0702",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC POLICY ADVOCATES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -17182,6 +17262,22 @@
     ]
   },
   {
+    "id": "1148533",
+    "name": "MICHELI, CHRISTOPHER M.",
+    "address": "1127 11TH STREET, SUITE 807\nSACRAMENTO, CA 95814",
+    "phone": "(916) 743-6802",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SNODGRASS & MICHELI, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1377246",
     "name": "MIDGLEY IV, HARRY C.",
     "address": "500 BOYLSTON STREET\nBOSTON, MA 02116",
@@ -19026,6 +19122,23 @@
         "entityName": "KENNEDY LEWIS INVESTMENT MANAGEMENT",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1394715",
+    "name": "PADDOCK, JUSTIN R.",
+    "address": "1415 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-6752",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "03/11/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/14/2025"
       }
     ]
   },
@@ -21981,6 +22094,21 @@
     ]
   },
   {
+    "id": "1435953",
+    "name": "SANCHEZ, CHRISTOPHER",
+    "address": "1107 9TH STREET, SUITE 601\nSACRAMENTO, CA 95814",
+    "phone": "(916) 232-2024",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MESA VERDE GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1459737",
     "name": "SANCHEZ, DANIEL",
     "address": "1121 L STREET SUITE103\nSACRAMENTO, CA 95814",
@@ -23198,6 +23326,7 @@
     "phone": "(916) 497-0923",
     "email": "csmith@health-access.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
