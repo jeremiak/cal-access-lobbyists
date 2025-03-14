@@ -766,6 +766,23 @@
     ]
   },
   {
+    "id": "1378675",
+    "name": "ARREDONDO, ALFREDO",
+    "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-1125",
+    "email": "alfredo@resolutecompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESOLUTE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148056",
     "name": "ARRIAGA, JOHN E.",
     "address": "1017 L STREET SUITE 517\nSACRAMENTO, CA 95814",
@@ -1418,6 +1435,40 @@
     ]
   },
   {
+    "id": "1148295",
+    "name": "BARNABY III, WILLIAM E.",
+    "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 701-5921",
+    "email": "bill@resolutecompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESOLUTE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1147797",
+    "name": "BARNABY, WILLIAM E.",
+    "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-1125",
+    "email": "bill_sr@resolutecompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESOLUTE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1312665",
     "name": "BARNETT, ALLISON",
     "address": "915 L STREET, SUITE 1400\nSACRAMENTO, CA 95814",
@@ -1712,6 +1763,22 @@
     "relationships": [
       {
         "entityName": "BEAMR",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149210",
+    "name": "BEARD, KRISTIN M.",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -2356,6 +2423,22 @@
       {
         "entityName": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1222944",
+    "name": "BLAND, TYRONE D.",
+    "address": "6344 MOJAVE SKY STREET\nLAS VEGAS, NV 89135",
+    "phone": "(214) 994-5658",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PORTER TELLUS, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -8735,6 +8818,7 @@
     "phone": "(916) 273-1080",
     "email": "eloy@cgsga.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9614,6 +9698,23 @@
     "relationships": [
       {
         "entityName": "GONZALEZ; CAROL",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1234588",
+    "name": "GONZALEZ, CHER",
+    "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 397-4734",
+    "email": "cher@resolutecompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESOLUTE",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -11358,6 +11459,23 @@
     ]
   },
   {
+    "id": "1376696",
+    "name": "HENSCHEL, SEAN P.",
+    "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 701-5921",
+    "email": "sean@resolutecompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESOLUTE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1434821",
     "name": "HERRELL, ROBERT M.",
     "address": "1225 8TH STREET, SUITE 470\nSACRAMENTO, CA 95814",
@@ -12060,6 +12178,23 @@
       {
         "entityName": "JENNISON ASSOCIATES LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1343549",
+    "name": "HURNER, GREG",
+    "address": "1017 L STREET, #622\nSACRAMENTO, CA 95814",
+    "phone": "(916) 201-5962",
+    "email": "greg@hgra.us",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HURNER GOVERNMENT RELATIONS AND ADVOCACY",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -14301,6 +14436,7 @@
     "phone": "(916) 216-9215",
     "email": "shane@lavignestrategies.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16620,6 +16756,23 @@
     "relationships": [
       {
         "entityName": "SCHOOL SERVICES OF CALIFORNIA INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1446648",
+    "name": "MC COY, JOELLE",
+    "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3444",
+    "email": "jmccoy@aaronread.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "READ & ASSOCIATES, LLC; AARON",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -20451,6 +20604,22 @@
     ]
   },
   {
+    "id": "1308340",
+    "name": "QUINTANA, DAVID ",
+    "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 701-5921",
+    "email": "q@resolutecompany.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESOLUTE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1467006",
     "name": "QUINTANA, FREDDIE J.",
     "address": "200 N. SPRING STREET, 3RD FLOOR, ROOM 303\nLOS ANGELES, CA 90012",
@@ -20744,6 +20913,22 @@
       {
         "entityName": "CALIFORNIANS AGAINST WASTE",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1147947",
+    "name": "READ, AARON L.",
+    "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3444",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "READ & ASSOCIATES, LLC; AARON",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -22158,6 +22343,22 @@
     ]
   },
   {
+    "id": "1449226",
+    "name": "SANDFORD, LAURA",
+    "address": "888 7TH AVENUE, 18TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 849-9600",
+    "email": "investorrelations@lonestarfunds.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SANDFORD; LAURA",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1385372",
     "name": "SANDMAN, JEFF",
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
@@ -22373,6 +22574,23 @@
       {
         "entityName": "BREGAL INVESTMENTS LLP & AFFILIATES",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1252458",
+    "name": "SCHINSKE, DON A. ",
+    "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-1125",
+    "email": "donschinske@calcapitol.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESOLUTE",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -23216,6 +23434,23 @@
       {
         "entityName": "NORTHERN TRUST INVESTMENTS, INC.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1272963",
+    "name": "SIVERLING, MATTHEW",
+    "address": "1127 11TH STREET, SUITE 426\nSACRAMENTO, CA 95814",
+    "phone": "(916) 300-5344",
+    "email": "sos@stephencompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIVERLING ADVOCACY",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -24486,6 +24721,22 @@
       {
         "entityName": "CALIFORNIA SPECIAL DISTRICTS ASSOCIATION",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1326454",
+    "name": "TANNEHILL, JENNIFER W.",
+    "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3444",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "READ & ASSOCIATES, LLC; AARON",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
