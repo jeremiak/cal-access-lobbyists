@@ -2589,6 +2589,22 @@
     ]
   },
   {
+    "id": "1148397",
+    "name": "BOCCADORO, MICHAEL E.",
+    "address": "925 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-4383",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEST COAST ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1449313",
     "name": "BODNAR, SARAH E",
     "address": "10550 LANSING STREET\nMENDOCINO, CA 95460",
@@ -4970,6 +4986,7 @@
     "phone": "(212) 845-7977",
     "email": "kcolahan@starboardvalue.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7164,6 +7181,21 @@
       {
         "entityName": "LONE PINE CAPITAL LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1242282",
+    "name": "DWELLEY, STACY I.",
+    "mailingAddress": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814\nPhone: (916) 492-2766",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -12809,6 +12841,22 @@
     ]
   },
   {
+    "id": "1437026",
+    "name": "JOHNSON, KAITLYN",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1234233",
     "name": "JOHNSON, LAURIE",
     "address": "3945 E. PACIFIC AVENUE\nSACRAMENTO, CA 95820",
@@ -13987,6 +14035,23 @@
     ]
   },
   {
+    "id": "1147893",
+    "name": "KINGSTON, RONALD M.",
+    "address": "1107 9TH STREET, SUITE 625\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-7279",
+    "email": "ron@calstrategic.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIC ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1360393",
     "name": "KINNEY, JASON",
     "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
@@ -14597,6 +14662,23 @@
         "entityName": "HELLMAN & FRIEDMAN LLC",
         "type": "Employer",
         "effectiveDate": "01/10/2025"
+      }
+    ]
+  },
+  {
+    "id": "1475641",
+    "name": "LAVY, ALEXANDRA",
+    "address": "925 L STREET, SUITE 100\nSACRAMENTO , CA 95814",
+    "phone": "(916) 441-4383",
+    "email": "alavy@westcoastadvisors.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEST COAST ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -15774,6 +15856,21 @@
     ]
   },
   {
+    "id": "1417885",
+    "name": "MAC MILLAN, KELLY",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1456639",
     "name": "MACADAM, JAMES",
     "address": "29 FARM ST. MAYFAIR \nLONDON UK W1J 5RL",
@@ -16908,6 +17005,28 @@
     ]
   },
   {
+    "id": "1262606",
+    "name": "MC FETRIDGE, DUNCAN ",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 90069",
+    "phone": "(916) 898-9305",
+    "email": "dmcfetridge@actumllc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      },
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1453638",
     "name": "MC GEEHIN, COLIN",
     "address": "11111 SANTA MONICA BOULEVARD 15TH FLOOR\nLOS ANGELES, CA 90025",
@@ -17308,6 +17427,7 @@
     "phone": "(646) 499-0707",
     "email": "sdmeller@act.is",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -17506,6 +17626,22 @@
     "relationships": [
       {
         "entityName": "PLATINUM ADVISORS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1148785",
+    "name": "MILLER, TAMI N.",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -17774,6 +17910,22 @@
       {
         "entityName": "INVESCO ADVISERS, INC.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479715",
+    "name": "MONTANA, JESUS",
+    "address": "8710 BRADY AVENUE \nSPRING VALLEY, CA 91977",
+    "phone": "(619) 703-8990",
+    "mailingAddress": "8810 JAMAICA BOULEVARD SUITE C347\nSPRING VALLEY, CA 91977\nPhone: (619) 703-8990",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MONTANA CONSULTING",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -18300,6 +18452,22 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1401206",
+    "name": "NAHAR, SUMAYA",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -19052,6 +19220,22 @@
       {
         "entityName": "GENERATION INVESTMENT MANAGEMENT LLP AND ITS AFFILIATES INCL JUST CLIMATE LLP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1344091",
+    "name": "OLHASSO, BETH",
+    "address": "925 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-4383",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEST COAST ADVISORS",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -20045,6 +20229,23 @@
     ]
   },
   {
+    "id": "1401207",
+    "name": "PIGOZZO, MADISON",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "email": "madison@politicalsolutions.us",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1376527",
     "name": "PIMENTEL, MICHAEL",
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -21011,6 +21212,22 @@
       {
         "entityName": "CALIFORNIA SCHOOL BOARDS ASSOCIATION",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1222929",
+    "name": "REES, BRIAN",
+    "address": "925 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-4383",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEST COAST ADVISORS",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -26677,6 +26894,22 @@
     ]
   },
   {
+    "id": "1395039",
+    "name": "WERNER, MELISSA",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1402637",
     "name": "WEST, MIKE L.",
     "address": "1231 I STREET, SUITE 302\nSACRAMENTO, CA 95814",
@@ -27539,6 +27772,23 @@
     "relationships": [
       {
         "entityName": "GENENTECH, INC., A MEMBER OF THE ROCHE GROUP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1420453",
+    "name": "ZAMANI, EMELLIA",
+    "address": "1700 FERNSIDE STREET\nWOODSIDE, CA 94062",
+    "phone": "(650) 743-9936",
+    "email": "ezamani@caltravel.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA TRAVEL ASSOCIATION (CALTRAVEL)",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
