@@ -2765,6 +2765,26 @@
     ]
   },
   {
+    "id": "1394429",
+    "name": "BORGES, FAITH",
+    "address": "1102 R STREET, SUITE 300\nSACRAMENTO, CA 95811",
+    "phone": "(916) 898-9305",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM CA OPCO, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      },
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1477865",
     "name": "BORJA SYNDER, KARINA",
     "address": "1776 HERITAGE WAY, 3RD FLOOR\nQUINCY, MA 02171",
@@ -4094,6 +4114,15 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1455983",
+    "name": "CASTILLO-GARCIA, MYDA",
+    "address": "9000 SUNSET BOULEVARD, FLOOR 3\nWEST HOLLYWOOD, CA 90069",
+    "phone": "(916) 813-1862",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1414986",
@@ -7096,6 +7125,7 @@
     "phone": "(916) 447-4806",
     "email": "sdukett@rcrcnet.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
