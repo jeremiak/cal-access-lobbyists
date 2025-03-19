@@ -2773,11 +2773,6 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ACTUM CA OPCO, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      },
-      {
         "entityName": "ACTUM, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
@@ -17045,11 +17040,6 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ACTUM CA OPCO, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      },
-      {
         "entityName": "ACTUM, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
@@ -22657,7 +22647,7 @@
   {
     "id": "1398945",
     "name": "SAPORTA CHENG, CARLA ",
-    "address": "1275 PENNSYLVANIA AVENUE NW, SUITE 700\nWASHINGTON, DW 20004",
+    "address": "1275 PENNSYLVANIA AVENUE NW, SUITE 700\nWASHINGTON, DC 20004",
     "phone": "(916) 208-4890",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
@@ -23074,7 +23064,7 @@
   {
     "id": "1421829",
     "name": "SCOTT, HOWARD A.",
-    "address": "1 MARKET PLAZA, 27TH FLOOR\nSAN FRANCISCO , NY 94105",
+    "address": "1 MARKET PLAZA, 27TH FLOOR\nSAN FRANCISCO , CA 94105",
     "phone": "(415) 262-3157",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
@@ -23484,7 +23474,7 @@
   {
     "id": "1478862",
     "name": "SHORTNACY, REUBEN",
-    "address": "9550 TOPANGACANYON BLVD.\nCHATSWORTH, CA 91311",
+    "address": "9550 TOPANGA CANYON BLVD.\nCHATSWORTH, CA 91311",
     "phone": "(559) 469-7355",
     "email": "reuban@thecriscomcompany.com",
     "registrationDate": "02/12/2025",
@@ -25927,6 +25917,7 @@
     "phone": "(212) 715-5100",
     "email": "nurquhart@coatue.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
