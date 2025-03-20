@@ -10335,6 +10335,7 @@
     "phone": "(916) 441-1571",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10448,6 +10449,7 @@
     "phone": "(916) 838-4947",
     "email": "amanda@calbroadband.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11692,6 +11694,21 @@
     "relationships": [
       {
         "entityName": "CORSAIR CAPITAL LLC AND AFFILIATED ENTITY INVESTCORP CORSAIR INFRASTRUCTURE PARTNERS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477949",
+    "name": "HILLIARD, ALLISON",
+    "address": "1275 4TH STREET, STE 191\nSANTA ROSA, CA 95404",
+    "phone": "(408) 931-5413",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CLIMATE CENTER; THE",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -14387,7 +14404,7 @@
   },
   {
     "id": "1441968",
-    "name": "KOZEL, COURTNEY B",
+    "name": "KOZEL, COURTNEY B.",
     "address": "1603 ORRINGTON AVENUE, SUITE 1100\nEVANSTON, IL 60201",
     "phone": "(312) 767-4635",
     "email": "courtney.kozel@eldariver.com",
@@ -14539,7 +14556,7 @@
   {
     "id": "1382762",
     "name": "LANDRUM, LEE",
-    "address": "360 SOUTH ROSEMARY AVENUE SUITE #1700\nWEST PALM BEACH, FL 33401",
+    "address": "360 SOUTH ROSEMARY AVENUE, SUITE #1700\nWEST PALM BEACH, FL 33401",
     "phone": "(561) 727-2000",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
@@ -14776,7 +14793,7 @@
   {
     "id": "1419537",
     "name": "LAY, BRANDON B.",
-    "address": "10 EAST 53RD STREET- 12TH FLOOR\nNEW YORK, NY 10022",
+    "address": "10 EAST 53RD STREET, 12TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(619) 302-4976",
     "email": "bl@asantecapital.com",
     "mailingAddress": "10 EAST 53RD STREET, 12TH FLOOR\nNEW YORK, NY 10022",
@@ -15270,7 +15287,7 @@
   },
   {
     "id": "1148274",
-    "name": "LIGHTMAN, JONATHAN R",
+    "name": "LIGHTMAN, JONATHAN R.",
     "address": "1940 SHELFIELD DRIVE\nCARMICHAEL, CA 95608",
     "phone": "(916) 712-5827",
     "email": "jlightman@whatsb-yond.com",
@@ -16196,7 +16213,7 @@
   },
   {
     "id": "1379486",
-    "name": "MANCUSO, JOHN A",
+    "name": "MANCUSO, JOHN A.",
     "address": "110 NORTH WACKER DRIVE, SUITE 4000\nCHICAGO, IL 60606",
     "phone": "(312) 855-5700",
     "email": "john.mancuso@heitman.com",
@@ -17081,7 +17098,7 @@
   {
     "id": "1477477",
     "name": "MC HALE, JOHN",
-    "address": "1415 L STREET, STE 1200\nSACRAMENTO, CA 95814",
+    "address": "1415 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-6752",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
@@ -17510,7 +17527,8 @@
   {
     "id": "1477598",
     "name": "MEYER, CHRIS",
-    "address": "640 5TH AVENUE, 20TH FLOOR\nNEW YORK, NY 10019\n\t",
+    "address": "640 5TH AVENUE, 20TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 688-2550",
     "registrationDate": "01/01/2025",
     "status": "Active",
     "relationships": [
@@ -19517,7 +19535,7 @@
   },
   {
     "id": "1464874",
-    "name": "PADILLA, KRISTAL H",
+    "name": "PADILLA, KRISTAL H.",
     "address": "2017 O STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 444-8641",
     "email": "kristal@ccleague.org",
@@ -19648,7 +19666,7 @@
   {
     "id": "1461711",
     "name": "PANG, STEPHEN",
-    "address": "980 9TH STREET SUITE 1000\nSACRAMENTO, CA 95814",
+    "address": "980 9TH STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-4545",
     "email": "stephenp@acwa.com",
     "registrationDate": "01/01/2025",
@@ -20301,7 +20319,7 @@
   {
     "id": "1405236",
     "name": "PINEDA, EVELYN",
-    "address": "1121 L STREET SUITE 103\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 103\nSACRAMENTO, CA 95814",
     "phone": "(530) 219-5248",
     "email": "evelyn@lobby-california.com",
     "registrationDate": "01/01/2025",
@@ -20318,7 +20336,7 @@
   {
     "id": "1343911",
     "name": "PINEDA, MARVIN F.",
-    "address": "1121 L STREET SUITE 103\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 103\nSACRAMENTO, CA 95814",
     "phone": "(916) 869-3685",
     "email": "marvin@lobby-california.com",
     "registrationDate": "01/01/2025",
