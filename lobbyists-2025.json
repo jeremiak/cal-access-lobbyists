@@ -6234,6 +6234,7 @@
     "email": "compliance@postadvisory.com",
     "mailingAddress": "833 7TH STREET, APT A\nLOS ANGELES, CA 90403",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -7620,6 +7621,7 @@
     "phone": "(212) 381-8468",
     "email": "fannd@vss.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9042,7 +9044,7 @@
     "address": "900 LARKSPUR LANDING CIRCLE\nLARKSPUR, CA 94939",
     "phone": "(415) 536-2704",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/08/2024",
+    "ethicsCourseCompletionDate": "11/08/2023",
     "status": "Active",
     "relationships": [
       {
@@ -11551,6 +11553,22 @@
     ]
   },
   {
+    "id": "1389981",
+    "name": "HERRERA, ANGY",
+    "address": "23 SAVILE ROW \nLONDON UK W1S 2ET",
+    "email": "angy.herrera@rokoscapital.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROKOS CAPITAL MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1306321",
     "name": "HERRERA, PATTI F.",
     "address": "1121 L STREET, SUITE 1060\nSACRAMENTO, CA 95814",
@@ -12809,6 +12827,7 @@
     "phone": "(206) 299-2700",
     "email": "djensen@acuitasinvestments.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -14577,6 +14596,7 @@
     "phone": "(916) 438-4420",
     "email": "jlane@calbankers.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14695,7 +14715,7 @@
     "id": "1479313",
     "name": "LAURSEN, ADAM",
     "address": "415 MISSION STREET, SUITE 5700\nSAN FRANCISCO, CA 94105",
-    "phone": "415788511",
+    "phone": "(415) 788-5111",
     "email": "alaursen@hf.com",
     "registrationDate": "01/10/2025",
     "status": "Active",
@@ -15537,6 +15557,7 @@
     "id": "1147906",
     "name": "LOMBARDO SR., JAMES E.",
     "address": "1317 GAGLE WAY\nSACRAMENTO, CA 95831",
+    "phone": "(916) 206-2042",
     "email": "jelsr@lombardogroup.net",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
@@ -15724,6 +15745,7 @@
     "address": "1303 J STREET, SUITE 600\nSACRAMENTO, CA 95814",
     "phone": "(916) 438-4402",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16562,6 +16584,8 @@
   {
     "id": "1290581",
     "name": "MARTINEZ, JUANITA  ",
+    "address": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
+    "phone": "(916) 510-5177",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
@@ -21014,6 +21038,7 @@
     "phone": "(646) 448-1539",
     "email": "quita.ramirez@rokoscapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21436,7 +21461,7 @@
   },
   {
     "id": "1394635",
-    "name": "RIGGS, SUSAN L",
+    "name": "RIGGS, SUSAN L.",
     "address": "1014 HOPPER AVENUE\nSANTA ROSA, CA 95403",
     "phone": "(916) 584-1816",
     "email": "susan.riggs@aspca.org",
@@ -21545,7 +21570,7 @@
   {
     "id": "1406412",
     "name": "RIVERO, ANALISE",
-    "address": "1225 8TH STREET SUITE 340\nSACRAMENTO, CA 95814",
+    "address": "1225 8TH STREET, SUITE 340\nSACRAMENTO, CA 95814",
     "phone": "(415) 392-8887",
     "email": "sos@stephencompany.com",
     "registrationDate": "01/01/2025",
@@ -21676,7 +21701,7 @@
   },
   {
     "id": "1444252",
-    "name": "RODARMEL, DANICA R",
+    "name": "RODARMEL, DANICA R.",
     "address": "1618 ALAHAMBRA BOULEVARD, #162776\nSACRAMENTO, CA 95816",
     "phone": "(916) 545-5393",
     "email": "danica@wholeconsulting.org",
@@ -23001,7 +23026,7 @@
   },
   {
     "id": "1376694",
-    "name": "SCHRYBER, BEN A",
+    "name": "SCHRYBER, BEN A.",
     "address": "600 BRICKELL AVENUE, SUITE 1400\nMIAMI, FL 33131",
     "phone": "(212) 782-3480",
     "email": "ben.schryber@klimllc.com",
@@ -23153,6 +23178,7 @@
     "email": "ssantana@caasf.org",
     "mailingAddress": "1225 8TH STREET, SUITE 480\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23312,7 +23338,7 @@
   {
     "id": "1467947",
     "name": "SHANER, LAUREN",
-    "address": "100 SAINT PAUL STREET, STE 800\nDENVER, CO 80206",
+    "address": "100 SAINT PAUL STREET, SUITE 800\nDENVER, CO 80206",
     "phone": "(720) 284-6426",
     "email": "lauren.shaner@kslcapital.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
@@ -23621,7 +23647,7 @@
   {
     "id": "1406171",
     "name": "SIMONETTI, JEFFREY M.",
-    "address": "1201 J STRET\nSACRAMENTO0, CA 95814",
+    "address": "1201 J STRET\nSACRAMENTO, CA 95814",
     "phone": "(916) 576-0689",
     "email": "j.simonetti@capitolcore.com",
     "registrationDate": "01/01/2025",
@@ -23797,7 +23823,7 @@
   {
     "id": "1442668",
     "name": "SMET, ABIGAIL",
-    "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "registrationDate": "01/01/2025",
     "status": "Active",
@@ -23941,7 +23967,7 @@
   },
   {
     "id": "1336776",
-    "name": "SMITH, TERI M",
+    "name": "SMITH, TERI M.",
     "address": "711 HIGH STREET\nDES MOINES , IA 50392",
     "phone": "(562) 822-3355",
     "email": "smith.teri@principal.com",
@@ -24303,7 +24329,7 @@
   {
     "id": "1441215",
     "name": "SPITZER, ERIKA",
-    "address": "11111 SANTA MONICA BOULEVARD, SUITE. 2000\nLOS ANGELES, CA 90025",
+    "address": "11111 SANTA MONICA BOULEVARD, SUITE 2000\nLOS ANGELES, CA 90025",
     "phone": "(310) 954-0436",
     "email": "espitzer@leonardgreen.com",
     "mailingAddress": "455 CAPITOL MALL SUITE 600\nSACRAMENTO, CA 95814\nPhone: (310) 954-0436\nEmail: fppc@bmhlaw.com",
@@ -24589,6 +24615,7 @@
     "id": "1413767",
     "name": "STRASSER, CHRISTOPH",
     "address": "305 HIDDEN HOLLOW ROAD\nJACKSON, WY 83001",
+    "phone": "(800) 477-7853",
     "email": "lobbying@rutan.com",
     "mailingAddress": "150 POST STREET, SUITE 405\nJACKSON, NY 83002",
     "registrationDate": "01/01/2025",
@@ -24801,7 +24828,7 @@
   },
   {
     "id": "1334606",
-    "name": "SWANGO, MAX N",
+    "name": "SWANGO, MAX N.",
     "address": "2300 NORTH FIELD STREET, SUITE 1200\nDALLAS , TX 75201",
     "phone": "(972) 715-7431",
     "email": "max.swango@invesco.com",
@@ -24818,7 +24845,7 @@
   },
   {
     "id": "1446867",
-    "name": "SWEENEY, CONOR P",
+    "name": "SWEENEY, CONOR P.",
     "address": "PO BOX 801889\nDALLAS, TX 75380",
     "phone": "(916) 990-1861",
     "email": "csweeney@komen.org",
@@ -24886,7 +24913,7 @@
   {
     "id": "1448376",
     "name": "TAING, VOLECK",
-    "address": "1303 J STREET SUITE 450\nSACRAMENTO, CA 95814",
+    "address": "1303 J STREET, SUITE 450\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-7991",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
@@ -25335,7 +25362,7 @@
   },
   {
     "id": "1355260",
-    "name": "TING, FARRAH M",
+    "name": "TING, FARRAH M.",
     "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
     "phone": "(916) 327-7540",
     "email": "admin@cheac.org",
@@ -25549,7 +25576,7 @@
   {
     "id": "1149037",
     "name": "TRATTEN, LEA-ANN",
-    "address": "980 9TH STREET SUITE 2080\nSACRAMENTO, CA 95814",
+    "address": "980 9TH STREET, SUITE 2080\nSACRAMENTO, CA 95814",
     "phone": "(916) 834-6344",
     "registrationDate": "01/01/2025",
     "status": "Active",
@@ -25564,7 +25591,7 @@
   {
     "id": "1417416",
     "name": "TRATTEN, TYLER ",
-    "address": "980 9TH STREET SUITE 2080\nSACRAMENTO, CA 95814",
+    "address": "980 9TH STREET, SUITE 2080\nSACRAMENTO, CA 95814",
     "phone": "(916) 316-7236",
     "registrationDate": "01/01/2025",
     "status": "Active",
@@ -26349,7 +26376,7 @@
   {
     "id": "1479580",
     "name": "VIVA, JENNY",
-    "address": "65 EST 55TH STREET, 28TH FLOOR\nNEW YORK, NY 10022",
+    "address": "65 EAST 55TH STREET, 28TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(646) 968-7152",
     "email": "jennifer.viva@castlelake.com",
     "registrationDate": "01/01/2025",
@@ -26967,7 +26994,7 @@
   },
   {
     "id": "1460838",
-    "name": "WESTBROOK, ANNE S",
+    "name": "WESTBROOK, ANNE S.",
     "address": "45 ROCKEFELLER PLAZA\nNEW YORK, NY 10111",
     "phone": "(212) 715-0300",
     "email": "kgarrett@tishmanspeyer.com",
@@ -27377,7 +27404,7 @@
   {
     "id": "1475363",
     "name": "WONG, BRANDON",
-    "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "brandon@caleec.com",
     "registrationDate": "01/01/2025",
@@ -27569,7 +27596,7 @@
   {
     "id": "1477285",
     "name": "YEE, JUDY",
-    "address": "1231 I STREET, STE 302\nSACRAMENTO, CA 95814",
+    "address": "1231 I STREET, SUITE 302\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-3302",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
@@ -27636,7 +27663,7 @@
   {
     "id": "1328233",
     "name": "YOSHIHARA, MARIKO",
-    "address": "1809 S STREET, SUIT 101-231\nSACRAMENTO, CA 95811",
+    "address": "1809 S STREET, SUITE 101-231\nSACRAMENTO, CA 95811",
     "phone": "(916) 340-5084",
     "email": "mariko@yoshihara-lp.com",
     "mailingAddress": "770 L STREET, SUITE 950\nSACRAMENTO, CA 95814",
@@ -27735,7 +27762,7 @@
   {
     "id": "1441216",
     "name": "YU, STANLEY",
-    "address": "11111 SANTA MONICA BOULEVARD., SUITE 2000\nLOS ANGELES, CA 90025",
+    "address": "11111 SANTA MONICA BOULEVARD, SUITE 2000\nLOS ANGELES, CA 90025",
     "phone": "(310) 954-0436",
     "email": "syu@leonardgreen.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600 \nSACRAMENTO, CA 95814",
@@ -27852,7 +27879,7 @@
   {
     "id": "1456456",
     "name": "ZARRIN, ADAM",
-    "address": "10 G STREET NOUTHWEST, SUITE 501\nWASHINGTON, DC 20002",
+    "address": "10 G STREET NORTHWEST, SUITE 501\nWASHINGTON, DC 20002",
     "phone": "(720) 245-7287",
     "email": "compliance_ca_lls_2@multistate.us",
     "registrationDate": "01/01/2025",
