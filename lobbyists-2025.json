@@ -2765,21 +2765,6 @@
     ]
   },
   {
-    "id": "1394429",
-    "name": "BORGES, FAITH",
-    "address": "1102 R STREET, SUITE 300\nSACRAMENTO, CA 95811",
-    "phone": "(916) 898-9305",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACTUM, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1477865",
     "name": "BORJA SYNDER, KARINA",
     "address": "1776 HERITAGE WAY, 3RD FLOOR\nQUINCY, MA 02171",
@@ -14707,6 +14692,9 @@
   {
     "id": "1421966",
     "name": "LATOUR-JARQUIN, DEANNA",
+    "address": "1201 K STREET, SUITE 950\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-7757",
+    "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
     "relationships": []
@@ -16586,10 +16574,17 @@
     "name": "MARTINEZ, JUANITA  ",
     "address": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
     "phone": "(916) 510-5177",
+    "email": "juanita@consultmartinez.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "MARTINEZ CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1471946",
@@ -17066,23 +17061,6 @@
       {
         "entityName": "STATE STREET BANK AND TRUST COMPANY",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1262606",
-    "name": "MC FETRIDGE, DUNCAN ",
-    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 90069",
-    "phone": "(916) 898-9305",
-    "email": "dmcfetridge@actumllc.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACTUM, LLC",
-        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -21032,6 +21010,17 @@
     ]
   },
   {
+    "id": "1344388",
+    "name": "RAMEY, ALISON ",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-3413",
+    "mailingAddress": "980 9TH STREET, SUITE 2200\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1467073",
     "name": "RAMIREZ, QUITA",
     "address": "23 SAVILE ROW\nLONDON UK W1S2ET",
@@ -23198,7 +23187,13 @@
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1406649",
@@ -23219,7 +23214,11 @@
   {
     "id": "1228607",
     "name": "SENDERLING-MCDONALD, CATHERINE E",
+    "address": "524 GARDEN STREET\nSACRAMENTO, CA 95815",
+    "phone": "(916) 799-4471",
+    "email": "csm@catbirdstrategies.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -27007,6 +27006,15 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1223302",
+    "name": "WETCH, SCOTT",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-3413",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1471538",
