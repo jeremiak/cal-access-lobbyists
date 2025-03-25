@@ -2765,6 +2765,23 @@
     ]
   },
   {
+    "id": "1394429",
+    "name": "BORGES, FAITH",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 898-9305",
+    "email": "fborges@actumllc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1477865",
     "name": "BORJA SYNDER, KARINA",
     "address": "1776 HERITAGE WAY, 3RD FLOOR\nQUINCY, MA 02171",
@@ -4098,11 +4115,19 @@
   {
     "id": "1455983",
     "name": "CASTILLO-GARCIA, MYDA",
-    "address": "9000 SUNSET BOULEVARD, FLOOR 3\nWEST HOLLYWOOD, CA 90069",
-    "phone": "(916) 813-1862",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 898-9305",
+    "email": "mcastillogarcia@actumllc.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1414986",
@@ -12527,7 +12552,7 @@
   },
   {
     "id": "1457041",
-    "name": "JACOBSEN, ELSA W",
+    "name": "JACOBSEN, ELSA W.",
     "address": "1155 F STREET NORTHWEST, SUITE 1200\nWASHINGTON, DC 20004",
     "phone": "(202) 742-7888",
     "email": "ejacobsen@bhfs.com",
@@ -13054,17 +13079,6 @@
     ]
   },
   {
-    "id": "1241889",
-    "name": "JONES, BRANCHE",
-    "address": "1127 11TH STREET, SUITE 321\nSACRAMENTO, CA 95814",
-    "phone": "(916) 296-2711",
-    "email": "branchejones@gmail.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
-    "relationships": []
-  },
-  {
     "id": "1469664",
     "name": "JONES, DAVID E.",
     "address": "3610 CUTTER WAY\nSACRAMENTO, CA 95818",
@@ -13277,7 +13291,7 @@
   },
   {
     "id": "1470689",
-    "name": "KAHL, LOUIS R",
+    "name": "KAHL, LOUIS R.",
     "address": "787 ELEVENTH AVENUE, 9TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 652-3144",
     "email": "kahl@persq.com",
@@ -13590,7 +13604,7 @@
   {
     "id": "1412405",
     "name": "KEHOE, KATHRYN ",
-    "address": "31 WEST 52ND STREET SUITE 2400\nNEW YORK, NY 10019",
+    "address": "31 WEST 52ND STREET, SUITE 2400\nNEW YORK, NY 10019",
     "phone": "(917) 647-2890",
     "email": "katie.lyndon@provequity.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
@@ -13601,6 +13615,23 @@
       {
         "entityName": "PROVIDENCE EQUITY PARTNERS L.L.C.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1365386",
+    "name": "KEIGWIN, ADAM",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 898-9305",
+    "email": "akeigwin@actumllc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -13887,7 +13918,7 @@
   },
   {
     "id": "1444019",
-    "name": "KHIZER, SALIKA C",
+    "name": "KHIZER, SALIKA C.",
     "address": "711 HIGH STREET\nDES MOINES, IA 50392",
     "phone": "(209) 612-8783",
     "email": "khizer.salika@principal.com",
@@ -17066,6 +17097,23 @@
     ]
   },
   {
+    "id": "1262606",
+    "name": "MC FETRIDGE, DUNCAN ",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 90069",
+    "phone": "(916) 898-9305",
+    "email": "dmcfetridge@actumllc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1453638",
     "name": "MC GEEHIN, COLIN",
     "address": "11111 SANTA MONICA BOULEVARD 15TH FLOOR\nLOS ANGELES, CA 90025",
@@ -17916,6 +17964,23 @@
       {
         "entityName": "CALIFORNIA FEDERATION OF TEACHERS",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1383947",
+    "name": "MOLINA, ANTHONY",
+    "address": "621 CAPITOL MALL, 14TH FLOOR \nSACRAMENTO, CA 95814",
+    "phone": "(916) 898-9305",
+    "email": "amolina@actumllc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -19005,6 +19070,23 @@
     "relationships": [
       {
         "entityName": "NOTEWARE GOVERNMENT RELATIONS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1447049",
+    "name": "NUNEZ, ESTEBAN",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 898-9305",
+    "email": "enunez@actumllc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -21018,7 +21100,13 @@
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1467073",
@@ -22590,6 +22678,23 @@
     "relationships": [
       {
         "entityName": "WPSS GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1262030",
+    "name": "SANCHEZ, LIBERTY R. ",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 898-9305",
+    "email": "lsanchez@actumllc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -25274,7 +25379,13 @@
     "email": "jthompson@stockbridge.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CORE AND VALUE ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1465367",
@@ -27014,7 +27125,13 @@
     "phone": "(916) 446-3413",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1471538",
