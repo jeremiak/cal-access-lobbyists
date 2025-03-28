@@ -41,6 +41,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -412,18 +413,6 @@
     ]
   },
   {
-    "id": "1435992",
-    "name": "ALVAREZ, ROBERT",
-    "address": "1401 NORTH BROADWAY BOULEVARD\nLOS ANGELES, CA 90012",
-    "phone": "(213) 634-7900",
-    "email": "bob@balancebpr.com",
-    "mailingAddress": "498 OLEANDER AVENUE\nSHAFTER, CA 93263",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
-    "relationships": []
-  },
-  {
     "id": "1427143",
     "name": "AMAJIOYI, CHUKWUNEDUM (CHUCK) C",
     "address": "P.O. BOX 1656\nWOODLAND, CA 95776",
@@ -438,16 +427,6 @@
         "effectiveDate": "01/01/2025"
       }
     ]
-  },
-  {
-    "id": "1467828",
-    "name": "AMANFOR, EMMANUEL",
-    "address": "2827 NORCROSS DRIVE\nSACRAMENTO, CA 95833",
-    "phone": "(916) 318-0914",
-    "email": "eaforsac@gmail.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": []
   },
   {
     "id": "1477221",
@@ -1099,6 +1078,7 @@
     "phone": "(916) 834-7381",
     "email": "layon@sdge.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4281,12 +4261,19 @@
   {
     "id": "1457057",
     "name": "CERVANTEZ, KARINA",
-    "address": "1370 N. BREA BOULVARD, STE. 235\nFULLERTON, CA 92835",
+    "address": "1370 N. BREA BOULVARD, SUITE 235\nFULLERTON, CA 92835",
     "phone": "(213) 624-6200",
-    "mailingAddress": "515 SOUTH FIGUEROA STREET\nLOS ANGELES, CA 90071\nPhone: (213) 624-6200\nEmail: karina@ortega strategiesgroup.com",
+    "email": "karina@strategiesgroup.com",
+    "mailingAddress": "515 SOUTH FIGUEROA STREET, SUITE 1110\nLOS ANGELES, CA 90071",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "ORTEGA STRATEGIES GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1236630",
@@ -4339,12 +4326,19 @@
   {
     "id": "1477203",
     "name": "CHAMPION, CHARLES",
-    "address": "1517 H STREET #407\nSACRAMENTO, CA 95814",
+    "address": "1517 H STREET, #407\nSACRAMENTO, CA 95814",
     "phone": "(916) 288-6000",
-    "mailingAddress": "KEYS LAW CORPORATION 428 J STREET\nSUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 288-6000",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP., 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 288-6000",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "C.N.P.A. SERVICES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1357786",
@@ -4573,6 +4567,7 @@
     "address": "455 CAPITOL MALL, SUITE 415\nSACRAMENTO, CA 95814",
     "phone": "(909) 802-5467",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6038,16 +6033,6 @@
     ]
   },
   {
-    "id": "1396812",
-    "name": "CUTTER, TERESA",
-    "address": "3 EMBARCADERO CENTER, 5TH FLOOR\nSAN FRANCISCO, CA 94111",
-    "phone": "(415) 644-4162",
-    "email": "tcutter@whiteoaksf.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": []
-  },
-  {
     "id": "1337670",
     "name": "D'ARCY, BRIAN",
     "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
@@ -6184,6 +6169,7 @@
     "address": "1127 11TH STREET, SUITE 718\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-6921",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6336,7 +6322,13 @@
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "STEFAN/GEORGE ASSOCIATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1416810",
@@ -6767,6 +6759,7 @@
     "email": "ddietrich.lspower@vantagelegal.com",
     "mailingAddress": "12587 FAIR LAKES CIRCLE, PMB 173\nFAIRFAX, VA 22033",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8134,6 +8127,7 @@
     "address": "402 WEST 13TH STREET, 5TH FLOOR\nNEW YORK, NY 10014",
     "phone": "(212) 356-6153",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9609,6 +9603,7 @@
     "phone": "(202) 480-7008",
     "email": "alpexintlcorp@gmail.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11319,6 +11314,7 @@
     "email": "khawkins@ekapr.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12956,6 +12952,7 @@
     "phone": "(833) 956-0225",
     "email": "jennifer.johnson@calbright.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13465,6 +13462,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13546,6 +13544,7 @@
     "phone": "(424) 253-1774",
     "email": "dkatz@legionpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13745,6 +13744,7 @@
     "address": "240 EAST HACIENDA  AVENUE\nCAMPBELL, CA 95008",
     "phone": "(708) 275-6313",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16836,6 +16836,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (916) 952-4172\nEmail: fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17244,6 +17245,7 @@
     "phone": "(916) 930-1993",
     "email": "gmchugh@mchughgr.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17260,6 +17262,7 @@
     "phone": "(916) 930-1993",
     "email": "smchugh@mchughgr.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18033,6 +18036,7 @@
     "phone": "(917) 349-6030",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18643,6 +18647,7 @@
     "address": "1127 11TH STREET, SUITE 300\nSACRAMENTO, CA 95814",
     "phone": "(916) 974-9270",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20145,6 +20150,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20373,6 +20379,7 @@
     "phone": "(916) 442-6902",
     "email": "nancyp@caoc.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20837,6 +20844,7 @@
     "phone": "(916) 594-9700",
     "email": "apriego@bhfs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22363,6 +22371,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23130,6 +23139,7 @@
     "phone": "(916) 441-6974",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23477,6 +23487,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23992,6 +24003,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24786,11 +24798,20 @@
   },
   {
     "id": "1366922",
-    "name": "STOVER, KIERAN ",
+    "name": "STOVER, KIERAN P.",
+    "address": "880 CARILLON PARKWAY\nST. PETERSBURG, FL 33716",
+    "phone": "(800) 521-1195",
+    "email": "kieran.stover@rjinvestmentmanagement.",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CARILLON TOWER ADVISERS, INC D/B/A RAYMOND JAMES INVESTMENT MANAGEMENT",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1421563",
@@ -25031,6 +25052,7 @@
     "phone": "(310) 698-4444",
     "email": "pswan@apollo.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25180,6 +25202,7 @@
     "phone": "(213) 200-9749",
     "email": "atanase@marathonfund.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25504,6 +25527,7 @@
     "phone": "(415) 658-3300",
     "email": "jthompson@stockbridge.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27562,6 +27586,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27707,11 +27732,17 @@
     "name": "WORLEY, TIM C.",
     "address": "1370 N. BREA BOULEVARD, SUITE 235\nFULLERTON, CA 92835",
     "phone": "(213) 624-6200",
-    "email": "tim@ostrategies.com",
-    "mailingAddress": "515 SOUTH FIGUEROA STREET\nLOS ANGELES, CA 90071\nPhone: (213) 624-6200\nEmail: tim@ostrategies.com",
+    "email": "tim@ostrategiesgroup.com",
+    "mailingAddress": "515 SOUTH FIGUEROA STREET, SUITE 1110\nLOS ANGELES, CA 90071",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "ORTEGA STRATEGIES GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1426615",
@@ -28118,6 +28149,7 @@
     "phone": "(916) 767-1788",
     "email": "jzanze@sdge.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
