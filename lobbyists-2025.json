@@ -2571,10 +2571,11 @@
   {
     "id": "1442353",
     "name": "BOARDMAN, WILLIAM",
-    "address": "53 STATE STREET\nBOSTON, MA 02109",
+    "address": "99 HIGH STREET, SUITE 2802\nBOSTON, MA 02110",
     "phone": "(617) 308-3028",
     "email": "bill.boardman@agf.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2599,17 +2600,6 @@
         "effectiveDate": "01/01/2025"
       }
     ]
-  },
-  {
-    "id": "1449313",
-    "name": "BODNAR, SARAH E",
-    "address": "10550 LANSING STREET\nMENDOCINO, CA 95460",
-    "phone": "(707) 684-9431",
-    "email": "sarah@gspa.co",
-    "mailingAddress": "PO BOX 729\nMENDOCINO, CA 95460\nPhone: (707) 684-9431",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": []
   },
   {
     "id": "1395038",
@@ -3189,17 +3179,6 @@
     ]
   },
   {
-    "id": "1442820",
-    "name": "BROOKS, HEATHER",
-    "address": "1114 AVENUE OF THE AMERICAS, 36TH FLOOR\nNEW YORK, NY 10036",
-    "phone": "(212) 230-9200",
-    "email": "hbrooks@insightpartners.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
-    "relationships": []
-  },
-  {
     "id": "1263218",
     "name": "BROOKS-LINDSEY, KELLY ",
     "address": "1127 11TH STREET, SUITE 1005\nSACRAMENTO, CA 95814",
@@ -3466,6 +3445,7 @@
     "address": "80 PALL MALL\nLONDON, SW1Y 5ES",
     "email": "christopher.buchanan@permira.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3671,16 +3651,6 @@
         "effectiveDate": "01/01/2025"
       }
     ]
-  },
-  {
-    "id": "1457095",
-    "name": "BYRKIT, DOUGLAS M.",
-    "address": "4 EMBARCADERO CENTER, SUITE 550\nSAN FRANCISCO, CA 94111",
-    "phone": "(512) 820-9887",
-    "email": "doug.byrkit@matthewsasia.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": []
   },
   {
     "id": "1334729",
@@ -5786,7 +5756,7 @@
   {
     "id": "1459392",
     "name": "CROCKER, JONATHAN",
-    "address": "53 STATE STREET\nBOSTON, MA 02109",
+    "address": "99 HIGH STREET, SUITE 2802\nBOSTON, MA 02110",
     "phone": "(203) 984-6567",
     "email": "jonathan.crocker@agf.com",
     "registrationDate": "01/01/2025",
@@ -6470,6 +6440,7 @@
     "email": "connie@delgadogovaffairs.com",
     "mailingAddress": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95814\nPhone: (916) 799-4114\nEmail: fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9815,10 +9786,18 @@
   {
     "id": "1393025",
     "name": "GONZALEZ, ORACIO",
+    "address": "1100 11TH STREET, #311\nSACRAMENTO, CA 95814",
+    "phone": "(916) 870-8538",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "OLLIN STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1404598",
@@ -9948,16 +9927,6 @@
         "effectiveDate": "01/01/2025"
       }
     ]
-  },
-  {
-    "id": "1437707",
-    "name": "GOROSPE, CONRAD",
-    "address": "1114 AVENUE OF THE AMERICAS, 36TH FLOOR\nNEW YORK, NY 10036",
-    "phone": "(212) 230-9200",
-    "email": "cgorospe@insightpartners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": []
   },
   {
     "id": "1393595",
@@ -12835,7 +12804,7 @@
   },
   {
     "id": "1477227",
-    "name": "JENKINS, SELBY A",
+    "name": "JENKINS, SELBY A.",
     "address": "450 PARK AVENUE, 9TH FLOOR\nNEW YORK, NY 10022",
     "email": "skaiser@omers.com",
     "registrationDate": "01/01/2025",
@@ -14297,7 +14266,7 @@
   },
   {
     "id": "1363438",
-    "name": "KLOPFENSTEIN, MATTHEW D",
+    "name": "KLOPFENSTEIN, MATTHEW D.",
     "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
     "phone": "(916) 930-0200",
     "email": "matt@summitadvocacy.com",
@@ -14315,7 +14284,7 @@
   {
     "id": "1458499",
     "name": "KNAPP, BRANDON",
-    "address": "1415 L STREET SUITE 800\nSACRAMENTO, CA 95814",
+    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 594-9700",
     "email": "bknapp@bhfs.com",
     "registrationDate": "01/01/2025",
@@ -15252,7 +15221,7 @@
   {
     "id": "1282184",
     "name": "LEWIS, KIMBERLY A.",
-    "address": "1775 TRIBUTE ROAD SUITE C\nSACRAMENTO, CA 95815",
+    "address": "1775 TRIBUTE ROAD, SUITE C\nSACRAMENTO, CA 95815",
     "phone": "(916) 835-3117",
     "email": "kim@lewisadvocacy.com",
     "registrationDate": "01/01/2025",
@@ -15987,6 +15956,7 @@
     "phone": "(212) 230-2294",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16295,7 +16265,7 @@
   {
     "id": "1477393",
     "name": "MALTESE, XAVIER",
-    "address": "P.O BOX 86087\nLOS ANGELES, CA 90086",
+    "address": "P.O. BOX 86087\nLOS ANGELES, CA 90086",
     "phone": "(916) 448-0998",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
@@ -16644,7 +16614,7 @@
   {
     "id": "1355001",
     "name": "MARTINEZ, ASHLEY T.",
-    "address": "600 W BROADWAY SUITE 700\nSAN DIEGO, CA 92101",
+    "address": "600 W BROADWAY, SUITE 700\nSAN DIEGO, CA 92101",
     "phone": "(916) 672-0916",
     "email": "firm@cprastrategies.com",
     "mailingAddress": "600 W BROADWAY SUITE 700\nSACRAMENTO , CA 92101\nPhone: (916) 672-0916\nEmail: firm@cprastrategies.com",
@@ -16883,7 +16853,7 @@
   {
     "id": "1457633",
     "name": "MAUS, CYNTHIA",
-    "address": "ONE MARKET PLAZA, STE 2700\nSAN FRANCISCO, CA 94105",
+    "address": "ONE MARKET PLAZA, SUITE 2700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 262-3158",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
@@ -17404,7 +17374,11 @@
   {
     "id": "1392290",
     "name": "MC NULTY, MARK W.",
+    "address": "3050 K STREET NW, SUITE 220\nWASHINGTON, DC 20007",
+    "phone": "(202) 965-9480",
+    "email": "mmcnulty@keybridgedc.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20873,7 +20847,7 @@
   },
   {
     "id": "1351268",
-    "name": "PRINTZ, ROBERT A",
+    "name": "PRINTZ, ROBERT A.",
     "address": "777 YAMATO ROAD, SUITE 300\nBOCA RATON, FL 33431",
     "phone": "(561) 544-4569",
     "registrationDate": "01/01/2025",
@@ -21106,6 +21080,7 @@
     "phone": "(617) 516-2000",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21651,6 +21626,7 @@
     "phone": "(916) 584-1816",
     "email": "susan.riggs@aspca.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22009,7 +21985,7 @@
   {
     "id": "1470331",
     "name": "ROLLE, TARA M.",
-    "address": "PO BOX 1077\nNOVATO, CA 94948",
+    "address": "P.O. BOX 1077\nNOVATO, CA 94948",
     "phone": "(415) 295-6333",
     "email": "tara.rolle@capso.org",
     "registrationDate": "01/01/2025",
@@ -22776,7 +22752,7 @@
   {
     "id": "1459737",
     "name": "SANCHEZ, DANIEL",
-    "address": "1121 L STREET SUITE103\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE103\nSACRAMENTO, CA 95814",
     "phone": "(530) 219-5248",
     "email": "daniel@lobby-california.com",
     "registrationDate": "01/01/2025",
@@ -22891,7 +22867,7 @@
   {
     "id": "1476714",
     "name": "SANTORE, SOPHIA",
-    "address": "101 CALIFORNIA ST SUITE 1000\nSAN FRANCISCO, CA 94111",
+    "address": "101 CALIFORNIA STREET, SUITE 1000\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 982-6200",
     "email": "sophia.santore@hines.com",
     "registrationDate": "01/01/2025",
@@ -22972,7 +22948,7 @@
   {
     "id": "1382196",
     "name": "SAVELL, RYAN",
-    "address": "1601 UTICA AVENUE SOUTH SUITE 1000\nMINNEAPOLIS, MN 55416",
+    "address": "1601 UTICA AVENUE SOUTH, SUITE 1000\nMINNEAPOLIS, MN 55416",
     "phone": "(952) 444-4860",
     "email": "ryan.savell@carval.com",
     "registrationDate": "01/01/2025",
@@ -22987,7 +22963,7 @@
   },
   {
     "id": "1479263",
-    "name": "SCHEMEL, PAUL F",
+    "name": "SCHEMEL, PAUL F.",
     "address": "230 PARK AVENUE\nNEW YORK, NY 10169",
     "phone": "(212) 309-5930",
     "email": "paul.schemel@voya.com",
@@ -23319,6 +23295,7 @@
     "phone": "(617) 516-2061",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23448,7 +23425,7 @@
   },
   {
     "id": "1228607",
-    "name": "SENDERLING-MCDONALD, CATHERINE E",
+    "name": "SENDERLING-MCDONALD, CATHERINE E.",
     "address": "524 GARDEN STREET\nSACRAMENTO, CA 95815",
     "phone": "(916) 799-4471",
     "email": "csm@catbirdstrategies.com",
@@ -25347,6 +25324,7 @@
     "email": "jaime.tejedor@permira.com",
     "mailingAddress": "80 PALL MALL\nLONDON SW1Y 5ES 28006",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26054,16 +26032,6 @@
         "effectiveDate": "01/01/2025"
       }
     ]
-  },
-  {
-    "id": "1450220",
-    "name": "TUNSTALL, RYAN",
-    "address": "1114 AVENUE OF THE AMERICAS, 36TH FLOOR\nNEW YORK, NY 10036",
-    "phone": "(212) 230-9200",
-    "email": "rtunstall@insightpartners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": []
   },
   {
     "id": "1304002",
@@ -26804,7 +26772,13 @@
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "WALKER STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1148438",
@@ -27620,6 +27594,7 @@
     "phone": "(617) 516-2000",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
