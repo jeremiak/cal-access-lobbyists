@@ -1207,6 +1207,10 @@
   {
     "id": "1417461",
     "name": "BAKER, CHRISTINE",
+    "address": "1636 OAK VIEW AVENUE\nKENSINGTON, CA 94707",
+    "phone": "(510) 705-2452",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
@@ -1407,6 +1411,7 @@
     "phone": "(415) 788-5111",
     "email": "cbarile@hf.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1874,6 +1879,7 @@
     "phone": "(322) 207-4661",
     "email": "blake.benke@kirkoswald.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2075,6 +2081,7 @@
     "phone": "(212) 603-5596",
     "email": "sberning@raine.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2507,19 +2514,6 @@
         "entityName": "CALIFORNIA ASSOCIATION OF ENVIRONMENTAL HEALTH ADMINISTRATORS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1235093",
-    "name": "BLOOMSTINE, TODD A. ",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BLOOMSTINE & BLOOMSTINE",
-        "type": "Firm",
-        "effectiveDate": "01/01/2023"
       }
     ]
   },
@@ -3403,6 +3397,7 @@
     "phone": "(212) 603-5588",
     "email": "jbrupbacher@raine.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3664,6 +3659,7 @@
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4711,6 +4707,7 @@
     "email": "hchu.lspower@vantagelegal.com",
     "mailingAddress": "12587 FAIR LAKES CIRCLE, PMB 173\nFAIRFAX, VA 22033",
     "registrationDate": "01/09/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6052,6 +6049,7 @@
     "address": "500 CAPITOL MALL, SUITE 2600\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-1392",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6135,6 +6133,7 @@
     "phone": "(415) 788-5111",
     "email": "sdaniels@hf.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7228,7 +7227,8 @@
   {
     "id": "1242282",
     "name": "DWELLEY, STACY I.",
-    "mailingAddress": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814\nPhone: (916) 492-2766",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
@@ -7263,6 +7263,7 @@
     "phone": "(916) 210-0401",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7570,6 +7571,7 @@
     "phone": "(510) 778-3167",
     "email": "stephanie@cruzstrategies.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7916,6 +7918,7 @@
     "address": "925 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-7567",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8864,6 +8867,7 @@
     "address": "1121 L STREET, SUITE 300\nSACRAMENTO, CA 95814",
     "phone": "(916) 553-4167",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9904,7 +9908,8 @@
   {
     "id": "1469660",
     "name": "GOREE, KRISTIN ",
-    "mailingAddress": "1121 L STREET, #309\nSACRAMENTO, CA 95814\nPhone: (916) 426-9170",
+    "address": "1121 L STREET, #309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
@@ -10052,9 +10057,18 @@
   {
     "id": "1475140",
     "name": "GRADY, ISAIAH",
+    "address": "1345 AVENUE OF THE AMERICAS, 21ST FLOOR\nNEW YORK, NY 10105",
+    "phone": "(212) 649-6697",
+    "email": "isaiah.grady@man.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "MAN INVESTMENTS INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1323675",
@@ -10378,6 +10392,7 @@
     "phone": "(916) 799-9710",
     "email": "ruben@firechiefs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11934,6 +11949,7 @@
     "email": "hoffmanadvocacy@gmail.com",
     "mailingAddress": "PO BOX 714\nLOOMIS, CA 95650",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12234,6 +12250,7 @@
     "phone": "(415) 418-0147",
     "email": "sean@socialchangepartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13243,6 +13260,7 @@
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14792,6 +14810,7 @@
     "phone": "(415) 788-5111",
     "email": "alaursen@hf.com",
     "registrationDate": "01/10/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15270,6 +15289,7 @@
     "phone": "(212) 336-7197",
     "email": "sean.lewis@jefferies.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15455,6 +15475,7 @@
     "email": "jlsolutions@mycci.net",
     "mailingAddress": "P.O. BOX 3093\nCITRUS HEIGHTS, CA 95611\nPhone: (916) 300-3400\nEmail: jlsolutions@mycci.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16268,6 +16289,7 @@
     "phone": "(312) 465-3399",
     "email": "amaloney@elementumadvisors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17862,6 +17884,21 @@
     ]
   },
   {
+    "id": "1473188",
+    "name": "MIN, KWAN",
+    "address": "WEST 35TH FLOOR, MIRAE ASSET CENTER 1\n26 EULJI-RO 5-GIL",
+    "email": "jkmin@crescendoep.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRESCENDO EQUITY PARTNERS LIMITED",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1458711",
     "name": "MINER, AVA",
     "address": "B CAPITAL GROUP, 10 HUDSON YARDS\nNEW YORK, NY 10001",
@@ -18014,6 +18051,7 @@
     "phone": "(973) 802-6000",
     "email": "lobbying@prudential.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18131,6 +18169,7 @@
     "phone": "(619) 703-8990",
     "mailingAddress": "8810 JAMAICA BOULEVARD SUITE C347\nSPRING VALLEY, CA 91977\nPhone: (619) 703-8990",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21206,9 +21245,10 @@
     "id": "1423037",
     "name": "RAFTERY, THOMAS",
     "address": "655 BROAD STREET\nNEWARK, NJ 07102",
-    "phone": "(973) 802-6000",
+    "phone": "(973) 270-4721",
     "email": "lobbying@prudential.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21589,6 +21629,7 @@
     "phone": "(916) 443-3816",
     "email": "dcr@revellcommunications.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22135,6 +22176,7 @@
     "phone": "(818) 679-9372",
     "email": "nick@cruzstrategies.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22330,6 +22372,7 @@
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22594,6 +22637,7 @@
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22989,6 +23033,7 @@
     "phone": "(212) 812-3100",
     "email": "registration@kingstreet.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23611,10 +23656,19 @@
   {
     "id": "1149415",
     "name": "SHAHAN, ROSEMARY",
+    "address": "P.O. BOX 72371\nDAVIS, CA 95617",
+    "phone": "(530) 759-9440",
+    "email": "rs@carconsumers.org",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CONSUMER ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1467947",
@@ -23851,6 +23905,7 @@
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27231,6 +27286,10 @@
   {
     "id": "1417462",
     "name": "WELSH, LEN",
+    "address": "1636 OAK VIEW AVENUE\nKENSINGTON, CA 94707",
+    "phone": "(415) 850-4085",
+    "email": "fppc@bmhlay",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (415) 850-4085\nEmail: fppc@bmhlay",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
@@ -28290,6 +28349,7 @@
     "phone": "(973) 802-6000",
     "email": "lobbying@prudential.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
