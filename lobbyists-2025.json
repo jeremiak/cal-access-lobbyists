@@ -1634,6 +1634,7 @@
     "phone": "(818) 645-1420",
     "email": "john@thecriscomcompany.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2358,6 +2359,7 @@
     "phone": "(916) 448-2187",
     "email": "lobby@ellisonwilson.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4270,6 +4272,7 @@
     "address": "1303 J STREET, SUITE 520\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-3300",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5400,6 +5403,9 @@
   {
     "id": "1477010",
     "name": "CORCORAN, MOLLIE",
+    "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-7464",
+    "email": "mollie@axiomadvisors.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
@@ -5799,6 +5805,7 @@
     "phone": "(203) 344-6350",
     "email": "brian.crowell@mlp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6534,6 +6541,7 @@
     "phone": "(916) 441-4166",
     "email": "jerry@desmondlobbyfirm.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7341,6 +7349,7 @@
     "address": "1822 21ST STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 739-1200",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9169,6 +9178,7 @@
     "phone": "(212) 320-1183",
     "email": "karyn.geringer@mlp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11338,6 +11348,7 @@
     "phone": "(916) 594-9700",
     "email": "ghayes@bhfs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13408,6 +13419,7 @@
     "address": "1303 J STREET, SUITE 520\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-3300",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13640,6 +13652,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14794,6 +14807,7 @@
     "phone": "(916) 442-7757",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15976,6 +15990,7 @@
     "phone": "(916) 709-6363",
     "email": "mark@mgiadvocacy.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/10/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16093,6 +16108,7 @@
     "email": "mmaciariello@mfs.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17578,6 +17594,7 @@
     "phone": "(916) 552-2300",
     "email": "amedina@manatt.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17938,6 +17955,7 @@
     "phone": "(510) 206-6270",
     "email": "natasha.minsker@gmail.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18335,6 +18353,7 @@
     "email": "cliff@cmc-us.com",
     "mailingAddress": "1029 K STREET, #26\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20207,6 +20226,7 @@
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -22422,6 +22442,7 @@
     "phone": "(916) 554-2677",
     "email": "aj@calodging.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -22786,6 +22807,7 @@
     "phone": "(916) 552-2300",
     "email": "csalinas@manatt.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23050,6 +23072,7 @@
     "phone": "(212) 649-6842",
     "email": "tyler.sauer@man.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23147,6 +23170,7 @@
     "phone": "(916) 441-4166",
     "email": "anne@desmondlobbyfirm.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23426,6 +23450,7 @@
     "phone": "(415) 262-3157",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23628,6 +23653,7 @@
     "email": "anisha.shah@permira.com",
     "mailingAddress": "320 PARK AVE, 28TH FLOOR\nNEW YORK, NY 10022\nPhone: (212) 386-7480",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23982,23 +24008,6 @@
     ]
   },
   {
-    "id": "1406171",
-    "name": "SIMONETTI, JEFFREY M.",
-    "address": "1201 J STRET\nSACRAMENTO, CA 95814",
-    "phone": "(916) 576-0689",
-    "email": "j.simonetti@capitolcore.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CAPITOL CORE GROUP, INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1339299",
     "name": "SIMONS, JOSHUA DAVID",
     "address": "299 PARK AVENUE, 25TH FLOOR\nNEW YORK, NY 10171",
@@ -24235,6 +24244,7 @@
     "address": "1001 K STREET, 6TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 335-5072",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25474,6 +25484,7 @@
     "phone": "(415) 389-9401",
     "email": "pterheun@sms-mv.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25754,6 +25765,7 @@
     "phone": "(916) 796-6536",
     "email": "tobeadvocates@gmail.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27422,6 +27434,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27438,6 +27451,7 @@
     "phone": "(916) 448-2187",
     "email": "lobby@ellisonwilson.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
