@@ -23411,22 +23411,6 @@
     ]
   },
   {
-    "id": "1338481",
-    "name": "SCHWARTZ, ANTONIA",
-    "address": "5 GREENWICH OFFICE PARK, 2ND FLOOR\nGREENWICH, CT 06831",
-    "phone": "(203) 445-6810",
-    "email": "aschwartz@lotuspartners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ENERGY INFRASTRUCTURE OPERATIONS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1446089",
     "name": "SCHWEITZER, KEITH",
     "address": "200 CLARENDON STREET\nBOSTON , MA 02116",
@@ -24916,23 +24900,6 @@
     ]
   },
   {
-    "id": "1366922",
-    "name": "STOVER, KIERAN P.",
-    "address": "880 CARILLON PARKWAY\nST. PETERSBURG, FL 33716",
-    "phone": "(800) 521-1195",
-    "email": "kieran.stover@rjinvestmentmanagement.",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CARILLON TOWER ADVISERS, INC D/B/A RAYMOND JAMES INVESTMENT MANAGEMENT",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1421563",
     "name": "STOVER, PAUL A.",
     "address": "711 HIGH STREET\nDES MOINES, IA 50392",
@@ -25601,6 +25568,7 @@
     "email": "p.anthony@thomasadvocacygroup.com",
     "mailingAddress": "448 SOUTH HILL STREET, SUITE 1008\nLOS ANGELES, CA 90013",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
