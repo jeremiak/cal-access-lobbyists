@@ -1531,6 +1531,23 @@
     ]
   },
   {
+    "id": "1381860",
+    "name": "BARROS, LEAH",
+    "address": "1809 S STREET, SUITE 101-209\nSACRAMENTO, CA 95811",
+    "phone": "(916) 521-6878",
+    "email": "leah@leahbarros.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BARROS, LLC; LEAH",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148879",
     "name": "BARROW, BRET T.",
     "address": "1127 11TH STREET, SUITE 747\nSACRAMENTO, CA 95814",
@@ -3924,8 +3941,9 @@
     "name": "CARLSON, STEPHEN E.",
     "address": "1710 CATHAY WAY\nSACRAMENTO, CA 95864",
     "phone": "(916) 919-3333",
-    "email": "scarlson@stevecarlsonassociates.com",
+    "email": "kirk.pessner@millerpoliticallaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4865,6 +4883,23 @@
       {
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1386210",
+    "name": "CLAY, DELILAH  ",
+    "address": "1809 S STREET, SUITE 101-209\nSACRAMENTO, CA 95811",
+    "phone": "(916) 521-6878",
+    "email": "delilahclay@gmail.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BARROS, LLC; LEAH",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -14770,6 +14805,23 @@
     ]
   },
   {
+    "id": "1453055",
+    "name": "LARA, MARLON H.",
+    "address": "621 CAPITOL MALL, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(800) 765-4842",
+    "email": "mlara@calrest.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA RESTAURANT ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1435015",
     "name": "LASKER, JOHANNA  A.",
     "address": "787 SEVENTH AVENUE, 5TH FLOOR ANNEX\nNEW YORK, NY 10019",
@@ -15110,7 +15162,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SUMMIT PARTNERS, L.P. AND ITS AFFILIATE SUMMIT PARTNERS CREDIT ADVISERS, L.P.",
+        "entityName": "SUMMIT PARTNERS, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -16294,6 +16346,23 @@
       {
         "entityName": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149403",
+    "name": "MALINOWSKI-BALL, JULEE",
+    "address": "1015 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-0702",
+    "email": "julee@ppallc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC POLICY ADVOCATES, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -18624,7 +18693,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SUMMIT PARTNERS, L.P. AND ITS AFFILIATE SUMMIT PARTNERS CREDIT ADVISERS, L.P.",
+        "entityName": "SUMMIT PARTNERS, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -23157,7 +23226,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SUMMIT PARTNERS, L.P. AND ITS AFFILIATE SUMMIT PARTNERS CREDIT ADVISERS, L.P.",
+        "entityName": "SUMMIT PARTNERS, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
