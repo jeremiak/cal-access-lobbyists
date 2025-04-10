@@ -4020,6 +4020,39 @@
     ]
   },
   {
+    "id": "1479278",
+    "name": "CARREJO, ANTONIO",
+    "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "email": "acarrejo@buchalter.com",
+    "registrationDate": "02/17/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "02/17/2025"
+      }
+    ]
+  },
+  {
+    "id": "1382025",
+    "name": "CARRILLO, IVAN M.",
+    "address": "1029 J STREET, SUITE 500\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-3216",
+    "email": "icarrillo@acsa.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1363434",
     "name": "CARROLL, DANIEL",
     "address": "909 MONTGOMERY STREET, 4TH FLOOR\nSAN FRANCISCO, CA 94133",
@@ -4397,6 +4430,22 @@
     "relationships": [
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1474392",
+    "name": "CHARTRAND, LAURA",
+    "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "email": "lchartrand@buchalter.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -9936,6 +9985,23 @@
     ]
   },
   {
+    "id": "1148142",
+    "name": "GORDON, KEVIN R. ",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "email": "kevin@capitoladvisors.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1236999",
     "name": "GORE, ROBERT J.",
     "address": "500 CAPITOL MALL, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -10834,6 +10900,23 @@
     ]
   },
   {
+    "id": "1448793",
+    "name": "HAFEZ, SAMIR",
+    "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "email": "shafez@buchalter.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1471647",
     "name": "HAGERMAN, MARISSA",
     "address": "9980 9TH STREET SUITE 9080\nSACRAMENTO, CA 95864",
@@ -10878,6 +10961,22 @@
       {
         "entityName": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149643",
+    "name": "HAJELA, ABHAS",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "email": "abe@capitoladvisors.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -10959,6 +11058,21 @@
     "relationships": [
       {
         "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1476911",
+    "name": "HAMPTON, KORDELL",
+    "address": "1029 J STREET, SUITE 500\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-3216",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -12988,6 +13102,22 @@
     ]
   },
   {
+    "id": "1334113",
+    "name": "JOHNSON, DOROTHY",
+    "address": "1029 J STREET, SUITE 500\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-3216",
+    "email": "djohnson@acsa.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1453693",
     "name": "JOHNSON, FRANK RASHAD",
     "address": "555 CAPITOL MALL, SUITE 180\nSACRAMENTO, CA 95814",
@@ -13187,6 +13317,23 @@
     ]
   },
   {
+    "id": "1241889",
+    "name": "JONES, BRANCHE",
+    "address": "1127 11TH STREET, SUITE 321\nSACRAMENTO, CA 95814",
+    "phone": "(916) 296-2711",
+    "email": "branchejones@gmail.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JONES; BRANCHE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1469664",
     "name": "JONES, DAVID E.",
     "address": "3610 CUTTER WAY\nSACRAMENTO, CA 95818",
@@ -13333,6 +13480,23 @@
     ]
   },
   {
+    "id": "1393083",
+    "name": "JUNG, CAITLIN",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "email": "caitlin@capitoladvisors.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1478231",
     "name": "JUNGWIRTH, EMMA",
     "address": "1100 K STREET, SUITE101\nSACRAMENTO, CA 95814",
@@ -13460,6 +13624,22 @@
       {
         "entityName": "MURDOCH WALRATH  & HOLMES",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1438647",
+    "name": "KAMINSKI, SERETTE",
+    "address": "1029 J STREET, SUITE 500\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-3216",
+    "email": "skaminski@acsa.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -13910,6 +14090,22 @@
       {
         "entityName": "COMPASS ROSE ASSET MANAGEMENT, LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1462451",
+    "name": "KERN , BELLA ",
+    "address": "925 L STREET SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -16535,6 +16731,23 @@
     ]
   },
   {
+    "id": "1393467",
+    "name": "MARCELLUS, CHRISTINA",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "email": "christina@capitoladvisors.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1436338",
     "name": "MARCHESIN, GILLES",
     "address": "34 BRUTON STREET\nLONDON UK W1J6QX",
@@ -17119,6 +17332,23 @@
     ]
   },
   {
+    "id": "1392767",
+    "name": "MC BRIDE, CATHY",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "email": "cathy@capitoladvisors.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1476230",
     "name": "MC CARTHY, RYAN",
     "address": "1401 DOVE STREET, SUITE 430\nNEWPORT BEACH, CA 92660",
@@ -17334,7 +17564,7 @@
   {
     "id": "1470122",
     "name": "MC GLINN, DANIEL",
-    "address": "1 MARKET PLAZA, STEUART TOWER\n27TH FLOOR",
+    "address": "1 MARKET PLAZA, STEUART TOWER, FLOOR 27\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 262-3151",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
@@ -17580,7 +17810,7 @@
   {
     "id": "1474199",
     "name": "MCCALL, BRIAN",
-    "address": "650 TOWN CENTER DRIVE 20TH FLOOR\nCOASTA MESA, CA 92626",
+    "address": "650 TOWN CENTER DRIVE, 20TH FLOOR\nCOASTA MESA, CA 92626",
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
     "registrationDate": "01/01/2025",
@@ -17605,6 +17835,22 @@
       {
         "entityName": "CRESTVIEW ADVISORS, L.L.C.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1328685",
+    "name": "MEANS, SABRINA",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -18467,6 +18713,23 @@
     ]
   },
   {
+    "id": "1464253",
+    "name": "MOSHER, JIM",
+    "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "email": "jmosher@buchalter.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1463452",
     "name": "MOSS, MARC JASON",
     "address": "11100 SANTA MONICA BOULEVARD, SUITE 2000\nLOS ANGELES, CA 90025",
@@ -18848,9 +19111,26 @@
     ]
   },
   {
+    "id": "1357933",
+    "name": "NEBEN, DAVID A",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95811",
+    "phone": "(916) 557-9745",
+    "email": "dneben@strategicadvocates.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1468487",
     "name": "NEGGIA, ANDREW",
-    "address": "527 MADISON AVENUE, FLOOR 6\nNEW YORK, NY 10022",
+    "address": "527 MADISON AVENUE, 6TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
@@ -18899,7 +19179,7 @@
   {
     "id": "1434096",
     "name": "NELSON, JAMES A.",
-    "address": "4 EMBARCADERO CENTER, FLOOR 24\nSAN FRANCISCO, CA 94111",
+    "address": "4 EMBARCADERO CENTER, 24TH FLOOR\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 281-4511",
     "email": "jim.nelson@lazard.com",
     "registrationDate": "01/01/2025",
@@ -20410,6 +20690,7 @@
     "address": "1201 K STREET, SUITE 750\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3116",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20723,7 +21004,7 @@
   {
     "id": "1148938",
     "name": "PISANI, DAVID J.",
-    "address": "1550 CRYSTAL DRIVE # 1300\nARLINGTON, VA 22202",
+    "address": "1550 CRYSTAL DRIVE, #1300\nARLINGTON, VA 22202",
     "phone": "(916) 764-4663",
     "email": "dpisani@marchofdimes.org",
     "mailingAddress": "1067 RIO CIDADE WAY\nSACRAMENTO, CA 95831",
@@ -21679,6 +21960,22 @@
     ]
   },
   {
+    "id": "1346101",
+    "name": "REID, LEE ANGELA",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "email": "leeangela@capitoladvisors.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1460006",
     "name": "RENAUD, ERIK P.",
     "address": "13100 SKYLINE BOULEVARD\nWOODSIDE, CA 94062",
@@ -21905,6 +22202,23 @@
       {
         "entityName": "EDUCATION TRUST; THE",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1478993",
+    "name": "RIVAS, ELISA",
+    "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "email": "erivas@buchalter.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -23497,6 +23811,23 @@
     ]
   },
   {
+    "id": "1419125",
+    "name": "SCICLUNA, RACHEL",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "email": "rachel@capitoladvisors.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1421829",
     "name": "SCOTT, HOWARD A.",
     "address": "1 MARKET PLAZA, 27TH FLOOR\nSAN FRANCISCO , CA 94105",
@@ -23844,6 +24175,22 @@
     "relationships": [
       {
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1323354",
+    "name": "SHERIFF, NORA ",
+    "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "email": "nsheriff@buchalter.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -24402,6 +24749,23 @@
       {
         "entityName": "DIGITALBRIDGE GROUP, INC. AND AFFILIATED ENTITIES",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1258189",
+    "name": "SNIDER, BARRETT G.",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "email": "barrett@capitoladvisors.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -25038,7 +25402,7 @@
   {
     "id": "1475362",
     "name": "STRELLA, MANDI",
-    "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "mandi@caleec.com",
     "registrationDate": "01/01/2025",
@@ -26835,6 +27199,22 @@
     ]
   },
   {
+    "id": "1425571",
+    "name": "VU, DIANA",
+    "address": "1029 J STREET, SUITE 500\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-3216",
+    "email": "dvu@acsa.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1466694",
     "name": "VU, QUYNH ANH A",
     "address": "747 FRONT STREET\nSAN FRANCISCO, CA 94111",
@@ -26971,6 +27351,7 @@
     "phone": "(916) 443-8891",
     "email": "stw@platinumadvisors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -27799,7 +28180,7 @@
   {
     "id": "1462709",
     "name": "WOLF , DANIEL",
-    "address": "600 MASSACHUSETTS AVE NW \nWASHINGTON , DC 20001",
+    "address": "600 MASSACHUSETTS AVENUE NW \nWASHINGTON , DC 20001",
     "phone": "(202) 344-4000",
     "email": "adilobbying@venable.com",
     "registrationDate": "01/01/2025",
@@ -27955,6 +28336,23 @@
     "relationships": [
       {
         "entityName": "KP PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1464254",
+    "name": "WRIGHT, STEPHEN",
+    "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "email": "swright@buchalter.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
