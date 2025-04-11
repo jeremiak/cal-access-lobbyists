@@ -1541,7 +1541,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "BARROS, LLC; LEAH",
+        "entityName": "BARROS CLAY & ASSOCIATES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -3192,6 +3192,23 @@
       {
         "entityName": "SACRAMENTO ADVOCATES INC.",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1442820",
+    "name": "BROOKS, HEATHER",
+    "address": "1114 AVENUE OF THE AMERICAS, 36TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(212) 230-9200",
+    "email": "hbrooks@insightpartners.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INSIGHT VENTURE MANAGEMENT, LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -4947,7 +4964,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "BARROS, LLC; LEAH",
+        "entityName": "BARROS CLAY & ASSOCIATES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -6214,6 +6231,22 @@
         "entityName": "CLEAR ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1342326",
+    "name": "DALY, WILLIAM",
+    "address": "375 PARK AVENUE, 8TH FLOOR\nNEW YORK, NY 10152",
+    "phone": "(646) 812-3224",
+    "email": "wdaly@fieracapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIERA CAPITAL INC.",
+        "type": "Employer",
+        "effectiveDate": "01/16/2025"
       }
     ]
   },
@@ -10060,6 +10093,22 @@
     "relationships": [
       {
         "entityName": "ARISTEIA CAPITAL, L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1437707",
+    "name": "GOROSPE, CONRAD",
+    "address": "1114 AVENUE OF THE AMERICAS, 36TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(212) 230-9200",
+    "email": "cgorospe@insightpartners.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INSIGHT VENTURE MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -26580,6 +26629,22 @@
     ]
   },
   {
+    "id": "1450220",
+    "name": "TUNSTALL, RYAN",
+    "address": "1114 AVENUE OF THE AMERICAS, 36TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(212) 230-9200",
+    "email": "rtunstall@insightpartners.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INSIGHT VENTURE MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1304002",
     "name": "TURELLA, VALERIE A.",
     "address": "300 LAKESIDE DRIVE, SUITE 210\nOAKLAND, CA 94612",
@@ -28704,6 +28769,22 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA TRAVEL ASSOCIATION (CALTRAVEL)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1406001",
+    "name": "ZAMBITO, ASHLEY",
+    "address": "40 WEST 57TH STREET, 24TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 262-0005",
+    "email": "azambito@mhrfund.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MHR FUND MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
