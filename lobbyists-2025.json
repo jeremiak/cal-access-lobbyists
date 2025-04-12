@@ -1815,6 +1815,7 @@
     "phone": "(916) 492-5200",
     "email": "seanb@car.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -2619,6 +2620,22 @@
     ]
   },
   {
+    "id": "1335999",
+    "name": "BOCKHAUS, GABRIELA C.",
+    "address": "767 5TH AVENUE, 8TH FLOOR\nNEW YORK CITY, NY 10153",
+    "phone": "(212) 455-0900",
+    "email": "compliance@janapartners.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JANA PARTNERS MANAGEMENT, LP.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1395038",
     "name": "BOEHM, KELLI",
     "address": "1201 J STREET, SUITE 226\nSACRAMENTO, CA 95814",
@@ -3091,6 +3108,23 @@
     "relationships": [
       {
         "entityName": "SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 1000",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1469178",
+    "name": "BREWSTER, JACLYN",
+    "address": "200 CLARENDON STREET, 55TH FLOOR \nBOSTON, MA 02116",
+    "phone": "(617) 531-6340",
+    "email": "jbrewster@arclight.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -6825,6 +6859,22 @@
     ]
   },
   {
+    "id": "1448067",
+    "name": "DI PIETRO, GREER",
+    "address": "200 CLARENDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
+    "phone": "(617) 531-6300",
+    "email": "gdipiietro@arclight.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1277372",
     "name": "DIAZ, MANNY J.",
     "address": "580 NORTH 15TH STREET\nSAN JOSE, CA 95112",
@@ -7752,6 +7802,22 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA MEDICAL ASSOCIATION AND AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1460013",
+    "name": "EVER, DENNIS",
+    "address": "599 WEST PUTNAM AVENUE\nGREENWICH, CT 06830",
+    "phone": "(203) 629-4901",
+    "email": "dennis.ever@lcatterton.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CATTERTON MANAGEMENT COMPANY, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -12185,6 +12251,22 @@
     ]
   },
   {
+    "id": "1477985",
+    "name": "HOLIHAN, SEAN",
+    "address": "1310 L STREET NW, SUITE 600\nWASHINGTON, DC 20005",
+    "phone": "(571) 488-5742",
+    "email": "compliance_ca_giffords_2@multistate.us",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GIFFORDS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1339830",
     "name": "HOLLORAN, ANNE F.",
     "address": "901 THIRD AVENUE SOUTH, ROUTING:10S\nMINNEAPOLIS, MN 55402",
@@ -12948,6 +13030,24 @@
     "relationships": [
       {
         "entityName": "ASANTE CAPITAL GROUP ADVISORS LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477578",
+    "name": "JANSEN, DEREK",
+    "address": "304 SOUTH BROADWAY #207\nLOS ANGELES, CA 90013",
+    "phone": "(213) 624-1380",
+    "email": "lobbying@rutan.com",
+    "mailingAddress": "150 POST STREET, SUITE 405\nSAN FRANCISCO, CA 94108\nPhone: (213) 624-1380\nEmail: lobbying@rutan.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MERCURY PUBLIC AFFAIRS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -13789,6 +13889,22 @@
     "relationships": [
       {
         "entityName": "400 CAPITAL MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1448477",
+    "name": "KAPLAN, JORDAN",
+    "address": "375 PARK AVENUE, 24TH FLOOR\nNEW YORK, NY 10152",
+    "phone": "(212) 224-5599",
+    "email": "jkaplan@entrustglobal.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENTRUST GLOBAL PARTNERS OFFSHORE LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -15495,6 +15611,23 @@
     ]
   },
   {
+    "id": "1379408",
+    "name": "LENNOX, DERICK",
+    "address": "1029 J STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-3095",
+    "email": "dlennox@cacountysupts.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1477298",
     "name": "LEOTTA, DANIEL",
     "address": "101 CRAWFORDS CORNER ROAD, SUITE 1206\nHOLMDEL, NJ 07733",
@@ -16143,6 +16276,23 @@
       {
         "entityName": "LUCIEN PARTNERS",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1476877",
+    "name": "LUGO, ASHLEY",
+    "address": "1029 J STREET, SUITE 200\nSACRAMENTO, CA 05814",
+    "phone": "(916) 446-3095",
+    "email": "alugo@cacountysupts.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -17454,14 +17604,15 @@
     "address": "101 2ND STREET,  SUITE 2400\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 975-3534",
     "email": "frederick.mccrea@newtonim.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
         "entityName": "NEWTON INVESTMENT MANAGEMENT NORTH AMERICA, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/01/2025"
       }
     ]
   },
@@ -18661,6 +18812,22 @@
     ]
   },
   {
+    "id": "1448968",
+    "name": "MOREA, LAUREN",
+    "address": "599 WEST PUTNAM AVENUE\nGREENWICH, CT 06830",
+    "phone": "(203) 629-4901",
+    "email": "lauren.morea@lcatterton.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CATTERTON MANAGEMENT COMPANY, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1294115",
     "name": "MORETTI, ERMELINDA",
     "address": "5001 EXECUTIVE PARKWAY, SUITE 200\nSAN RAMON, CA 94583",
@@ -19028,6 +19195,23 @@
     ]
   },
   {
+    "id": "1476468",
+    "name": "MURRAY, ETHAN",
+    "address": "1310 L STREET NW, SUITE 600\nWASHINGTON, DC 20005",
+    "phone": "(949) 306-2991",
+    "email": "compliance_ca_giffords_1@multistate.us",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GIFFORDS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1383059",
     "name": "MUTSCHLER, USHA",
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -19330,6 +19514,23 @@
     "relationships": [
       {
         "entityName": "WESTERN CENTER ON LAW & POVERTY, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1470549",
+    "name": "NICA, DAVID",
+    "address": "200 CLAREDON STREET, FLOOR 55\nBOSTON, MA 02116",
+    "phone": "(617) 531-6335",
+    "email": "dnica@arclight.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -20702,6 +20903,23 @@
     ]
   },
   {
+    "id": "1467499",
+    "name": "PEREZ, VERONICA",
+    "address": "304 SOUTH BROADWAY #207\nLOS ANGELES, CA 90013",
+    "phone": "(213) 624-1380",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/29/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MERCURY PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1353187",
     "name": "PERKINS, THEODORE GREY",
     "address": "10 E. 53RD STREET, 35TH FLOOR\nNEW YORK, NY 10022",
@@ -20912,6 +21130,22 @@
       {
         "entityName": "NIEMELA, PAPPAS AND ASSOCIATES",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1464284",
+    "name": "PHILLIPS, RYAN",
+    "address": "599 WEST PUTNAM AVENUE\nGREENWICH, CT 06830",
+    "phone": "(203) 629-4901",
+    "email": "compliance@lctterton.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CATTERTON MANAGEMENT COMPANY, LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -21779,6 +22013,22 @@
     ]
   },
   {
+    "id": "1477712",
+    "name": "RASCOFF, JAMES",
+    "address": "99 CHAUNCY STREET, 6TH FLOOR\nBOSTON, MA 02111",
+    "phone": "(617) 247-0700",
+    "email": "compliance_ca_ceres_1@multistate.us",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CERES, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1445188",
     "name": "RASHID, AMER",
     "address": "1303 J STREET, SUITE 300\nSACRAMENTO, CA 95814",
@@ -22135,6 +22385,22 @@
     "relationships": [
       {
         "entityName": "ELLINGTON MANAGEMENT GROUP LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1421761",
+    "name": "RIFFELMACHER, MICHELLE",
+    "address": "375 PARK AVENUE, 24TH FLOOR\nNEW YORK, NY 10152",
+    "phone": "(212) 418-6615",
+    "email": "mriffelmacher@entrustglobal.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENTRUST GLOBAL PARTNERS OFFSHORE LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -23068,23 +23334,6 @@
     ]
   },
   {
-    "id": "1349300",
-    "name": "RUSTUM, JOHN ",
-    "address": "17 STATE STREET, 30TH FLOOR\nNEW YORK, NY 10004",
-    "phone": "(212) 806-3701",
-    "email": "john.rustum@adyne.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1148314",
     "name": "RUTLAND , WILLIAM ",
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
@@ -23112,6 +23361,23 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSOCIATION FOR ADULT DAY SERVICES (CAADS)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1442756",
+    "name": "RUVALCABA, BRIANNA",
+    "address": "1029 J STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-3095",
+    "email": "bbruns@cacountysupts.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -23962,6 +24228,22 @@
     ]
   },
   {
+    "id": "1342683",
+    "name": "SEGURA-BAEZ, YOKASTA",
+    "address": "200 CLARENDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
+    "phone": "(617) 531-6336",
+    "email": "ysegura@arclight.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1149012",
     "name": "SEKTNAN, MARK ",
     "address": "1415 L STREET, SUITE 670\nSACRAMENTO, CA 95814",
@@ -24483,6 +24765,23 @@
     "relationships": [
       {
         "entityName": "VICTORY CAPITAL MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1377396",
+    "name": "SINDELAR, JR., JOSEPH B.",
+    "address": "202 MAIN STREET\nNEW CANAAN, CT 06840",
+    "phone": "(917) 855-4642",
+    "email": "jsindelar@crossbaycapital.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CROSSBAY CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -25765,6 +26064,22 @@
     ]
   },
   {
+    "id": "1437462",
+    "name": "TALLEY, DEAN",
+    "address": "100 BAYER BOULEVARD\nWHIPPANY, NJ 07981",
+    "phone": "(314) 694-8516",
+    "email": "compliance_ca_bayer_1@multistate.us",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BAYER U.S. LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1451021",
     "name": "TANASE, STEFAN A.",
     "address": "1 BRYANT PARK, 38TH FLOOR\nNEW YORK, NY 10036",
@@ -26288,6 +26603,23 @@
       {
         "entityName": "TOPP STRATEGIES, LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1445005",
+    "name": "TORNATORE, LINDSAY",
+    "address": "129 J STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-3095",
+    "email": "ltornatore@cacountysupts.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -27779,6 +28111,22 @@
     ]
   },
   {
+    "id": "1393416",
+    "name": "WELLS, RICHARD A.",
+    "address": "301 SOUTH COLLEGE STREET, SUITE 3800\nCHARLOTTE, NC 28202",
+    "phone": "(704) 334-6475",
+    "email": "compliance@wedgecapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEDGE CAPITAL MANAGEMENT",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1417462",
     "name": "WELSH, LEN",
     "address": "1636 OAK VIEW AVENUE\nKENSINGTON, CA 94707",
@@ -27894,6 +28242,23 @@
     ]
   },
   {
+    "id": "1339653",
+    "name": "WETTERMAN, TERRY",
+    "address": "200 CALRENDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
+    "phone": "(617) 531-6333",
+    "email": "twetterman@archlight.com",
+    "mailingAddress": "140 EAST 45TH STREET, 44TH FLOOR\nNEW YORK, NY 10017",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1471538",
     "name": "WEYMANN, ANDREW",
     "address": "680 FIFTH AVENUE, 11TH FLOOR\nNEW YORK, NY 10019",
@@ -28003,6 +28368,23 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1372250",
+    "name": "WHITNEY, MELISSA ",
+    "address": "401 SOUTH. 1ST STREET, SUITE 850\nAUSTIN, TX 78704",
+    "phone": "(512) 361-2837",
+    "email": "melissa.whitney@palisades-group.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PALISADES GROUP, LLC; THE",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
