@@ -2653,6 +2653,22 @@
     ]
   },
   {
+    "id": "1480243",
+    "name": "BOGHETICH, CODY",
+    "address": "78 PINE STREET\nNEW CANAAN, CT 06840",
+    "phone": "(405) 245-2555",
+    "email": "cboghetich@crossbaycapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CROSSBAY CAPITAL PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1367598",
     "name": "BOLLYKY, ANDREA",
     "address": "575 MADISON AVENUE, 25TH FLOOR\nNEW YORK, NY 10022",
@@ -9818,6 +9834,21 @@
     ]
   },
   {
+    "id": "1480254",
+    "name": "GOH, SIHIEN",
+    "address": "26 ESPLANADE\nSAINT HELIER, JERSEY JE2 3QA",
+    "email": "admin@nordiccapital.je",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NORDIC CAPITAL GROUP L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1458698",
     "name": "GOLDBLUM, SARAH",
     "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
@@ -9906,7 +9937,9 @@
     "name": "GONSALVES, SHARON",
     "address": "1127 11TH STREET, SUITE 300\nSACRAMENTO, CA 95814",
     "phone": "(916) 974-9270",
+    "email": "sgonsalves@publicpolicygroup.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12674,7 +12707,9 @@
     "name": "HUTCHINGS, DANE",
     "address": "1127 11TH STREET, SUITE 300\nSACRAMENTO, CA 95814",
     "phone": "(916) 974-9270",
+    "email": "dhutchings@puplicpolicygroup.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15694,6 +15729,22 @@
     ]
   },
   {
+    "id": "1334690",
+    "name": "LEVENTHORPE, THOMAS",
+    "address": "277 PARK AVENUE, FLOOR 10\nNEW YORK, NY 10172",
+    "phone": "(212) 648-2060",
+    "email": "thomas.r.leventhorpe@jpmorgan.com",
+    "registrationDate": "01/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/17/2025"
+      }
+    ]
+  },
+  {
     "id": "1337341",
     "name": "LEVESQUE, SHAUN R.",
     "address": "ONE FINANCIAL CENTER, SUITE 1620\nBOSTON, MA 02111",
@@ -15705,6 +15756,23 @@
       {
         "entityName": "WESTWOOD GLOBAL INVESTMENTS, LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1235670",
+    "name": "LEVI, ERIN I.",
+    "address": "1215 K STREET, SUITE 1500\nSACRAMENTO, CA 95814",
+    "phone": "(916) 930-0609",
+    "email": "levi@lobbycal.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL PARTNERS, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -18384,6 +18452,23 @@
     ]
   },
   {
+    "id": "1222972",
+    "name": "MILLER, MONICA",
+    "address": "1017 L STREET, SUITE 595\nSACRAMENTO, CA 95814",
+    "phone": "(916) 228-4795",
+    "email": "mmiller@sacadv.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SACRAMENTO ADVISORS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148785",
     "name": "MILLER, TAMI N.",
     "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
@@ -19689,7 +19774,7 @@
   {
     "id": "1358807",
     "name": "NOLAN, PETER D.",
-    "address": "240 LEIGH FARM ROAD, SUITE 450\nDURHAM, NC 27707",
+    "address": "240 LEIGH FARM ROAD, SUITE 200\nDURHAM, NC 27707",
     "phone": "(919) 493-3211",
     "email": "bill.schwartz@qmscapital.com",
     "registrationDate": "01/01/2025",
@@ -21318,6 +21403,23 @@
     ]
   },
   {
+    "id": "1318712",
+    "name": "PIZZOTTI, COBY K. ",
+    "address": "1127 11TH STREEET, SUITE 300\nSACRAMENTO , CA 95814",
+    "phone": "(916) 974-9270",
+    "email": "cpizzotti@me.com",
+    "registrationDate": "01/06/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1455993",
     "name": "PLATE, GINA",
     "address": "2612 17TH STREET\nSACRAMENTO, CA 95818",
@@ -22041,6 +22143,22 @@
         "entityName": "COUNTY BEHAVIORAL HEALTH DIRECTORS ASSOCIATION (CBHDA)",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1456756",
+    "name": "RASHID, SAKIB",
+    "address": "1270 AVENUE OF THE AMERICAS, SUITE 408\nNEW YORK, NY 10020",
+    "phone": "(212) 224-8220",
+    "email": "sakib.rashid@rede-partners.com",
+    "registrationDate": "01/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "REDE PARTNERS (AMERICAS) LLC",
+        "type": "Firm",
+        "effectiveDate": "01/15/2025"
       }
     ]
   },
@@ -23799,7 +23917,7 @@
   {
     "id": "1479263",
     "name": "SCHEMEL, PAUL F.",
-    "address": "230 PARK AVENUE\nNEW YORK, NY 10169",
+    "address": "230 PARK AVENUE, 14TH FLOOR\nNEW YORK, NY 10169",
     "phone": "(212) 309-5930",
     "email": "paul.schemel@voya.com",
     "registrationDate": "02/03/2025",
@@ -24771,6 +24889,22 @@
     ]
   },
   {
+    "id": "1344880",
+    "name": "SIMPSON, EDWARD R.",
+    "address": "1299 OCEAN AVENUE\nSANTA MONICA, CA 90401",
+    "phone": "(310) 917-1446",
+    "email": "clientservice@dimensional.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DIMENSIONAL FUND ADVISORS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1377396",
     "name": "SINDELAR, JR., JOSEPH B.",
     "address": "202 MAIN STREET\nNEW CANAAN, CT 06840",
@@ -25263,6 +25397,22 @@
     "relationships": [
       {
         "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1419845",
+    "name": "SOLIS, ALEJANDRO",
+    "address": "1121 L STREET, SUITE 103\nSACRAMENTO, CA 95814",
+    "phone": "(916) 914-5923",
+    "email": "alejandro@lobby-california.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ADVOCACY LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -25828,6 +25978,23 @@
         "entityName": "CAPITOL CONNECTION",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479809",
+    "name": "SULLIVAN, CLAIRE",
+    "address": "1127 11TH STREET, SUITE 300\nSACRAMENTO, CA 95814",
+    "phone": "(916) 974-9270",
+    "email": "cesullivanhalpern@gmail.com",
+    "registrationDate": "01/06/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/06/2025"
       }
     ]
   },
