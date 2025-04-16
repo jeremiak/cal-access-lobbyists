@@ -1678,6 +1678,22 @@
     ]
   },
   {
+    "id": "1448764",
+    "name": "BATJER, MARYBEL",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "mbatjer@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1463573",
     "name": "BATKO, ANNA",
     "address": "601 LEXINGTON AVENUE, 53RD FLOOR\nNEW YORK, NY 10022",
@@ -1975,6 +1991,22 @@
     ]
   },
   {
+    "id": "1232262",
+    "name": "BENTON, JOHN",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "benton@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1380744",
     "name": "BERDUGO, RONALD",
     "address": "1215 K STREET, SUITE 2030\nSACRAMENTO, CA 95814",
@@ -2094,6 +2126,23 @@
     ]
   },
   {
+    "id": "1354957",
+    "name": "BERNER, SARAH E.",
+    "address": "527 MADISON AVENUE, FLOOR 6\nNEW YORK, NY 10022",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "01/21/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MUDRICK CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/21/2025"
+      }
+    ]
+  },
+  {
     "id": "1477426",
     "name": "BERNING, SARAH",
     "address": "65 EAST 55TH STREET, 24TH FLOOR\nC/O RAINE",
@@ -2120,6 +2169,22 @@
     "relationships": [
       {
         "entityName": "TFG ASSET MANAGEMENT US LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1381170",
+    "name": "BERRY, JOE",
+    "address": "915 L STREET, SUITE 1150\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-2237",
+    "email": "jberry@yourcba.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA BROADCASTERS ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -2982,6 +3047,22 @@
     ]
   },
   {
+    "id": "1347952",
+    "name": "BRADSHAW, VICTORIA",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "vbradshaw@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1452561",
     "name": "BRAILLARD, WALTER",
     "address": "101 ARCH STREET \nBOSTON, MA 02110",
@@ -3472,6 +3553,22 @@
       {
         "entityName": "D.E. SHAW & CO., L.P.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1355167",
+    "name": "BRUNELLO, TONY",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "tbrunello@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -6000,6 +6097,22 @@
     ]
   },
   {
+    "id": "1445952",
+    "name": "CUEVAS, JESSE",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "jesse@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1358167",
     "name": "CUEVAS-ROMERO, DENNIS R.",
     "address": "1231 I STREET, SUITE 400\nSACRAMENTO, CA 95814",
@@ -6918,6 +7031,22 @@
     "relationships": [
       {
         "entityName": "KAISER FOUNDATION HEALTH PLAN, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1414690",
+    "name": "DICKEY, AMANDA M.",
+    "address": "1029 J STREET, SUITE 220\nSACRAMENTO, CA 95814",
+    "phone": "(530) 301-3510",
+    "email": "adickey@sccoe.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SANTA CLARA COUNTY OFFICE OF EDUCATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -8558,6 +8687,22 @@
     "relationships": [
       {
         "entityName": "RKF CONSULTING LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1303784",
+    "name": "FORD, DEVON ",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "dford@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -11442,6 +11587,22 @@
     ]
   },
   {
+    "id": "1283112",
+    "name": "HARRIS, THEODORE",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "tharris@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1465183",
     "name": "HARRISON, GARY",
     "address": "114 WEST 47TH STREET, 19TH FLOOR\nNEW YORK, NY 10036",
@@ -11806,6 +11967,23 @@
     ]
   },
   {
+    "id": "1409404",
+    "name": "HELTON, ANTHONY",
+    "address": "1215 K STREET, SUITE 950\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-2647",
+    "email": "aj@clta.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA LAND TITLE ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1478923",
     "name": "HENDERSON, BENJAMIN",
     "address": "1107 NINTH STREET, SUITE 680\nSACRAMENTO, CA 95814",
@@ -11997,6 +12175,22 @@
     "relationships": [
       {
         "entityName": "HEYWORTH GOVERNMENT AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1360391",
+    "name": "HICKOX, WINSTON",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "whickox@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -13632,6 +13826,22 @@
     ]
   },
   {
+    "id": "1476795",
+    "name": "JOVES, CONSTANCE",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "cjoves@calstrat.com",
+    "registrationDate": "01/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/12/2025"
+      }
+    ]
+  },
+  {
     "id": "1393216",
     "name": "JOYCE, PATRICK",
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
@@ -14461,6 +14671,22 @@
     ]
   },
   {
+    "id": "1478189",
+    "name": "KHOURY, JALIL",
+    "address": "277 PARK AVENUE, 8TH FLOOR\nNEW YORK, NY 10172",
+    "phone": "(708) 745-1025",
+    "email": "jalil.khoury@jpmchase.com",
+    "registrationDate": "01/21/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/21/2025"
+      }
+    ]
+  },
+  {
     "id": "1396304",
     "name": "KIDANE, AWET ",
     "address": "1121 L STREET, SUITE 100\nSACRAMENTO, CA 95814",
@@ -14962,6 +15188,22 @@
       {
         "entityName": "WESTERN GROWERS",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1366131",
+    "name": "KOZBERG, JOANNE",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO , CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "jkozberg@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -15471,6 +15713,7 @@
     "phone": "(212) 582-2211",
     "email": "alee@onex.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21169,6 +21412,22 @@
     ]
   },
   {
+    "id": "1332073",
+    "name": "PETTIBONE, KATHERINE ",
+    "address": "8612 EL VERANO AVENUE\nELVERTA, CA 95626",
+    "phone": "(916) 402-1678",
+    "email": "katie@psgovernmentstrategies.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PETTIBONE GOVERNMENT STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148194",
     "name": "PEVERINI, NANCY",
     "address": "770 L STREET, SUITE 1200  \nSACRAMENTO, CA 95814",
@@ -24825,6 +25084,22 @@
     ]
   },
   {
+    "id": "1383060",
+    "name": "SILHI, ALYSSA",
+    "address": "925 L STREET\nSACRAMENTO, CA 95814",
+    "phone": "(313) 701-9046",
+    "email": "asilhi@ford.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FORD MOTOR COMPANY AND ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1459546",
     "name": "SILVER, JESSE",
     "address": "1 MANHATTAN WEST, 395 9TH AVE, 56TH FLOOR\nNEW YORK, NY 10001",
@@ -27807,6 +28082,22 @@
         "entityName": "WADA GOVERNMENT RELATIONS LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1455780",
+    "name": "WAELDER, ADA",
+    "address": "50 CALIFORNIA STREET, SUITE 500\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 217-2000",
+    "email": "awaelder@earthjustice.org",
+    "registrationDate": "01/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EARTHJUSTICE",
+        "type": "Employer",
+        "effectiveDate": "01/13/2025"
       }
     ]
   },
