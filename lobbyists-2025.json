@@ -1255,6 +1255,23 @@
     ]
   },
   {
+    "id": "1148259",
+    "name": "BAKER, STEVE",
+    "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3444",
+    "email": "sbaker@aaronread.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "READ & ASSOCIATES, LLC; AARON",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1467215",
     "name": "BALEWICZ, GREG",
     "address": "225 W WACKER DRIVE, SUITE 1200\nCHICAGO, IL 60606",
@@ -1491,6 +1508,22 @@
     "relationships": [
       {
         "entityName": "CASTLELAKE, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1338757",
+    "name": "BARNHILL, MARK ",
+    "address": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
+    "phone": "(310) 712-1850",
+    "email": "mbarnhill@platinumequity.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -2734,6 +2767,22 @@
     ]
   },
   {
+    "id": "1479595",
+    "name": "BOIRE, TREVOR",
+    "address": "725 PONCE DE LEON AVENUE, NORTHEAST\nATLANTA, GA 30306",
+    "phone": "(617) 357-1235",
+    "email": "trevor.boire@blackrock.com",
+    "registrationDate": "01/23/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.",
+        "type": "Employer",
+        "effectiveDate": "01/23/2025"
+      }
+    ]
+  },
+  {
     "id": "1367598",
     "name": "BOLLYKY, ANDREA",
     "address": "575 MADISON AVENUE, 25TH FLOOR\nNEW YORK, NY 10022",
@@ -2992,6 +3041,23 @@
     "relationships": [
       {
         "entityName": "VIKING GLOBAL INVESTORS LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1457083",
+    "name": "BOYKIN, ROBERT",
+    "address": "1415 L STREET, #850\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-2910",
+    "email": "rboykin@calhealthplans.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF HEALTH PLANS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -4534,7 +4600,7 @@
   {
     "id": "1357786",
     "name": "CHAMPION, LAURA",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
+    "address": "725 PONCE DE LEON AVENUE, NORTHEAST\nATLANTA, GA 30306",
     "phone": "(415) 670-4841",
     "email": "laura.champion@blackrock.com",
     "registrationDate": "01/01/2025",
@@ -7172,7 +7238,7 @@
   {
     "id": "1467677",
     "name": "DOHEMANN, SCOTT ",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
+    "address": "725 PONCE DE LEON AVENUE, NORTHEAST\nATLANTA, GA 30306",
     "phone": "(415) 670-2312",
     "email": "scott.dohemann@blackrock.com",
     "registrationDate": "01/01/2025",
@@ -7243,6 +7309,23 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA CATHOLIC CONFERENCE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1459797",
+    "name": "DONE, ALEX",
+    "address": "52 VANDERBILT AVENUE, 21ST FLOOR\nNEW YORK, NY 10017",
+    "phone": "(212) 905-0026",
+    "email": "adone@platinumequity.com",
+    "mailingAddress": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -7794,6 +7877,7 @@
     "phone": "(212) 651-1100",
     "email": "ellsworth@lindsaygoldberg.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8644,6 +8728,22 @@
     ]
   },
   {
+    "id": "1335805",
+    "name": "FLOUR, SARA",
+    "address": "225 FRANKLIN STREET, SUITE 2700\nBOSTON, MA 02110",
+    "phone": "(617) 722-4779",
+    "email": "sara.flour@rbc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1468891",
     "name": "FLYNN, TROY",
     "address": "712 5TH AVENUE, 35TH FLOOR\nNEW YORK , NY 10019",
@@ -9114,6 +9214,24 @@
         "entityName": "T. ROWE PRICE ASSOCIATES, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1265635",
+    "name": "GABHART, JASON O.",
+    "address": "915 L STREET, SUITE 1400\nSACRAMENTO, CA 95814",
+    "phone": "(888) 926-4988",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "02/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CENTENE AND ITS AFFILIATE HEALTH NET",
+        "type": "Employer",
+        "effectiveDate": "02/01/2025"
       }
     ]
   },
@@ -9616,7 +9734,7 @@
   {
     "id": "1456901",
     "name": "GHIA, RAJEEV",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
+    "address": "725 PONCE DE LEON AVENUE, NORTHEAST\nATLANTA, GA 30306",
     "phone": "(415) 670-2634",
     "email": "rajeev.ghia@blackrock.com",
     "registrationDate": "01/01/2025",
@@ -11444,6 +11562,7 @@
     "phone": "(212) 364-0217",
     "email": "jonathan.harari@crescentcap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11629,6 +11748,23 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSISTED LIVING ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1468863",
+    "name": "HARRISON, RANDAL",
+    "address": "250 NICOLLET MALL, SUITE 1550\nMINNEAPOLIS, CA 55401",
+    "phone": "(612) 376-7000",
+    "email": "randal.harrison@rbc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -14156,6 +14292,22 @@
     ]
   },
   {
+    "id": "1478202",
+    "name": "KARLSRUHER, DAVID",
+    "address": "2500 BEE CAVE ROAD, BUILDING III\nAUSTIN, TX 78746",
+    "phone": "(512) 647-9445",
+    "email": "compliance_ca_cgi_1@multistate.us",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CGI TECHNOLOGIES AND SOLUTIONS, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1383856",
     "name": "KASSIM, YUSEF M.",
     "address": "12 EAST 49TH STREET, 45TH FLOOR\nNEW YORK, NY 10017",
@@ -15460,6 +15612,22 @@
     ]
   },
   {
+    "id": "1362014",
+    "name": "LARSON, STEPHEN",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "stevelarson@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1435015",
     "name": "LASKER, JOHANNA  A.",
     "address": "787 SEVENTH AVENUE, 5TH FLOOR ANNEX\nNEW YORK, NY 10019",
@@ -15504,6 +15672,22 @@
         "entityName": "MAJORITY ADVISORS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480303",
+    "name": "LATSON, CYNTHIA",
+    "address": "22647 VENTURA BOULEVARD\nWOODLAND HILLS, CA 91364",
+    "phone": "(888) 278-5152",
+    "registrationDate": "01/13/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "C2PR MEDIA",
+        "type": "Firm",
+        "effectiveDate": "01/13/2025"
       }
     ]
   },
@@ -15798,6 +15982,7 @@
     "phone": "(617) 824-1000",
     "email": "ylee@summitpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16257,6 +16442,22 @@
     ]
   },
   {
+    "id": "1149439",
+    "name": "LITES II, JAMES D.",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "jlites@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1308365",
     "name": "LITTLE, C. BRYAN",
     "address": "2600 RIVER PLAZA DRIVE\nSACRAMENTO , CA 95833",
@@ -16535,6 +16736,23 @@
     "relationships": [
       {
         "entityName": "MAGNETAR CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1287041",
+    "name": "LOUIZOS, NICHOLAS",
+    "address": "1415 L STREET, #850\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-2910",
+    "email": "nlouizos@calhealthplans.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF HEALTH PLANS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -17457,6 +17675,22 @@
     ]
   },
   {
+    "id": "1392914",
+    "name": "MARTIN, TOMAS",
+    "address": "750 WASHINGTON BOULEVARD, SUITE 802\nSTAMFORD, CT 06901",
+    "phone": "(203) 541-4300",
+    "email": "tomas.martin@rbc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1436819",
     "name": "MARTINEZ, ANDREW J.",
     "address": "1121 L STREET, 805\nSACRAMENTO, CA 95814",
@@ -17520,6 +17754,22 @@
     "relationships": [
       {
         "entityName": "MARTINEZ CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1456457",
+    "name": "MARTINEZ, RICARDO",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "ricardo@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -18040,6 +18290,22 @@
     ]
   },
   {
+    "id": "1273641",
+    "name": "MC EFEE, CAMDEN S. ",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "camdenm@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1262606",
     "name": "MC FETRIDGE, DUNCAN ",
     "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 90069",
@@ -18101,6 +18367,22 @@
     "relationships": [
       {
         "entityName": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149226",
+    "name": "MC HALE, TERENCE",
+    "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3444",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "READ & ASSOCIATES, LLC; AARON",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -19024,6 +19306,22 @@
     ]
   },
   {
+    "id": "1382050",
+    "name": "MONROE, TRACEY",
+    "address": "225 FRANKLIN STREET\nBOSTON, MA 02110",
+    "phone": "(617) 722-4700",
+    "email": "tracey.monroe@rbc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1479715",
     "name": "MONTANA, JESUS",
     "address": "8710 BRADY AVENUE \nSPRING VALLEY, CA 91977",
@@ -19452,6 +19750,22 @@
       {
         "entityName": "RECOGNIZE PARTNERS, LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1458860",
+    "name": "MUNOZ, JONATHAN",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "jmunoz@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -20378,6 +20692,22 @@
     ]
   },
   {
+    "id": "1412063",
+    "name": "OBASEKI, THOMAS",
+    "address": "190 SOUTH LASALLE STREET\nCHICAGO, IL 60603",
+    "phone": "(312) 627-4330",
+    "email": "thomas.obaseki@nb.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEUBERGER BERMAN GROUP LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148874",
     "name": "OCHOA, CHRISTOPHER E.",
     "address": "1215 K STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -20502,6 +20832,22 @@
       {
         "entityName": "ISAM FUNDS (USA) LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1401322",
+    "name": "OLSEN-CATE, KRISTIN",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "kristin@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -21192,6 +21538,22 @@
     "relationships": [
       {
         "entityName": "EISLER CAPITAL (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1363060",
+    "name": "PEQUET, DAVID E.",
+    "address": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
+    "phone": "(310) 712-1850",
+    "email": "dpequet@platinumequity.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -22324,6 +22686,22 @@
     ]
   },
   {
+    "id": "1382188",
+    "name": "RAMOS, MONIQUE",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "mramos@calstrat.com",
+    "registrationDate": "01/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1450311",
     "name": "RANDOLPH, EDWARD",
     "address": "P.O. BOX 160274\nSACRAMENTO, CA 95816",
@@ -22505,6 +22883,22 @@
     ]
   },
   {
+    "id": "1437023",
+    "name": "READ, BRIAN",
+    "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3444",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "READ & ASSOCIATES, LLC; AARON",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1461239",
     "name": "REAGEN, MELISSA",
     "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
@@ -22609,6 +23003,7 @@
     "phone": "(585) 736-0225",
     "email": "sregan@oaktreecapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23110,6 +23505,22 @@
       {
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1357079",
+    "name": "RODRIGUEZ, LESLIE",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "lrodriguez@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -24174,6 +24585,22 @@
     ]
   },
   {
+    "id": "1456652",
+    "name": "SCHANTZ, MICHAEL",
+    "address": "225 FRANKLIN STREET\nBOSTON , MA 02110",
+    "phone": "(617) 722-4700",
+    "email": "michael.schantz@rbc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1479263",
     "name": "SCHEMEL, PAUL F.",
     "address": "230 PARK AVENUE, 14TH FLOOR\nNEW YORK, NY 10169",
@@ -24229,6 +24656,7 @@
     "phone": "(617) 824-1000",
     "email": "dschiller@summitpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24583,6 +25011,23 @@
         "entityName": "PPM AMERICA, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1435285",
+    "name": "SEEMAN, DANIEL",
+    "address": "1017 L STREET, SUITE 274\nSACRAMENTO, CA 95814",
+    "phone": "(916) 573-2351",
+    "email": "dan@newmomentumstrategies.com",
+    "registrationDate": "01/13/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEW MOMENTUM STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "01/13/2025"
       }
     ]
   },
@@ -27571,6 +28016,22 @@
     ]
   },
   {
+    "id": "1479594",
+    "name": "URISMAN, ASHLEY B.",
+    "address": "853 NEW JERSEY AVENUE SOUTHEAST, #200\nWASHINGTON, DC 20003",
+    "phone": "(847) 651-9932",
+    "email": "ashley@fintechcouncil.org",
+    "registrationDate": "01/23/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN FINTECH COUNCIL",
+        "type": "Employer",
+        "effectiveDate": "01/23/2025"
+      }
+    ]
+  },
+  {
     "id": "1335436",
     "name": "URQUHART, NATHAN",
     "address": "9 WEST 57TH STREET, 25TH FLOOR\nNEW YORK, NY 10019",
@@ -27594,6 +28055,7 @@
     "phone": "(916) 325-1162",
     "email": "jvaca@rcoe.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27656,7 +28118,7 @@
   {
     "id": "1415656",
     "name": "VALVERDE ROJO, MARIO",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
+    "address": "725 PONCE DE LEON AVENUE, NORTHEAST\nATLANTA, GA 30306",
     "phone": "(310) 581-1846",
     "email": "mario.valverde@blackrock.com",
     "registrationDate": "01/01/2025",
@@ -27751,6 +28213,22 @@
       {
         "entityName": "SAGE THERAPEUTICS",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1342956",
+    "name": "VAN ZUIDEN, CLAIRE",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "claire@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -28388,6 +28866,22 @@
     ]
   },
   {
+    "id": "1406894",
+    "name": "WATSON, CHARLES",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "cwatson@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1465932",
     "name": "WATSON, HENRY",
     "address": "4TH FLOOR, 100 PALL MALL\nLONDON SW1Y5NQ, CA",
@@ -28646,6 +29140,22 @@
     "relationships": [
       {
         "entityName": "POLITICAL SOLUTIONS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1456459",
+    "name": "WESCHE, LAUREN",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "lauren@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -28984,7 +29494,7 @@
   {
     "id": "1359546",
     "name": "WILLIAMSON, SCOTT",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
+    "address": "725 PONCE DE LEON AVENUE, NORTHEAST\nATLANTA, GA 30306",
     "phone": "(415) 670-7037",
     "email": "scott.williamson@blackrock.com",
     "registrationDate": "01/01/2025",
@@ -29159,6 +29669,22 @@
       {
         "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477988",
+    "name": "WOOD, JIM",
+    "address": "980 9TH STREET, STE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "jimwood@calstrat.com",
+    "registrationDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -29486,6 +30012,7 @@
     "phone": "(212) 364-0209",
     "email": "charles.youngblood@crescentcap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
