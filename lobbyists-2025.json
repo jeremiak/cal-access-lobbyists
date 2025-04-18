@@ -1195,6 +1195,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6786,6 +6787,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11819,6 +11821,22 @@
     ]
   },
   {
+    "id": "1373545",
+    "name": "HASENAUER, ERIC",
+    "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "phone": "(415) 389-6800",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONNOR, CLARK & LUNN FINANCIAL GROUP LTD., AND ITS AFFILIATES, INCLUDING CONNOR, CLARK & LUNN (USA) LTD.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1338111",
     "name": "HASLIP, JOSEPH ",
     "address": "575 BROADWAY, 3RD FLOOR\nNEW YORK, NY 10012",
@@ -12430,6 +12448,23 @@
     ]
   },
   {
+    "id": "1385326",
+    "name": "HINES-SHAIKH, AMY D.",
+    "address": "210 TAPPAN LANE\nORINDA, CA 94563",
+    "phone": "(925) 822-4213",
+    "email": "amy@consultwildcat.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WILD CAT CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1461646",
     "name": "HIRSCH, MALCOLM",
     "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
@@ -12608,6 +12643,21 @@
     "relationships": [
       {
         "entityName": "MOLINA HEALTHCARE OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1343072",
+    "name": "HOINACKI, DANIEL",
+    "address": "5 BRYANT STREET, SUITE 23\nNEW YORK, NY 10018",
+    "phone": "(646) 832-4498",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SALUDA GRADE ASSET MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -13788,6 +13838,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN MATEO, CA 94901",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14084,6 +14135,7 @@
     "email": "blueowl@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14165,6 +14217,7 @@
     "phone": "(916) 444-3216",
     "email": "skaminski@acsa.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17970,6 +18023,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23047,6 +23101,22 @@
     ]
   },
   {
+    "id": "1478219",
+    "name": "REISNER, ZACHARY I.",
+    "address": "700 TAMALPAIS DRIVE, SUITE 401B\nCORTE MADERA, CA 94925",
+    "phone": "(415) 561-0600",
+    "email": "zachary.reisner@avilacapllc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AVILA REAL ESTATE CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1460006",
     "name": "RENAUD, ERIK P.",
     "address": "13100 SKYLINE BOULEVARD\nWOODSIDE, CA 94062",
@@ -23159,6 +23229,23 @@
         "entityName": "ELLINGTON MANAGEMENT GROUP LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479805",
+    "name": "RICKER, EILEEN",
+    "address": "1201 K STREET, SUITE 1050\nSACRAMENTO, CA 95814",
+    "phone": "(916) 325-1360",
+    "email": "eileenr@ccul.org",
+    "registrationDate": "01/13/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA CREDIT UNION LEAGUE",
+        "type": "Employer",
+        "effectiveDate": "01/13/2025"
       }
     ]
   },
@@ -27112,6 +27199,22 @@
     ]
   },
   {
+    "id": "1478229",
+    "name": "TECSON, ANDREA J.",
+    "address": "700 TAMALPAIS DRIVE, SUITE 401B\nCORTE MADERA, CA 94925",
+    "phone": "(415) 561-0600",
+    "email": "andrea@avilacapllc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AVILA REAL ESTATE CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1477024",
     "name": "TEJEDOR, JAIME",
     "address": "C/ JOSE ORTEGA Y GASSET N100\nPLANTA MADRID 28006",
@@ -28267,6 +28370,22 @@
     ]
   },
   {
+    "id": "1478257",
+    "name": "VASQUEZ, OSCAR D",
+    "address": "700 TAMALPAIS DRIVE, SUITE 401B\nCORTE MADERA, CA 94925",
+    "phone": "(415) 561-0600",
+    "email": "oscar@avilacapllc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AVILA REAL ESTATE CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1422440",
     "name": "VASWANI, SUNIL",
     "address": "277 PARK AVENUE, 40TH FLOOR\nNEW YORK, NY 10172",
@@ -28909,6 +29028,21 @@
     "relationships": [
       {
         "entityName": "WATTS ADVOCACY; MARK",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1424170",
+    "name": "WEBER, JEFFREY",
+    "address": "101 CALIFORNIA STREET\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 228-2820",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EASTDIL SECURED ADVISORS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
