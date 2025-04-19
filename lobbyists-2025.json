@@ -102,6 +102,22 @@
     ]
   },
   {
+    "id": "1148996",
+    "name": "ACOSTA, JUAN M. ",
+    "address": "921 11TH STREET, SUITE 503\nSACRAMENTO, CA 95814",
+    "phone": "(817) 341-9967",
+    "email": "juan.acosta@bnsf.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BNSF RAILWAY COMPANY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1282170",
     "name": "ADDIS, REED K.",
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
@@ -497,6 +513,22 @@
     ]
   },
   {
+    "id": "1478424",
+    "name": "ANDERSON, JACK",
+    "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
+    "phone": "(916) 327-7540",
+    "email": "admin@cheac.org",
+    "registrationDate": "01/21/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
+        "type": "Employer",
+        "effectiveDate": "01/21/2025"
+      }
+    ]
+  },
+  {
     "id": "1411869",
     "name": "ANDERSON, KRISTOPHER ",
     "address": "1215 K STREET, SUITE 1400\nSACRAMENTO, CA 95814",
@@ -665,6 +697,23 @@
     ]
   },
   {
+    "id": "1307041",
+    "name": "AREIAS, RUSTY",
+    "address": "1201 K STREET, SUITE 1610\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "rareias@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1441188",
     "name": "ARGUETA, ISABELLA",
     "address": "P.O. BOX 160634\nSACRAMENTO, CA 95816",
@@ -747,6 +796,21 @@
     ]
   },
   {
+    "id": "1449401",
+    "name": "ARONIN, RUBEN",
+    "address": "801 SOUTH GRAND AVENUE, SUITE 200\nLOS ANGELES, CA 90017",
+    "phone": "(818) 563-9111",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BETTER WORLD GROUP ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1378675",
     "name": "ARREDONDO, ALFREDO",
     "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
@@ -774,6 +838,22 @@
     "relationships": [
       {
         "entityName": "JEA AND ASSOCIATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1478007",
+    "name": "ARSENAULT, SARA",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(530) 391-2183",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -997,6 +1077,7 @@
     "phone": "(916) 442-7887",
     "email": "aarona@csda.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1101,6 +1182,23 @@
     "relationships": [
       {
         "entityName": "AARP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1359080",
+    "name": "BABAN, BETTINA",
+    "address": "101 HUNTINGTON AVENUE\nBOSTON, MA 02199",
+    "phone": "(617) 859-1500",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -3195,6 +3293,23 @@
     ]
   },
   {
+    "id": "1466451",
+    "name": "BRENNAN, SARAH",
+    "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-1488",
+    "email": "sarah@weidemangroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEIDEMAN GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148559",
     "name": "BRENNAND, TERRENCE C.",
     "address": "1029 K STREET\nSACRAMENTO, CA 95814",
@@ -3484,6 +3599,7 @@
     "phone": "(224) 296-9987",
     "email": "jeff.brown@magnetar.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3904,6 +4020,22 @@
     ]
   },
   {
+    "id": "1457095",
+    "name": "BYRKIT, DOUGLAS M.",
+    "address": "4 EMBARCADERO CENTER, SUITE 550\nSAN FRANCISCO, CA 94111",
+    "phone": "(512) 820-9887",
+    "email": "doug.byrkit@matthewsasia.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MATTHEWS INTERNATIONAL CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1334729",
     "name": "CAJINA, VANESSA",
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
@@ -4274,6 +4406,7 @@
     "phone": "(916) 444-3216",
     "email": "icarrillo@acsa.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4328,6 +4461,22 @@
       {
         "entityName": "CA LOBBY",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1340381",
+    "name": "CASALE, ALEXANDER A.",
+    "address": "101 HUNTINGTON AVENUE\nBOSTON, MA 02199",
+    "phone": "(617) 859-1500",
+    "email": "info@keyslawcorp.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -5001,6 +5150,22 @@
     ]
   },
   {
+    "id": "1353805",
+    "name": "CHRISTIAN, TAMARA",
+    "address": "11726 SAN VICENTE BOULEVARD, SUITE 610\nLOS ANGELES, CA 90049",
+    "phone": "(310) 442-0592",
+    "email": "tchristian@edgelinecapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EDGELINE CAPITAL, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1478141",
     "name": "CHU, HYACINTH",
     "address": "1700 BROADWAY, 35TH FLOOR\nNEW YORK, NY 10019",
@@ -5461,6 +5626,23 @@
       {
         "entityName": "LEAGUE OF CALIFORNIA CITIES",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1359606",
+    "name": "CONLEY, FAITH",
+    "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-1488",
+    "email": "faith@weidemangroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEIDEMAN GROUP, INC.",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -6906,6 +7088,7 @@
     "phone": "(916) 442-7887",
     "email": "marcusd@csda.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7906,6 +8089,22 @@
     ]
   },
   {
+    "id": "1449402",
+    "name": "EMMERSEN, SAM",
+    "address": "801 SOUTH GRAND AVENUE, SUITE 200\nLOS ANGELES, CA 90017",
+    "phone": "(818) 563-9111",
+    "email": "jguard@kaufmanlegalgroup.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BETTER WORLD GROUP ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1415702",
     "name": "EMPIE, MEREDITH",
     "address": "100 EAST PRATT STREET\nBALTIMORE, MD 21202",
@@ -7944,6 +8143,7 @@
     "phone": "(323) 240-6586",
     "email": "baepp@lacsd.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9610,6 +9810,7 @@
     "email": "lgayden@cmta.net",
     "mailingAddress": "1201 K STREET\nSACRAMENTO, CA 95814\nPhone: (916) 554-5317",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9909,6 +10110,7 @@
     "phone": "(617) 428-4071",
     "email": "igioioso@westwoodglobal.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11482,6 +11684,7 @@
     "address": "1029 J STREET, SUITE 500\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3216",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11994,6 +12197,7 @@
     "phone": "(646) 715-7851",
     "email": "garrett.haywood@ifminvestors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13666,12 +13870,29 @@
     ]
   },
   {
+    "id": "1477757",
+    "name": "JOHNSON, AMIR R.",
+    "address": "1215 K STREET, SUITE 1800\nSACRAMENTO, CA 95814",
+    "phone": "(310) 503-7706",
+    "email": "aj771c@att.com",
+    "registrationDate": "01/08/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AT&T SERVICES INC. AND ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "01/08/2025"
+      }
+    ]
+  },
+  {
     "id": "1334113",
     "name": "JOHNSON, DOROTHY",
     "address": "1029 J STREET, SUITE 500\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3216",
     "email": "djohnson@acsa.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14974,6 +15195,23 @@
     ]
   },
   {
+    "id": "1461357",
+    "name": "KIM, DANIEL",
+    "address": "1215 K STREET, STE 2290\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-1488",
+    "email": "daniel@widemangroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEIDEMAN GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1459401",
     "name": "KIM, TAENA ",
     "address": "295 LAFAYETTE STREET \nNEW YORK, NY 10012",
@@ -15047,6 +15285,24 @@
     "relationships": [
       {
         "entityName": "DWS INVESTMENT MANAGEMENT AMERICAS INC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1397120",
+    "name": "KING, REBECCA ",
+    "address": "101 HUNTINGTON AVENUE\nBOSTON, MA 02199",
+    "phone": "(617) 859-1500",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 98814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -16232,6 +16488,7 @@
     "phone": "(617) 428-4059",
     "email": "slevesque@westwoodglobal.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17164,6 +17421,23 @@
     ]
   },
   {
+    "id": "1437228",
+    "name": "MACKAY, LILY",
+    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 266-4575",
+    "email": "lily@calstrat.com",
+    "mailingAddress": "1619 DEERWOOD STREET\nWEST SACRAMENTO, CA 95691\nEmail: lily@calstrat.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1474918",
     "name": "MACKENZIE, CHARLOTTE",
     "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
@@ -17252,6 +17526,7 @@
     "phone": "(754) 218-5500",
     "email": "dmagic@gqg.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17274,6 +17549,22 @@
     "relationships": [
       {
         "entityName": "HOUSTON MAGNANI AND ASSOCIATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1442951",
+    "name": "MAHAFFY, SHANNON",
+    "address": "888 7TH AVENUE, 18TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 849-9600",
+    "email": "investorrelations@lonestarfunds.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MAHAFFY; SHANNON",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -18157,6 +18448,23 @@
     "relationships": [
       {
         "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1418841",
+    "name": "MC CARTHY, RYAN",
+    "address": "1215 K  STREET, SUITE 2290\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-1488",
+    "email": "ryan@widemangroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEIDEMAN GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -19908,6 +20216,23 @@
     ]
   },
   {
+    "id": "1460234",
+    "name": "MURRAY, MEEGEN",
+    "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-1488",
+    "email": "meegen@weidemangroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEIDEMAN GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1383059",
     "name": "MUTSCHLER, USHA",
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -20438,6 +20763,7 @@
     "phone": "(212) 235-0778",
     "email": "chrstopher.nordiek@napierparkglobal.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20995,6 +21321,7 @@
     "phone": "(916) 877-8620",
     "email": "rortiz@arcanet.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -27093,6 +27420,7 @@
     "phone": "(916) 442-7887",
     "email": "anthonyt@csda.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27420,14 +27748,15 @@
     "address": "888 7TH AVENUE\nNEWY YORK, NY 10106",
     "phone": "(332) 345-8508",
     "email": "rthompson@sixthstreet.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/31/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/31/2025"
       }
     ]
   },
@@ -28164,6 +28493,23 @@
       {
         "entityName": "RIVERSIDE COUNTY OFFICE OF EDUCATION",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1386266",
+    "name": "VALDERRAMA, TIM",
+    "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
+    "phone": "(916) 600-2288",
+    "email": "tim@weidemangroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEIDEMAN GROUP, INC.",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -29043,6 +29389,23 @@
     "relationships": [
       {
         "entityName": "EASTDIL SECURED ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1285760",
+    "name": "WEIDEMAN, MARK D.",
+    "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-1488",
+    "email": "mark@weidemangroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WEIDEMAN GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
