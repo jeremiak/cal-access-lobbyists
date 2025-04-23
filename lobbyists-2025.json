@@ -714,6 +714,7 @@
     "phone": "(916) 340-4055",
     "email": "isabella@yourhoac.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -1088,6 +1089,7 @@
     "phone": "(916) 558-1926",
     "email": "raquelav@water-warrior.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2469,6 +2471,22 @@
     ]
   },
   {
+    "id": "1435112",
+    "name": "BING, ANTOINETTE",
+    "address": "1 EMBARCADERO CENTER, SUITE 1160\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 603-2891",
+    "email": "abing@leia.net",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEADING EDGE INVESTMENT ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1456234",
     "name": "BIRD, APRIL",
     "address": "1415 L STREET, SUITE 270\nSACRAMENTO, CA 95814",
@@ -3465,6 +3483,23 @@
     "relationships": [
       {
         "entityName": "FULL MOON STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1400625",
+    "name": "BROAD, MATTHEW",
+    "address": "1127 11TH STREET, SUITE 512\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-5999",
+    "email": "mbroad@bglaw.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROAD & GUSMAN",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -5137,6 +5172,23 @@
     ]
   },
   {
+    "id": "1379864",
+    "name": "CHOU, JENNIFER KWON",
+    "address": "9800 WILSHIRE BOULEVARD\nBEVERLY HILLS, CA 90212",
+    "phone": "(310) 824-8050",
+    "email": "jchou@gores.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GORES GROUP, LLC; THE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1353805",
     "name": "CHRISTIAN, TAMARA",
     "address": "11726 SAN VICENTE BOULEVARD, SUITE 610\nLOS ANGELES, CA 90049",
@@ -5661,7 +5713,23 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "GROSVENOR CAPITAL MANAGEMENT, L.P.",
+        "entityName": "GCM GROSVENOR L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1334749",
+    "name": "CONSIDINE, DEBORAH A.",
+    "address": "8 TOWER BRIDGE, 161 WASHINGTON STREET\n7TH FLOOR",
+    "phone": "(415) 298-4999",
+    "email": "dconsidine@centersquare.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CENTERSQUARE INVESTMENT MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -11425,6 +11493,23 @@
     ]
   },
   {
+    "id": "1149537",
+    "name": "GUSMAN, SHANE A.",
+    "address": "1127 11TH STREET, SUITE 512\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-5999",
+    "email": "gusman@bglaw.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROAD & GUSMAN",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1437624",
     "name": "GUTIERREZ, CARLOS",
     "address": "1415 L STREET, SUITE 400\nSUITE 400",
@@ -12095,6 +12180,23 @@
     ]
   },
   {
+    "id": "1448902",
+    "name": "HASS, ANTHONY C.",
+    "address": "555 CALIFORNIA STREET\nSAN FRANCISCO, CA 49104",
+    "phone": "(415) 315-6552",
+    "email": "tony.hass@kkr.com",
+    "mailingAddress": "30 HUDSON YARDS\nNEW YORK, NY 10001",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1462510",
     "name": "HASSANALI, KARIM S.",
     "address": "8 MARINA BOULEVARD, MARINA BAY \nFINANCIAL CENTER SINGAPORE , SG 18981",
@@ -12729,6 +12831,23 @@
       {
         "entityName": "PLATINUM ADVISORS, LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1444327",
+    "name": "HO, SARA A.",
+    "address": "415 MISSION STREET, SUITE 5700\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 788-5111",
+    "email": "sho@hf.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HELLMAN & FRIEDMAN LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -13913,6 +14032,22 @@
       {
         "entityName": "MONOMOY CAPITAL PARTNERS",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149552",
+    "name": "JOHNS, CRAIG S. J.",
+    "address": "500 CAPITOL MALL, SUITE 2350 \nSACRAMENTO, CA 95814",
+    "phone": "(916) 782-2678",
+    "email": "cjohns@calrestrats.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA RESOURCE STRATEGIES, INC.",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -15593,6 +15728,23 @@
       {
         "entityName": "KNUDSEN & ASSOCIATES",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477223",
+    "name": "KOELLIKER, MATTHEW",
+    "address": "555 CALIFORNIA STREET\nSAN FRANCISCO, CA 94104",
+    "phone": "(949) 886-5880",
+    "email": "matthew.koelliker@kkr.com",
+    "mailingAddress": "30 HUDSON YARDS\nNEW YORK, NY 10001",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -20452,6 +20604,7 @@
     "phone": "(916) 446-6752",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21399,6 +21552,23 @@
     "relationships": [
       {
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1448651",
+    "name": "OU, LAWRENCE",
+    "address": "555 CALIFORNIA STREET\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 315-3627",
+    "email": "lawrence.ou@kkr.com",
+    "mailingAddress": "30 HUDSON YARDS\nNEW YORK, NY 10001",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -24031,6 +24201,22 @@
       {
         "entityName": "CALIFORNIA ASSOCIATION OF PRIVATE SCHOOL ORGANIZATIONS",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149151",
+    "name": "ROLLENS, RICK",
+    "address": "5300 ASHBY LANE\nGRANITE BAY, CA 95746",
+    "phone": "(916) 412-2797",
+    "email": "rollensconsult@aol.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROLLENS CONSULTING",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -27477,6 +27663,23 @@
     ]
   },
   {
+    "id": "1436623",
+    "name": "TALCOTT, SASHA",
+    "address": "555 CALIFORNIA STREET\nSAN FRANCISCO, CA 94104",
+    "phone": "(628) 249-4472",
+    "email": "sasha.talcott@kkr.com",
+    "mailingAddress": "30 HUDSON YARDS\nNEW YORK, NY 10001",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1437462",
     "name": "TALLEY, DEAN",
     "address": "100 BAYER BOULEVARD\nWHIPPANY, NJ 07981",
@@ -27634,6 +27837,22 @@
       {
         "entityName": "TAYLOR & ASSOCIATES",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1414809",
+    "name": "TAYLOR, VANN",
+    "address": "280 PARK AVENUE, 41ST FLOOR\nNEW YORK, NY 10017",
+    "phone": "(212) 451-3000",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRIAN FUND MANAGEMENT, L.P.",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
