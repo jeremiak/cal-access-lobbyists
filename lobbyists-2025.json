@@ -85,6 +85,22 @@
     ]
   },
   {
+    "id": "1418392",
+    "name": "ACEBO, KEVIN",
+    "address": "3446 GUNDRY AVENUE\nLONG BEACH, CA 90807",
+    "phone": "(310) 592-1503",
+    "email": "jguard@kaufmanlegalgroup.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUNDRY GROUP STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1411571",
     "name": "ACKLER, TATUM E.",
     "address": "1121 L STREET, SUITE 406\nSACRAMENTO, CA 95814",
@@ -519,6 +535,7 @@
     "phone": "(916) 327-7540",
     "email": "admin@cheac.org",
     "registrationDate": "01/21/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4720,6 +4737,23 @@
     ]
   },
   {
+    "id": "1478996",
+    "name": "CHAABAN, EZRAH",
+    "address": "1401 21ST STREET, SUITE 10945\nSACRAMENTO, CA 95811",
+    "phone": "(916) 243-0094",
+    "email": "ezrah@doddchaaban.com",
+    "registrationDate": "01/29/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DODD AND CHAABAN STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "01/29/2025"
+      }
+    ]
+  },
+  {
     "id": "1376206",
     "name": "CHAIRES ESPINOZA, NANCY",
     "address": "1303 J STREET, SUITE 520\nSACRAMENTO, CA 95814",
@@ -5753,6 +5787,22 @@
     ]
   },
   {
+    "id": "1393770",
+    "name": "COOK, JARRELL",
+    "address": "C/O 28 LIBERTY SHIP WAY, SUITE 2815\nSAUSALITO, CA 94965",
+    "phone": "(415) 903-2800",
+    "email": "workday1@politicomlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WORKDAY, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1456521",
     "name": "COOK, SIERRA",
     "address": "1121 L STREET, SUITE 507\nSACRAMENTO, CA 95814",
@@ -6512,6 +6562,22 @@
     ]
   },
   {
+    "id": "1478093",
+    "name": "CUNNINGHAM, JENNIFER",
+    "address": "560 20TH STREET\nSAN FRANCISCO, CA 94107",
+    "phone": "(404) 290-4231",
+    "email": "compliance_ca_juul_2@multistate.us",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JUUL LABS, INC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1461039",
     "name": "CURLEY, JORDAN",
     "address": "1201 J STREET, SUITE 200-325\nSACRAMENTO, CA 95814",
@@ -6818,6 +6884,7 @@
     "phone": "(916) 441-7405",
     "email": "deburgh@yourhoac.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9646,6 +9713,22 @@
     ]
   },
   {
+    "id": "1478042",
+    "name": "GAMEZ, JOSIE",
+    "address": "11921 ROCKVILLE PIKE, SUITE 300\nROCKVILLE, MD 20852",
+    "phone": "(202) 361-8275",
+    "email": "compliance_ca_akf_1@multistate.us",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN KIDNEY FUND",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1405635",
     "name": "GANDHI, AVNI",
     "address": "1800 AVENUE OF THE STARS, SUITE 1400\nLOS ANGELES, CA 90067",
@@ -10053,7 +10136,7 @@
     "phone": "(916) 327-7540",
     "email": "admin@cheac.org",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "12/12/2024",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10076,6 +10159,22 @@
       {
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480559",
+    "name": "GIL, VANESSA",
+    "address": "1900 K STREET, NORTHWEST, SUITE 650\nWASHINGTON, DC 20006",
+    "phone": "(929) 562-2503",
+    "email": "vgil@graingp.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GRAIN MANAGEMENT LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -14808,6 +14907,21 @@
     ]
   },
   {
+    "id": "1445775",
+    "name": "KATZ, RICHARD",
+    "address": "15936 VALLEY WOOD\nSHERMAN OAKS, CA 94103",
+    "phone": "(818) 995-8572",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KATZ CONSULTING, INC; RICHARD",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1428250",
     "name": "KAUFMAN, SCOTT",
     "address": "1201 K STREET, SUITE 1030\nSACRAMENTO, CA 95814",
@@ -15795,6 +15909,23 @@
         "entityName": "STRATEGIC VALUE PARTNERS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1460060",
+    "name": "KOHLY, FREDERICK R",
+    "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 708-4679",
+    "email": "rick.kohly@mlp.com",
+    "registrationDate": "02/14/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "MILLENNIUM MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/14/2025"
       }
     ]
   },
@@ -17694,6 +17825,7 @@
     "phone": "(916) 449-6438",
     "email": "emadison@caanet.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18456,13 +18588,14 @@
     "address": "1201 K STREET, SUITE 710\nSACRAMENTO, CA 95814",
     "phone": "(916) 516-5208",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "01/31/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/31/2025"
       }
     ]
   },
@@ -20638,6 +20771,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21311,12 +21445,13 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
-    "status": "Active",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "AMERICAN CANCER SOCIETY CANCER ACTION NETWORK INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/01/2025"
       }
     ]
   },
@@ -21466,6 +21601,7 @@
     "address": "1700 PENNSYLVANIA AVENUE NW, SUITE 200\nWASHINGTON, DC 20006-4707",
     "phone": "(202) 661-7937",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21713,6 +21849,7 @@
     "phone": "(916) 313-4022",
     "email": "spalko@cacatholic.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22677,6 +22814,23 @@
       {
         "entityName": "TILDEN PARK CAPITAL MANAGEMENT LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1261814",
+    "name": "POLANCO, RICHARD ",
+    "address": "3701 GLENALBYN DRIVE\nLOS ANGELES, CA 90065",
+    "phone": "(916) 826-1872",
+    "email": "senpolanco22@gmail.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRES ES, INC.",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -28762,6 +28916,22 @@
     ]
   },
   {
+    "id": "1478043",
+    "name": "UMOFF, RICK",
+    "address": "200 CLARENDON STREET, 18TH FLOOR\nBOSTON, MA 02166",
+    "phone": "(202) 603-0883",
+    "email": "compliance_ca_vo_1@multistate.us",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VINEYARD OFFSHORE, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1336903",
     "name": "UNDERWOOD, MICHELLE",
     "address": "1121 L STREET, SUITE 1060\nSACRAMENTO, CA 95814",
@@ -29833,8 +30003,9 @@
     "address": "712 5TH AVENUE, 43RD FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 265-6222",
     "email": "info@keyslawcorp.com",
-    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30242,6 +30413,7 @@
     "phone": "(917) 887-7607",
     "email": "jennifer@westcap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30430,6 +30602,22 @@
     "relationships": [
       {
         "entityName": "BAIN CAPITAL, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1421098",
+    "name": "WINTHER , JENS",
+    "address": "445 PARK AVENUE, 9TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(917) 208-9419",
+    "email": "jens@niobraracap.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIOBRARA CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
