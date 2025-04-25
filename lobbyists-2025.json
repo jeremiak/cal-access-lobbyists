@@ -1676,6 +1676,23 @@
     ]
   },
   {
+    "id": "1479308",
+    "name": "BARRETT, ADAM",
+    "address": "34 BURTON STREET\nLONDON, UK, W1J6QX",
+    "phone": "(207) 046-7834",
+    "email": "adam.barrett@choruscapital.eu",
+    "registrationDate": "02/17/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHORUS CAPITAL MANAGEMENT LIMITED",
+        "type": "Employer",
+        "effectiveDate": "02/17/2025"
+      }
+    ]
+  },
+  {
     "id": "1381860",
     "name": "BARROS, LEAH",
     "address": "1809 S STREET, SUITE 101-209\nSACRAMENTO, CA 95811",
@@ -2183,7 +2200,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "HUMANE SOCIETY OF THE UNITED STATES; THE",
+        "entityName": "HUMANE WORLD FOR ANIMALS, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -7114,6 +7131,23 @@
     ]
   },
   {
+    "id": "1406411",
+    "name": "DELFINO, KIM",
+    "address": "3053 FREEPORT BOULEVARD, SUITE 160\nSACRAMENTO, CA 95818",
+    "phone": "(916) 201-8277",
+    "email": "kdelfino@earth-advocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EARTH ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1149304",
     "name": "DELGADO, CONNIE ",
     "address": "1101 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
@@ -7252,9 +7286,18 @@
   {
     "id": "1273280",
     "name": "DEVERS, SYRUS",
+    "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
+    "phone": "(916) 325-4010",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "SYRUS DEVERS ADVOCACY LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1417925",
@@ -11362,6 +11405,7 @@
     "phone": "(916) 658-8200",
     "email": "ccirrincione@calcities.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11493,6 +11537,7 @@
     "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 658-8200",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12860,6 +12905,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15168,6 +15214,23 @@
         "entityName": "FASANARA CAPITAL LTD",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1445168",
+    "name": "KENDRICK, JONATHAN",
+    "address": "1215 K STREET, SUITE 1400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 930-1228",
+    "email": "jonathan.kendrick@calchamber.com",
+    "registrationDate": "01/06/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA CHAMBER OF COMMERCE",
+        "type": "Employer",
+        "effectiveDate": "01/06/2025"
       }
     ]
   },
@@ -22644,6 +22707,7 @@
     "phone": "(916) 658-8200",
     "email": "jpina@calcities.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25632,6 +25696,24 @@
     ]
   },
   {
+    "id": "1338649",
+    "name": "SCHONBERGER, STUART",
+    "address": "1 AUSTIN ROAD WEST\n1503 LEVEL 15 KOWLOON HK CHINA",
+    "phone": "(916) 442-7757",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CDH INVESTMENTS MANAGEMENT (HONG KONG) LIMITED",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1447934",
     "name": "SCHOORL, DANIEL",
     "address": "1808 14TH STREET\nSACRAMENTO, CA 95811",
@@ -26083,6 +26165,23 @@
     ]
   },
   {
+    "id": "1424831",
+    "name": "SHEEHY, BRENA L.",
+    "address": "1127 11TH STREET, SUITE 701\nSACRAMENTO, CA 95814",
+    "phone": "(916) 213-8998",
+    "email": "brena@sheehystrategygroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SHEEHY STRATEGY GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1443234",
     "name": "SHEEHY, LAURA REGINA",
     "address": "40 HIGHLAND AVENUE\nROWAYTON, CT 06853",
@@ -26094,6 +26193,23 @@
       {
         "entityName": "GRAHAM CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1336049",
+    "name": "SHEEHY, THOMAS ",
+    "address": "1127 11TH STREET, SUITE 701\nSACRAMENTO, CA 95814",
+    "phone": "(916) 213-8998",
+    "email": "tom@sheehystrategygroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SHEEHY STRATEGY GROUP",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
