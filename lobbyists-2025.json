@@ -664,6 +664,22 @@
     ]
   },
   {
+    "id": "1480432",
+    "name": "ANZEL, CHRISTINA",
+    "address": "555 MISSION STREET, SUITE 3400\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 619-3242",
+    "email": "christina.anzel@generationim.com",
+    "registrationDate": "01/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERATION INVESTMENT MANAGEMENT LLP AND ITS AFFILIATES INCL JUST CLIMATE LLP",
+        "type": "Employer",
+        "effectiveDate": "01/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1323930",
     "name": "APEKIAN, SHANT ",
     "address": "1017 L STREET, SUITE 726\nSACRAMENTO, CA 95814",
@@ -2825,6 +2841,7 @@
     "phone": "(503) 784-1047",
     "email": "trevor.blum@macquarie.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4168,7 +4185,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CAMPBELL STRATEGY & ADVOCACY",
+        "entityName": "CAMPBELL STRATEGY & ADVOCACY LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -4379,6 +4396,7 @@
     "phone": "(916) 449-6422",
     "email": "dcarlton@caanet.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5081,6 +5099,7 @@
     "email": "alex@ekapr.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6520,6 +6539,7 @@
     "phone": "(312) 385-8330",
     "email": "rculver@jpmorgan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8240,6 +8260,7 @@
     "phone": "(916) 446-4656",
     "email": "dylan@syaslpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9828,6 +9849,7 @@
     "phone": "(916) 325-1162",
     "email": "lgarcia@rcoe.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11455,6 +11477,7 @@
     "address": "500 CAPITOL MALL, SUITE 2600\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-1392",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12598,13 +12621,14 @@
     "address": "422 EAST SOLA STREET, APT A\nSANTA BARBARA, CA 93101",
     "phone": "(805) 886-8656",
     "email": "gbhelms@gmail.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "01/31/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "OCEAN CONSERVANCY, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/31/2025"
       }
     ]
   },
@@ -13807,6 +13831,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW. 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15572,6 +15597,7 @@
     "phone": "(646) 680-0240",
     "email": "teana@thrivecap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16107,6 +16133,7 @@
     "phone": "(630) 245-8379",
     "email": "gkuhl@calamos.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16389,6 +16416,22 @@
         "entityName": "C2PR MEDIA",
         "type": "Firm",
         "effectiveDate": "01/13/2025"
+      }
+    ]
+  },
+  {
+    "id": "1363013",
+    "name": "LAU, GREGORY",
+    "address": "599 LEXINGTON AVENUE, SUITE 1800\nNEW YORK, NY 10022",
+    "phone": "(212) 893-9586",
+    "email": "glau@wcas.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WCAS MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -17824,6 +17867,7 @@
     "phone": "(914) 275-1774",
     "email": "charlotte.mackenzie@blackstone.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18127,7 +18171,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CAMPBELL STRATEGY & ADVOCACY",
+        "entityName": "CAMPBELL STRATEGY & ADVOCACY LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -18786,6 +18830,7 @@
     "phone": "(212) 390-2792",
     "email": "christopher.mazza@blackstone.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18937,6 +18982,7 @@
     "phone": "(916) 554-5359",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20180,7 +20226,8 @@
       {
         "entityName": "CALIFORNIA DENTAL ASSOCIATION AND ITS WHOLLY OWNED SUBSIDIARIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/04/2025"
       }
     ]
   },
@@ -20409,6 +20456,7 @@
     "phone": "(312) 675-7442",
     "email": "nmoy@equityinternational.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20578,6 +20626,23 @@
     ]
   },
   {
+    "id": "1480597",
+    "name": "MURPHY, TRENT J",
+    "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 329-7409",
+    "email": "caadpe1@caadpe.org",
+    "mailingAddress": "1017 L STREET, PMB #648\nSACRAMENTO, CA 95814-3805",
+    "registrationDate": "01/27/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF ALCOHOL AND DRUG PROGRAM EXECUTIVES, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/27/2025"
+      }
+    ]
+  },
+  {
     "id": "1476468",
     "name": "MURRAY, ETHAN",
     "address": "1310 L STREET NW, SUITE 600\nWASHINGTON, DC 20005",
@@ -20653,6 +20718,7 @@
     "phone": "(415) 318-8960",
     "email": "todd@somaequity.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21747,6 +21813,7 @@
     "phone": "(212) 390-2201",
     "email": "roberta.osborne@blackstone.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22136,6 +22203,22 @@
     ]
   },
   {
+    "id": "1441556",
+    "name": "PARISI, CHRISTOPHER",
+    "address": "227 WEST MONROE STREET\nCHICAGO, IL 60606",
+    "phone": "(312) 357-0334",
+    "email": "christopher.parisi@guggenheiminvestmen",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUGGENHEIM PARTNERS INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1380526",
     "name": "PARJUS, PEDRO",
     "address": "600 WASHINGTON BOULEVARD\nSTAMFORD, CT 06901",
@@ -22197,6 +22280,22 @@
     "relationships": [
       {
         "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477801",
+    "name": "PAULSEN, JIM",
+    "address": "330 MADISON AVENUE\nNEW YORK, NY 10017",
+    "phone": "(760) 507-5084",
+    "email": "jim.paulsen@guggenheiminvestments.co",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUGGENHEIM PARTNERS INVESTMENT MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -22281,6 +22380,24 @@
       {
         "entityName": "PELOTE STRATEGIC ADVISORS",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1461770",
+    "name": "PELTOLA, KELLY",
+    "address": "70 WEST MADISON STREET, SUITE 4600\nCHICAGO, IL 60602",
+    "phone": "(312) 895-1142",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MADISON DEARBORN PARTNERS, LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -23530,6 +23647,7 @@
     "phone": "(323) 243-7424",
     "email": "sharon.rapport@csh.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24138,6 +24256,7 @@
     "phone": "(916) 779-1400",
     "email": "mrivas@cpha.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25107,6 +25226,7 @@
     "phone": "(916) 956-5396",
     "email": "isalas@semprautilities.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26508,6 +26628,23 @@
     ]
   },
   {
+    "id": "1480308",
+    "name": "SIMONIS, EMILY",
+    "address": "1700 BROADWAY, 35TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(202) 849-9002",
+    "email": "esimonis.lspower@vantagelegal.com",
+    "mailingAddress": "12587 FAIR LAKES CIRCLE, PMB 173\nFAIRFAX, VA 22033",
+    "registrationDate": "01/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LS POWER DEVELOPMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1339299",
     "name": "SIMONS, JOSHUA DAVID",
     "address": "299 PARK AVENUE, 25TH FLOOR\nNEW YORK, NY 10171",
@@ -27434,7 +27571,7 @@
   {
     "id": "1439843",
     "name": "STERRET, SCOTT",
-    "address": "42-44 GROSVENOR GARDENS\nLONDON SW1W OEB",
+    "address": "1080 MORRISON DRIVE, SUITE 340\nCHARLESTON, SC 29403",
     "phone": "(916) 890-3670",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
@@ -29437,6 +29574,21 @@
     "relationships": [
       {
         "entityName": "VEGA PUBLIC AFFAIRS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1437759",
+    "name": "VELASCO, PAULINA",
+    "address": "777 SOUTH ALAMEDA STREET, 2ND FLOOR\nLOS ANGELES, CA 90021",
+    "phone": "(323) 434-2490",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VELADA CONSULTING LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
