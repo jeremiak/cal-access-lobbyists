@@ -713,6 +713,22 @@
     ]
   },
   {
+    "id": "1393161",
+    "name": "ARAMBEL, JONATHAN",
+    "address": "1020 12TH STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 800-4047",
+    "email": "jda@thirdhousellc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "THIRD HOUSE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1436387",
     "name": "ARCIDIACONO, ELISA",
     "address": "925 L STREET, SUITE 1404\nSACRAMENTO, CA 95814",
@@ -4373,6 +4389,23 @@
     ]
   },
   {
+    "id": "1439154",
+    "name": "CARLSON, KIMBERLY",
+    "address": "817 BROADWAY, 12TH FLOOR\nNEW YORK, NY 10003",
+    "phone": "(904) 868-1907",
+    "email": "avenir@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "02/07/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AVENIR MANAGEMENT COMPANY, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/07/2025"
+      }
+    ]
+  },
+  {
     "id": "1148018",
     "name": "CARLSON, STEPHEN E.",
     "address": "1710 CATHAY WAY\nSACRAMENTO, CA 95864",
@@ -4646,6 +4679,7 @@
     "email": "jcauble@paraport.com",
     "mailingAddress": "2764 CAMINITO SAN MARINO\nDEL MAR, CA 92014",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5482,6 +5516,7 @@
     "phone": "(415) 539-3186",
     "email": "kingsley@dragoneer.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5714,6 +5749,7 @@
     "phone": "(617) 664-7064",
     "email": "rconcepcion@statestreet.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6609,6 +6645,23 @@
     "relationships": [
       {
         "entityName": "JUUL LABS, INC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1358763",
+    "name": "CUNNINGHAM, RONAN",
+    "address": "1 INTERNATIONAL PLACE, SUITE 3520\nBOSTON, MA 02110",
+    "phone": "(617) 464-4600",
+    "email": "ronan@spectrumequity.com",
+    "mailingAddress": "140 NEW MONTGOMERY STREET, 20TH FLOOR\nATTN: PICAZO\nSAN FRANCISCO, CA 94105",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SPECTRUM EQUITY MANAGMENT, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -7994,6 +8047,23 @@
     ]
   },
   {
+    "id": "1243081",
+    "name": "DUNN, KEITH",
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 273-6567",
+    "email": "keithdunn@me.com",
+    "registrationDate": "02/04/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DUNN CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1340043",
     "name": "DUNN, MARTIN JAMES",
     "address": "5 MARBLE ARCH\nLONDON W1H 7EJ UNITED KINGDOM",
@@ -9222,6 +9292,24 @@
       {
         "entityName": "RKF CONSULTING LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1478577",
+    "name": "FONSECA, DAHLIA",
+    "address": "925 L STREET, SUITE 1450\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STATE COUNCIL OF LABORERS",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -12147,6 +12235,7 @@
     "phone": "(212) 891-2100",
     "email": "kharrell@cerberus.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12385,13 +12474,14 @@
     "address": "100 WILSHIRE BOULEVARD, SUITE 1400\nSANTA MONICA, CA 90401",
     "phone": "(310) 356-0858",
     "email": "compliance@gcp.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "02/17/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/17/2025"
       }
     ]
   },
@@ -12972,6 +13062,23 @@
     ]
   },
   {
+    "id": "1356711",
+    "name": "HINH, YINH",
+    "address": "65 EAST 55TH STREET, 26TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 293-4040",
+    "email": "yhinh@eaglecap.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EAGLE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1461646",
     "name": "HIRSCH, MALCOLM",
     "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
@@ -13028,12 +13135,29 @@
     "phone": "(310) 806-6317",
     "email": "jhobbs@mesawestcapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
         "entityName": "MESA WEST CAPITAL, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1476694",
+    "name": "HODGKINS, JENNIFER",
+    "address": "2015 J STREET, SUITE 100\nSACRAMENTO , CA 95811",
+    "phone": "(916) 426-8537",
+    "registrationDate": "02/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SUMMIT STRATEGY GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "02/01/2025"
       }
     ]
   },
@@ -16624,13 +16748,14 @@
     "address": "100 WILSHIRE BOULEVARD, SUITE 1400\nSANTA MONICA, CA 90401",
     "phone": "(310) 356-0858",
     "email": "compliance@gcp.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "02/17/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/17/2025"
       }
     ]
   },
@@ -16990,13 +17115,14 @@
     "address": "100 WILSHIRE BOULEVARD, SUITE 1400\nSANTA MONICA , CA 90401",
     "phone": "(310) 356-0858",
     "email": "compliance@gcp.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "02/17/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/17/2025"
       }
     ]
   },
@@ -18424,6 +18550,23 @@
     ]
   },
   {
+    "id": "1466420",
+    "name": "MARTIN, KAMELLIA",
+    "address": "925 L STREET, SUITE 1404\nSACRAMENTO, CA 95814",
+    "phone": "(949) 399-9050",
+    "email": "kmartin@townsendpa.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1233950",
     "name": "MARTIN, RAND",
     "address": "1121 L STREET, SUITE 612\nSACRAMENTO, CA 95814",
@@ -19809,6 +19952,7 @@
     "phone": "(916) 561-5655",
     "email": "kmills@cfbf.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20337,14 +20481,15 @@
     "address": "1215 K STREET, SUITE 1150\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-3007",
     "email": "smorwell@shjlobby.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/07/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SLOAT HIGGINS JENSEN AND ASSOCIATES, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/07/2025"
       }
     ]
   },
@@ -20988,6 +21133,23 @@
     ]
   },
   {
+    "id": "1478734",
+    "name": "NGUYEN, ALEX",
+    "address": "1 LETTERMAN DRIVE, BUILDING A, SUITE 500\nSAN FRANCISCO, CA 94129",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "02/10/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREENOAKS CAPITAL PARTNERS LLC",
+        "type": "Employer",
+        "effectiveDate": "02/10/2025"
+      }
+    ]
+  },
+  {
     "id": "1470549",
     "name": "NICA, DAVID",
     "address": "200 CLAREDON STREET, FLOOR 55\nBOSTON, MA 02116",
@@ -21581,6 +21743,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1337952",
+    "name": "OHM, SCOTT",
+    "address": "65 EAST 55TH STREET, 26TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 293-4040",
+    "email": "sohm@eaglecap.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EAGLE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -24957,6 +25135,22 @@
     ]
   },
   {
+    "id": "1449780",
+    "name": "ROZELL, EDWARD",
+    "address": "11100 SANTA MONICA BOULEVARD, SUITE 1700\nLOS ANGELES, CA 90025",
+    "phone": "(310) 478-4005",
+    "email": "erozell@aristotlecap.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARISTOTLE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1293564",
     "name": "RUBALCAVA, MICHELLE",
     "address": "1415 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -25143,6 +25337,7 @@
     "phone": "(206) 381-7036",
     "email": "dryan@paraport.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27803,6 +27998,22 @@
     ]
   },
   {
+    "id": "1335844",
+    "name": "SUFI, RANJIT ",
+    "address": "11100 SANTA MONICA BOULEVARD, SUITE 1700\nLOS ANGELES, CA 90025",
+    "phone": "(310) 478-4005",
+    "email": "rsufi@aristotlecap.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARISTOTLE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1479809",
     "name": "SULLIVAN, CLAIRE",
     "address": "1127 11TH STREET, SUITE 300\nSACRAMENTO, CA 95814",
@@ -28725,6 +28936,22 @@
     "relationships": [
       {
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1356469",
+    "name": "TORRICO, ALBERTO ",
+    "address": "1127 11TH STREET, SUITE 544\nSACRAMENTO, CA 95814",
+    "phone": "(916) 273-1230",
+    "email": "atorrico@torricolaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TORRICO; THE LAW OFFICES OF ALBERTO",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -30340,6 +30567,7 @@
     "phone": "(704) 334-6475",
     "email": "compliance@wedgecapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
