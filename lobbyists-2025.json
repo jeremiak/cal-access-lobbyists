@@ -166,6 +166,22 @@
     ]
   },
   {
+    "id": "1414806",
+    "name": "AGARWAL, ANURAG A.",
+    "address": "277 PARK AVENUE, FLOOR 21\nNEW YORK, NY 10172",
+    "phone": "(212) 562-9921",
+    "email": "anurag.agarwal@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1263105",
     "name": "AGUINALDO, LEILANI ",
     "address": "1121 L STREET, SUITE 1060\nSACRAMENTO, CA 95814",
@@ -591,6 +607,22 @@
     "relationships": [
       {
         "entityName": "WATERFALL ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1459389",
+    "name": "ANDREWS, MADELINE",
+    "address": "20 UNIVERSITY ROAD, SUITE 450\nCAMBRIDGE, MA 02138",
+    "phone": "(617) 234-7000",
+    "email": "mandrews@generalcatalyst.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -1044,6 +1076,22 @@
       {
         "entityName": "CYSTIC FIBROSIS FOUNDATION",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1294600",
+    "name": "AUGUSTA, BRIAN",
+    "address": "1107 9TH STREET, SUITE 601\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-9241",
+    "email": "baugusta@piadvocates.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC INTEREST ADVOCATES",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -1637,6 +1685,22 @@
         "entityName": "PLATINUM ADVISORS, LLC",
         "type": "Firm",
         "effectiveDate": "01/24/2025"
+      }
+    ]
+  },
+  {
+    "id": "1414808",
+    "name": "BARNETT, BRADLEY A.",
+    "address": "1 E OHIO STREET, FLOOR 6\nINDIANAPOLIS, IN 46204",
+    "phone": "(317) 236-5664",
+    "email": "bradley.a.barnett@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -2680,6 +2744,23 @@
       {
         "entityName": "ALPHADYNE ASSET MANAGEMENT LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1421610",
+    "name": "BLACKWOOD, ANN",
+    "address": "541 35TH STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 298-4811",
+    "email": "ann@rootstockstrat.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROOTSTOCK STRATEGIES",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -3961,6 +4042,22 @@
     ]
   },
   {
+    "id": "1459388",
+    "name": "BULLARD, LYMAN",
+    "address": "20 UNIVERSITY ROAD, SUITE 450\nCAMBRIDGE, MA 02138",
+    "phone": "(617) 234-7000",
+    "email": "lbullard@generalcatalyst.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1457082",
     "name": "BUNN, DAVID A.",
     "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
@@ -4556,6 +4653,22 @@
     ]
   },
   {
+    "id": "1392863",
+    "name": "CARTER, PATRICK",
+    "address": "560 MISSION STREET, FLOOR 5\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 315-5218",
+    "email": "patrick.e.carter@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1357616",
     "name": "CARVACHO ELLIOTT, ROSANNA ",
     "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
@@ -4819,6 +4932,22 @@
         "entityName": "DODD AND CHAABAN STRATEGIES LLC",
         "type": "Firm",
         "effectiveDate": "01/29/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480532",
+    "name": "CHAFFIN, LINDA S.",
+    "address": "ONE SANSOME STREET, 37TH FLOOR\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 439-5500",
+    "email": "lchaffin@big.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -7204,6 +7333,22 @@
     ]
   },
   {
+    "id": "1459386",
+    "name": "DELAPORTE, JACK P.",
+    "address": "20 UNIVERSITY ROAD, SUITE 450\nCAMBRIDGE, MA 02138",
+    "phone": "(617) 234-7000",
+    "email": "jdelaporte@generalcatalyst.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1406411",
     "name": "DELFINO, KIM",
     "address": "3053 FREEPORT BOULEVARD, SUITE 160\nSACRAMENTO, CA 95818",
@@ -7401,6 +7546,22 @@
       {
         "entityName": "PLATINUM ADVISORS, LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1402620",
+    "name": "DEVLIN, TIMOTHY",
+    "address": "277 PARK AVENUE, FLOOR 10\nNEW YORK, NY 10172",
+    "phone": "(212) 648-1114",
+    "email": "timothy.devlin@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -7876,6 +8037,23 @@
     "relationships": [
       {
         "entityName": "ALZHEIMER'S ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1377666",
+    "name": "DOZA, ASMAT",
+    "address": "1271 AVENUE OF THE AMERICAS, 22ND FLOOR\nNEW YORK, NY 10020",
+    "phone": "(202) 506-0500",
+    "email": "adoza@hig.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -8705,6 +8883,23 @@
     ]
   },
   {
+    "id": "1480677",
+    "name": "FEDALIZO, BALTAZAR",
+    "address": "3579 EAST FOOTHILL BOULEVARD, SUITE 141\nPASADENA, CA 91107",
+    "phone": "(888) 278-5152",
+    "email": "bfedalizo@gmail.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDEN STATE CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1381371",
     "name": "FELDMAN, JONATHAN",
     "address": "1121 11TH STREET, SUITE 408\nSACRAMENTO, CA 95814",
@@ -8811,6 +9006,7 @@
     "address": "925 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-7567",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10915,6 +11111,22 @@
     ]
   },
   {
+    "id": "1459385",
+    "name": "GORDON, ANDREW M.",
+    "address": "20 UNIVERSITY ROAD, SUITE 450\nCAMBRIDGE, MA 02138",
+    "phone": "(617) 234-7000",
+    "email": "dgordon@generalcatalyst.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1337687",
     "name": "GORDON, GREG",
     "address": "875 3RD AVENUE\nNEW YORK, NY 10022",
@@ -11182,14 +11394,15 @@
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-4656",
     "email": "alchemy@syaslpartners.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/17/2025",
     "ethicsCourseCompletionDate": "12/19/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/17/2025"
       }
     ]
   },
@@ -12920,6 +13133,22 @@
     ]
   },
   {
+    "id": "1464492",
+    "name": "HEWKIN, HEATHER A.",
+    "address": "10 S. DEARBORN STREET, 38TH FLOOR\nCHICAGO, IL 60603",
+    "phone": "(312) 732-5358",
+    "email": "heather.a.hewkin@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1409190",
     "name": "HEYWORTH, AUSTIN",
     "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
@@ -14337,6 +14566,7 @@
     "phone": "(916) 782-2678",
     "email": "cjohns@calrestrats.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15357,6 +15587,7 @@
     "phone": "(203) 912-0402",
     "email": "bill.kelsey@fasanara.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15715,6 +15946,22 @@
     ]
   },
   {
+    "id": "1363351",
+    "name": "KIM, JOHN K.",
+    "address": "20 UNIVERSITY ROAD, SUITE 450\nCAMBRIDGE, MA 02138",
+    "phone": "(617) 234-7000",
+    "email": "jkim@generalcatalyst.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1459401",
     "name": "KIM, TAENA ",
     "address": "295 LAFAYETTE STREET \nNEW YORK, NY 10012",
@@ -15956,6 +16203,22 @@
       {
         "entityName": "SUMMIT ADVOCACY LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1356041",
+    "name": "KLUGHERZ, THOMAS",
+    "address": "560 MISSION STREET, 3RD FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 772-3018",
+    "email": "thomas.klugherz@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -16626,6 +16889,22 @@
     ]
   },
   {
+    "id": "1377471",
+    "name": "LAWLER, ANYA",
+    "address": "1107 9TH STREET, SUITE 601\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-9241",
+    "email": "alawler@piadvocates.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC INTEREST ADVOCATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1429686",
     "name": "LAWRENCE, RICHARD J.",
     "address": "2 MORE LONDON RIVERSIDE\nLONDON SE1 2AP UNITED KINGDOM",
@@ -16686,7 +16965,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC",
+        "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC AND AFFILIATES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -16722,6 +17001,23 @@
         "entityName": "LEACOX & ASSOCIATES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480328",
+    "name": "LEAKE, TOM",
+    "address": "7 WORLD TRADE CENTER, 250 GREENWICH ST\nFLOOR 32",
+    "phone": "(212) 232-1420",
+    "email": "thomas.leake@capstoneco.com",
+    "registrationDate": "01/08/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC AND AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "01/08/2025"
       }
     ]
   },
@@ -17842,6 +18138,23 @@
     ]
   },
   {
+    "id": "1440506",
+    "name": "MAC FARLANE, JOHN G.",
+    "address": "1271 AVENUE OF THE AMERICAS, 22ND FLOOR\nNEW YORK, NY 10020",
+    "phone": "(212) 506-0500",
+    "email": "jmacfarlane@hig.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1445055",
     "name": "MAC GREGOR, ELIZABETH A.",
     "address": "111 RADIO CIRCLE DRIVE\nMOUNT KISCO, NY 10549",
@@ -18169,6 +18482,22 @@
     ]
   },
   {
+    "id": "1442628",
+    "name": "MAINTHIA, AMRITA",
+    "address": "20 UNIVERSITY ROAD, SUITE 450\nCAMBRIDGE, MA 02138",
+    "phone": "(617) 234-7000",
+    "email": "amaninthia@generalcatalyst.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1446913",
     "name": "MALINOWSKI, BETH",
     "address": "1029 K STREET\nSACRAMENTO, CA 95814",
@@ -18326,6 +18655,7 @@
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18753,6 +19083,7 @@
     "phone": "(415) 772-1101",
     "email": "john.masdea@troweprice.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19766,6 +20097,23 @@
     ]
   },
   {
+    "id": "1479003",
+    "name": "MERWIN, DAN",
+    "address": "3251 BEACON BOULEVARD\nWEST SACRAMENTO, CA 95691",
+    "phone": "(916) 663-3341",
+    "email": "dmerwin@csba.org",
+    "registrationDate": "01/14/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA SCHOOL BOARDS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/14/2025"
+      }
+    ]
+  },
+  {
     "id": "1477598",
     "name": "MEYER, CHRIS",
     "address": "640 5TH AVENUE, 20TH FLOOR\nNEW YORK, NY 10019",
@@ -20099,6 +20447,7 @@
     "phone": "(929) 977-4523",
     "email": "andrea.mody@ifminvestors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20204,6 +20553,23 @@
       {
         "entityName": "ACTUM, LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1397931",
+    "name": "MOLLER, NICHOLAS",
+    "address": "277 PARK AVENUE, 22ND FLOOR\nNEW YORK, NY 10172",
+    "phone": "(917) 687-1849",
+    "email": "nicholas.moller@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -20645,6 +21011,22 @@
     ]
   },
   {
+    "id": "1459919",
+    "name": "MUELLER, RACHEL",
+    "address": "1107 9TH STREET, SUITE 601\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-9241",
+    "email": "rmueller@piadvocates.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PUBLIC INTEREST ADVOCATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1455689",
     "name": "MULHOLLAND, JEAN",
     "address": "900 THIRD AVENUE, SUITE 1801\nNEW YORK, NY 10022",
@@ -21038,6 +21420,22 @@
     ]
   },
   {
+    "id": "1464209",
+    "name": "NELSON, JENNY",
+    "address": "ONE SANSOME STREET, 37TH FLOOR\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 439-9500",
+    "email": "jnelson@hig.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1361929",
     "name": "NELSON, MATTHEW E.",
     "address": "1114 AVENUE OF THE AMERICAS, 20TH FLOOR\nNEW YORK, NY 10036",
@@ -21393,6 +21791,22 @@
     "relationships": [
       {
         "entityName": "GOLDWATER INSTITUTE FOR PUBLIC POLICY RESEARCH; BARRY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1414805",
+    "name": "NORMAN, GARRETT A.",
+    "address": "277 PARK AVENUE, 8TH FLOOR\nNEW YORK, NY 10172",
+    "phone": "(212) 648-1835",
+    "email": "garrett.a.norman@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -22442,6 +22856,23 @@
     "relationships": [
       {
         "entityName": "EDISON INTERNATIONAL AND AFFILIATES, INCLUDING SOUTHERN CALIFORNIA EDISON",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1435862",
+    "name": "PASQUALONE, KATHRYN",
+    "address": "277 PARK AVENUE, 8TH FLOOR\nNEW YORK, NY 10172",
+    "phone": "(212) 648-0460",
+    "email": "kathryn.m.pasqualone@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -23627,14 +24058,15 @@
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-4656",
     "email": "priscilla@syaslpartners.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/31/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/31/2025"
       }
     ]
   },
@@ -26595,6 +27027,22 @@
     ]
   },
   {
+    "id": "1338032",
+    "name": "SHIELDS, JEFFREY L.",
+    "address": "560 MISSION STREET, FLOOR 5\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 315-3915",
+    "email": "jeffrey.l.shields@jpmorgan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1424055",
     "name": "SHIMODA, CHRIS",
     "address": "4148 EAST COMMERCE WAY\nSACRAMENTO, CA 95834",
@@ -26666,6 +27114,7 @@
     "phone": "(559) 469-7355",
     "email": "reuban@thecriscomcompany.com",
     "registrationDate": "02/12/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28027,6 +28476,22 @@
         "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480500",
+    "name": "SULLIVAN, FRANK H",
+    "address": "5307 AVENUE G\nAUSTIN, TX 78751",
+    "phone": "(240) 855-3512",
+    "email": "fsullivan@jtpllc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JTP CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
