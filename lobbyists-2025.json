@@ -348,6 +348,24 @@
     ]
   },
   {
+    "id": "1440912",
+    "name": "ALLARA, DEAN",
+    "address": "2000 ALAMEDA DE LAS PULGAS, SUITE 160\nSAN MATEO, CA 94403",
+    "phone": "(408) 889-1633",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW \nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIDGE INVESTMENT GROUP HOLDINGS LLC AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1346095",
     "name": "ALLEN, MATTHEW S.",
     "address": "1415 L STREET, SUITE 1060\nSACRAMENTO, CA 95814",
@@ -1464,6 +1482,23 @@
     ]
   },
   {
+    "id": "1392586",
+    "name": "BALES, JENNIFER",
+    "address": "40 WEST 57TH STREET, 33RD FLOOR\nNEW YORK, NY 10019",
+    "phone": "(415) 287-6802",
+    "email": "jennifer.bales@hpspartners.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HPS INVESTMENT PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1467215",
     "name": "BALEWICZ, GREG",
     "address": "225 W WACKER DRIVE, SUITE 1200\nCHICAGO, IL 60606",
@@ -1973,6 +2008,21 @@
       {
         "entityName": "ENCAP INVESTMENTS L.P.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1148579",
+    "name": "BAUER, PAUL S.",
+    "address": "1801 L STREET, SUITE 20\nSACRAMENTO, CA 95811",
+    "phone": "(916) 502-1453",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARROW ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -6386,6 +6436,22 @@
     ]
   },
   {
+    "id": "1392587",
+    "name": "COTHERN, PHILIP",
+    "address": "40 WEST 57TH STREET, 33RD FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 287-5508",
+    "email": "philip.cothern@hpspartners.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HPS INVESTMENT PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1455908",
     "name": "COUGHLAN, PAUL G.",
     "address": "1 FLOOR, LIBERATION HOUSE, CASTLE STREET\nST. HELIER JERSEY JE1 1GL",
@@ -6510,6 +6576,7 @@
     "phone": "(916) 492-5200",
     "email": "bernicec@car.org",
     "registrationDate": "01/14/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7918,6 +7985,7 @@
     "phone": "(916) 313-4020",
     "email": "kdomingo@cacatholic.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8220,7 +8288,8 @@
       {
         "entityName": "STARBOARD VALUE LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/16/2025"
       }
     ]
   },
@@ -9122,6 +9191,7 @@
     "phone": "(916) 261-0906",
     "email": "rfilgas@cfbf.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -10943,6 +11013,22 @@
     ]
   },
   {
+    "id": "1255631",
+    "name": "GOLKA, JOSHUA",
+    "address": "1121 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-8497",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SANTA CLARA VALLEY WATER DISTRICT",
+        "type": "Employer",
+        "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1380852",
     "name": "GONSALVES, SHARON",
     "address": "1127 11TH STREET, SUITE 300\nSACRAMENTO, CA 95814",
@@ -11285,6 +11371,22 @@
         "entityName": "SOUNDPOINT CAPITAL MANAGEMENT, LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1478631",
+    "name": "GOSTIN, BRYN",
+    "address": "701 BRICKELL AVENUE\nMIAMI, FL 33131",
+    "phone": "(212) 822-0762",
+    "email": "bgostin@apollo.com",
+    "registrationDate": "02/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "02/04/2025"
       }
     ]
   },
@@ -13261,8 +13363,9 @@
   {
     "id": "1477949",
     "name": "HILLIARD, ALLISON",
-    "address": "1275 4TH STREET, STE 191\nSANTA ROSA, CA 95404",
-    "phone": "(408) 931-5413",
+    "address": "1275 4TH STREET, SUITE 191\nSANTA ROSA, CA 95404",
+    "phone": "(707) 525-1665",
+    "email": "allison@theclimatecenter.org",
     "registrationDate": "01/01/2025",
     "status": "Active",
     "relationships": [
@@ -13286,23 +13389,6 @@
       {
         "entityName": "WILD CAT CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1356711",
-    "name": "HINH, YINH",
-    "address": "65 EAST 55TH STREET, 26TH FLOOR\nNEW YORK, NY 10022",
-    "phone": "(212) 293-4040",
-    "email": "yhinh@eaglecap.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EAGLE CAPITAL MANAGEMENT, LLC",
-        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -14593,6 +14679,22 @@
     ]
   },
   {
+    "id": "1406215",
+    "name": "JOHNSON, ANGELA D",
+    "address": "3424 PEACHTREE ROAD NORTHEAST, #2000\nATLANTA, GA 30326",
+    "phone": "(404) 419-1000",
+    "email": "angela.johnson@nobleinvestment.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NOBLE MANAGEMENT HOLDINGS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1334113",
     "name": "JOHNSON, DOROTHY",
     "address": "1029 J STREET, SUITE 500\nSACRAMENTO, CA 95814",
@@ -15792,6 +15894,23 @@
     "relationships": [
       {
         "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1440915",
+    "name": "KHIDEKEL, INNA",
+    "address": "280 PARK AVENUE, 28TH FLOOR WEST\nNEW YORK, NY 10017",
+    "phone": "(646) 453-7100",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIDGE INVESTMENT GROUP HOLDINGS LLC AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -22161,22 +22280,6 @@
     ]
   },
   {
-    "id": "1337952",
-    "name": "OHM, SCOTT",
-    "address": "65 EAST 55TH STREET, 26TH FLOOR\nNEW YORK, NY 10022",
-    "phone": "(212) 293-4040",
-    "email": "sohm@eaglecap.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EAGLE CAPITAL MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1466367",
     "name": "OJEIKERE, KEHINDE",
     "address": "1020 12TH STREET, SUITE 406 \nSACRAMENTO, CA 95814",
@@ -22889,6 +22992,22 @@
     "relationships": [
       {
         "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1461007",
+    "name": "PATTERSON, SEAN",
+    "address": "40 WEST 57TH STREET, 33RD FLOOR\nNEW YORK, NY 10019",
+    "phone": "(415) 738-5067",
+    "email": "sean.patterson@hpspartners.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HPS INVESTMENT PARTNERS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -23686,6 +23805,7 @@
     "phone": "(916) 877-4148",
     "email": "awestling@arcanet.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24767,6 +24887,7 @@
     "phone": "(916) 286-7979",
     "email": "trinde@cpapsych.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25081,6 +25202,23 @@
     "relationships": [
       {
         "entityName": "GUALCO GROUP, INC.; THE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1298806",
+    "name": "RODRIGUEZ, SAM",
+    "address": "131 ARLENE TERRACE\nSAN RAFAEL, CA 94903",
+    "phone": "(916) 849-4300",
+    "email": "sam@rodriguezstrategicpartners.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RODRIGUEZ STRATEGIC PARTNERS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -30011,6 +30149,22 @@
     ]
   },
   {
+    "id": "1478187",
+    "name": "VALENZUELA, KATHERINE",
+    "address": "717 K STREET, SUITE 217\nSACRAMENTO, CA 95814",
+    "phone": "(916) 594-7859",
+    "email": "katie@everydayimpactconsulting.com",
+    "registrationDate": "01/31/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EVERYDAY IMPACT CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1415656",
     "name": "VALVERDE ROJO, MARIO",
     "address": "725 PONCE DE LEON AVENUE, NORTHEAST\nATLANTA, GA 30306",
@@ -30679,6 +30833,23 @@
     "relationships": [
       {
         "entityName": "MARATHON ASSET MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1448674",
+    "name": "WANG, EMILY",
+    "address": "40 WEST 57TH STREET, 33RD FLOOR\nNEW YORK, NY 10019",
+    "phone": "(415) 738-5066",
+    "email": "emily.wang@hpspartners.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HPS INVESTMENT PARTNERS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
