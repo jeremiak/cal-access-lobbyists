@@ -669,6 +669,7 @@
     "phone": "(415) 772-1157",
     "email": "meenu.annamalai@troweprice.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3776,6 +3777,7 @@
     "phone": "(212) 891-2100",
     "email": "cbrossard@cerberus.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4464,6 +4466,23 @@
     "relationships": [
       {
         "entityName": "REPUBLIC SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1373075",
+    "name": "CARBONE, KELLY W.",
+    "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK, FL 32789",
+    "phone": "(407) 420-9903",
+    "email": "compliance@drz-inc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -5829,6 +5848,7 @@
     "address": "1ST FLOOR, 10-11 PARK PLACE\nLONDON UK SW1A 1LP , UK",
     "email": "jc@questfundplacement.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6092,14 +6112,15 @@
     "name": "COONEY, DUKE",
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-1036",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/20/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/20/2025"
       }
     ]
   },
@@ -6549,7 +6570,8 @@
       {
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/07/2025"
       }
     ]
   },
@@ -7135,14 +7157,15 @@
     "name": "DAWSON, RUTH",
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-1036",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/03/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/03/2025"
       }
     ]
   },
@@ -7789,6 +7812,7 @@
     "phone": "(530) 301-3510",
     "email": "adickey@sccoe.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9841,6 +9865,7 @@
     "phone": "(718) 722-1970",
     "email": "lisa.fridman@ifminvestors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13367,6 +13392,7 @@
     "phone": "(707) 525-1665",
     "email": "allison@theclimatecenter.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15740,6 +15766,7 @@
     "phone": "(212) 891-2100",
     "email": "mkeough@cerberus.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18989,6 +19016,7 @@
     "phone": "(916) 287-9885",
     "email": "cmartin@housingca.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20077,7 +20105,8 @@
       {
         "entityName": "CONNAUGHT (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/28/2025"
       }
     ]
   },
@@ -21856,13 +21885,14 @@
     "address": "1251 AVENUE OF THE AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
     "phone": "(212) 257-4629",
     "email": "cnolde@waterfallam.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "02/13/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WATERFALL ASSET MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/13/2025"
       }
     ]
   },
@@ -28142,6 +28172,7 @@
     "phone": "(916) 287-9885",
     "email": "nspievack@housingca.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29937,7 +29968,7 @@
     "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
     "phone": "(916) 492-9363",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/03/2022",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -30155,6 +30186,7 @@
     "phone": "(916) 594-7859",
     "email": "katie@everydayimpactconsulting.com",
     "registrationDate": "01/31/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31837,6 +31869,23 @@
     ]
   },
   {
+    "id": "1460141",
+    "name": "WOOD , JAMES K.",
+    "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK , FL 32789",
+    "phone": "(407) 420-9903",
+    "email": "compliance@drz-inc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1477988",
     "name": "WOOD, JIM",
     "address": "980 9TH STREET, STE 2000\nSACRAMENTO, CA 95814",
@@ -32459,6 +32508,23 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA DENTAL ASSOCIATION AND ITS WHOLLY OWNED SUBSIDIARIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1422361",
+    "name": "ZOLLO, VICTOR A.",
+    "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK, FL 32789",
+    "phone": "(407) 420-9903",
+    "email": "compliance@drz-inc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
