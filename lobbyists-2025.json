@@ -805,7 +805,13 @@
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1441188",
@@ -1156,6 +1162,7 @@
     "phone": "(914) 921-5345",
     "email": "mavansino@gabelli.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1557,6 +1564,7 @@
     "phone": "(212) 293-4600",
     "email": "OL-Compliance-AM-US@btgpactual.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -1913,6 +1921,7 @@
     "phone": "(212) 813-4571",
     "email": "roman.bas@carlyle.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -1978,8 +1987,15 @@
     "phone": "(916) 266-4575",
     "email": "mbatjer@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1463573",
@@ -2058,6 +2074,23 @@
       {
         "entityName": "BAYARDO STRATEGIES LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1451020",
+    "name": "BAYAZID, ZEYNEP TUMER",
+    "address": "55 STREET JAMES'S STREET\nLONDON UK SW1A 1LA",
+    "phone": "(212) 433-3220",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALBACORE CAPITAL GROUP AND AFFILIATED ENTITIES",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -2300,8 +2333,15 @@
     "phone": "(916) 266-4575",
     "email": "benton@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1380744",
@@ -2451,6 +2491,24 @@
     "relationships": [
       {
         "entityName": "RAINE GROUP LLC; THE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1469481",
+    "name": "BERRY, EDWARD",
+    "address": "55 STREET JAMES'S STREET\nLONDON UK SW1A 1LA",
+    "phone": "(212) 433-3220",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALBACORE CAPITAL GROUP AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -3286,6 +3344,7 @@
     "phone": "(212) 332-6345",
     "email": "john.borys@carlyle.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -3435,7 +3494,13 @@
     "email": "vbradshaw@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1452561",
@@ -3921,7 +3986,7 @@
   },
   {
     "id": "1439403",
-    "name": "BROWNBILL, SCOTT ALEXANDER",
+    "name": "BROWNBILL, SCOTT A",
     "address": "5100 TOWN CENTER CIRCLE TOWER II SUITE 430\nBOCA RATON, FL 33486",
     "phone": "(561) 464-0188",
     "email": "scott.brownbill@isam.com",
@@ -3975,8 +4040,15 @@
     "phone": "(916) 266-4575",
     "email": "tbrunello@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1406749",
@@ -4629,6 +4701,7 @@
     "phone": "(212) 973-8600",
     "email": "jocaron@aglcredit.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -6331,6 +6404,7 @@
     "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 594-9700",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6666,6 +6740,7 @@
     "phone": "(212) 813-4722",
     "email": "james.crenshaw@carlyle.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -6766,7 +6841,13 @@
     "email": "jesse@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1358167",
@@ -7015,6 +7096,22 @@
     "relationships": [
       {
         "entityName": "GUALCO GROUP, INC.; THE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1478182",
+    "name": "DAILEY, NICOLE",
+    "address": "10809 FOOTHILL BLVD, SUITE160-516\nRANCHO CUCAMONGA, CA 91730",
+    "phone": "(213) 400-8664",
+    "email": "nicole@rojascommunications.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -7946,6 +8043,7 @@
     "phone": "(415) 670-2312",
     "email": "scott.dohemann@blackrock.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -8163,6 +8261,22 @@
     "relationships": [
       {
         "entityName": "CONSUMER ATTORNEYS OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1335825",
+    "name": "DRAPER, SCOTT A.",
+    "address": "101 CALIFORNIA STREET, SUITE 4225\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 675-7316",
+    "email": "scott.draper@algertglobal.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALGERT GLOBAL LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -8684,6 +8798,7 @@
     "phone": "(415) 772-1118",
     "email": "meredith.empie@troweprice.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9612,7 +9727,13 @@
     "email": "dford@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1347385",
@@ -11171,6 +11292,22 @@
     ]
   },
   {
+    "id": "1149393",
+    "name": "GONZALEZ, TONY S. ",
+    "address": "1015 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 879-9317",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LONDON & GONZALEZ ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1404598",
     "name": "GONZALEZ, VANESSA",
     "address": "1215 K STREET, SUITE 700\nSACRAMENTO, CA 95814",
@@ -12195,6 +12332,7 @@
     "phone": "(916) 441-4848",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12643,7 +12781,13 @@
     "email": "tharris@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1465183",
@@ -13136,6 +13280,7 @@
     "address": "1750 MERIDIAN AVENUE P.O. BOX 5152\nSAN JOSE, CA 95125-9998",
     "phone": "(408) 857-7713",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13300,7 +13445,13 @@
     "email": "whickox@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1461762",
@@ -13358,6 +13509,7 @@
     "phone": "(916) 444-5532",
     "email": "ahill@cmadocs.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14910,14 +15062,15 @@
     "address": "900 SEVENTH STREET NW, SUITE 600\nWASHINGTON, DC 20001",
     "phone": "(202) 496-3370",
     "email": "mjohnstone@natadvisors.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/14/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NATIONAL REAL ESTATE ADVISORS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/14/2025"
       }
     ]
   },
@@ -15076,7 +15229,13 @@
     "email": "cjoves@calstrat.com",
     "registrationDate": "01/13/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/12/2025"
+      }
+    ]
   },
   {
     "id": "1393216",
@@ -15655,6 +15814,23 @@
       {
         "entityName": "GOLDMAN SACHS ASSET MANAGEMENT, L.P.",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1148021",
+    "name": "KELLISON, PETER C.",
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-1011",
+    "email": "peter@kellisoncompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KELLISON COMPANY, INC.",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -16574,6 +16750,7 @@
     "phone": "(646) 984-1704",
     "email": "dan.kong@carlyle.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16624,7 +16801,13 @@
     "email": "jkozberg@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1441968",
@@ -16886,7 +17069,13 @@
     "email": "stevelarson@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1435015",
@@ -17145,6 +17334,22 @@
     "relationships": [
       {
         "entityName": "LEACOX & ASSOCIATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149174",
+    "name": "LEACOX, JEFFREY",
+    "address": "1017 L STREET, SUITE 790\nSACRAMENTO, CA 95814",
+    "phone": "(916) 996-5000",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEACOX CALIFORNIA GOVERNMENTAL ADVOCACY",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -17761,8 +17966,15 @@
     "phone": "(916) 266-4575",
     "email": "jlites@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1308365",
@@ -17925,6 +18137,22 @@
     "relationships": [
       {
         "entityName": "LOMBARDO GROUP; THE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1148192",
+    "name": "LONDON II, CARL E.",
+    "address": "1015 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 952-5130",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LONDON & GONZALEZ ADVOCACY",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -18443,7 +18671,13 @@
     "mailingAddress": "1619 DEERWOOD STREET\nWEST SACRAMENTO, CA 95691\nEmail: lily@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1474918",
@@ -18884,13 +19118,14 @@
     "address": "1201 K STREET, SUITE 800\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-5532",
     "email": "bmarchy@cmadocs.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "01/31/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA MEDICAL ASSOCIATION AND AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/31/2025"
       }
     ]
   },
@@ -19171,7 +19406,13 @@
     "email": "ricardo@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1471946",
@@ -19619,6 +19860,7 @@
     "address": "7909 WALERGA ROAD, #112-298\nANTELOPE, CA 95843",
     "phone": "(858) 243-3448",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19717,7 +19959,13 @@
     "email": "camdenm@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1262606",
@@ -20235,6 +20483,7 @@
     "phone": "(203) 698-1200",
     "email": "jmerrill@ellington.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21225,14 +21474,37 @@
     ]
   },
   {
+    "id": "1478183",
+    "name": "MUNOZ, ALEJANDRA",
+    "address": "10809 FOOTHILL BLVD, SUITE 160-516\nRANCHO CUCAMONGA, CA 91730",
+    "phone": "(213) 400-8664",
+    "email": "ALEX@ROJASCOMMUNICATIONS.COM",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1458860",
     "name": "MUNOZ, JONATHAN",
     "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "jmunoz@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1414832",
@@ -22397,7 +22669,13 @@
     "email": "kristin@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1263054",
@@ -22698,6 +22976,21 @@
     ]
   },
   {
+    "id": "1477108",
+    "name": "PAIVA, CAROLINE T.",
+    "address": "23 SAVILLE ROW\nLONDON UK W1S 2ET",
+    "email": "caroline.thomas@rokoscapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROKOS CAPITAL MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1458785",
     "name": "PALKO, SAMARA D.",
     "address": "1119 K STREET, 2ND FLOOR\nSACRAMENTO, CA 95814",
@@ -22918,6 +23211,7 @@
     "phone": "(916) 441-4848",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23819,6 +24113,7 @@
     "phone": "(415) 245-7231",
     "email": "tiffany.pomfret@natixis.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23916,6 +24211,7 @@
     "phone": "(858) 243-3448",
     "email": "grace@caliberstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24363,8 +24659,15 @@
     "phone": "(916) 266-4575",
     "email": "mramos@calstrat.com",
     "registrationDate": "01/12/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1450311",
@@ -24819,6 +25122,7 @@
     "email": "ol-compliance-am-us@btgpactual.com",
     "mailingAddress": "601 LEXINGTON AVENUE, 57TH FLOOR\nNEW YORK, NY 10022",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25218,7 +25522,13 @@
     "email": "lrodriguez@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1272806",
@@ -26105,6 +26415,7 @@
     "phone": "(916) 444-5532",
     "email": "csanchez@cmadocs.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27064,7 +27375,7 @@
   },
   {
     "id": "1442635",
-    "name": "SHEAHAN, MARY C.",
+    "name": "SHEAHAN, MARY \"MOLLY\"",
     "address": "1119 K STREET, 2ND FLOOR\nSACRAMENTO, CA 95864",
     "phone": "(916) 313-4019",
     "email": "msheahan@cacatholic.org",
@@ -28470,14 +28781,15 @@
     "address": "711 HIGH STREET\nDES MOINES, IA 50392",
     "phone": "(515) 362-1023",
     "email": "stover.paul@principal.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/05/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PRINCIPAL GLOBAL INVESTORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/05/2025"
       }
     ]
   },
@@ -29483,6 +29795,7 @@
     "phone": "(713) 437-5114",
     "email": "ttomlin@firststreserve.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -29598,6 +29911,7 @@
     "phone": "(929) 999-3565",
     "email": "mark.tower@am-one-usa.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -30306,7 +30620,13 @@
     "email": "claire@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1475468",
@@ -30996,7 +31316,13 @@
     "email": "cwatson@calstrat.com",
     "registrationDate": "01/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1465932",
@@ -31118,6 +31444,7 @@
     "phone": "(212) 756-3508",
     "email": "ammy.schlosberg@greycroft.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31319,8 +31646,15 @@
     "phone": "(916) 266-4575",
     "email": "lauren@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1402637",
@@ -31893,7 +32227,13 @@
     "email": "jimwood@calstrat.com",
     "registrationDate": "01/16/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1282403",
@@ -32420,6 +32760,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACARMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
