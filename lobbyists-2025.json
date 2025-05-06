@@ -1711,9 +1711,9 @@
   {
     "id": "1312665",
     "name": "BARNETT, ALLISON",
-    "address": "915 L STREET, SUITE 1400\nSACRAMENTO, CA 95814",
-    "phone": "(916) 552-5284",
-    "email": "fppc@bmhlaw.com",
+    "address": "1215 K STREET SUITE 1150\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-8891",
+    "email": "agb@platinumadvisors.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (916) 552-5284\nEmail: fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
@@ -1728,7 +1728,7 @@
       {
         "entityName": "PLATINUM ADVISORS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/24/2025"
+        "effectiveDate": "01/27/2025"
       }
     ]
   },
@@ -1983,7 +1983,7 @@
   {
     "id": "1448764",
     "name": "BATJER, MARYBEL",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "mbatjer@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -2228,6 +2228,22 @@
     ]
   },
   {
+    "id": "1462156",
+    "name": "BENEDICT, REBECCA E",
+    "address": "290 HARBOR DRIVE, 3RD FLOOR\nSTAMFORD, CT 06902",
+    "phone": "(212) 571-1244",
+    "email": "rbenedict@hudsonbaycapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HUDSON BAY CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1443697",
     "name": "BENESI, BRITTANY P.",
     "address": "12160 SIERRA DRIVE\nTRUCKEE, CA 96161",
@@ -2329,7 +2345,7 @@
   {
     "id": "1232262",
     "name": "BENTON, JOHN",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "benton@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -2388,6 +2404,22 @@
     "relationships": [
       {
         "entityName": "HUMANE WORLD FOR ANIMALS, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1463247",
+    "name": "BERGELSON, DANIEL",
+    "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JAIN GLOBAL LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -3489,7 +3521,7 @@
   {
     "id": "1347952",
     "name": "BRADSHAW, VICTORIA",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "vbradshaw@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -3953,6 +3985,23 @@
     ]
   },
   {
+    "id": "1480811",
+    "name": "BROWN, NATALIE S",
+    "address": "1107 9TH STREET, SUITE 901\nSACRAMENTO, CA 95814",
+    "phone": "(916) 822-5631",
+    "email": "natalie@pcl.org",
+    "registrationDate": "02/06/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLANNING AND CONSERVATION LEAGUE",
+        "type": "Employer",
+        "effectiveDate": "02/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1363241",
     "name": "BROWN, TRISTAN",
     "address": "1225 H STREET\nSACRAMENTO, CA 95814",
@@ -4036,7 +4085,7 @@
   {
     "id": "1355167",
     "name": "BRUNELLO, TONY",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "tbrunello@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -5433,6 +5482,22 @@
     ]
   },
   {
+    "id": "1359525",
+    "name": "CHHABRIA, RISHI P.",
+    "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
+    "phone": "(212) 223-2432",
+    "email": "chhabria@campbell-lutyens.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPBELL LUTYENS & CO. INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1476783",
     "name": "CHHUOR, TIFFANY",
     "address": "10100 SANTA MONICA BOULEVARD, SUITE 600\nLOS ANGELES, CA 90067",
@@ -6227,6 +6292,22 @@
     "relationships": [
       {
         "entityName": "COOPER, LEGISLATIVE ADVOCATE; GARY S.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1393217",
+    "name": "COOPER, GERALD",
+    "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
+    "phone": "(212) 223-8448",
+    "email": "cooper@campbell-lutyens.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPBELL LUTYENS & CO. INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -7234,6 +7315,22 @@
     ]
   },
   {
+    "id": "1335643",
+    "name": "DAVIDSSON, CHRISTOFFER",
+    "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
+    "phone": "(212) 223-8448",
+    "email": "davidsson@campbell-lutyens.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPBELL LUTYENS & CO. INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1441067",
     "name": "DAVIES, STUART",
     "address": "1603 ORRINGTON AVENUE, 13TH FLOOR\nEVANSTON, IL 60201",
@@ -7459,6 +7556,7 @@
     "phone": "(310) 785-9755",
     "email": "sdebreu@camdenasset.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7490,14 +7588,15 @@
     "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(415) 486-5941",
     "email": "kdeeth@sixthstreet.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/10/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/10/2025"
       }
     ]
   },
@@ -8223,6 +8322,7 @@
     "phone": "(925) 269-4310",
     "email": "compliance_ca_alz_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8825,6 +8925,22 @@
     ]
   },
   {
+    "id": "1462159",
+    "name": "ENNALS, JULIETTE",
+    "address": "290 HARBOR DRIVE, 3RD FLOOR\nSTAMFORD, CT 06902",
+    "phone": "(212) 571-1244",
+    "email": "jcottrill@hudsonbaycapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HUDSON BAY CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1393100",
     "name": "EPP, BRANDON",
     "address": "211 WEST TEMPLE STREET\nLOS ANGELES, CA 90012",
@@ -8917,6 +9033,7 @@
     "phone": "(916) 444-5532",
     "email": "levensen@cmadocs.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9722,10 +9839,11 @@
   {
     "id": "1303784",
     "name": "FORD, DEVON ",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "dford@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9921,6 +10039,7 @@
     "address": "1225 8TH STREET, SUITE 350\nSACRAMENTO, CA 95814",
     "phone": "(916) 905-2153",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12110,6 +12229,7 @@
     "phone": "(212) 259-5286",
     "email": "giuseppe.guerriero@bridgepoint.eu",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12350,6 +12470,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (410) 800-7503\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12389,6 +12510,23 @@
       {
         "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1460480",
+    "name": "HAGEN, JOSHUA J.",
+    "address": "1512 14TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-1681",
+    "email": "joshua@collegecampaign.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPAIGN FOR COLLEGE OPPORTUNITY; THE",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -12673,6 +12811,22 @@
     ]
   },
   {
+    "id": "1479115",
+    "name": "HARLIN, CHRISTOPHER",
+    "address": "330 MADISON AVENUE, 10TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(312) 357-6462",
+    "email": "christopher.harlin@guggenheiminvestmen",
+    "registrationDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUGGENHEIM PARTNERS INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/20/2025"
+      }
+    ]
+  },
+  {
     "id": "1308305",
     "name": "HARPER, ADAM J.",
     "address": "455 CAPITOL MALL, SUITE 210\nSACRAMENTO, CA 95814",
@@ -12776,10 +12930,11 @@
   {
     "id": "1283112",
     "name": "HARRIS, THEODORE",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "tharris@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13440,7 +13595,7 @@
   {
     "id": "1360391",
     "name": "HICKOX, WINSTON",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "whickox@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -13616,6 +13771,22 @@
     "relationships": [
       {
         "entityName": "HELLMAN & FRIEDMAN LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1339660",
+    "name": "HOBBEHEYDAR, JAIME",
+    "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JAIN GLOBAL LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -15084,7 +15255,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "MFG ASSET MANAGEMENT AND ITS AFFILIATE MFG SERVICES LLC",
+        "entityName": "MFG ASSET MANAGEMENT",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -15224,10 +15395,11 @@
   {
     "id": "1476795",
     "name": "JOVES, CONSTANCE",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "cjoves@calstrat.com",
     "registrationDate": "01/13/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16070,6 +16242,23 @@
     ]
   },
   {
+    "id": "1457276",
+    "name": "KHALILI, SHAHIN M.",
+    "address": "203 EAST MAIN STREET APARTMENT 245\nWAUNAKEE, WI 53597",
+    "phone": "(858) 243-0397",
+    "email": "mimi.s.khalili@gmail.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KHALILI, SHAHIN M",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1437385",
     "name": "KHAN, ALEXANDER A.",
     "address": "1001 K STREET, 6TH FLOOR\nSACRAMENTO, CA 95814",
@@ -16185,6 +16374,22 @@
     ]
   },
   {
+    "id": "1337505",
+    "name": "KIEFER, ANDREW",
+    "address": "1215 K STREET, SUITE 2010\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-2960",
+    "email": "bsca@politicomlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLUE SHIELD OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1469595",
     "name": "KILEY, GABRIELLA N.",
     "address": "292 MADISON AVENUE, FLOOR 8\nNEW YORK, NY 10017",
@@ -16213,6 +16418,22 @@
         "entityName": "BRIDGEPOINT ADVISERS LIMITED",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479165",
+    "name": "KILLACKEY, CARA",
+    "address": "300 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 210-9390",
+    "email": "ckillackey@jllpartners.com",
+    "registrationDate": "02/24/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JLL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/24/2025"
       }
     ]
   },
@@ -16278,6 +16499,22 @@
     "relationships": [
       {
         "entityName": "GENERAL CATALYST GROUP MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1462157",
+    "name": "KIM, NADINE I",
+    "address": "290 HARBOR DRIVE, 3RD FLOOR\nSTAMFORD, CT 06902",
+    "phone": "(212) 571-1244",
+    "email": "legalnotices@hudsonbaycapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HUDSON BAY CAPITAL MANAGEMENT LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -16796,7 +17033,7 @@
   {
     "id": "1366131",
     "name": "KOZBERG, JOANNE",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO , CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO , CA 95814",
     "phone": "(916) 266-4575",
     "email": "jkozberg@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -17062,12 +17299,29 @@
     ]
   },
   {
+    "id": "1442320",
+    "name": "LARSON, DEREK",
+    "address": "1901 AVENUE OF THE STARS\nLOS ANGELES, CA 90067",
+    "phone": "(213) 712-1844",
+    "email": "larson@campbell-lutyens.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPBELL LUTYENS & CO. INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1362014",
     "name": "LARSON, STEPHEN",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "stevelarson@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17962,7 +18216,7 @@
   {
     "id": "1149439",
     "name": "LITES II, JAMES D.",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "jlites@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -18665,11 +18919,12 @@
   {
     "id": "1437228",
     "name": "MACKAY, LILY",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "lily@calstrat.com",
     "mailingAddress": "1619 DEERWOOD STREET\nWEST SACRAMENTO, CA 95691\nEmail: lily@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19227,6 +19482,22 @@
     ]
   },
   {
+    "id": "1335646",
+    "name": "MARROQUIN, GUILLERMO",
+    "address": "444 WEST LAKE STREET, 17TH FLOOR\nCHICAGO, IL 60606",
+    "phone": "(312) 416-8499",
+    "email": "marroquin@campbell-lutyens.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPBELL LUTYENS & CO. INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1399757",
     "name": "MARSEILLE, ROMMEL",
     "address": "590 MADISON AVENUE, 34TH FLOOR\nNEW YORK, NY 10022",
@@ -19401,10 +19672,11 @@
   {
     "id": "1456457",
     "name": "MARTINEZ, RICARDO",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "ricardo@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19465,6 +19737,22 @@
     ]
   },
   {
+    "id": "1467907",
+    "name": "MASCARINAS, CHRIS",
+    "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JAIN GLOBAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1338859",
     "name": "MASDEA, JOHN",
     "address": "100 EAST PRATT STREET\nBALTIMORE, MD 21209",
@@ -19509,6 +19797,24 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA ENVIRONMENTAL JUSTICE ALLIANCE ACTION, A PROJECT OF TIDES ADVOCACY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1303972",
+    "name": "MASTRODONATO, RICHARD A.",
+    "address": "1107 9TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(415) 572-3107",
+    "email": "rico.mastrodonato@tpl.org",
+    "mailingAddress": "PO BOX 889336\n LOS ANGELES, CA 90088-9336",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRUST FOR PUBLIC LAND; THE",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -19954,7 +20260,7 @@
   {
     "id": "1273641",
     "name": "MC EFEE, CAMDEN S. ",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "camdenm@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -21171,6 +21477,23 @@
     ]
   },
   {
+    "id": "1272940",
+    "name": "MORETTI, MATT",
+    "address": "1010 12TH STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 800-2472",
+    "email": "mat@mjmadvocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MJM ADVOCACY, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1251044",
     "name": "MORGAN-PERSINGER, JAMIE ",
     "address": "1050 20TH STREET, SUITE 275\nSACRAMENTO, CA 95811",
@@ -21492,7 +21815,7 @@
   {
     "id": "1458860",
     "name": "MUNOZ, JONATHAN",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "jmunoz@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -21682,6 +22005,7 @@
     "phone": "(916) 447-4806",
     "email": "snag@rcrcnet.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22081,6 +22405,22 @@
         "entityName": "NIEMELA, PAPPAS AND ASSOCIATES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1414764",
+    "name": "NILSSON, JONAS",
+    "address": "200 CLARENDON STREET, 35TH FLOOR\nBOSTON, MA 02116",
+    "phone": "(617) 227-0050",
+    "email": "compliance@cov.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BERKSHIRE PARTNERS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/06/2025"
       }
     ]
   },
@@ -22664,10 +23004,11 @@
   {
     "id": "1401322",
     "name": "OLSEN-CATE, KRISTIN",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "kristin@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24141,6 +24482,22 @@
     ]
   },
   {
+    "id": "1369009",
+    "name": "PONTES, ANGELA",
+    "address": "1201 K STREET, SUITE 710\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "01/21/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/21/2025"
+      }
+    ]
+  },
+  {
     "id": "1458009",
     "name": "POOLE, SANDRA O.",
     "address": "1107 NINTH STREET, SUITE 680\nSACRAMENTO, CA 95814",
@@ -24655,7 +25012,7 @@
   {
     "id": "1382188",
     "name": "RAMOS, MONIQUE",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET STUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "mramos@calstrat.com",
     "registrationDate": "01/12/2025",
@@ -24694,6 +25051,7 @@
     "email": "dan.ransenberg@nb.com",
     "mailingAddress": "2150 SHATTUCK AVENUE, SUITE 900\nBERKELEY, CA 94110",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -25517,7 +25875,7 @@
   {
     "id": "1357079",
     "name": "RODRIGUEZ, LESLIE",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "lrodriguez@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -25693,6 +26051,23 @@
         "entityName": "NATURAL RESOURCES DEFENSE COUNCIL",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1460061",
+    "name": "ROMERO, RUSS",
+    "address": "145 W 200 N SUITE 100\nPROVO, UT 84601",
+    "phone": "(801) 655-1998",
+    "email": "rromero@pegcompanies.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "02/19/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PEG COMPANIES, INC.",
+        "type": "Employer",
+        "effectiveDate": "02/19/2025"
       }
     ]
   },
@@ -26237,6 +26612,22 @@
         "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1463570",
+    "name": "RYAN, ALI",
+    "address": "300 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(516) 633-3988",
+    "email": "a.ryan@jllpartners.com",
+    "registrationDate": "02/24/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JLL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/24/2025"
       }
     ]
   },
@@ -26946,6 +27337,7 @@
     "phone": "(916) 554-1258",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27099,6 +27491,23 @@
     "relationships": [
       {
         "entityName": "PPM AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477419",
+    "name": "SEBEZA, PAMELLA",
+    "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@rutan.com",
+    "mailingAddress": "150 POST STREET, SUITE 405\nSAN FRANCISCO, CA 94108",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JAIN GLOBAL LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -27480,6 +27889,7 @@
     "phone": "(847) 905-4660",
     "email": "tom.sherwood@magnetar.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27561,6 +27971,7 @@
     "phone": "(617) 227-0050",
     "email": "compliance@cov.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28568,6 +28979,7 @@
     "phone": "(916) 441-2599",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29598,7 +30010,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "MFG ASSET MANAGEMENT AND ITS AFFILIATE MFG SERVICES LLC",
+        "entityName": "MFG ASSET MANAGEMENT",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -29679,6 +30091,7 @@
     "phone": "(916) 444-5532",
     "email": "sthompson@cmadocs.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29846,6 +30259,7 @@
     "phone": "(909) 380-2783",
     "email": "jtorres@technet.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30051,6 +30465,22 @@
     ]
   },
   {
+    "id": "1463248",
+    "name": "TRENCHARD, EMMA",
+    "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JAIN GLOBAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1441107",
     "name": "TRENZELUK, TONY",
     "address": "25 WEST MAIN STREET\nMADISON, WI 53703",
@@ -30199,6 +30629,7 @@
     "phone": "(212) 230-9200",
     "email": "rtunstall@insightpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30615,10 +31046,11 @@
   {
     "id": "1342956",
     "name": "VAN ZUIDEN, CLAIRE",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "claire@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31311,7 +31743,7 @@
   {
     "id": "1406894",
     "name": "WATSON, CHARLES",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "cwatson@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -31642,7 +32074,7 @@
   {
     "id": "1456459",
     "name": "WESCHE, LAUREN",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "lauren@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -31865,6 +32297,22 @@
     "relationships": [
       {
         "entityName": "WIECKOWSKI CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1335644",
+    "name": "WIENER, GREGORY S.",
+    "address": "630 5TH AVENUE, FLOOR 36\nNEW YORK, NY 10111",
+    "phone": "(212) 223-8448",
+    "email": "wiener@campbell-lutyens.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAMPBELL LUTYENS & CO. INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -32222,7 +32670,7 @@
   {
     "id": "1477988",
     "name": "WOOD, JIM",
-    "address": "980 9TH STREET, STE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "jimwood@calstrat.com",
     "registrationDate": "01/16/2025",
@@ -32627,6 +33075,7 @@
     "phone": "(415) 836-9819",
     "email": "andrew_yurkewych@ssga.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
