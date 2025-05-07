@@ -949,14 +949,15 @@
     "name": "ARSENAULT, SARA",
     "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(530) 391-2183",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACTUM, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/01/2025"
       }
     ]
   },
@@ -1967,7 +1968,7 @@
   {
     "id": "1444385",
     "name": "BASS, BRENDA",
-    "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95843",
+    "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
@@ -3298,6 +3299,22 @@
         "entityName": "BOOT ADVOCACY",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1442050",
+    "name": "BORBON, EDWIN",
+    "address": "51 FRANKLIN STREET\nBOSTON, MA 02110",
+    "phone": "(916) 718-9079",
+    "registrationDate": "01/31/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SERLIN HALEY LLP",
+        "type": "Firm",
+        "effectiveDate": "01/31/2025"
       }
     ]
   },
@@ -4818,6 +4835,7 @@
     "phone": "(415) 438-1208",
     "email": "dcarroll@brooklandscapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6715,9 +6733,10 @@
   {
     "id": "1414432",
     "name": "CRAMER MOWDER, BECCA",
-    "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-1036",
-    "email": "bcramer@acluca.org",
+    "address": "1121 L STREET, BOX 602\nSACRAMENTO, CA 95814",
+    "phone": "916476503",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: 916476503\nEmail: fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
@@ -6727,6 +6746,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/07/2025"
+      },
+      {
+        "entityName": "KAISER ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "02/10/2025"
       }
     ]
   },
@@ -7337,6 +7361,7 @@
     "phone": "(646) 595-8679",
     "email": "stuart.davies@magnetar.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8086,6 +8111,23 @@
     ]
   },
   {
+    "id": "1480854",
+    "name": "DISTEFANO, OLIVIA R",
+    "address": "300 PARK AVENUE SOUTH, LEVEL 2\nNEW YORK, NY 10010",
+    "phone": "(732) 539-0189",
+    "email": "olivia.distefano@fortescue.com",
+    "registrationDate": "02/26/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FORTESCUE GLOBAL ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "02/26/2025"
+      }
+    ]
+  },
+  {
     "id": "1473102",
     "name": "DOBENS, SEAN TEPLITZKY",
     "address": "4 EAST. 27TH STREET, P.O BOX 20011\nNEW YORK, NY 10001",
@@ -8668,6 +8710,7 @@
     "phone": "(916) 739-1200",
     "email": "edgarinc@pacbell.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8683,6 +8726,7 @@
     "address": "1822 21ST STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 739-1200",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10363,23 +10407,6 @@
     ]
   },
   {
-    "id": "1466666",
-    "name": "GALGIANI, CATHLEEN",
-    "address": "1127 11TH STREET, SUITE 544\nSACRAMENTO, CA 95814",
-    "phone": "(916) 204-6932",
-    "email": "fppc@bmhlaw.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "GALGIANI CONSULTING",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1435379",
     "name": "GAMBOA-EASTMAN, TARA",
     "address": "1121 L STREET, SUITE 300\nSACRAMENTO, CA 95814",
@@ -11614,6 +11641,7 @@
     "phone": "(212) 230-9200",
     "email": "cgorospe@insightpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12105,6 +12133,22 @@
     ]
   },
   {
+    "id": "1460393",
+    "name": "GRIMM, CHRIS",
+    "address": "601 13TH STREET NW, SUITE 1200\nWASHINGTON, DC 20005",
+    "phone": "(617) 913-4904",
+    "email": "rxngroup@venable.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RXN LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1443259",
     "name": "GRINDER, CAROLINE",
     "address": "1400 K STREET, 4TH FLOOR\nSACRAMENTO, CA 95814",
@@ -12475,6 +12519,22 @@
     "relationships": [
       {
         "entityName": "SR ONE CAPITAL ADVISORS, LTD.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1405724",
+    "name": "HACKMAN, ANDREW R.",
+    "address": "51 FRANKLIN STREET\nBOSTON, MA 02110",
+    "phone": "(202) 570-8526",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SERLIN HALEY LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -13257,6 +13317,23 @@
         "entityName": "OMI MANAGEMENT US LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479153",
+    "name": "HEALY, SETH",
+    "address": "609 WEST RANDOLPH STREET, 6TH FLOOR\nCHICAGO, IL 60661",
+    "phone": "(312) 626-6067",
+    "email": "seth@constellationwealthcapital.com",
+    "mailingAddress": "455 CAPITAL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "02/24/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONSTELLATION WEALTH CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/24/2025"
       }
     ]
   },
@@ -15317,6 +15394,7 @@
     "phone": "(415) 249-6281",
     "email": "iain.jones@pantheon.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16242,6 +16320,23 @@
     ]
   },
   {
+    "id": "1334659",
+    "name": "KHALIFA, HUSSEIN",
+    "address": "300 PARK AVENUE SOUTH, LEVEL 2\nNEW YORK, NY 10010",
+    "phone": "(347) 248-7612",
+    "email": "hussein.khalifa@fortescue.com",
+    "registrationDate": "02/26/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FORTESCUE GLOBAL ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "02/26/2025"
+      }
+    ]
+  },
+  {
     "id": "1457276",
     "name": "KHALILI, SHAHIN M.",
     "address": "203 EAST MAIN STREET APARTMENT 245\nWAUNAKEE, WI 53597",
@@ -16575,6 +16670,7 @@
     "phone": "(212) 906-0753",
     "email": "lking@crestview.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18280,6 +18376,22 @@
     ]
   },
   {
+    "id": "1479688",
+    "name": "LIU, MARIE",
+    "address": "1225 8TH STREET, SUITE 595\nSACRAMENTO, CA 95814",
+    "phone": "(916) 820-2344",
+    "email": "marie.liu@fearlessadvocacy.com",
+    "registrationDate": "03/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FEARLESS ADVOCACY, INC.",
+        "type": "Firm",
+        "effectiveDate": "03/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1465949",
     "name": "LIZARDI, ELMER ",
     "address": "1001 K STREET, SUITE 200 \nSACRAMENTO , CA 95814",
@@ -19418,6 +19530,23 @@
     ]
   },
   {
+    "id": "1478659",
+    "name": "MARDIROSSIAN, ALEXANDRA M.",
+    "address": "590 MADISON AVENUE, 42ND FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 906-0771",
+    "email": "amardirossian@crestview.com",
+    "registrationDate": "02/06/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRESTVIEW ADVISORS, L.L.C.",
+        "type": "Employer",
+        "effectiveDate": "02/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1335087",
     "name": "MARGOLIES, ALEX",
     "address": "1345 AVENUE OF THE AMERICAS, 45TH FLOOR\nNEW YORK, NY 10105",
@@ -19950,6 +20079,7 @@
     "phone": "(212) 908-2600",
     "email": "irene.mavroyannis@seraadvisory.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20783,6 +20913,17 @@
     ]
   },
   {
+    "id": "1439152",
+    "name": "MERAZ, DAVID",
+    "address": "1925 CENTURY PARK EAST, SUITE 1700\nLOS ANGELES, CA 90067",
+    "phone": "(213) 267-0334",
+    "email": "dmeraz@druven.us",
+    "registrationDate": "02/07/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1468017",
     "name": "MERRILL, JONATHAN",
     "address": "53 FOREST AVENUE\nOLD GREENWICH, CT 06870",
@@ -21249,14 +21390,15 @@
     "address": "621 CAPITOL MALL, 14TH FLOOR \nSACRAMENTO, CA 95814",
     "phone": "(916) 898-9305",
     "email": "amolina@actumllc.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/28/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACTUM, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/28/2025"
       }
     ]
   },
@@ -23717,6 +23859,7 @@
     "phone": "(332) 799-7966",
     "email": "bpeacock@apollo.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24585,6 +24728,7 @@
     "phone": "(415) 375-4014",
     "email": "amy.price@bgo.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26694,6 +26838,22 @@
       {
         "entityName": "COX, CASTLE & NICHOLSON",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1407424",
+    "name": "SACKETT, NICKOLAUS ",
+    "address": "6216 LAURINE WAY\nSACRAMENTO, CA 95824",
+    "phone": "(415) 238-3179",
+    "email": "nick@socialcompassion.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOCIAL COMPASSION IN LEGISLATION",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -29771,6 +29931,22 @@
     ]
   },
   {
+    "id": "1480039",
+    "name": "TAYLOR, DANIEL",
+    "address": "141 SOUTH CLARKE DRIVE, APT 221\nLOS ANGELES, CA 90048",
+    "phone": "(323) 422-1560",
+    "email": "daniel.taylor@invesco.com",
+    "registrationDate": "02/18/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INVESCO ADVISERS, INC.",
+        "type": "Employer",
+        "effectiveDate": "02/18/2025"
+      }
+    ]
+  },
+  {
     "id": "1401198",
     "name": "TAYLOR, ERIN K.",
     "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
@@ -30141,6 +30317,7 @@
     "phone": "(916) 327-7540",
     "email": "admin@cheac.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -30276,6 +30453,7 @@
     "phone": "(916) 594-9700",
     "email": "atorres@bhfs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -31304,6 +31482,23 @@
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1468414",
+    "name": "VISCARRA, LINDSEY",
+    "address": "1779 MASSACHUSETTS AVENUE, SUITE 500\nWASHINGTON, DC 20036",
+    "phone": "(202) 329-1983",
+    "email": "nordlobbying@gmail.com",
+    "registrationDate": "04/01/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "NATIONAL ORGANIZATION FOR RARE DISORDERS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/01/2025"
       }
     ]
   },
