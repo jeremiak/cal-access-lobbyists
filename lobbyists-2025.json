@@ -1132,6 +1132,7 @@
     "phone": "(916) 446-9241",
     "email": "baugusta@piadvocates.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1916,7 +1917,8 @@
       {
         "entityName": "CIVIL JUSTICE ASSOCIATION OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/01/2025"
       }
     ]
   },
@@ -1942,6 +1944,7 @@
     "address": "1029 K STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-3838",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2030,6 +2033,21 @@
       {
         "entityName": "KP PUBLIC AFFAIRS",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480512",
+    "name": "BATES, RICK",
+    "address": "3800 WATT AVENUE, SUITE 210\nSACRAMENTO, CA 95826",
+    "phone": "(916) 564-4949",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNITE HERE INTERNATIONAL UNION",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -2717,6 +2735,7 @@
     "address": "1225 8TH STREET SUITE 340\nSACRAMENTO, CA 95814",
     "phone": "(415) 392-8887",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2938,7 +2957,8 @@
       {
         "entityName": "ARGAND PARTNERS, LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/28/2025"
       }
     ]
   },
@@ -3232,6 +3252,7 @@
     "phone": "(405) 245-2555",
     "email": "cboghetich@crossbaycapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3728,6 +3749,7 @@
     "phone": "(212) 301-8370",
     "email": "julie.brenton@drep.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4798,6 +4820,23 @@
     ]
   },
   {
+    "id": "1479938",
+    "name": "CARLSON, GRACE Q.",
+    "address": "2855 SAN HILL ROAD\nMENLO PARK, CA 94025",
+    "phone": "(650) 313-9041",
+    "email": "gcarlson@nea.com",
+    "registrationDate": "03/06/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEA MANAGEMENT COMPANY, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1439154",
     "name": "CARLSON, KIMBERLY",
     "address": "817 BROADWAY, 12TH FLOOR\nNEW YORK, NY 10003",
@@ -5643,6 +5682,7 @@
     "phone": "(310) 270-5089",
     "email": "tiffany.chhuor@carlyle.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8469,6 +8509,7 @@
     "phone": "(207) 334-5300",
     "email": "compliance@charterhouse.co.uk",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8686,6 +8727,7 @@
     "phone": "(212) 812-3107",
     "email": "registration@kingstreet.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10240,13 +10282,14 @@
     "address": "10100 SANTA MONICA BOULEVARD, SUITE 600\nLOS ANGELES, CA 90067",
     "phone": "(310) 575-1713",
     "email": "mackenzie.fraccalvieri@carlyle.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "03/02/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/02/2025"
       }
     ]
   },
@@ -10669,6 +10712,7 @@
     "phone": "(323) 369-5432",
     "email": "jgalan@statestreet.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10842,6 +10886,23 @@
         "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149629",
+    "name": "GARRETT, AMY E.",
+    "address": "915 L STREET, SUITE 1460\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-5200",
+    "email": "amyg@car.org",
+    "registrationDate": "02/03/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
+        "type": "Employer",
+        "effectiveDate": "02/03/2025"
       }
     ]
   },
@@ -11141,6 +11202,22 @@
     "relationships": [
       {
         "entityName": "TOWNSEND PUBLIC AFFAIRS, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1468944",
+    "name": "GIBSON, DUANE",
+    "address": "PO BOX 15677\nCHEVY CHASE, MD 20825",
+    "phone": "(301) 693-7145",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOVBIZ ADVANTAGE",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -11785,6 +11862,7 @@
     "phone": "(617) 234-7000",
     "email": "dgordon@generalcatalyst.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11801,6 +11879,7 @@
     "phone": "(212) 891-2100",
     "email": "ggordon@cerberus.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14889,6 +14968,7 @@
     "phone": "(916) 443-3734",
     "email": "kevan@fclca.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15308,6 +15388,7 @@
     "address": "450 PARK AVENUE, 9TH FLOOR\nNEW YORK, NY 10022",
     "email": "skaiser@omers.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15355,14 +15436,15 @@
     "address": "520 PIKE STREET, SUITE 1221\nSEATTLE, WA 98101",
     "phone": "(206) 299-2700",
     "email": "djensen@acuitasinvestments.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/01/2025",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACUITAS INVESTMENTS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/01/2025"
       }
     ]
   },
@@ -16279,6 +16361,22 @@
     ]
   },
   {
+    "id": "1479932",
+    "name": "KEARNEY, KATHLEEN",
+    "address": "1 LETTERMAN DR, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(347) 929-0811",
+    "email": "kkearney@sixthstreet.com",
+    "registrationDate": "02/25/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/25/2025"
+      }
+    ]
+  },
+  {
     "id": "1414722",
     "name": "KEATSEANGSILP, JANNA",
     "address": "2 GREENWICH PLAZA, SUITE 220\nGREENWICH, CT 06830",
@@ -16645,6 +16743,23 @@
         "entityName": "RWE OFFSHORE WIND HOLDINGS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479937",
+    "name": "KETTLE, JOHN R.",
+    "address": "104 5TH AVENUE, 19TH FLOOR\nNEW YORK, NY 10011",
+    "phone": "(646) 241-3631",
+    "email": "jkettle@nea.com",
+    "registrationDate": "03/06/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEA MANAGEMENT COMPANY, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/06/2025"
       }
     ]
   },
@@ -17063,6 +17178,23 @@
     ]
   },
   {
+    "id": "1417280",
+    "name": "KING, SADALIA",
+    "address": "1107 9TH STREET, SUITE 880\nSACRAMENTO, CA 95814",
+    "phone": "(916) 833-9282",
+    "email": "sking@catalystcalifornia.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CATALYST CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1414434",
     "name": "KING, VALERIE",
     "address": "200 EAST RANDOLPH STREET, SUITE 2900\nCHICAGO, IL 60601-6505",
@@ -17199,6 +17331,7 @@
     "phone": "(212) 891-2100",
     "email": "wkloos@cerberus.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17248,6 +17381,7 @@
     "phone": "(916) 594-9700",
     "email": "bknapp@bhfs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17582,6 +17716,7 @@
     "email": "richard@integrum.us",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17977,6 +18112,7 @@
     "phone": "(916) 446-9241",
     "email": "alawler@piadvocates.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19593,6 +19729,22 @@
         "entityName": "HOUSTON MAGNANI AND ASSOCIATES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479930",
+    "name": "MAGUIRE, ADAM I.",
+    "address": "1 LETTERMAN DR, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(347) 609-7191",
+    "email": "amaguire@sixthstreet.com",
+    "registrationDate": "02/25/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/25/2025"
       }
     ]
   },
@@ -21287,6 +21439,7 @@
     "email": "emily@americanindustrial.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22335,6 +22488,7 @@
     "phone": "(916) 446-9241",
     "email": "rmueller@piadvocates.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23648,6 +23802,22 @@
         "entityName": "NUVEEN SERVICES LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1334605",
+    "name": "ONO, MOLLY ",
+    "address": "520 PIKE STREET, #1221\nSEATTLE, WA 98101",
+    "phone": "(206) 299-2074",
+    "email": "molly@acuitasinvestments.com",
+    "registrationDate": "03/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACUITAS INVESTMENTS, LLC",
+        "type": "Employer",
+        "effectiveDate": "03/01/2025"
       }
     ]
   },
@@ -25139,6 +25309,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/21/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26189,6 +26360,23 @@
     ]
   },
   {
+    "id": "1447292",
+    "name": "RICKETTS, JOHN",
+    "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONNOR, CLARK & LUNN FINANCIAL GROUP LTD., AND ITS AFFILIATES, INCLUDING CONNOR, CLARK & LUNN (USA) LTD.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1421761",
     "name": "RIFFELMACHER, MICHELLE",
     "address": "375 PARK AVENUE, 24TH FLOOR\nNEW YORK, NY 10152",
@@ -26373,7 +26561,7 @@
   {
     "id": "1297099",
     "name": "ROBERSON, STEPHANIE A. ",
-    "address": "5930 SOUTH LAND PARK DRIVE, UNIT 22282\nSACRAMENTO, CA 95822",
+    "address": "1121 L STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 600-7928",
     "email": "stephanie@srstrategiesca.com",
     "registrationDate": "01/01/2025",
@@ -26720,6 +26908,22 @@
     ]
   },
   {
+    "id": "1479931",
+    "name": "ROMERO, ISABELLA ",
+    "address": "1 LETTERMAN DR, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
+    "phone": "(212) 405-7578",
+    "email": "iromero@sixthstreet.com",
+    "registrationDate": "02/25/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/25/2025"
+      }
+    ]
+  },
+  {
     "id": "1460061",
     "name": "ROMERO, RUSS",
     "address": "145 W 200 N SUITE 100\nPROVO, UT 84601",
@@ -26727,6 +26931,7 @@
     "email": "rromero@pegcompanies.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "02/19/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27591,6 +27796,23 @@
       {
         "entityName": "MILLER CESPEDES AND ASSOCIATES, LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1469990",
+    "name": "SANDERS, DUBREA",
+    "address": "1107 9TH STREET, SUITE 880\nSACRAMENTO, CA 95814",
+    "phone": "(661) 221-0208",
+    "email": "dsanders@catalystcalifornia.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CATALYST CALIFORNIA",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -28569,6 +28791,7 @@
     "phone": "(203) 899-3400",
     "email": "isheehy@grahamcapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29730,6 +29953,24 @@
     ]
   },
   {
+    "id": "1338510",
+    "name": "SPENCER, RYAN G.",
+    "address": "1127 11TH STREET, SUITE 544\nSACRAMENTO, CA 95814",
+    "phone": "(916) 396-9875",
+    "email": "rspencer@rgsca.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RGS CONSULTING & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1463321",
     "name": "SPIEVACK, NATALIE",
     "address": "1107 9TH STREET\nSACRAMENTO, CA 95814",
@@ -29926,6 +30167,23 @@
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1458456",
+    "name": "STEPHENS, TEJA J.",
+    "address": "1107 9TH STREET, UNIT 880\nSACRAMENTO, CA 95814",
+    "phone": "(916) 221-0208",
+    "email": "tstephens@catalystcalifornia.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CATALYST CALIFORNIA",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
