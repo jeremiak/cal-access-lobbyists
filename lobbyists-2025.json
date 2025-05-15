@@ -840,7 +840,7 @@
   {
     "id": "1323930",
     "name": "APEKIAN, SHANT ",
-    "address": "1017 L STREET, SUITE 726\nSACRAMENTO, CA 95814",
+    "address": "1414 K STREET, SUITE 1450\nSACRAMENTO, CA 95814",
     "phone": "(916) 320-2647",
     "email": "shant@apekianadvocacy.com",
     "registrationDate": "01/01/2025",
@@ -7718,6 +7718,22 @@
     ]
   },
   {
+    "id": "1455953",
+    "name": "DANTAS, JAELSON",
+    "address": "3209 MONTE VISTA AVENUE\nALAMEDA, CA 94501",
+    "phone": "(916) 384-6948",
+    "email": "jael@fullmoonstrategies.com",
+    "registrationDate": "03/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FULL MOON STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "03/20/2025"
+      }
+    ]
+  },
+  {
     "id": "1393076",
     "name": "DAVEY, KATIE",
     "address": "1127 11TH STREET, SUITE 718\nSACRAMENTO, CA 95814",
@@ -9450,6 +9466,7 @@
     "phone": "(818) 563-9111",
     "email": "jguard@kaufmanlegalgroup.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11755,17 +11772,22 @@
   {
     "id": "1400701",
     "name": "GLADFELTY, BRET",
-    "address": "1201 K STREET, SUITE 750\nSACRAMENTO, CA 95814",
-    "phone": "(916) 444-3116",
-    "registrationDate": "02/28/2025",
+    "address": "1017 L STREET, PMB 460\nSACRAMENTO, CA 95814",
+    "phone": "(916) 801-2162",
+    "registrationDate": "03/01/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "APEX GROUP; THE",
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/28/2025"
+      },
+      {
+        "entityName": "GLADFELTY GOVERNMENT RELATIONS LLC",
+        "type": "Firm",
+        "effectiveDate": "03/01/2025"
       }
     ]
   },
@@ -11779,7 +11801,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "GLADFELTY GOVERNMENT RELATIONS",
+        "entityName": "GLADFELTY GOVERNMENT RELATIONS LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "01/20/2025"
@@ -12137,7 +12159,7 @@
   {
     "id": "1393025",
     "name": "GONZALEZ, ORACIO",
-    "address": "1100 11TH STREET, #311\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 510\nSACRAMENTO, CA 95814",
     "phone": "(916) 870-8538",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
@@ -28431,7 +28453,8 @@
       {
         "entityName": "MILLER CESPEDES AND ASSOCIATES, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/31/2025"
       }
     ]
   },
@@ -33519,6 +33542,7 @@
     "phone": "(916) 442-8888",
     "email": "awalker@nossaman.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
