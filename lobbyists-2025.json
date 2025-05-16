@@ -1056,15 +1056,20 @@
     "name": "ARSENAULT, SARA",
     "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(530) 391-2183",
-    "registrationDate": "02/01/2025",
+    "registrationDate": "03/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "ACTUM, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/01/2025"
+      },
+      {
+        "entityName": "PUBLIC POLICY PARTNERSHIP (P3)",
+        "type": "Firm",
+        "effectiveDate": "03/01/2025"
       }
     ]
   },
@@ -1720,7 +1725,7 @@
   },
   {
     "id": "1463671",
-    "name": "BARAN , MICHAEL ",
+    "name": "BARAN, MICHAEL ",
     "address": "375 PARK AVENUE, 33RD FLOOR \nNEW YORK, NY 10152",
     "phone": "(212) 895-2280",
     "email": "lobbying@rutan.com",
@@ -2409,6 +2414,7 @@
     "phone": "(916) 462-4120",
     "email": "alicia@bluecoaststrategies.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2884,7 +2890,7 @@
   },
   {
     "id": "1460168",
-    "name": "BIERING , ALEXANDRA  T.",
+    "name": "BIERING, ALEXANDRA  T.",
     "address": "1127 11TH STREET, SUITE 626\nSACRAMENTO, CA 95814",
     "phone": "(916) 561-4000",
     "email": "abiering@cfbf.com",
@@ -2988,6 +2994,7 @@
     "address": "3663 RUTHERFORD WAY\nSANTA ROSA, CA 95404",
     "phone": "(707) 253-6800",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3137,14 +3144,15 @@
     "name": "BLAND, TYRONE D.",
     "address": "6344 MOJAVE SKY STREET\nLAS VEGAS, NV 89135",
     "phone": "(214) 994-5658",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/10/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PORTER TELLUS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/10/2025"
       }
     ]
   },
@@ -3723,7 +3731,7 @@
   },
   {
     "id": "1457908",
-    "name": "BRADLEY , DOSTON",
+    "name": "BRADLEY, DOSTON",
     "address": "875 THIRD AVENUE \nNEW YORK , NY 10022",
     "phone": "(212) 891-2100",
     "email": "dbradley@cerberus.com",
@@ -4290,7 +4298,7 @@
   },
   {
     "id": "1465555",
-    "name": "BRUCE , KATIE ",
+    "name": "BRUCE, KATIE ",
     "address": "ONE NYALA FARMS ROAD \nWESTPORT, CT 06880",
     "phone": "(203) 226-3030",
     "email": "katie.bruce@bwater.com",
@@ -5535,7 +5543,7 @@
   },
   {
     "id": "1457013",
-    "name": "CHANES , JILL",
+    "name": "CHANES, JILL",
     "address": "1345 AVENUE OF THE AMERICAS, 45TH FLOOR\nNEW YORK, NY 10105",
     "phone": "(202) 849-9002",
     "email": "fortress@vantagelegal.com",
@@ -10360,14 +10368,15 @@
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-1036",
     "email": "mflemming@acluca.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/21/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/21/2025"
       }
     ]
   },
@@ -13230,7 +13239,7 @@
   },
   {
     "id": "1459397",
-    "name": "GUYETT , CHARLOTTE ",
+    "name": "GUYETT, CHARLOTTE ",
     "address": "600 THIRD AVENUE, 38TH FLOOR \nNEW YORK, NY 10016",
     "phone": "(224) 436-3490",
     "email": "guyett@energyimpactpartners.com",
@@ -13447,7 +13456,7 @@
   },
   {
     "id": "1469179",
-    "name": "HAKE , DAVIS Y.",
+    "name": "HAKE, DAVIS Y.",
     "address": "600 MASSACHUSETTS AVENUE NW \nWASHINGTON , DC 20001",
     "phone": "(202) 344-4000",
     "email": "dyhake@venable.com",
@@ -14199,7 +14208,7 @@
   },
   {
     "id": "1425019",
-    "name": "HEISKELL , GROVER L",
+    "name": "HEISKELL, GROVER L",
     "address": "1345 AVENUE OF THE AMERICAS, 21ST FLOOR\nNEW YORK, NY 10105",
     "phone": "(212) 649-6737",
     "email": "trey.heiskell@man.com",
@@ -22595,15 +22604,20 @@
     "address": "621 CAPITOL MALL, 14TH FLOOR \nSACRAMENTO, CA 95814",
     "phone": "(916) 898-9305",
     "email": "amolina@actumllc.com",
-    "registrationDate": "02/28/2025",
+    "registrationDate": "03/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "ACTUM, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/28/2025"
+      },
+      {
+        "entityName": "PUBLIC POLICY PARTNERSHIP (P3)",
+        "type": "Firm",
+        "effectiveDate": "03/01/2025"
       }
     ]
   },
@@ -22764,6 +22778,7 @@
     "address": "3424 MCKINLEY VILLAGE WAY\nSACRAMENTO, CA 95816",
     "phone": "(916) 203-9016",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28444,8 +28459,8 @@
   {
     "id": "1356377",
     "name": "SANCHEZ, LUIS",
-    "address": "915 L STREET, SUITE 1480\nSACRAMENTO, CA 95814",
-    "phone": "(916) 414-8384",
+    "address": "14965 PRAIRIE GOLD CIRCLE\nFOLSOM, CA 95630",
+    "phone": "(916) 230-0302",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
@@ -28455,6 +28470,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/31/2025"
+      },
+      {
+        "entityName": "SANCHEZ GOVERNMENT AFFAIRS, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -30783,6 +30803,7 @@
     "email": "rsquire_cvc@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW CO\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33274,6 +33295,22 @@
     ]
   },
   {
+    "id": "1415118",
+    "name": "VILLA, NICK ",
+    "address": "271 IMPERIAL HIGHWAY, SUITE 620\nFULLERTON, CA 92835",
+    "phone": "(916) 337-6423",
+    "email": "nvilla@crpa.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VILLA ENVIRONMENTAL SERVICES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1452199",
     "name": "VILLACRES, GENEVE",
     "address": "5800 BRISTOL CITY PARKWAY\nCULVER CITY, CA 90230",
@@ -34685,7 +34722,9 @@
     "name": "WOLF, ARIEL",
     "address": "600 MASSACHUSETTS AVENUE, NW\nWASHINGTON, DC 20001",
     "phone": "(202) 344-4000",
+    "email": "sdclobbying@venable.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
