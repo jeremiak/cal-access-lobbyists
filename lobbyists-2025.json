@@ -1538,6 +1538,22 @@
     ]
   },
   {
+    "id": "1319307",
+    "name": "BAKER, BRETT G.",
+    "address": "16035 NORTH RAY ROAD\nLODI, CA 95242",
+    "phone": "(916) 719-8586",
+    "email": "brettgbaker@gmail.com",
+    "registrationDate": "03/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BAKER ADVOCACY & CONSULTING INC.",
+        "type": "Firm",
+        "effectiveDate": "03/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1417461",
     "name": "BAKER, CHRISTINE",
     "address": "1636 OAK VIEW AVENUE\nKENSINGTON, CA 94707",
@@ -6198,7 +6214,7 @@
   {
     "id": "1149482",
     "name": "CLAY, JONATHAN G.",
-    "address": "1100 K STREET, SUITE 100\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0202",
     "email": "jclay@jgcconsulting.com",
     "registrationDate": "01/01/2025",
@@ -11631,7 +11647,7 @@
   {
     "id": "1281540",
     "name": "GILBERT, ERIN E.",
-    "address": "1100 K STREET, SUITE 100\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0202",
     "email": "egilbert@jgcconsulting.com",
     "registrationDate": "01/01/2025",
@@ -24015,7 +24031,7 @@
   {
     "id": "1148407",
     "name": "NOTEWARE, FREDERICK H.",
-    "address": "1215 K STREET, SUITE 1500\nSACRAMENTO, CA 95814",
+    "address": "1215 K STREET, SUITE 1830\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-9777",
     "email": "fred@noteware.com",
     "registrationDate": "01/01/2025",
@@ -29713,6 +29729,7 @@
     "phone": "(916) 549-2853",
     "email": "nicette@nlshortpa.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
