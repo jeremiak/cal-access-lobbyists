@@ -726,6 +726,7 @@
     "phone": "(617) 234-7000",
     "email": "mandrews@generalcatalyst.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1079,14 +1080,15 @@
     "address": "1100 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-7888",
     "email": "sashley@ceo.lacounty.gov",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/28/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LOS ANGELES; COUNTY OF",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/28/2025"
       }
     ]
   },
@@ -2051,13 +2053,14 @@
     "address": "60 STATE STREET\nBOSTON, MA 02109",
     "phone": "(617) 422-4915",
     "email": "frederic.barthelemy@amundi.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "03/31/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AMUNDI US, INC. AND ITS AFFILIATE AMUNDI ASSET MANAGEMENT US, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/31/2025"
       }
     ]
   },
@@ -2091,6 +2094,23 @@
         "entityName": "KOHLBERG & COMPANY, L.L.C.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1358644",
+    "name": "BAS HAMILTON, KRISTINA ",
+    "address": "4855 SEMINOLE DRIVE\nSAN DIEGO, CA 92115",
+    "phone": "(619) 263-7254",
+    "email": "compliance@olsonremcho.com",
+    "mailingAddress": "P.O. BOX 6754\nFOLSOM, CA 95763",
+    "registrationDate": "01/02/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "01/02/2025"
       }
     ]
   },
@@ -2812,6 +2832,7 @@
     "phone": "(646) 968-7146",
     "email": "james.berutti@castlelake.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3981,6 +4002,22 @@
     ]
   },
   {
+    "id": "1480020",
+    "name": "BRINT, JACOB",
+    "address": "1121 L STREET, SUITE 607\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-1975",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA RETAILERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "04/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1340605",
     "name": "BRISSON, JEAN-PHILIPPE",
     "address": "1271 AVENUE OF THE AMERICAS\nNEW YORK, NY 10020",
@@ -4483,6 +4520,7 @@
     "phone": "(617) 234-7000",
     "email": "lbullard@generalcatalyst.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5723,6 +5761,22 @@
     ]
   },
   {
+    "id": "1479310",
+    "name": "CHAVEZ, ALEXA",
+    "address": "4855 SEMINOLE DRIVE\nSACRAMENTO, CA 92115",
+    "phone": "(619) 263-7254",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "01/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1425119",
     "name": "CHAVEZ, VANESSA",
     "address": "1215 K STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -6587,6 +6641,7 @@
     "phone": "(415) 298-4999",
     "email": "dconsidine@centersquare.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7748,6 +7803,7 @@
     "phone": "(916) 384-6948",
     "email": "jael@fullmoonstrategies.com",
     "registrationDate": "03/20/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8103,6 +8159,7 @@
     "phone": "(617) 234-7000",
     "email": "jdelaporte@generalcatalyst.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8956,6 +9013,7 @@
     "phone": "(774) 329-0619",
     "email": "compliance_ca_sunlife_3@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9188,6 +9246,7 @@
     "address": "1201 K STREET, SUITE 750\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3116",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9682,6 +9741,22 @@
         "entityName": "CATTERTON MANAGEMENT COMPANY, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479980",
+    "name": "EYERLY, REBECCA",
+    "address": "299 PARK AVENUE, 40TH FLOOR\nNEW YORK, NY 10171",
+    "phone": "(212) 812-3100",
+    "email": "registration@kingstreet.com",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KING STREET CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -10336,6 +10411,7 @@
     "phone": "(916) 443-0381",
     "email": "ryan@flaniganfirm.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10369,6 +10445,7 @@
     "phone": "(916) 443-0381",
     "email": "tim@flaniganfirm.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10536,14 +10613,15 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/31/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA STATE COUNCIL OF LABORERS",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/31/2025"
       }
     ]
   },
@@ -12688,6 +12766,7 @@
     "phone": "(916) 446-7626",
     "email": "alex.graves@aiccu.edu",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14314,6 +14393,7 @@
     "phone": "(414) 763-9123",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15010,13 +15090,14 @@
     "address": "100 FEDERAL STREET, 6TH FLOOR\nBOSTON, MA 02110",
     "phone": "(312) 659-6628",
     "email": "compliance_ca_rwe_3@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "03/10/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RWE OFFSHORE WIND HOLDINGS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/10/2025"
       }
     ]
   },
@@ -15211,14 +15292,15 @@
     "address": "2850 QUARRY LAKE DRIVE, SUITE 100\nBALTIMORE, MD 21209",
     "phone": "(212) 763-7629",
     "email": "jaymee.mcandrew@campbell.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/24/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CAMPBELL & COMPANY, LP AND CAMPBELL & COMPANY INVESTMENT ADVISER LLC, A WHOLLY OWNED SUBSIDIARY",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/24/2025"
       }
     ]
   },
@@ -15866,6 +15948,7 @@
     "phone": "(916) 650-2614",
     "email": "jjeffersonii@mwdh2o.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16598,6 +16681,7 @@
     "address": "450 PARK AVENUE, 9TH FLOOR\nNEW YORK, NY 10022",
     "email": "ikalamakis@omers.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17273,13 +17357,14 @@
     "address": "100 FEDERAL STREET, 6TH FLOOR\nBOSTON, MA 02110",
     "phone": "(503) 915-0031",
     "email": "compliance_ca_rwe_2@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "03/10/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RWE OFFSHORE WIND HOLDINGS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/10/2025"
       }
     ]
   },
@@ -17607,6 +17692,7 @@
     "phone": "(617) 234-7000",
     "email": "jkim@generalcatalyst.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20220,6 +20306,7 @@
     "address": "1201 J STREET, SUITE 200\nSACRAMENTO, CA 95814",
     "phone": "(916) 899-2985",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20354,6 +20441,7 @@
     "phone": "(212) 680-4579",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20386,6 +20474,7 @@
     "phone": "(617) 234-7000",
     "email": "amaninthia@generalcatalyst.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24473,6 +24562,23 @@
     ]
   },
   {
+    "id": "1460357",
+    "name": "OPSAHL, RYAN",
+    "address": "1735 MARKET STREET, 18TH FLOOR\nPHILADELPHIA, PA 19103",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRANDYWINE GLOBAL INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1392011",
     "name": "ORAVA, STEVE",
     "address": "1700 PENNSYLVANIA AVENUE NW, SUITE 200\nWASHINGTON, DC 20006-4707",
@@ -24775,6 +24881,7 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27459,7 +27566,7 @@
       {
         "entityName": "RODRIGUEZ STRATEGIC PARTNERS",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/31/2025"
       }
     ]
   },
@@ -31560,6 +31667,7 @@
     "phone": "(314) 694-8516",
     "email": "compliance_ca_bayer_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -31884,14 +31992,15 @@
     "address": "888 7TH AVENUE\nNEW YORK, NY 10106",
     "phone": "(212) 405-8429",
     "email": "kthomas@sixthstreet.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/17/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/17/2025"
       }
     ]
   },
@@ -32061,6 +32170,22 @@
         "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1398038",
+    "name": "THUERWACHTER, JAMES A.",
+    "address": "925 L STREET, SUITE 1450\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-7018",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STATE COUNCIL OF LABORERS",
+        "type": "Employer",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -32715,6 +32840,7 @@
     "phone": "(916) 558-1516",
     "mailingAddress": "P.O. BOX 19318\nSACRAMENTO, CA 95819",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34079,23 +34205,6 @@
     ]
   },
   {
-    "id": "1441420",
-    "name": "WELLS, JORDAN",
-    "address": "P.O. BOX 498\nWEST SACRAMENTO, CA 95691",
-    "phone": "(916) 597-3593",
-    "email": "jordan@nsaction.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NATIONAL STEWARDSHIP ACTION COUNCIL",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "02/28/2025"
-      }
-    ]
-  },
-  {
     "id": "1393416",
     "name": "WELLS, RICHARD A.",
     "address": "301 SOUTH COLLEGE STREET, SUITE 3800\nCHARLOTTE, NC 28202",
@@ -35226,6 +35335,7 @@
     "email": "syu@leonardgreen.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600 \nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
