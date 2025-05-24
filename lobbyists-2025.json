@@ -75,6 +75,7 @@
     "phone": "(916) 326-5800",
     "email": "aabergel@cmua.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -374,6 +375,7 @@
     "phone": "(212) 810-5255",
     "email": "willie.alford@blackrock.com",
     "registrationDate": "03/18/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -645,6 +647,7 @@
     "phone": "(212) 883-2654",
     "email": "evans.anderson@clarionpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -865,6 +868,7 @@
     "phone": "(916) 444-0400",
     "email": "maprea@capitol advocacy.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -1516,13 +1520,14 @@
     "address": "500 EAST CORONADO ROAD\nPHOENIX, AZ 85004",
     "phone": "(602) 462-5000",
     "email": "pbailey@goldwaterinstitute.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "04/21/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GOLDWATER INSTITUTE FOR PUBLIC POLICY RESEARCH; BARRY",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/21/2025"
       }
     ]
   },
@@ -3714,6 +3719,7 @@
     "email": "sboyadjieva@vikingglobal.com",
     "mailingAddress": "660 FIFTH AVENUE, 9TH FLOOR\nNEW YORK , NY 10103",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4196,6 +4202,22 @@
         "entityName": "CERBERUS CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480131",
+    "name": "BROWN, ADAM",
+    "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
+    "phone": "(917) 453-2814",
+    "email": "adam.brown@guggenheimpartners.com",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUGGENHEIM SECURITIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -4751,13 +4773,14 @@
     "address": "4 EMBARCADERO CENTER, SUITE 550\nSAN FRANCISCO, CA 94111",
     "phone": "(512) 820-9887",
     "email": "doug.byrkit@matthewsasia.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "04/07/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MATTHEWS INTERNATIONAL CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/07/2025"
       }
     ]
   },
@@ -5418,6 +5441,7 @@
     "email": "rcastro@adamsstreetpartners.com",
     "mailingAddress": "931 5TH STREET\nHERMOSA BEACH, CA 90254",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6506,7 +6530,7 @@
   {
     "id": "1449895",
     "name": "COHEN, MICHAEL",
-    "address": "12 EAST 49TH STREET, 45TH FLOOR\nNEW YORK, NY 10017",
+    "address": "375 PARK AVENUE, 14TH FLOOR\nNEW YORK, NY 10152",
     "phone": "(212) 813-8312",
     "email": "mcohen@adventinternational.com",
     "registrationDate": "01/01/2025",
@@ -6626,6 +6650,7 @@
     "phone": "(916) 446-5021",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8628,6 +8653,23 @@
     ]
   },
   {
+    "id": "1291590",
+    "name": "DIAZ, CESAR",
+    "address": "1301 I STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-0400",
+    "email": "cdiaz@capitoladvocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1277372",
     "name": "DIAZ, MANNY J.",
     "address": "580 NORTH 15TH STREET\nSAN JOSE, CA 95112",
@@ -9394,13 +9436,14 @@
     "address": "1118 10TH STREET\nSACRAMENTO, CA 95648",
     "phone": "(916) 325-1500",
     "email": "sharper@cta.org",
-    "registrationDate": "03/05/2025",
-    "status": "Active",
+    "registrationDate": "04/14/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA TEACHERS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "03/05/2025"
+        "effectiveDate": "03/05/2025",
+        "terminationDate": "04/14/2025"
       }
     ]
   },
@@ -9920,6 +9963,15 @@
         "effectiveDate": "04/01/2025"
       }
     ]
+  },
+  {
+    "id": "1480244",
+    "name": "EZZELL, SHANNA",
+    "address": "16951 MEADOWLARK RIDGE RD, #1\nSAN DIEGO, CA 92127",
+    "phone": "(661) 674-7847",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1460003",
@@ -10559,6 +10611,7 @@
     "phone": "(619) 200-0085",
     "email": "ivyfitzpatrick@rivcoda.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11128,6 +11181,7 @@
     "phone": "(949) 945-4849",
     "email": "mfriedrich@monroecap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12120,6 +12174,7 @@
     "phone": "(916) 444-0400",
     "email": "mgladstein@capitoladvocacy.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -12236,6 +12291,7 @@
     "address": "26 ESPLANADE\nSAINT HELIER, JERSEY JE2 3QA",
     "email": "admin@nordiccapital.je",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17269,7 +17325,7 @@
   {
     "id": "1383856",
     "name": "KASSIM, YUSEF M.",
-    "address": "12 EAST 49TH STREET, 45TH FLOOR\nNEW YORK, NY 10017",
+    "address": "375 PARK AVENUE, 14TH FLOOR\nNEW YORK, NY 10152",
     "phone": "(212) 810-4808",
     "email": "jpolcari@adventinternational.com",
     "registrationDate": "01/01/2025",
@@ -17290,6 +17346,7 @@
     "phone": "(212) 808-2125",
     "email": "karen.kasteel@clarionpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17328,6 +17385,23 @@
         "entityName": "KATZ CONSULTING, INC; RICHARD",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480134",
+    "name": "KATZ, SAMUEL",
+    "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
+    "phone": "(212) 801-8966",
+    "email": "samuel.katz@guggenheimpartners.com",
+    "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "04/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUGGENHEIM SECURITIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -19101,6 +19175,7 @@
     "address": "1301 I STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-0400",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20343,11 +20418,11 @@
   {
     "id": "1401281",
     "name": "LOR, XONG",
-    "address": "2045 LUNDY AVENUE\nSAN JOSE, CA 95131",
-    "phone": "(916) 442-2952",
-    "email": "compliance@olsonremcho.com",
+    "address": "1118 10TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 325-1500",
+    "email": "sharper@cta.org",
     "mailingAddress": "1127 11TH STREET, SUITE 346\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/04/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
@@ -20355,7 +20430,12 @@
         "entityName": "CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
-        "terminationDate": "04/02/2025"
+        "terminationDate": "04/04/2025"
+      },
+      {
+        "entityName": "CALIFORNIA TEACHERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "04/04/2025"
       }
     ]
   },
@@ -20544,6 +20624,22 @@
         "entityName": "GOLDEN STATE ADVOCACY PARTNERS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480317",
+    "name": "LYNCH, NATALIE",
+    "address": "601 13TH STREET NW, STE 1200\nWASHINGTON, DC 20005",
+    "phone": "(617) 913-4904",
+    "email": "rxngroup@venable.com",
+    "registrationDate": "04/03/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RXN LLC",
+        "type": "Firm",
+        "effectiveDate": "04/03/2025"
       }
     ]
   },
@@ -20982,6 +21078,23 @@
       {
         "entityName": "CALIFORNIA NURSES ASSOCIATION",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1476988",
+    "name": "MAHOOD, SAM",
+    "address": "1301 I STREET\nSACRAMENTO, CA 94814",
+    "phone": "(916) 444-0400",
+    "email": "smahood@capitoladvocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVOCACY, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -23031,6 +23144,22 @@
     ]
   },
   {
+    "id": "1480132",
+    "name": "MILLSTEIN, JAMES",
+    "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
+    "phone": "(212) 416-5861",
+    "email": "jim.millstein@guggenheimpartners.com",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUGGENHEIM SECURITIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1473188",
     "name": "MIN, KWAN",
     "address": "WEST 35TH FLOOR, MIRAE ASSET CENTER 1\n26 EULJI-RO 5-GIL",
@@ -23487,10 +23616,9 @@
   {
     "id": "1415644",
     "name": "MORAN, JESSICA",
-    "address": "1201 K STREET, 15TH FLOOR\nSACRAMENTO, CA 95814",
-    "phone": "(916) 554-5325",
-    "email": "fppc@bmhlaw.com",
-    "mailingAddress": "1301 I STREET\nSACRAMENTO, CA 95814\nPhone: (916) 444-0400\nEmail: jmoran@CAPITOLADVOCACY.COM",
+    "address": "1301 I STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-0400",
+    "email": "jmoran@capitoladvocacy.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
@@ -23910,6 +24038,23 @@
         "entityName": "AMERICAN COUNCIL OF ENGINEERING COMPANIES CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481271",
+    "name": "MURPHY, MEGAN R.",
+    "address": "915 L STREET, SUITE 1210\nSACRAMENTO, CA 95814",
+    "phone": "(916) 841-3329",
+    "email": "mmurphy@cmua.org",
+    "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA MUNICIPAL UTILITIES ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -25050,13 +25195,15 @@
     "address": "1020 12TH STREET, SUITE 406 \nSACRAMENTO, CA 95814",
     "phone": "(916) 409-7223",
     "email": "kehinde@primestrategies.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "04/14/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PRIME STRATEGIES OF CALIFORNIA",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/14/2025"
       }
     ]
   },
@@ -25464,6 +25611,7 @@
     "phone": "(617) 833-2087",
     "email": "simon.padley@kbigi.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25864,6 +26012,7 @@
     "phone": "(415) 362-4365",
     "email": "cpastore@vistaequitypartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25953,6 +26102,16 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1479774",
+    "name": "PEARSALL, ROBERT",
+    "address": "10 G STREET NE, SUITE 600\nWASHINGTON, DC 20002",
+    "phone": "(510) 387-4670",
+    "email": "replaw2011@gmail.com",
+    "registrationDate": "04/07/2025",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1336236",
@@ -26546,6 +26705,7 @@
     "phone": "(916) 554-7340",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27161,13 +27321,18 @@
   {
     "id": "1416809",
     "name": "QUIROZ, PRISCILLA",
-    "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
-    "phone": "(916) 446-4656",
-    "email": "priscilla@syaslpartners.com",
-    "registrationDate": "01/31/2025",
+    "address": "915 L STREET, SUITE 1210\nSACRAMENTO, CA 95814",
+    "phone": "(916) 326-5800",
+    "email": "pquiroz@cmua.org",
+    "registrationDate": "04/15/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "CALIFORNIA MUNICIPAL UTILITIES ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "04/15/2025"
+      },
       {
         "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
         "type": "Firm",
@@ -28197,6 +28362,7 @@
     "phone": "(916) 409-7223",
     "email": "natalie@prime-strategies.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -28303,6 +28469,22 @@
         "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480135",
+    "name": "ROGERS, THOMAS",
+    "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
+    "phone": "(917) 227-9221",
+    "email": "thomas.rogers@guggenheimpartners.co",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUGGENHEIM SECURITIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -29715,6 +29897,7 @@
     "phone": "(916) 444-7464",
     "email": "kevin@axiomadvisors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30769,6 +30952,36 @@
     ]
   },
   {
+    "id": "1373544",
+    "name": "SIMONETTE, GARY",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONNOR, CLARK & LUNN FINANCIAL GROUP LTD., AND ITS AFFILIATES, INCLUDING CONNOR, CLARK & LUNN (USA) LTD.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1406171",
+    "name": "SIMONETTI, JEFFREY M.",
+    "address": "1201 J STRET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 576-0689",
+    "email": "j.simonetti@capitolcore.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL CORE GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1480308",
     "name": "SIMONIS, EMILY",
     "address": "1700 BROADWAY, 35TH FLOOR\nNEW YORK, NY 10019",
@@ -31169,7 +31382,7 @@
   {
     "id": "1370904",
     "name": "SMITH, SARAH M.",
-    "address": "12 EAST 49TH STREET, 45TH FLOOR\nNEW YORK, NY 10017",
+    "address": "375 PARK AVENUE, 14TH FLOOR\nNEW YORK, NY 10152",
     "phone": "(212) 813-8300",
     "email": "jpolcari@adventinternational.com",
     "registrationDate": "01/01/2025",
@@ -31858,6 +32071,7 @@
     "phone": "(212) 902-1000",
     "email": "gs-lobbying-ny@gs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -32103,6 +32317,23 @@
         "entityName": "CAPITOL CONNECTION",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480133",
+    "name": "SUCKOW, MORGAN",
+    "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
+    "phone": "(212) 378-2870",
+    "email": "morgan.suckow@guggenheimpartners.c",
+    "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "04/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUGGENHEIM SECURITIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -33759,6 +33990,7 @@
     "phone": "(847) 651-9932",
     "email": "ashley@fintechcouncil.org",
     "registrationDate": "01/23/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34753,6 +34985,22 @@
         "entityName": "FEARLESS ADVOCACY, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480492",
+    "name": "WARSHAW, MICHELLE",
+    "address": "1118 10TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 325-1500",
+    "email": "sharper@cta.org",
+    "registrationDate": "04/14/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA TEACHERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "04/14/2025"
       }
     ]
   },
