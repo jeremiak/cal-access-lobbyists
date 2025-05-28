@@ -2063,13 +2063,17 @@
   {
     "id": "1477577",
     "name": "BARTHELEMY, FREDERIC",
-    "address": "60 STATE STREET\nBOSTON, MA 02109",
-    "phone": "(617) 422-4915",
+    "address": "28 STATE STREET, 28TH FLOOR\nBOSTON, MA 02109",
+    "phone": "(617) 794-6273",
     "email": "frederic.barthelemy@amundi.com",
-    "mailingAddress": "28 STATE STREET, 28TH FLOOR\nBOSTON, MA 02109\nPhone: (617) 422-4915\nEmail: frederic.barthelemy@amundi.com",
-    "registrationDate": "03/31/2025",
-    "status": "Terminated",
+    "registrationDate": "04/28/2025",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "AMUNDI US INVESTMENT ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "04/28/2025"
+      },
       {
         "entityName": "AMUNDI US, INC. AND ITS AFFILIATE AMUNDI ASSET MANAGEMENT US, INC.",
         "type": "Employer",
@@ -2327,6 +2331,22 @@
     ]
   },
   {
+    "id": "1459344",
+    "name": "BEA, SEBASTIAN",
+    "address": "2200 ATLANTIC STREET, SUITE 320\nSTAMFORD, CT 06902",
+    "phone": "(203) 489-1450",
+    "email": "sebastian.bea@cbam.coinbase.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COINBASE ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1400757",
     "name": "BEAINI, BACHAR",
     "address": "10 EAST 53RD STREET, 21ST FLOOR\nNEW YORK, NY 10022",
@@ -2468,7 +2488,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "BLUE COAST STRATEGIES",
+        "entityName": "BLUE COAST STRATEGIES LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -3295,6 +3315,23 @@
     ]
   },
   {
+    "id": "1235093",
+    "name": "BLOOMSTINE, TODD A. ",
+    "address": "1100 N STREET, SUITE 2C\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-9453",
+    "email": "contact@bblobby.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLOOMSTINE & BLOOMSTINE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2023"
+      }
+    ]
+  },
+  {
     "id": "1435081",
     "name": "BLUCHER, RACHAEL",
     "address": "1415 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -3596,17 +3633,23 @@
   {
     "id": "1394429",
     "name": "BORGES, FAITH",
-    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
-    "phone": "(916) 898-9305",
-    "email": "fborges@actumllc.com",
-    "registrationDate": "01/01/2025",
+    "address": "555 CAPITOL MALL, SUITE 710\nSACRAMENTO, CA 95814",
+    "phone": "(209) 642-6671",
+    "email": "fborges@publicpolicypartnership.com",
+    "registrationDate": "04/22/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
         "entityName": "ACTUM, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/28/2025"
+      },
+      {
+        "entityName": "PUBLIC POLICY PARTNERSHIP (P3)",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -4663,6 +4706,23 @@
     "relationships": [
       {
         "entityName": "MB ADVOCACY LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1427355",
+    "name": "BURNS , STEPHEN D.",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 898-9305",
+    "email": "sburns@actumllc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -7665,6 +7725,7 @@
     "email": "ronan@spectrumequity.com",
     "mailingAddress": "140 NEW MONTGOMERY STREET, 20TH FLOOR\nATTN: PICAZO\nSAN FRANCISCO, CA 94105",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8951,6 +9012,22 @@
     ]
   },
   {
+    "id": "1481236",
+    "name": "DOMBROWSKI, CHRIS",
+    "address": "1215 K STREET, 1900\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-2341",
+    "email": "cdombrowski@manatt.com",
+    "registrationDate": "04/21/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MANATT, PHELPS & PHILLIPS, LLP",
+        "type": "Firm",
+        "effectiveDate": "04/21/2025"
+      }
+    ]
+  },
+  {
     "id": "1441520",
     "name": "DOMINGO, KATHLEEN B.",
     "address": "1119 K STREET, 2ND FLOOR\nSACRAMENTO, CA 95814",
@@ -8963,6 +9040,22 @@
       {
         "entityName": "CALIFORNIA CATHOLIC CONFERENCE",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1456789",
+    "name": "DOMINGUEZ, CHRISTIANA",
+    "address": "555 CAPITOL MALL, SUITE 1155\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-2222",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLANNING AND BAKER ASSOCIATES, INC.",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -9073,6 +9166,7 @@
     "phone": "(916) 752-5976",
     "email": "mcabrera@cbhda.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13359,6 +13453,7 @@
     "phone": "(916) 556-3477",
     "email": "ggronert@cbhda.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14585,6 +14680,7 @@
     "email": "seth@constellationwealthcapital.com",
     "mailingAddress": "455 CAPITAL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "02/24/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15693,6 +15789,22 @@
     "relationships": [
       {
         "entityName": "GENERATION INVESTMENT MANAGEMENT LLP AND ITS AFFILIATES INCL JUST CLIMATE LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1465688",
+    "name": "HUANG, RITCHIE",
+    "address": "4555 NORTH CHANNEL AVENUE\nPORTLAND, OR 97217",
+    "phone": "(410) 353-6131",
+    "email": "gary@gallantlawgroup.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DAIMLER TRUCK NORTH AMERICA LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -18120,6 +18232,7 @@
     "phone": "(212) 210-9390",
     "email": "ckillackey@jllpartners.com",
     "registrationDate": "02/24/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19225,6 +19338,7 @@
     "phone": "(212) 893-9586",
     "email": "glau@wcas.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20002,6 +20116,7 @@
     "phone": "(312) 638-4014",
     "email": "matthew.liepert@antares.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22683,13 +22798,14 @@
     "address": "590 MADISON AVENUE, 42ND FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 906-0726",
     "email": "mmcguire@crestview.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "04/24/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CRESTVIEW ADVISORS, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/24/2025"
       }
     ]
   },
@@ -22716,6 +22832,7 @@
     "phone": "(917) 935-6240",
     "email": "james.medeiros@investcorptages.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23039,6 +23156,22 @@
         "entityName": "SIERRA CLUB",
         "type": "Employer",
         "effectiveDate": "04/22/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480322",
+    "name": "MILESI, BRYANT A.",
+    "address": "1215 K STREET, SUITE1800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 947-9046",
+    "email": "bm3620@att.com",
+    "registrationDate": "04/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AT&T SERVICES INC. AND ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "04/17/2025"
       }
     ]
   },
@@ -23477,6 +23610,22 @@
         "entityName": "MOLODANOF GOVERNMENT RELATIONS",
         "type": "Firm",
         "effectiveDate": "11/04/2025"
+      }
+    ]
+  },
+  {
+    "id": "1148806",
+    "name": "MONAGAN, MICHAEL ",
+    "address": "3105 CALLE VERDE COURT\nSACRAMENTO, CA 95821",
+    "phone": "(916) 837-8405",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MONAGAN GOVERNMENT RELATIONS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -25496,6 +25645,7 @@
     "email": "lawrence.ou@kkr.com",
     "mailingAddress": "30 HUDSON YARDS\nNEW YORK, NY 10001",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26359,7 +26509,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "PERRY STRATEGIES LLC",
+        "entityName": "PERRY STRATEGIES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -27138,6 +27288,22 @@
     ]
   },
   {
+    "id": "1480375",
+    "name": "PROZAN, REBECCA",
+    "address": "660 CASTRO STREET\nSAN FRANCISCO, CA 94114",
+    "phone": "(415) 377-0538",
+    "email": "prozan@gmail.com",
+    "registrationDate": "04/11/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PROZAN STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/11/2025"
+      }
+    ]
+  },
+  {
     "id": "1459600",
     "name": "PRYCE , WENDY",
     "address": "730 3RD AVENUE\nNEW YORK, NY 10017",
@@ -27570,6 +27736,7 @@
     "phone": "(916) 556-3477",
     "email": "arashid@cbhda.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29190,6 +29357,7 @@
     "phone": "(516) 633-3988",
     "email": "a.ryan@jllpartners.com",
     "registrationDate": "02/24/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30167,6 +30335,7 @@
     "email": "kscott@calhospital.org",
     "mailingAddress": "1215 K STREET, SUITE 1920\nSACRAMENTO, CA 95814\nPhone: (916) 444-6034",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -32647,6 +32816,7 @@
     "email": "sasha.talcott@kkr.com",
     "mailingAddress": "30 HUDSON YARDS\nNEW YORK, NY 10001",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33332,6 +33502,22 @@
     "relationships": [
       {
         "entityName": "TOPP STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1289915",
+    "name": "TOPPIN, TED E.",
+    "address": "555 CAPITOL MALL, SUITE 1155\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-2222",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLANNING AND BAKER ASSOCIATES, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -34371,6 +34557,22 @@
     ]
   },
   {
+    "id": "1481355",
+    "name": "VAZQUEZ, ANNA",
+    "address": "1401 21ST STREET, SUITE 10945\nSACRAMENTO, CA 95811",
+    "phone": "(916) 243-0094",
+    "email": "anavazquez7444@gmail.com",
+    "registrationDate": "05/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DODD AND CHAABAN STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "05/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1231501",
     "name": "VEAL-HUNTER, CAROLYN J.",
     "address": "1215 K STREET, SUITE 1150\nSACRAMENTO, CA 95814",
@@ -35284,6 +35486,28 @@
         "entityName": "BARINGS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1441420",
+    "name": "WELLS, JORDAN",
+    "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95816",
+    "email": "legcoordinator@counties.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
+        "type": "Employer",
+        "effectiveDate": "03/02/2025"
+      },
+      {
+        "entityName": "NATIONAL STEWARDSHIP ACTION COUNCIL",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/28/2025"
       }
     ]
   },
