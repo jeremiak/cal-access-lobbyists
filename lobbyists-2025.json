@@ -545,6 +545,7 @@
     "email": "carmen.alvarez@permira.com",
     "mailingAddress": "80 PALL MALL\nLONDON, SW1Y 5ES\nEmail: carmen.alvarez@permira.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -6353,6 +6354,22 @@
     ]
   },
   {
+    "id": "1395646",
+    "name": "CIULLO, JENNIFER V.",
+    "address": "465 MEETING STREET, SUITE 500\nCHARLESTON, SC 29403",
+    "phone": "(843) 579-9400",
+    "email": "e.askcompliance@greystar.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1343101",
     "name": "CLANCY, THOMAS M.",
     "address": "1600-1981 MCGILL COLLEGE AVENUE\nMONTREAL, CANADA H3A2Y1",
@@ -6728,6 +6745,7 @@
     "phone": "(617) 965-5000",
     "email": "kcolvin@mfs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8850,6 +8868,23 @@
     ]
   },
   {
+    "id": "1471520",
+    "name": "DILDINE, ALANA",
+    "address": "465 MEETING STREET, SUITE 500\nCHARLESTON, SC 29403",
+    "phone": "(843) 579-9400",
+    "email": "askcompliance@greystar.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1462618",
     "name": "DILLON, BRENDAN",
     "address": "9 WEST 57TH STREET, 31ST FLOOR\nNEW YORK, NY 10019",
@@ -9514,6 +9549,21 @@
     "relationships": [
       {
         "entityName": "BRIDGEPOINT ADVISERS LIMITED",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480563",
+    "name": "DUPONT, JOSH",
+    "address": "155 NORTH WACKER DRIVE, SUITE 4600\nCHICAGO, IL 60606",
+    "phone": "(312) 327-5054",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LSV ASSET MANAGEMENT",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -13533,6 +13583,23 @@
     ]
   },
   {
+    "id": "1293917",
+    "name": "GROSSGLAUSER , ROBERT",
+    "address": "1127 11TH STREET, SUITE 1030\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-6181",
+    "email": "rob@pinnacleadvocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PINNACLE ADVOCACY LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148205",
     "name": "GUALCO, JACKSON R.",
     "address": "500 CAPITOL MALL, SUITE 2600\nSACRAMENTO, CA 95814",
@@ -16277,6 +16344,22 @@
         "entityName": "BALL/FROST GROUP, LLC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1356381",
+    "name": "JACKSON, TAMARA L.",
+    "address": "445 ORANGE GROVE CIRCLE, #316\nPASADENA, CA 91105",
+    "phone": "(646) 522-0841",
+    "email": "tjackson@fieracapital.com",
+    "registrationDate": "05/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIERA CAPITAL INC.",
+        "type": "Employer",
+        "effectiveDate": "05/04/2025"
       }
     ]
   },
@@ -19061,6 +19144,23 @@
         "entityName": "CALAMOS ADVISORS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1466915",
+    "name": "KUHN , STEVEN P.",
+    "address": "5 BRYANT PARK, SUITE 23 \nNEW YORK , NY 10018",
+    "phone": "(332) 282-2863",
+    "registrationDate": "03/25/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "SALUDA GRADE ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/25/2025"
       }
     ]
   },
@@ -23064,6 +23164,23 @@
     ]
   },
   {
+    "id": "1441842",
+    "name": "MERCADO, LARISA",
+    "address": "1127 11TH STREET SUITE 1030\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-6181",
+    "email": "larisa@pinnacleadvocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PINNACLE ADVOCACY LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1468017",
     "name": "MERRILL, JONATHAN",
     "address": "53 FOREST AVENUE\nOLD GREENWICH, CT 06870",
@@ -23465,6 +23582,7 @@
     "phone": "(818) 282-6363",
     "email": "renee@thecriscomcompany.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26322,6 +26440,23 @@
     ]
   },
   {
+    "id": "1480830",
+    "name": "PEARCE, WILLIAM",
+    "address": "330 MADISON AVENUE, 29TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(212) 266-2150",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET, SUITE 412\nNEW YORK, NY 10017",
+    "registrationDate": "04/10/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CLEARSTREAM MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "04/10/2025"
+      }
+    ]
+  },
+  {
     "id": "1479774",
     "name": "PEARSALL, ROBERT",
     "address": "10 G STREET NE, SUITE 600\nWASHINGTON, DC 20002",
@@ -26811,6 +26946,22 @@
       {
         "entityName": "POLITICAL SOLUTIONS, LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1384213",
+    "name": "PILLAY, ADAM",
+    "address": "465 MEETING STREET\nCHARLESTON, SC 29403",
+    "phone": "(843) 579-9400",
+    "email": "e.askcompliance@greystar.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -27362,6 +27513,7 @@
     "phone": "(415) 377-0538",
     "email": "prozan@gmail.com",
     "registrationDate": "04/11/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27444,6 +27596,7 @@
     "phone": "(916) 594-9700",
     "email": "squach@bhfs.com",
     "registrationDate": "04/22/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29619,6 +29772,22 @@
     ]
   },
   {
+    "id": "1478988",
+    "name": "SALLIS, MARCEL",
+    "address": "190 SOUTH LASALLE STREET\nCHICAGO, IL 60603",
+    "phone": "(312) 525-2639",
+    "email": "marcel.sallis@nb.com",
+    "registrationDate": "02/18/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEUBERGER BERMAN GROUP LLC",
+        "type": "Employer",
+        "effectiveDate": "02/18/2025"
+      }
+    ]
+  },
+  {
     "id": "1296933",
     "name": "SALZILLO, CORY M. ",
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -29932,13 +30101,14 @@
     "address": "1601 UTICA AVENUE SOUTH, SUITE 1000\nMINNEAPOLIS, MN 55416",
     "phone": "(952) 444-4860",
     "email": "ryan.savell@carval.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "03/31/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AB CARVAL INVESTORS LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/31/2025"
       }
     ]
   },
@@ -30877,6 +31047,23 @@
     "relationships": [
       {
         "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149598",
+    "name": "SHERMAN , RYAN",
+    "address": "820 WILD BERRY \nROCKLIN, CA 95765",
+    "phone": "(916) 580-5464",
+    "email": "ryansherman916@gmail.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SHERMAN CONSULTING",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -31851,7 +32038,7 @@
   {
     "id": "1337014",
     "name": "SOH LEE, SUZANNA S.",
-    "address": "1301 AVENUE OF AMERICAS, 38TH FLOOR\nNEW YORK, NY 10019",
+    "address": "250 WEST 55TH STREET, SUITE 3301\nNEW YORK, NY 10019",
     "phone": "(212) 970-1922",
     "email": "susan.soh@growthcurvecapital.com",
     "registrationDate": "01/01/2025",
@@ -33727,7 +33914,7 @@
   {
     "id": "1457277",
     "name": "TRAN, QUYEN",
-    "address": "1301 AVENUE OF AMERICAS, 38TH FLOOR\nNEW YORK, NY 10019",
+    "address": "250 WEST 55TH STREET, SUITE 3301\nNEW YORK, NY 10019",
     "phone": "(212) 970-1927",
     "email": "quyen@growthcurvecapital.com",
     "registrationDate": "01/01/2025",
@@ -35703,6 +35890,7 @@
     "phone": "(916) 447-4086",
     "email": "kwest@townsendpa.com",
     "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
