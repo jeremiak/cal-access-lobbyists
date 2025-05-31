@@ -4849,11 +4849,16 @@
     "id": "1455955",
     "name": "BYNUM, MALIK",
     "address": "1303 J STREET, SUITE 300\nSACRAMENTO, CA 95814",
-    "phone": "(916) 833-7699",
-    "mailingAddress": "900 J STREET, THIRD FLOOR\nSACRAMENTO, CA 95814\nPhone: (619) 263-7254\nEmail: compliance@olsonremcho.com",
+    "phone": "(916) 556-3477",
+    "email": "mbynum@cbhda.org",
     "registrationDate": "01/01/2025",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "COUNTY BEHAVIORAL HEALTH DIRECTORS ASSOCIATION (CBHDA)",
+        "type": "Employer",
+        "effectiveDate": "01/21/2025"
+      },
       {
         "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
         "type": "Employer",
@@ -6408,6 +6413,7 @@
     "phone": "(310) 432-8755",
     "email": "coclark@aresmgmt.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14081,6 +14087,7 @@
     "phone": "(916) 441-4545",
     "email": "chelseah@acwa.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15316,14 +15323,15 @@
     "phone": "(212) 224-9400",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/30/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CORSAIR CAPITAL LLC AND AFFILIATED ENTITY INVESTCORP CORSAIR INFRASTRUCTURE PARTNERS, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/30/2025"
       }
     ]
   },
@@ -18598,10 +18606,10 @@
   {
     "id": "1417280",
     "name": "KING, SADALIA",
-    "address": "1107 9TH STREET, SUITE 880\nSACRAMENTO, CA 95814",
-    "phone": "(916) 833-9282",
-    "email": "sking@catalystcalifornia.org",
-    "registrationDate": "01/01/2025",
+    "address": "4855 SEMINOLE DRIVE\nSAN DIEGO, CA 92115",
+    "phone": "(916) 554-0931",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "04/16/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
@@ -18610,6 +18618,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "04/03/2025"
+      },
+      {
+        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "04/16/2025"
       }
     ]
   },
@@ -21692,6 +21705,7 @@
     "phone": "(332) 455-0415",
     "email": "alain.marcus@eislercapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -27232,6 +27246,7 @@
     "phone": "(202) 662-6000",
     "email": "compliance@cov.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28932,6 +28947,7 @@
     "phone": "(916) 412-2797",
     "email": "rollensconsult@aol.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29303,6 +29319,22 @@
         "entityName": "CALIFORNIA HOTEL & LODGING ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480742",
+    "name": "ROSSOW, AMBER",
+    "address": "980 9TH STREET, SUITE 1000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-4545",
+    "email": "amberr@acwa.com",
+    "registrationDate": "04/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+        "type": "Employer",
+        "effectiveDate": "04/28/2025"
       }
     ]
   },
@@ -30157,7 +30189,8 @@
       {
         "entityName": "VOYA INVESTMENT MANAGEMENT CO. LLC",
         "type": "Employer",
-        "effectiveDate": "02/03/2025"
+        "effectiveDate": "02/03/2025",
+        "terminationDate": "05/07/2025"
       }
     ]
   },
@@ -32631,6 +32664,7 @@
     "phone": "(916) 213-8001",
     "email": "crystal@brightlightstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34379,14 +34413,15 @@
     "phone": "(205) 987-5572",
     "email": "preston.ulrich@hines.com",
     "mailingAddress": "2700 COMMERCE ST\nDALLAS, TX 75226\nPhone: (972) 913-2768\nEmail: preston.ulrich@hines.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/29/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HINES PRIVATE WEALTH SOLUTIONS LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/29/2025"
       }
     ]
   },
@@ -34973,6 +35008,22 @@
         "entityName": "LOS ANGELES COUNTY BUSINESS FEDERATION (BIZFED)",
         "type": "Employer",
         "effectiveDate": "03/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481452",
+    "name": "VILKER, JEFFREY P",
+    "address": "30 PENHALLOW ST\nPORTSMOUTH, NH 03801",
+    "phone": "(920) 810-2076",
+    "email": "j.kilker@impaxam.com",
+    "registrationDate": "05/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "IMPAX ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "05/01/2025"
       }
     ]
   },
