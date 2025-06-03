@@ -3501,6 +3501,22 @@
     ]
   },
   {
+    "id": "1342955",
+    "name": "BOLLINGER, CHRISTOPHER",
+    "address": "1435 38TH STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 208-2011",
+    "email": "chris@bollinger-ga.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BOLLINGER GOVERNMENT AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1367598",
     "name": "BOLLYKY, ANDREA",
     "address": "575 MADISON AVENUE, 25TH FLOOR\nNEW YORK, NY 10022",
@@ -4570,6 +4586,7 @@
     "phone": "(646) 482-8953",
     "email": "tao.bu@blackstone.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4625,6 +4642,23 @@
       {
         "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1392744",
+    "name": "BUCKLEY, ROSS E.",
+    "address": "111 L STREET\nSACRAMENTO, CA 95814",
+    "phone": "(805) 674-8667",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCKLEY GOVERNMENT AFFAIRS, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -5574,7 +5608,7 @@
     "address": "800 5TH AVENUE, SUITE 2800\nSEATTLE, WA 98104",
     "phone": "(612) 749-2847",
     "email": "jcauble@paraport.com",
-    "mailingAddress": "2764 CAMINITO SAN MARINO\nDEL MAR, CA 92014",
+    "mailingAddress": "1981 HIGH RIDGE AVENUE\nCARLSBAD, CA 92008",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
@@ -5727,6 +5761,7 @@
     "phone": "(415) 439-5500",
     "email": "lchaffin@big.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5967,6 +6002,23 @@
         "entityName": "GOLDMAN SACHS ASSET MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1471483",
+    "name": "CHAVARRIA, BOBBI JO",
+    "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-1102",
+    "email": "bobbijo.chavarria@sierraclub.org",
+    "registrationDate": "05/08/2025",
+    "status": "Withdrawn",
+    "relationships": [
+      {
+        "entityName": "SIERRA CLUB",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/08/2025"
       }
     ]
   },
@@ -6458,6 +6510,24 @@
     ]
   },
   {
+    "id": "1460218",
+    "name": "CLARK, PAIGE",
+    "address": "1212 BROADWAY, SUITE 600\nOAKLAND, CA 94612",
+    "phone": "(703) 508-5319",
+    "email": "pclark@youthlaw.org",
+    "mailingAddress": "4624 61ST STREET\nSACRAMENTO, CA 95820",
+    "registrationDate": "01/06/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL CENTER FOR YOUTH LAW",
+        "type": "Employer",
+        "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1334665",
     "name": "CLARKE, JAMES E.",
     "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
@@ -6927,6 +6997,23 @@
         "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
         "type": "Firm",
         "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
+    "id": "1307144",
+    "name": "CONWAY, DANIEL",
+    "address": "1005 12TH STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3545",
+    "email": "dconway@cagrocers.com",
+    "registrationDate": "04/21/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA GROCERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "04/21/2025"
       }
     ]
   },
@@ -8924,6 +9011,22 @@
     ]
   },
   {
+    "id": "1481010",
+    "name": "DISABATO, MICHAEL",
+    "address": "14291 PARK MEADOW DRIVE, SUITE 100\nCHANTILLY, VA 20151",
+    "phone": "(703) 895-8629",
+    "email": "michae.disabato@parsons.com",
+    "registrationDate": "05/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARSONS CORPORATION",
+        "type": "Employer",
+        "effectiveDate": "05/12/2025"
+      }
+    ]
+  },
+  {
     "id": "1335621",
     "name": "DISANO, HENRY",
     "address": "ONE CONGRESS STREET\nBOSTON, MA 02114",
@@ -10245,7 +10348,7 @@
     "name": "FAROUK, MARK",
     "address": "1215 K STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-7401",
-    "email": "fppc@bmhllaw.com",
+    "email": "mfarouk@calhospital.org",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
@@ -10785,6 +10888,22 @@
         "entityName": "VALOR MANAGEMENT LLC AND ITS SUBSIDIARIES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481270",
+    "name": "FITCH, NATALIE",
+    "address": "1061 CALLE ANACAPA\nENCINITAS, CA 92024",
+    "phone": "(212) 761-0252",
+    "email": "natalie.fitch@morganstanley.com",
+    "registrationDate": "05/05/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "05/05/2025"
       }
     ]
   },
@@ -12351,6 +12470,22 @@
     ]
   },
   {
+    "id": "1480074",
+    "name": "GLADFELTY, COURTNEY",
+    "address": "1017 L STREET, PMB 460\nSACRAMENTO, CA 95814",
+    "phone": "(916) 397-8987",
+    "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLADFELTY GOVERNMENT RELATIONS LLC",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1147866",
     "name": "GLADFELTY, PAUL P.",
     "address": "1201 K STREET, SUITE 750\nSACRAMENTO, CA 95814",
@@ -12756,7 +12891,7 @@
     "name": "GONZALEZ, VANESSA",
     "address": "1215 K STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-7401",
-    "email": "fppc@bmhlaw.com",
+    "email": "vgonzalez@calhospital.org",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
@@ -13879,6 +14014,22 @@
     ]
   },
   {
+    "id": "1481162",
+    "name": "GUTIERREZ, JUDITH",
+    "address": "1050 20TH STREET, SUITE 275\nSACRAMENTO, CA 95811",
+    "phone": "(916) 446-6505",
+    "email": "judith.gutierrez@heart.org",
+    "registrationDate": "05/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN HEART ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "05/12/2025"
+      }
+    ]
+  },
+  {
     "id": "1404091",
     "name": "GUTIERREZ, ROBERT J.",
     "address": "5909 CUMBERLAND PL\nSTOCKTON, CA 95219",
@@ -14234,14 +14385,15 @@
     "address": "100 WEST. WALNUT STREET\nPASADENA, CA 91124",
     "phone": "(916) 296-5122",
     "email": "ryan.hanretty@parsons.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/31/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PARSONS CORPORATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/31/2025"
       }
     ]
   },
@@ -17007,6 +17159,22 @@
     ]
   },
   {
+    "id": "1478601",
+    "name": "JOHNSTON, MICHELLE A.",
+    "address": "NATIONAL MS SOCIETY, PO BOX 54879\nLOS ANGELES, CA 90054",
+    "phone": "(916) 282-1251",
+    "email": "michelle.johnston@nmss.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1358894",
     "name": "JOHNSTON, NICHOLAS J.",
     "address": "ONE FRANKLIN PARKWAY\nSAN MATEO, CA 94403",
@@ -17507,7 +17675,8 @@
       {
         "entityName": "WARBURG PINCUS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/09/2025"
       }
     ]
   },
@@ -22410,6 +22579,22 @@
     ]
   },
   {
+    "id": "1479959",
+    "name": "MC CARTHY, MAGGIE",
+    "address": "555 CALIFORNIA STREET\nSAN FRANCISCO, CA 94104",
+    "phone": "(646) 828-2137",
+    "email": "margaret.mccarthy@kkr.com",
+    "registrationDate": "03/27/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
+        "type": "Employer",
+        "effectiveDate": "03/27/2025"
+      }
+    ]
+  },
+  {
     "id": "1418841",
     "name": "MC CARTHY, RYAN",
     "address": "1215 K  STREET, SUITE 2290\nSACRAMENTO, CA 95814",
@@ -23482,6 +23667,7 @@
     "phone": "(212) 416-5861",
     "email": "jim.millstein@guggenheimpartners.com",
     "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "05/07/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26421,6 +26607,23 @@
     ]
   },
   {
+    "id": "1479482",
+    "name": "PAYCAO, DANA JESSICA T",
+    "address": "1212 BROADWAY, SUITE 600\nOAKLAND, CA 94612",
+    "phone": "(510) 835-8098",
+    "email": "dpaycao@youthlaw.org",
+    "registrationDate": "01/06/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL CENTER FOR YOUTH LAW",
+        "type": "Employer",
+        "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1470414",
     "name": "PE, ARIEL",
     "address": "10809 FOOTHILL BOULEVARD, SUITE 160-516\nRANCHO CUCAMONGA, CA 91730",
@@ -28792,6 +28995,22 @@
     ]
   },
   {
+    "id": "1477522",
+    "name": "RODGERS, KEVIN",
+    "address": "915 L STREET, SUITE 1460\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-5200",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1470704",
     "name": "RODRIGUEZ, AUBREY",
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
@@ -28871,22 +29090,6 @@
       {
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1477522",
-    "name": "ROGERS, KEVIN",
-    "address": "915 L STREET, SUITE 1460\nSACRAMENTO, CA 95814",
-    "phone": "(916) 492-5200",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
-        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -29384,6 +29587,22 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSOCIATION OF PUBLIC AUTHORITIES FOR IHSS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477980",
+    "name": "ROUSE, SPENCER",
+    "address": "399 PARK AVENUE, 16TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 745-9700",
+    "email": "srouse@brigadecapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIGADE CAPITAL MANAGEMENT, LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -30525,6 +30744,23 @@
     "relationships": [
       {
         "entityName": "CFM INTERNATIONAL INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1338481",
+    "name": "SCHWARTZ, ANTONIA",
+    "address": "5 GREENWICH OFFICE PARK, 2ND FLOOR\nGREENWICH, CT 06831",
+    "phone": "(203) 445-6810",
+    "email": "aschwartz@lotuspartners.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENERGY INFRASTRUCTURE OPERATIONS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -32052,6 +32288,23 @@
     ]
   },
   {
+    "id": "1477981",
+    "name": "SOEDER, GREGORY",
+    "address": "399 PARK AVENUE, 16TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 745-9700",
+    "email": "gsoeder@brigadecapital.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/05/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRIGADE CAPITAL MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1371744",
     "name": "SOFKA, MICHAEL",
     "address": "888 7TH AVENUE, 18TH FLOOR\nNEW YORK, NY 10019",
@@ -32451,7 +32704,8 @@
       {
         "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/05/2025"
       }
     ]
   },
@@ -33444,6 +33698,22 @@
     ]
   },
   {
+    "id": "1441713",
+    "name": "THOMAS, JEAN W.",
+    "address": "33 WEST 60TH STREET, FLOOR 2\nNEW YORK, NY 10023",
+    "phone": "(914) 208-0182",
+    "email": "jean.thomas@sicm.com",
+    "registrationDate": "05/07/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SUSTAINABLE INSIGHT CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/07/2025"
+      }
+    ]
+  },
+  {
     "id": "1339449",
     "name": "THOMAS, JR., FREDERIC WATTS",
     "address": "ONE VANDERBILT AVENUE\nNEW YORK, NY 10017",
@@ -33936,6 +34206,7 @@
     "phone": "(917) 984-9345",
     "email": "nick.townley@permira.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34957,6 +35228,23 @@
         "entityName": "VELADA CONSULTING LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479480",
+    "name": "VELCOFF HULTS, RACHEL E.M.",
+    "address": "1212 BROADWAY, #600\nOAKLAND, CA 94612",
+    "phone": "(510) 835-8098",
+    "email": "rvelcoff@youthlaw.org",
+    "registrationDate": "01/06/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL CENTER FOR YOUTH LAW",
+        "type": "Employer",
+        "effectiveDate": "01/06/2025"
       }
     ]
   },
@@ -36513,14 +36801,15 @@
     "address": "1201 K STREET, SUITE 1600\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0490",
     "email": "twolken@caltax.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "05/02/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA TAXPAYERS ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA TAX FOUNDATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/02/2025"
       }
     ]
   },
@@ -36947,14 +37236,15 @@
     "address": "1215 K STREET, SUITE 1400\nSACRAMENTO, CA 95814",
     "phone": "(916) 204-3583",
     "email": "preston.young@calchamber.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/07/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA CHAMBER OF COMMERCE",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/07/2025"
       }
     ]
   },
