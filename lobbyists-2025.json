@@ -1053,6 +1053,7 @@
     "phone": "(916) 718-8586",
     "email": "johnarriaga@jeaandassociates.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1167,6 +1168,22 @@
         "entityName": "AXIOM ADVISORS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481052",
+    "name": "ASPROPOTAMITIS, JENNA K.",
+    "address": "ONE CONGRESS STREET\nBOSTON, MA 02114",
+    "phone": "(617) 662-9300",
+    "email": "jaspropotamitis@statestreet.com",
+    "registrationDate": "05/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STATE STREET BANK AND TRUST COMPANY",
+        "type": "Employer",
+        "effectiveDate": "05/13/2025"
       }
     ]
   },
@@ -1760,6 +1777,7 @@
     "phone": "(212) 895-2280",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1934,6 +1952,7 @@
     "phone": "(646) 378-9669",
     "email": "trevor@oldcitycapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2669,6 +2688,7 @@
     "phone": "(916) 201-7594",
     "email": "jberg@humanesociety.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3501,6 +3521,24 @@
     ]
   },
   {
+    "id": "1480879",
+    "name": "BOLANTE, JAMES",
+    "address": "101 ARCH STREET, 8TH FLOOR\nBOSTON, MA 02210",
+    "phone": "(194) 938-6011",
+    "email": "jbolante@comgest.com",
+    "mailingAddress": "2901 WEST COAST HIGHWAY\nNEWPORT BEACH, CA 92663",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COMGEST US",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1342955",
     "name": "BOLLINGER, CHRISTOPHER",
     "address": "1435 38TH STREET\nSACRAMENTO, CA 95816",
@@ -4217,22 +4255,6 @@
     ]
   },
   {
-    "id": "1478720",
-    "name": "BROETZ, ANAMICA GAWRI",
-    "address": "205 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
-    "phone": "(212) 528-2970",
-    "email": "anamica.broetz@brookfield.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1386221",
     "name": "BROKAW, NICHOLAS K.",
     "address": "1215 K STREET, SUITE 2030\nSACRAMENTO, CA 95814",
@@ -4842,7 +4864,8 @@
       {
         "entityName": "OCTAGON CREDIT INVESTORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/01/2025"
       }
     ]
   },
@@ -4857,6 +4880,21 @@
     "relationships": [
       {
         "entityName": "NEUBERGER BERMAN GROUP LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1364650",
+    "name": "BUSHBY, ALASTAIR",
+    "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 743-1500",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TPG CAPITAL BD, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -5509,10 +5547,11 @@
     "email": "cassanog@ttint.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
-        "entityName": "TT INTERNATIONAL",
+        "entityName": "TT INTERNATIONAL ASSET MANAGEMENT LTD.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -5799,6 +5838,22 @@
     "relationships": [
       {
         "entityName": "FEARLESS ADVOCACY, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1355335",
+    "name": "CHAMIAN, ARTHUR P.",
+    "address": "53 STATE STREET, SUITE 500\nBOSTON, MA 02109",
+    "phone": "(617) 391-3595",
+    "email": "achamian@brattleadvisors.com",
+    "registrationDate": "05/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BRATTLE ADVISORS LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -7669,6 +7724,7 @@
     "phone": "(203) 984-6567",
     "email": "jonathan.crocker@agf.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8478,6 +8534,7 @@
     "phone": "(415) 732-7700",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8888,6 +8945,21 @@
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481102",
+    "name": "DIAZ, DANIEL",
+    "address": "15 SANDSTONE COURT\nALAMO, CA 94507",
+    "phone": "(510) 508-5555",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DIAZ; DANIEL",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -9327,13 +9399,14 @@
     "address": "2099 CHAMONIX LANE, 1A\nAVON, CO 81657",
     "phone": "(617) 763-9332",
     "email": "mdop@fieracapital.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "02/25/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FIERA CAPITAL INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/25/2025"
       }
     ]
   },
@@ -9537,6 +9610,7 @@
     "phone": "(212) 400-8455",
     "email": "compliance@octagoncredit.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10449,6 +10523,7 @@
     "phone": "(952) 444-4858",
     "email": "kerry.fauver@carval.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11505,6 +11580,22 @@
     "relationships": [
       {
         "entityName": "MONROE CAPITAL MANAGEMENT ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1335933",
+    "name": "FROEB, CHARLES ",
+    "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 743-1500",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TPG CAPITAL BD, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -13127,6 +13218,7 @@
     "phone": "(212) 895-2280",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13493,6 +13585,7 @@
     "phone": "(212) 293-3730",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14338,6 +14431,7 @@
     "phone": "(212) 984-1418",
     "email": "compliance_ca_nuveen_2@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14421,6 +14515,7 @@
     "phone": "(952) 444-4859",
     "email": "matthew.hanson@carval.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17705,6 +17800,7 @@
     "phone": "(415) 732-7700",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17753,6 +17849,7 @@
     "phone": "(512) 647-9445",
     "email": "compliance_ca_cgi_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18382,7 +18479,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "KHALILI, SHAHIN M",
+        "entityName": "KHALILI, SHAHIN",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -19623,6 +19720,7 @@
     "phone": "(212) 681-3054",
     "email": "johanna.lasker@bnp.paribas.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20247,6 +20345,7 @@
     "phone": "(909) 387-0683",
     "email": "dlesovsky@sbcsd.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20337,6 +20436,22 @@
         "entityName": "CAPITOL PARTNERS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481103",
+    "name": "LEWIS, JONATHAN",
+    "address": "250 PARK AVENUE, 15TH FLOOR\nNEW YORK, NY 10177",
+    "phone": "(212) 400-8425",
+    "email": "compliance@octagoncredit.com",
+    "registrationDate": "05/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OCTAGON CREDIT INVESTORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/01/2025"
       }
     ]
   },
@@ -22552,6 +22667,7 @@
     "phone": "(212) 767-3133",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23134,6 +23250,7 @@
     "phone": "(212) 303-7100",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23173,6 +23290,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "04/24/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481098",
+    "name": "MCPARTLAND, BRENDAN",
+    "address": "250 PARK AVENUE, 15TH FLOOR\nNEW YORK, NY 10177",
+    "phone": "(646) 965-8587",
+    "email": "compliance@octagoncredit.com",
+    "registrationDate": "05/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OCTAGON CREDIT INVESTORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/01/2025"
       }
     ]
   },
@@ -24194,6 +24327,7 @@
     "phone": "(916) 325-3000",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24365,10 +24499,11 @@
     "email": "mostaracp@ttint.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95841",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
-        "entityName": "TT INTERNATIONAL",
+        "entityName": "TT INTERNATIONAL ASSET MANAGEMENT LTD.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -25848,6 +25983,7 @@
     "phone": "(332) 257-0688",
     "email": "compliance_ca_nuveen_12@multistate.u",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28175,6 +28311,7 @@
     "phone": "(617) 247-0700",
     "email": "compliance_ca_ceres_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28224,6 +28361,7 @@
     "phone": "(303) 907-0587",
     "email": "compliance_ca_namic_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29699,6 +29837,7 @@
     "email": "lobbying@rutan.com",
     "mailingAddress": "150 POST STREET, SUITE 405\nSAN FRANCISCO, CA 94108",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30657,6 +30796,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31260,14 +31400,15 @@
     "address": "40 HIGHLAND AVENUE\nROWAYTON, CT 06853",
     "phone": "(203) 899-3400",
     "email": "isheehy@grahamcapital.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "05/16/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GRAHAM CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/16/2025"
       }
     ]
   },
@@ -33072,6 +33213,7 @@
     "phone": "(310) 478-4005",
     "email": "rsufi@aristotlecap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33241,6 +33383,7 @@
     "email": "max.swango@invesco.com",
     "mailingAddress": "5828 JOYCE WAY\nDALLAS , TX 75225\nPhone: (972) 715-7431\nEmail: max.swango@invesco.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33264,6 +33407,22 @@
         "entityName": "SUSAN G. KOMEN",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481513",
+    "name": "SWERSKY, RICHARD",
+    "address": "40 HIGHLAND AVENUE\nROWAYTON, CT 06853",
+    "phone": "(203) 899-3400",
+    "email": "rswersky@grahamcapital.com",
+    "registrationDate": "05/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GRAHAM CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "05/16/2025"
       }
     ]
   },
@@ -34238,14 +34397,15 @@
     "address": "50 HUDSON YARDS, FLOOR 77\nNEW YORK, NY 10001",
     "phone": "(332) 270-5496",
     "email": "ctrant@vistaequitypartners.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/30/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/30/2025"
       }
     ]
   },
@@ -35138,8 +35298,9 @@
     "name": "VAZQUEZ, ANNA",
     "address": "1401 21ST STREET, SUITE 10945\nSACRAMENTO, CA 95811",
     "phone": "(916) 243-0094",
-    "email": "anavazquez7444@gmail.com",
+    "email": "ana@doddchaaban.com",
     "registrationDate": "05/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35998,6 +36159,22 @@
     ]
   },
   {
+    "id": "1358951",
+    "name": "WEINGART, JACK",
+    "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 743-1500",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TPG CAPITAL BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1469598",
     "name": "WEINSTOCK, TAMMY SCHLOSBERG",
     "address": "292 MADISON AVENUE, FLOOR 8\nNEW YORK, NY 10017",
@@ -36820,6 +36997,7 @@
     "phone": "(925) 269-4310",
     "email": "compliance_ca_alz_2@multistate.us",
     "registrationDate": "02/28/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37189,6 +37367,7 @@
     "phone": "(916) 849-9230",
     "email": "jared.yoshiki@ngc.com",
     "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37426,6 +37605,7 @@
     "phone": "(720) 245-7287",
     "email": "compliance_ca_lls_2@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
