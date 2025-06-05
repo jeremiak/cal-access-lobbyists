@@ -744,6 +744,22 @@
     ]
   },
   {
+    "id": "1480658",
+    "name": "ANGEL, FRANK P.",
+    "address": "2601 OCEAN PARK BLVD., SUITE 205\nSANTA MONICA, CA 90405",
+    "phone": "(310) 314-6433",
+    "email": "fangel@angellaw.com",
+    "registrationDate": "04/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ANGEL LAW",
+        "type": "Firm",
+        "effectiveDate": "04/16/2025"
+      }
+    ]
+  },
+  {
     "id": "1393600",
     "name": "ANGLE, BRADFORD L.",
     "address": "655 BROAD STREET, 10TH FLOOR\nNEWARK, NJ 07102",
@@ -2066,12 +2082,11 @@
   {
     "id": "1425001",
     "name": "BARSOTTI, BRITTNEY",
-    "address": "1201 K STREET, SUITE 1990\nSACRAMENTO, CA 95814",
-    "phone": "(916) 443-4900",
-    "email": "bbarsotti@cjac.org",
-    "registrationDate": "01/01/2025",
+    "address": "428 J STREET, SUITE 412\nC/O KEYS LAW",
+    "phone": "(916) 890-3670",
+    "registrationDate": "03/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "CIVIL JUSTICE ASSOCIATION OF CALIFORNIA",
@@ -2621,6 +2636,7 @@
     "phone": "(916) 441-2599",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3274,6 +3290,7 @@
     "phone": "(650) 850-6000",
     "email": "ellen@signalfire.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3392,14 +3409,15 @@
     "name": "BLUE, JOHN",
     "address": "5960 SOUTH LAND PARK DRIVE, SUITE 399\nSACRAMENTO, CA 95814",
     "phone": "(916) 715-1903",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/30/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACORN WEST ASSOCIATES, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/30/2025"
       }
     ]
   },
@@ -4143,6 +4161,7 @@
     "phone": "(916) 443-1975",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5480,6 +5499,7 @@
     "phone": "(646) 482-6087",
     "email": "edward.carroll@blackstone.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5666,6 +5686,7 @@
     "phone": "(212) 419-2496",
     "email": "andrew.cavanna@apax.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6140,6 +6161,7 @@
     "email": "alyssa.cheatham@osp-group.com",
     "mailingAddress": "3948 WEST 49TH 1/2 STREET, BOX 24794\nEDINA, MN 55424",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9627,6 +9649,7 @@
     "phone": "(312) 523-2372",
     "email": "sduff@monroecap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10474,6 +10497,7 @@
     "phone": "(332) 455-0419",
     "email": "seye.fasan@eislercapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12161,13 +12185,14 @@
     "address": "535 ANTON BOULEVARD, SUITE 200\nCOSTA MESA, CA 92626",
     "phone": "(415) 617-3512",
     "mailingAddress": "535 ANTON BOULEVARD, SUITE 200\nCOSTA MESA, CA 92626",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "06/01/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DWS INVESTMENT MANAGEMENT AMERICAS INC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/01/2025"
       }
     ]
   },
@@ -12195,6 +12220,7 @@
     "phone": "(916) 443-4887",
     "email": "tricia@agcouncil.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13153,6 +13179,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13973,6 +14000,7 @@
     "phone": "(603) 501-7364",
     "email": "g.guevara@impaxm.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14488,6 +14516,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/31/2025"
+      }
+    ]
+  },
+  {
+    "id": "1261963",
+    "name": "HANSEN, STEVE",
+    "address": "921 11TH STREET, 10TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 318-8866",
+    "mailingAddress": "C/O KEYS LAW 428 J STREET SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 318-8866\nEmail: infoa@keyslawcorp.com",
+    "registrationDate": "04/21/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/21/2025"
       }
     ]
   },
@@ -15775,6 +15819,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15996,6 +16041,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/10/2025"
+      }
+    ]
+  },
+  {
+    "id": "1467640",
+    "name": "HOPKINS, KEELY",
+    "address": "11250 WAPLES MILL ROAD\nFAIRFAX, VA 22030",
+    "phone": "(703) 267-1250",
+    "email": "khopkins@nrahq.org",
+    "registrationDate": "06/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL RIFLE ASSOCIATION OF AMERICA",
+        "type": "Employer",
+        "effectiveDate": "06/04/2025"
       }
     ]
   },
@@ -17411,6 +17472,7 @@
     "phone": "(817) 339-7397",
     "email": "fjordan@crestlineinc.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17443,7 +17505,6 @@
     "phone": "(650) 251-7806",
     "email": "ajoseph@generalatlantic.com",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18933,6 +18994,7 @@
     "phone": "(916) 444-7464",
     "email": "jason@axiomadvisors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22024,6 +22086,7 @@
     "email": "fortress@vantagelegal.com",
     "mailingAddress": "2200 WILSON BOULEVARD, 102-72\nARLINGTON, VA 22201",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22624,6 +22687,23 @@
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1478587",
+    "name": "MAYES, JEFFREY C.",
+    "address": "1925 CENTURY PARK EAST, SUTE 1700\nLOS ANGELES, CA 90067",
+    "phone": "(213) 267-0334",
+    "email": "jmayes@druven.us",
+    "registrationDate": "02/07/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DRUVEN PUBLIC AFFAIRS LLC",
+        "type": "Firm",
+        "effectiveDate": "01/20/2025"
       }
     ]
   },
@@ -23492,6 +23572,23 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/28/2025"
+      }
+    ]
+  },
+  {
+    "id": "1439152",
+    "name": "MERAZ, DAVID",
+    "address": "1925 CENTURY PARK EAST, SUITE 1700\nLOS ANGELES, CA 90067",
+    "phone": "(213) 267-0334",
+    "email": "dmeraz@druven.us",
+    "registrationDate": "02/07/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DRUVEN PUBLIC AFFAIRS LLC",
+        "type": "Firm",
+        "effectiveDate": "01/20/2025"
       }
     ]
   },
@@ -25249,6 +25346,7 @@
     "phone": "(212) 812-3100",
     "email": "registration@kingstreet.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25348,13 +25446,15 @@
     "address": "53 BIANCO\nIRVINE, CA 92618",
     "phone": "(415) 987-8374",
     "email": "tnoble@harbourvest.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "05/16/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HARBOURVEST PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/16/2025"
       }
     ]
   },
@@ -25717,6 +25817,7 @@
     "phone": "(860) 616-9158",
     "email": "thomas.oshea@ubs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26940,6 +27041,16 @@
     ]
   },
   {
+    "id": "1355993",
+    "name": "PERATA, DON R.",
+    "address": "1904 PTARMIGAN DRIVE #2\nWALNUT CREEK, CA 94595",
+    "phone": "(510) 610-1384",
+    "email": "peratadon@gmail.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1314275",
     "name": "PERCYNSKI, BETH A.",
     "address": "1415 L STREET, SUITE 460\nSACRAMENTO, CA 95814",
@@ -27160,6 +27271,7 @@
     "phone": "(916) 402-1678",
     "email": "katie@psgovernmentstrategies.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27900,6 +28012,7 @@
     "address": "731 16TH STREET, #316\nSACRAMENTO, CA 95814",
     "phone": "(213) 624-6200",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28702,6 +28815,7 @@
     "phone": "(916) 658-8200",
     "email": "jrhine@cacities.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29049,6 +29163,23 @@
     ]
   },
   {
+    "id": "1478588",
+    "name": "ROBLES, MARCO",
+    "address": "1925 CENTURY PARK EAST, STE 1700\nLOS ANGELES, CA 90067",
+    "phone": "(213) 267-0334",
+    "email": "mrobles@druven.us",
+    "registrationDate": "02/07/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DRUVEN PUBLIC AFFAIRS LLC",
+        "type": "Firm",
+        "effectiveDate": "01/20/2025"
+      }
+    ]
+  },
+  {
     "id": "1448347",
     "name": "ROBSON, CARINA ",
     "address": "1200 ENTREPRENEURIAL DRIVE\nBROOMFIELD, CO 80021",
@@ -29339,6 +29470,7 @@
     "email": "vrome@nrdc.org",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30441,6 +30573,7 @@
     "email": "calobb@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30880,6 +31013,7 @@
     "phone": "(646) 957-8018",
     "email": "oliver.schupp@cfm.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31805,6 +31939,7 @@
     "id": "1373544",
     "name": "SIMONETTE, GARY",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35632,6 +35767,7 @@
     "phone": "(916) 444-3216",
     "email": "dvu@acsa.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35785,6 +35921,21 @@
         "entityName": "WALKER STRATEGIES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1335804",
+    "name": "WALLACE, MARY",
+    "address": "222 SOUTH RIVERSIDE PLAZA\nCHICAGO, IL 60606",
+    "phone": "(832) 499-7413",
+    "registrationDate": "06/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DWS INVESTMENT MANAGEMENT AMERICAS INC",
+        "type": "Employer",
+        "effectiveDate": "06/01/2025"
       }
     ]
   },
@@ -36038,6 +36189,21 @@
     "relationships": [
       {
         "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1465486",
+    "name": "WATSON, CONNOR D",
+    "address": "1 BEACON STREET\nBOSTON, MA 02108",
+    "phone": "(617) 832-8128",
+    "registrationDate": "05/09/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BOSTON PARTNERS SECURITIES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
