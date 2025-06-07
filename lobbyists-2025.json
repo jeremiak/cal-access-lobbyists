@@ -495,6 +495,7 @@
     "email": "oaltamimi@cpehn.org",
     "mailingAddress": "2991 SACRAMENTO STREET #298\nBERKELEY, CA 94702-2534",
     "registrationDate": "03/18/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -834,6 +835,7 @@
     "phone": "(415) 619-3242",
     "email": "christina.anzel@generationim.com",
     "registrationDate": "01/28/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2088,13 +2090,18 @@
     "phone": "(916) 890-3670",
     "registrationDate": "03/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CIVIL JUSTICE ASSOCIATION OF CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/01/2025"
+      },
+      {
+        "entityName": "WORDS MATTER LLC",
+        "type": "Firm",
+        "effectiveDate": "03/01/2025"
       }
     ]
   },
@@ -2539,6 +2546,7 @@
     "phone": "(212) 571-1244",
     "email": "rbenedict@hudsonbaycapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4912,6 +4920,7 @@
     "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 743-1500",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4945,6 +4954,7 @@
     "phone": "(916) 556-3477",
     "email": "mbynum@cbhda.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6594,7 +6604,6 @@
     "address": "1212 BROADWAY, SUITE 600\nOAKLAND, CA 94612",
     "phone": "(703) 508-5319",
     "email": "pclark@youthlaw.org",
-    "mailingAddress": "4624 61ST STREET\nSACRAMENTO, CA 95820",
     "registrationDate": "01/06/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
@@ -7613,7 +7622,8 @@
       {
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/29/2025"
       }
     ]
   },
@@ -9853,20 +9863,27 @@
     "name": "EASLEY, MATTHEW",
     "address": "1201 K STREET, SUITE 750\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3116",
-    "registrationDate": "01/01/2025",
+    "email": "matt@pccapitoladvisors.com",
+    "registrationDate": "05/01/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
         "entityName": "APEX GROUP; THE",
         "type": "Firm",
-        "effectiveDate": "03/10/2025"
+        "effectiveDate": "03/10/2025",
+        "terminationDate": "04/30/2025"
       },
       {
         "entityName": "CALIFORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/03/2025"
+      },
+      {
+        "entityName": "PACIFIC COAST CAPITOL ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "05/01/2025"
       }
     ]
   },
@@ -11721,15 +11738,22 @@
     "id": "1391011",
     "name": "FUENTES, FELIPE ",
     "address": "1201 K STREET, SUITE 750\nSACRAMENTO , CA 95814",
-    "phone": "(916) 444-3116",
-    "registrationDate": "01/01/2025",
+    "phone": "(818) 512-6484",
+    "email": "felipe@pccapitoladvisors.com",
+    "registrationDate": "05/01/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
     "relationships": [
       {
         "entityName": "APEX GROUP; THE",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/30/2025"
+      },
+      {
+        "entityName": "PACIFIC COAST CAPITOL ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "05/01/2025"
       }
     ]
   },
@@ -14637,6 +14661,7 @@
     "phone": "(857) 265-5449",
     "email": "brittany_harbert@ssga.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16314,6 +16339,7 @@
     "email": "michelle.huang@generationim.com",
     "mailingAddress": "555 MISSION STREET, SUITE 3400\nSAN FRANCISCO, CA 94105",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16583,6 +16609,7 @@
     "phone": "(312) 855-5700",
     "email": "lewis.ingall@heitman.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16615,6 +16642,7 @@
     "address": "717 FIFTH AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 705-5000",
     "registrationDate": "03/03/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18885,6 +18913,7 @@
     "phone": "(212) 571-1244",
     "email": "legalnotices@hudsonbaycapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22473,7 +22502,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "12/12/2024",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22854,6 +22883,22 @@
         "entityName": "CAPITOL ADVISORS GROUP LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479750",
+    "name": "MC CALLUM, REBECCA",
+    "address": "17 OLD KINGS HIGHWAY SOUTH\nDARIEN, CT 06820",
+    "phone": "(203) 902-5517",
+    "email": "rmccallum@nfg.com",
+    "registrationDate": "02/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NASSAU PRIVATE CREDIT LLC",
+        "type": "Employer",
+        "effectiveDate": "02/04/2025"
       }
     ]
   },
@@ -23349,6 +23394,7 @@
     "phone": "(774) 238-6528",
     "email": "daniel.mcneil@isam.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26636,6 +26682,7 @@
     "phone": "(203) 618-3625",
     "email": "spanjwani@svpglobal.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26684,6 +26731,7 @@
     "phone": "(415) 282-3334",
     "email": "ppapadopoulos@medasf.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26888,6 +26936,7 @@
     "phone": "(212) 605-6089",
     "email": "dmadhani@onerock.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27223,6 +27272,7 @@
     "name": "PERRON, MELANIE M.",
     "address": "1201 K STREET, SUITE 750\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-3116",
+    "email": "melanie@pccapitoladvisors.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
@@ -27230,7 +27280,13 @@
       {
         "entityName": "APEX GROUP; THE",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/30/2025"
+      },
+      {
+        "entityName": "PACIFIC COAST CAPITOL ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "05/01/2025"
       }
     ]
   },
@@ -27932,6 +27988,7 @@
     "phone": "(415) 658-8539",
     "email": "charles_praska@ssga.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31979,13 +32036,14 @@
     "address": "1 MANHATTAN WEST, 395 9TH AVE, 56TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 445-0425",
     "email": "jesse.silver@eislercapital.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "05/07/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EISLER CAPITAL (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/07/2025"
       }
     ]
   },
@@ -32811,6 +32869,7 @@
     "phone": "(212) 822-0789",
     "email": "bsorensen@apollo.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -32843,6 +32902,7 @@
     "phone": "(212) 857-6265",
     "email": "regcompliance@cohenandsteers.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33488,6 +33548,7 @@
     "phone": "(240) 855-3512",
     "email": "fsullivan@jtpllc.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34624,6 +34685,7 @@
     "phone": "(212) 970-1927",
     "email": "quyen@growthcurvecapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
