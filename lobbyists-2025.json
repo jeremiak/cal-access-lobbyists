@@ -1595,6 +1595,7 @@
     "phone": "(916) 719-8586",
     "email": "brettgbaker@gmail.com",
     "registrationDate": "03/28/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6018,6 +6019,7 @@
     "phone": "(781) 883-2774",
     "email": "mchase@tsgconsumer.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6290,7 +6292,7 @@
     "phone": "(310) 270-5089",
     "email": "tiffany.chhuor@carlyle.com",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "02/20/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6641,6 +6643,7 @@
     "email": "lara.clarke@carlyle.com",
     "mailingAddress": "7722 HOSFORD AVENUE\nLOS ANGELES, CA 90045",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8503,6 +8506,7 @@
     "phone": "(617) 531-7200",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8975,6 +8979,7 @@
     "phone": "(617) 531-6300",
     "email": "gdipiietro@arclight.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11622,9 +11627,10 @@
     "name": "FRIEDMAN, CRAIG D.",
     "address": "1999 AVENUE OF THE STARS, 33RD FLOOR\nLOS ANGELES, CA 90067",
     "phone": "(757) 814-6200",
-    "email": "Craig-d.friedman@ubs.com",
+    "email": "craig-d.friedman@ubs.com",
     "mailingAddress": "2311 PARNELL AVENUE\nLOS ANGELES, CA 90064",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11973,6 +11979,22 @@
     ]
   },
   {
+    "id": "1480953",
+    "name": "GANO, MEREDITH",
+    "address": "200 PARK AVENUE SOUTH, SUITE 1511\nNEW YORK, NY 10003",
+    "phone": "(212) 220-5802",
+    "email": "mgano@itemgmt.com",
+    "registrationDate": "05/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ITE MANAGEMENT L.P.",
+        "type": "Employer",
+        "effectiveDate": "05/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1149573",
     "name": "GARCIA, ELOY ",
     "address": "1718 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
@@ -12303,6 +12325,7 @@
     "phone": "(212) 484-0045",
     "email": "legal@mackregroup.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12774,7 +12797,7 @@
   {
     "id": "1472208",
     "name": "GODOWN, LEE",
-    "address": "12705 LAUREL GROVE WAY, SUITE 100\nFAIRFAX, VA 22033",
+    "address": "2053 SALEM CHURCH ROAD #101\nSTEPHENS CITY, VA 22655",
     "phone": "(202) 480-7008",
     "email": "alpexintlcorp@gmail.com",
     "registrationDate": "01/01/2025",
@@ -12918,6 +12941,22 @@
         "entityName": "SANTA CLARA VALLEY WATER DISTRICT",
         "type": "Employer",
         "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
+    "id": "1418664",
+    "name": "GOLYNSKAYA, ANNA",
+    "address": "104 5TH AVENUE, 19TH FLOOR\nNEW YORK, NY 10011",
+    "phone": "(646) 330-9846",
+    "email": "agolynskaya@nea.com",
+    "registrationDate": "05/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEA MANAGEMENT COMPANY, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/12/2025"
       }
     ]
   },
@@ -14141,6 +14180,7 @@
     "phone": "(646) 927-5310",
     "email": "tim.gullickson@systematica.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -14929,6 +14969,7 @@
     "phone": "(602) 262-5787",
     "email": "stephen.hart@wbd-us.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15301,6 +15342,7 @@
     "phone": "(212) 649-6737",
     "email": "trey.heiskell@man.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17748,6 +17790,7 @@
     "email": "sumit.jussal@ubs.com",
     "mailingAddress": "37 WESTLAKE\nIRVINE, CA 92602",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19140,6 +19183,7 @@
     "phone": "(916) 443-1749",
     "email": "akirchner@cwda.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19801,6 +19845,21 @@
         "entityName": "LANG HANSEN GIROUX & KIDANE",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481338",
+    "name": "LANG, MIRELLA",
+    "address": "200 PARK AVENUE SOUTH, SUITE 1511\nNEW YORK, NY 10003",
+    "phone": "(212) 220-5802",
+    "registrationDate": "05/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ITE MANAGEMENT L.P.",
+        "type": "Employer",
+        "effectiveDate": "05/28/2025"
       }
     ]
   },
@@ -22776,6 +22835,7 @@
     "address": "EQUITABLE HOUSE, 47 KING WILLIAM STREET\nLONDON, GBR, EC4R 9AF",
     "email": "ben.maxmin@systematica.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24995,6 +25055,7 @@
     "phone": "(415) 538-4807",
     "email": "stephen.f.murphy@ubs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25657,6 +25718,24 @@
     ]
   },
   {
+    "id": "1148106",
+    "name": "NOMELLINI, DANTE JOHN",
+    "address": "235 EAST WEBER AVENUE\nSTOCKTON, CA 95202",
+    "phone": "(209) 465-5883",
+    "email": "ngmplcs@pacbell.net",
+    "mailingAddress": "P.O. BOX 1461\nSTOCKTON, CA 95201",
+    "registrationDate": "03/27/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NOMELLINI, GRILLI & MC DANIEL LAW FIRM",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1357424",
     "name": "NOONAN, PATRICK",
     "address": "51 MADISON AVENUE\nNEW YORK, NY 100",
@@ -25763,6 +25842,7 @@
     "phone": "(916) 447-5053",
     "email": "jnorwood@nalobby.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26648,14 +26728,15 @@
     "name": "PANG, REBEKAH MADELINE",
     "address": "ONE GEORGE STREET, #22-01\nSINGAPORE 049145",
     "email": "rebekah.pang@astignes.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "05/31/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ASTIGNES CAPITAL ASIA PTE LTD",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/31/2025"
       }
     ]
   },
@@ -26755,6 +26836,22 @@
         "entityName": "NIEMELA, PAPPAS AND ASSOCIATES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480637",
+    "name": "PAPRITZ, ANDERS",
+    "address": "680 FIFTH AVENUE, 11TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 307-3820",
+    "email": "apapritz@christoffersonrobb.com",
+    "registrationDate": "05/05/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHRISTOFFERSON, ROBB & COMPANY, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/05/2025"
       }
     ]
   },
@@ -27665,6 +27762,7 @@
     "email": "dpisani@marchofdimes.org",
     "mailingAddress": "1067 RIO CIDADE WAY\nSACRAMENTO, CA 95831",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34048,13 +34146,14 @@
     "address": "700 TAMALPAIS DRIVE, SUITE 401B\nCORTE MADERA, CA 94925",
     "phone": "(415) 561-0600",
     "email": "andrea@avilacapllc.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "04/15/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AVILA REAL ESTATE CAPITAL, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/15/2025"
       }
     ]
   },
@@ -35788,6 +35887,7 @@
     "phone": "(916) 337-6423",
     "email": "nvilla@crpa.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37160,6 +37260,7 @@
     "phone": "(415) 670-7037",
     "email": "scott.williamson@blackrock.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37993,6 +38094,7 @@
     "phone": "(203) 979-2909",
     "email": "b.zeng@impaxam.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
