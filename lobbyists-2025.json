@@ -881,6 +881,22 @@
     ]
   },
   {
+    "id": "1480748",
+    "name": "APPEL, SAMUEL A.",
+    "address": "6500 ROSEMEAD BOULEVARD\nPICO RIVERA, CA 90660",
+    "phone": "(562) 801-1500",
+    "email": "sappel@uaw.net",
+    "registrationDate": "02/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INTERNATIONAL UNION UNITED AUTOMOBILE, AEROSPACE AND AGRICULTURAL IMPLEMENT WORKERS OF AMERICA, UAW",
+        "type": "Employer",
+        "effectiveDate": "02/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1149198",
     "name": "APREA, MARC A.",
     "address": "1301 I STREET\nSACRAMENTO, CA 95814",
@@ -3870,6 +3886,23 @@
       {
         "entityName": "VIKING GLOBAL INVESTORS LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1470709",
+    "name": "BOYCE, BEN",
+    "address": "401 B STREET\nSAN DIEGO, CA 92101",
+    "phone": "(858) 541-7800",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOUTHWEST STRATEGIES, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -7858,6 +7891,23 @@
     ]
   },
   {
+    "id": "1479503",
+    "name": "CUADRA, LUIS",
+    "address": "12770 EL CAMINO REAL, SUITE 100\nSAN DIEGO, CA 92130",
+    "phone": "(858) 361-4750",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "03/06/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOUTHWEST STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "03/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1445952",
     "name": "CUEVAS, JESSE",
     "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
@@ -8328,6 +8378,23 @@
     ]
   },
   {
+    "id": "1479506",
+    "name": "DAVIS, EVETTE",
+    "address": "12770 EL CAMINO REAL, SUITE 100\nSAN DIEGO, CA 92130",
+    "phone": "(858) 361-4750",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "03/06/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOUTHWEST STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1447912",
     "name": "DAWSON, RUTH",
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
@@ -8703,6 +8770,23 @@
         "entityName": "WESTERN GROWERS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479505",
+    "name": "DELL, STEPHANIE",
+    "address": "12770 EL CAMINO REAL, SUITE 100\nSAN DIEGO, CA 92130",
+    "phone": "(415) 732-7700",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "03/06/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOUTHWEST STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "03/06/2025"
       }
     ]
   },
@@ -12961,6 +13045,54 @@
     ]
   },
   {
+    "id": "1147860",
+    "name": "GONSALVES, ANTHONY D.",
+    "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-0597",
+    "email": "gonsalves@gonsalvi.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GONSALVES & SON; JOE A.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149512",
+    "name": "GONSALVES, JASON A.",
+    "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-0597",
+    "email": "gonsalves@gonsalvi.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GONSALVES & SON; JOE A.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1272854",
+    "name": "GONSALVES, PAUL A.",
+    "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-0597",
+    "email": "gonsalves@gonsalvi.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GONSALVES & SON; JOE A.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1380852",
     "name": "GONSALVES, SHARON",
     "address": "1127 11TH STREET, SUITE 300\nSACRAMENTO, CA 95814",
@@ -14249,6 +14381,7 @@
     "phone": "(916) 446-6505",
     "email": "judith.gutierrez@heart.org",
     "registrationDate": "05/12/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16635,6 +16768,7 @@
     "phone": "(415) 879-8849",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24648,6 +24782,7 @@
     "phone": "(916) 446-6505",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25079,6 +25214,21 @@
         "entityName": "CALIFORNIA ASSOCIATION OF ALCOHOL AND DRUG PROGRAM EXECUTIVES, INC.",
         "type": "Employer",
         "effectiveDate": "01/27/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480309",
+    "name": "MURRAY, BRYAN",
+    "address": "250 W 55TH STREET, 34TH FLOOR\nNEW  YORK, NY 10019",
+    "phone": "(332) 223-6310",
+    "registrationDate": "04/11/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APERTURE INVESTORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/11/2025"
       }
     ]
   },
@@ -32490,7 +32640,8 @@
       {
         "entityName": "TORCHLIGHT INVESTORS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/01/2025"
       }
     ]
   },
@@ -36103,6 +36254,7 @@
     "phone": "(916) 492-5200",
     "email": "sanjayw@car.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -36157,6 +36309,23 @@
       {
         "entityName": "B CAPITAL GROUP U.S., LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1459609",
+    "name": "WAHL , CHRIS ",
+    "address": "12770 EL CAMINO REAL, SUITE 100\nSAN DIEGO, CA 92130",
+    "phone": "(858) 361-4750",
+    "email": "cwahl@swspr.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOUTHWEST STRATEGIES, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
