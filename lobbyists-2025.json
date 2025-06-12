@@ -2105,7 +2105,7 @@
     "name": "BARSOTTI, BRITTNEY",
     "address": "428 J STREET, SUITE 412\nC/O KEYS LAW",
     "phone": "(916) 890-3670",
-    "registrationDate": "03/01/2025",
+    "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
@@ -3083,6 +3083,7 @@
     "phone": "(415) 603-2891",
     "email": "abing@leia.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6225,6 +6226,7 @@
     "phone": "(312) 915-3543",
     "email": "mchen@gemrc.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6845,6 +6847,7 @@
     "phone": "(212) 813-8312",
     "email": "mcohen@adventinternational.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9983,6 +9986,7 @@
     "phone": "(916) 325-1500",
     "email": "sharper@cta.org",
     "registrationDate": "04/14/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Terminated",
     "relationships": [
       {
@@ -11904,6 +11908,7 @@
     "phone": "(415) 670-2063",
     "email": "danie.furey@blackrock.com",
     "registrationDate": "03/18/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12010,6 +12015,22 @@
         "entityName": "STATE STREET BANK AND TRUST COMPANY",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481149",
+    "name": "GALATERIA, JOHN",
+    "address": "65 EAST 55TH STREET, 26TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 293-4040",
+    "email": "jgalateria@eaglecap.com",
+    "registrationDate": "06/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EAGLE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/04/2025"
       }
     ]
   },
@@ -15922,6 +15943,23 @@
     ]
   },
   {
+    "id": "1149238",
+    "name": "HILTACHK, THOMAS W.",
+    "address": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-7757",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BELL, MC ANDREWS & HILTACHK, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1385326",
     "name": "HINES-SHAIKH, AMY D.",
     "address": "210 TAPPAN LANE\nORINDA, CA 94563",
@@ -17333,6 +17371,22 @@
     ]
   },
   {
+    "id": "1481659",
+    "name": "JESSEY, NICOLE",
+    "address": "200 CLARENDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
+    "phone": "(617) 531-6343",
+    "email": "njessey@arclight.com",
+    "registrationDate": "05/29/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/29/2025"
+      }
+    ]
+  },
+  {
     "id": "1479379",
     "name": "JIMENEZ, STEPHANIE",
     "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
@@ -17461,22 +17515,6 @@
       {
         "entityName": "CALBRIGHT COLLEGE",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1437026",
-    "name": "JOHNSON, KAITLYN",
-    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
-    "phone": "(916) 492-2766",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "POLITICAL SOLUTIONS, LLC",
-        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -17729,6 +17767,22 @@
       {
         "entityName": "PANTHEON VENTURES (US) LP",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1437026",
+    "name": "JONES, KAITLYN",
+    "address": "1414 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -19458,7 +19512,8 @@
       {
         "entityName": "VARDE PARTNERS, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/05/2025"
       }
     ]
   },
@@ -20507,6 +20562,7 @@
     "phone": "(203) 742-3600",
     "email": "businessconduct@aqr.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22771,6 +22827,22 @@
     ]
   },
   {
+    "id": "1451618",
+    "name": "MASLESA, UNA",
+    "address": "2121 AVENUE OF THE STARS, 9TH FLOOR\nLOS ANGELES, CA 90067",
+    "phone": "(310) 284-6445",
+    "email": "umaslesa@kaynecapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KAYNE ANDERSON CAPITAL ADVISORS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1443389",
     "name": "MASON, EMILY",
     "address": "499 PARK AVENUE, 21ST FLOOR\nNEW YORK, NY 10022",
@@ -22874,6 +22946,23 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "01/31/2025"
+      }
+    ]
+  },
+  {
+    "id": "1340487",
+    "name": "MATTHEWS, GEORGE",
+    "address": "2121 AVENUE OF THE STARS, 9TH FLOOR\nLOS ANGELES, CA 90067",
+    "phone": "(310) 284-6434",
+    "email": "gmatthews@kaynecapital.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KAYNE ANDERSON CAPITAL ADVISORS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -24515,6 +24604,23 @@
         "entityName": "PUBLIC POLICY PARTNERSHIP (P3)",
         "type": "Firm",
         "effectiveDate": "03/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1295574",
+    "name": "MOLINA, FRANK",
+    "address": "1232 Q STREET, SUITE 200\nSACRAMENTO, CA 95811",
+    "phone": "(916) 239-8350",
+    "email": "frankmolina@yahoo.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STRATEGIC SOLUTIONS ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -26956,6 +27062,22 @@
     ]
   },
   {
+    "id": "1481147",
+    "name": "PAOLELLA, CHRISTOPHER",
+    "address": "65 EAST 55TH STREET, 26TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 293-4040",
+    "email": "cpaolella@eaglecap.com",
+    "registrationDate": "06/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EAGLE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/04/2025"
+      }
+    ]
+  },
+  {
     "id": "1419767",
     "name": "PAPADOPOULOS, PETER J.",
     "address": "2301 MISSION STREET, SUITE 301\nSAN FRANCISCO, CA 94110",
@@ -27200,6 +27322,7 @@
     "phone": "(415) 738-5067",
     "email": "sean.patterson@hpspartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27456,6 +27579,7 @@
     "phone": "(202) 380-1950",
     "email": "compliance_ca_aeu_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -29387,11 +29511,12 @@
   },
   {
     "id": "1407980",
-    "name": "RINEHART, JENNIFER C.",
+    "name": "RINEHART, JENNIFER E",
     "address": "4440 PGA BOULEVARD, SUITE 600\nPALM BEACH GARDENS, FL 33410",
     "phone": "(212) 235-0870",
     "email": "kvanderwoude@acalyx.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32782,6 +32907,7 @@
     "phone": "(212) 813-8300",
     "email": "jpolcari@adventinternational.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35170,8 +35296,15 @@
     "phone": "(714) 330-0645",
     "mailingAddress": "PO BOX 2437\nFULLERTON, CA 92833990",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "TROUT CONSULTING; TAD",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1392311",
@@ -36559,6 +36692,7 @@
     "phone": "(916) 325-1500",
     "email": "sharper@cta.org",
     "registrationDate": "04/14/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -38348,6 +38482,7 @@
     "phone": "(916) 554-5312",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
