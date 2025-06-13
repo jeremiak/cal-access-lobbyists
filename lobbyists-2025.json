@@ -6505,6 +6505,21 @@
     ]
   },
   {
+    "id": "1481451",
+    "name": "CHUA, KIT T.",
+    "address": "ONE GEORGE STREET, #22-01\nSINGAPORE 049145",
+    "email": "kit.chua@astignes.com",
+    "registrationDate": "05/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ASTIGNES CAPITAL ASIA PTE LTD",
+        "type": "Employer",
+        "effectiveDate": "05/30/2025"
+      }
+    ]
+  },
+  {
     "id": "1470271",
     "name": "CHUNG, REX R.K.",
     "address": "630 FIFTH AVENUE, 26TH FLOOR \nNEW YORK, NY 10111",
@@ -8526,6 +8541,7 @@
     "email": "lauren@stefangeorge.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -10557,6 +10573,22 @@
     ]
   },
   {
+    "id": "1436154",
+    "name": "FAHRNEY, LAURA B",
+    "address": "101 SOUTH TRYON STREET, SUITE 3400\nCHARLOTTE, NC 28280",
+    "phone": "(704) 944-0917",
+    "email": "lfahrney@ridgemontep.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1459407",
     "name": "FANN, DAVID I",
     "address": "400 PARK AVENUE, FLOOR 17\nNEW YORK, NY 10022",
@@ -11583,6 +11615,7 @@
     "phone": "(212) 407-5200",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11735,6 +11768,7 @@
     "phone": "(619) 260-4100",
     "email": "mfriedman@sandiego.edu",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17459,6 +17493,7 @@
     "phone": "(404) 419-1000",
     "email": "angela.johnson@nobleinvestment.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23253,6 +23288,24 @@
     ]
   },
   {
+    "id": "1439395",
+    "name": "MC CONNELL, JEFF",
+    "address": "2335 EAST COLORADO BOULIVARD, SUITE 115\nPASADENA , CA 91107",
+    "phone": "(213) 741-1500",
+    "email": "jeff@ekapr.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENGLANDER KNABE & ALLEN",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1446648",
     "name": "MC COY, JOELLE",
     "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
@@ -24773,6 +24826,22 @@
         "entityName": "CALIFORNIA RETAILERS ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481399",
+    "name": "MOORE, PETER",
+    "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 91775",
+    "phone": "(213) 244-0516",
+    "email": "peter.moore@tcw.com",
+    "registrationDate": "04/29/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCW, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/29/2025"
       }
     ]
   },
@@ -26482,6 +26551,7 @@
     "phone": "(973) 410-9222",
     "email": "erik.olsen@jlem.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27751,6 +27821,7 @@
     "phone": "(646) 490-1074",
     "email": "bradley.petersen@jamestownlp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30294,6 +30365,23 @@
     ]
   },
   {
+    "id": "1147954",
+    "name": "ROSS, ROBERT E.",
+    "address": "1015 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-4068",
+    "email": "robbiz@cwo.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROSS; ROBERT E.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1453622",
     "name": "ROSS, TAYLOR",
     "address": "1251 AVENUE OF THE AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
@@ -31394,6 +31482,7 @@
     "phone": "(212) 407-5256",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -32842,6 +32931,7 @@
     "phone": "(212) 407-5200",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35684,14 +35774,15 @@
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-1036",
     "email": "cvalencia@acluca.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/18/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/18/2025"
       }
     ]
   },
