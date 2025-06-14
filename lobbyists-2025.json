@@ -359,6 +359,7 @@
     "address": "1121 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-8497",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7729,6 +7730,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8970,6 +8972,23 @@
     "relationships": [
       {
         "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1417828",
+    "name": "DEVREKER, CAREY",
+    "address": "ONE MARKET, STEUART, SUITE 2625\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 659-7201",
+    "email": "carey@valiantcapital.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VALIANT CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -17124,6 +17143,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18189,25 +18209,6 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/21/2025"
-      }
-    ]
-  },
-  {
-    "id": "1458346",
-    "name": "KANAK, DANIEL",
-    "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
-    "phone": "(917) 862-8222",
-    "email": "info@keyslawcorp.com",
-    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "WARBURG PINCUS LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "05/09/2025"
       }
     ]
   },
@@ -22730,9 +22731,9 @@
   {
     "id": "1335998",
     "name": "MARTINEZ, EDUARDO ",
-    "address": "1215 K STREET\nSACRAMENTO, CA 95814",
+    "address": "1215 K STREET, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 552-2300",
-    "mailingAddress": "1127 11TH STREET, SUITE 425\nSACRAMENTO, CA 95814\nPhone: (916) 309-6938\nEmail: emartinez@calaborfed.org",
+    "email": "emartinez@manatt.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
@@ -24502,6 +24503,22 @@
         "entityName": "TRITON USA L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1400959",
+    "name": "MITCHELL, WENDY",
+    "address": "3310 AMERICAN RIVER DRIVE\nSACRAMENTO, CA 95864",
+    "phone": "(310) 251-3305",
+    "email": "wendy@wendymitchellconsulting.com",
+    "registrationDate": "06/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WENDY MITCHELL CONSULTING, INC.",
+        "type": "Firm",
+        "effectiveDate": "06/06/2025"
       }
     ]
   },
@@ -27699,6 +27716,7 @@
     "phone": "(212) 390-2792",
     "email": "perlyn@blackstone.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28732,6 +28750,7 @@
     "phone": "(916) 701-5921",
     "email": "q@resolutecompany.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29537,6 +29556,7 @@
     "phone": "(212) 891-2100",
     "email": "nfifino@cerberus.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/05/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29789,6 +29809,7 @@
     "phone": "(303) 606-3600",
     "email": "carina.lukas@partnersgroup.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31414,6 +31435,7 @@
     "phone": "(212) 902-1000",
     "email": "gs-lobbying-ny@gs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31506,6 +31528,23 @@
         "entityName": "LOS ANGELES CAPITAL MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1339323",
+    "name": "SCHNEIDER, ANDREW",
+    "address": "295 MADISON AVE, 29TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(949) 478-8310",
+    "email": "aschneider@rowam.com",
+    "registrationDate": "04/03/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROW ASSET MANAGEMENT LLC",
+        "type": "Firm",
+        "effectiveDate": "04/03/2025"
       }
     ]
   },
@@ -32060,6 +32099,7 @@
     "email": "lauren.shaner@kslcapital.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -34461,6 +34501,22 @@
     ]
   },
   {
+    "id": "1481539",
+    "name": "TAYLOR, KATHERINE",
+    "address": "280 PARK AVENUE, FLOOR 27E\nNEW YORK, NY 10017",
+    "phone": "(212) 634-3250",
+    "email": "ktaylor@crayhill.com",
+    "registrationDate": "06/02/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRAYHILL CAPITAL MANAGEMENT",
+        "type": "Employer",
+        "effectiveDate": "06/02/2025"
+      }
+    ]
+  },
+  {
     "id": "1415506",
     "name": "TAYLOR, SEREN",
     "address": "1201 K STREET, SUITE 1250\nSACRAMENTO, CA 95814",
@@ -36113,6 +36169,7 @@
     "phone": "(916) 402-6450",
     "email": "caitlin@calaborfed.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -36903,6 +36960,24 @@
       {
         "entityName": "WATTS ADVOCACY; MARK",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1456823",
+    "name": "WATTS, TIYESHA",
+    "address": "816 21ST STREET\nSACRAMENTO, CA 95811",
+    "phone": "(415) 345-8667",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ACADEMY OF FAMILY PHYSICIANS",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -37996,14 +38071,15 @@
     "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 227-0900",
     "email": "swright@buchalter.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "03/31/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/31/2025"
       }
     ]
   },
