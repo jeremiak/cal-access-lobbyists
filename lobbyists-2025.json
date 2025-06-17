@@ -4157,6 +4157,7 @@
     "phone": "(916) 554-1258",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5212,6 +5213,7 @@
     "phone": "(916) 436-0046",
     "email": "vcaporale@calcog.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -6378,6 +6380,7 @@
     "phone": "(916) 469-3361",
     "email": "mchillemi@leadingageca.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6517,6 +6520,22 @@
         "entityName": "ASTIGNES CAPITAL ASIA PTE LTD",
         "type": "Employer",
         "effectiveDate": "05/30/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481769",
+    "name": "CHUNG HAYASHI, MARY",
+    "address": "500 CAPITOL MALL, SUITE 2350\nSACRAMENTO, CA 95814",
+    "phone": "(916) 839-4466",
+    "email": "contact@mkcpublicaffairs.com",
+    "registrationDate": "06/11/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MKC PUBLIC AFFAIRS, LLC",
+        "type": "Firm",
+        "effectiveDate": "06/11/2025"
       }
     ]
   },
@@ -7667,9 +7686,8 @@
   {
     "id": "1459517",
     "name": "COX, CARMEN-NICOLE",
-    "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-1036",
-    "email": "cncox@acluca.org",
+    "address": "500 CAPITOL MALL, SUITE 2350\nSACRAMENTO, CA 95814",
+    "phone": "(916) 793-4323",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
@@ -7679,6 +7697,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "05/29/2025"
+      },
+      {
+        "entityName": "COX FIRM FOR LAW AND POLICY; THE",
+        "type": "Firm",
+        "effectiveDate": "06/02/2025"
       }
     ]
   },
@@ -10755,6 +10778,22 @@
         "entityName": "AB CARVAL INVESTORS LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1433866",
+    "name": "FAY, COURTNEY",
+    "address": "7 WORLD TRADE CENTER, 250 GREENWICH ST.\n32TH FLOOR",
+    "phone": "(212) 232-1473",
+    "email": "courtney.fay@capstoneco.com",
+    "registrationDate": "05/27/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC AND AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "05/27/2025"
       }
     ]
   },
@@ -16068,14 +16107,15 @@
     "address": "1215 K STREET, SUITE 1150\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-8891",
     "email": "kmh@platinumadvisors.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/06/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PLATINUM ADVISORS, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/06/2025"
       }
     ]
   },
@@ -21143,6 +21183,7 @@
     "phone": "(916) 392-5111",
     "email": "hlinder@leadingageca.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23391,6 +23432,24 @@
     ]
   },
   {
+    "id": "1334231",
+    "name": "MC DONALD, TOM",
+    "address": "200 MASSACHUSETTS AVE, NW, STE 500\nWASHINGTON, DC 20001",
+    "phone": "(202) 664-1561",
+    "email": "compliance_ca_tsh_1@multistate.us",
+    "registrationDate": "05/27/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "TAFT STETTINIUS & HOLLISTER, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/27/2025"
+      }
+    ]
+  },
+  {
     "id": "1462362",
     "name": "MC DONNELL, LUKE",
     "address": "555 SOUTH FLOWER STREET, SUITE 4600\nLOS ANGELES, CA 90071",
@@ -24308,6 +24367,14 @@
     ]
   },
   {
+    "id": "1481755",
+    "name": "MILLER, MATT",
+    "address": ", CA\n\t",
+    "registrationDate": "06/16/2025",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1222972",
     "name": "MILLER, MONICA",
     "address": "1017 L STREET, SUITE 595\nSACRAMENTO, CA 95814",
@@ -24463,6 +24530,7 @@
     "phone": "(916) 441-1571",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -26263,6 +26331,22 @@
     ]
   },
   {
+    "id": "1481397",
+    "name": "O'CONNELL, MADISON",
+    "address": "7 WORLD TRADE CENTER, 250 GREENWICH ST.\n32ND FLOOR",
+    "phone": "(212) 232-1471",
+    "email": "madison.oconnell@capstoneco.com",
+    "registrationDate": "05/27/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC AND AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "05/27/2025"
+      }
+    ]
+  },
+  {
     "id": "1378856",
     "name": "O'DONNELL, ERIC",
     "address": "1401 DOVE STREET, SUITE 430 \nNEWPORT BEACH, CA 92660",
@@ -26452,6 +26536,7 @@
     "phone": "(916) 447-3383",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33689,6 +33774,22 @@
     ]
   },
   {
+    "id": "1481393",
+    "name": "STEIN, JULIAN",
+    "address": "7 WORLD TRADE CENTER, 250 GREENWICH ST.\n32ND FLOOR",
+    "phone": "(646) 553-2307",
+    "email": "julian.stein@capstoneco.com",
+    "registrationDate": "05/27/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC AND AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "05/27/2025"
+      }
+    ]
+  },
+  {
     "id": "1468419",
     "name": "STELZER, CAROLINE G.",
     "address": "455 CAPITOL MALL, SUITE 315\nSACRAMENTO, CA 95814",
@@ -37634,6 +37735,22 @@
         "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481602",
+    "name": "WILLETT, JAMES B.",
+    "address": "185 GREENWOOD ROAD\nNAPA, CA 94558",
+    "phone": "(707) 226-0773",
+    "email": "grcompliance@thedoctors.com",
+    "registrationDate": "05/29/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DOCTORS MANAGEMENT COMPANY; THE",
+        "type": "Employer",
+        "effectiveDate": "05/29/2025"
       }
     ]
   },
