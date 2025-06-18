@@ -6546,6 +6546,7 @@
     "phone": "(646) 690-2820",
     "email": "rchung@brinleypartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -10083,6 +10084,22 @@
     "relationships": [
       {
         "entityName": "PACIFIC GAS AND ELECTRIC COMPANY AND ITS AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1338057",
+    "name": "EBERHARDT, GREG",
+    "address": "10100 SANTA MONICA BOULEVARD, SUITE 1000\nLOS ANGELES, CA 90067",
+    "phone": "(310) 414-7870",
+    "email": "legalnotices@pccpllc.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PCCP, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -16611,6 +16628,7 @@
     "phone": "(213) 505-0173",
     "email": "thsu@oaktreecapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -22500,6 +22518,23 @@
     ]
   },
   {
+    "id": "1401136",
+    "name": "MARCUS, REBECCA R.",
+    "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
+    "phone": "(916) 754-6310",
+    "email": "rebecca@mgsadvocacygroup.com",
+    "registrationDate": "01/06/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLDEN STATE ADVOCACY GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1478659",
     "name": "MARDIROSSIAN, ALEXANDRA M.",
     "address": "590 MADISON AVENUE, 42ND FLOOR\nNEW YORK, NY 10022",
@@ -23807,6 +23842,7 @@
     "phone": "(212) 235-1000",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35409,6 +35445,7 @@
     "phone": "(212) 284-1923",
     "email": "mtrefz@oaktreecapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -36152,13 +36189,14 @@
     "address": "110 NORTH WACKER DRIVE, SUITE 4400\nCHICAGO, IL 60606",
     "phone": "(312) 447-8478",
     "email": "compliance@ppcpartners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "04/16/2025",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "PPC INVESTMENT PARTNERS LP DBA PRITZKER PRIVATE CAPITAL",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/16/2025"
       }
     ]
   },
