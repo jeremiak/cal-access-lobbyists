@@ -158,6 +158,7 @@
     "phone": "(916) 442-6646",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nEmail: fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1791,6 +1792,22 @@
     ]
   },
   {
+    "id": "1350599",
+    "name": "BANE, MICHAEL ",
+    "address": "1370 AVENUE OF THE AMERICAS\nNEW YORK, NY 10019",
+    "phone": "(212) 506-5610",
+    "email": "mbane@ardian.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARDIAN US LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1459373",
     "name": "BANOS, JASON",
     "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
@@ -2130,6 +2147,7 @@
     "phone": "(617) 794-6273",
     "email": "frederic.barthelemy@amundi.com",
     "registrationDate": "04/28/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3006,6 +3024,23 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/28/2025"
+      }
+    ]
+  },
+  {
+    "id": "1420835",
+    "name": "BHATT, JAY",
+    "address": "90 PARK AVENUE, 22ND FLOOR\nNEW YORK, NY 10016",
+    "phone": "(602) 802-8300",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "06/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BALBEC CAPITAL MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "06/12/2025"
       }
     ]
   },
@@ -9982,14 +10017,15 @@
     "address": "2 GREENWICH PLAZA, SUITE 220\nGREENWICH, CT 06830",
     "phone": "(203) 618-1400",
     "email": "compliance@lpcap.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/06/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LONE PINE CAPITAL LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/06/2025"
       }
     ]
   },
@@ -12096,6 +12132,23 @@
     ]
   },
   {
+    "id": "1481395",
+    "name": "GAINES, NICHOLAS",
+    "address": "1101 ANACAPA STREET\nSANTA BARBARA, CA 93101",
+    "phone": "(805) 892-4800",
+    "email": "nick.gaines@h2clipper.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H2 CLIPPER, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1471148",
     "name": "GAITAN, IVY",
     "address": "515 SOUTH FLOWER STREET, 49TH FLOOR\nLOS ANGELES, CA 90071",
@@ -13865,6 +13918,7 @@
     "phone": "(212) 314-1600",
     "email": "compliance@canyonpartner.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19481,6 +19535,7 @@
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
     "phone": "(617) 598-6820",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20565,6 +20620,24 @@
     ]
   },
   {
+    "id": "1413900",
+    "name": "LECAUDEY, SEBASTIEN",
+    "address": "374 RUE SAINT-HONORE\nPARIS FRANCE 75001",
+    "phone": "(916) 890-3670",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ANTIN INFRASTRUCTURE PARTNERS SAS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1460448",
     "name": "LEDEAUX, SHIRA ",
     "address": "100 WILSHIRE BOULEVARD, SUITE 1400\nSANTA MONICA, CA 90401",
@@ -20757,6 +20830,7 @@
     "phone": "(312) 940-5292",
     "email": "bleigh@gcp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21150,6 +21224,7 @@
     "email": "marilyn.limon@equifax.com",
     "mailingAddress": "1713 Q STREET #6\nSACRAMENTO, CA 95811",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23237,13 +23312,14 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "nicholas@caleec.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "04/11/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/11/2025"
       }
     ]
   },
@@ -24380,6 +24456,38 @@
     "relationships": [
       {
         "entityName": "KEPOS CAPITAL LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1344348",
+    "name": "MILLER, ANDREW D.",
+    "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
+    "phone": "(617) 850-3571",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACADIAN ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1460421",
+    "name": "MILLER, DOUGLAS",
+    "address": "1370 AVENUE OF THE AMERICAS\nNEW YORK, NY 10019",
+    "phone": "(212) 506-5610",
+    "email": "douglas.miller@ardian.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARDIAN US LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -26926,6 +27034,7 @@
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
     "phone": "(617) 598-6820",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27777,6 +27886,21 @@
         "entityName": "PROCTER & GAMBLE",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481645",
+    "name": "PEREZ, CRISTINA UGARRIZA",
+    "address": "C/ JOSE ORTEGA Y GASSET N100,\n3A PLANTA, MADRID, 28006",
+    "email": "cristina.ugarriza@permira.com",
+    "registrationDate": "05/26/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "05/26/2025"
       }
     ]
   },
@@ -29313,7 +29437,7 @@
     "id": "1316992",
     "name": "REAMAN, DARREN",
     "address": "8475 NIGHTFALL LANE\nFISHERS, IN 46037",
-    "phone": "(317) 328-4336",
+    "phone": "(800) 669-5329",
     "email": "compliance_ca_cedia_1@multistate.us",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
@@ -29517,7 +29641,13 @@
     "email": "brendan@syaslpartners.com",
     "registrationDate": "02/18/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
+        "type": "Firm",
+        "effectiveDate": "02/18/2025"
+      }
+    ]
   },
   {
     "id": "1148103",
@@ -30021,6 +30151,23 @@
         "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1373210",
+    "name": "RODIO, BRUCE ",
+    "address": "90 PARK AVENUE, 22ND FLOOR\nNEW YORK , NY 10016",
+    "phone": "(602) 802-8300",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95817",
+    "registrationDate": "06/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BALBEC CAPITAL MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "06/12/2025"
       }
     ]
   },
@@ -30827,14 +30974,15 @@
     "name": "RUTLAND , WILLIAM ",
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/30/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "KP PUBLIC AFFAIRS",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/30/2025"
       }
     ]
   },
@@ -32892,6 +33040,7 @@
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
     "phone": "(617) 850-3579",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -32907,6 +33056,7 @@
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
     "phone": "(617) 824-5654",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33225,6 +33375,7 @@
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
     "phone": "(617) 598-6814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34660,6 +34811,7 @@
     "phone": "(916) 442-7757",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34723,14 +34875,15 @@
     "address": "C/ JOSE ORTEGA Y GASSET N100\nPLANTA MADRID 28006",
     "email": "jaime.tejedor@permira.com",
     "mailingAddress": "80 PALL MALL\nLONDON SW1Y 5ES 28006",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/10/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/10/2025"
       }
     ]
   },
@@ -37901,6 +38054,7 @@
     "phone": "(312) 953-3103",
     "email": "twilson@gcp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
