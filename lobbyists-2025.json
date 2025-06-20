@@ -355,6 +355,22 @@
     ]
   },
   {
+    "id": "1355785",
+    "name": "ALEXANDER, ANNA LYNN",
+    "address": "299 PARK AVENUE, 30TH FLOOR\nNEW YORK, NY 10171",
+    "phone": "(212) 350-7700",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KELSO & COMPANY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1373727",
     "name": "ALFARO, ANTONIO",
     "address": "1121 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -4991,14 +5007,14 @@
     "name": "BUSHBY, ALASTAIR",
     "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 743-1500",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/30/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
         "entityName": "TPG CAPITAL BD, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/30/2025"
       }
     ]
   },
@@ -6442,6 +6458,22 @@
     ]
   },
   {
+    "id": "1468916",
+    "name": "CHOI, VICTORIA",
+    "address": "2000 AVENUE OF THE STARS, SUITE 1020\nLOS ANGELES, CA 90067",
+    "phone": "(310) 777-5440",
+    "email": "compliancedocreview@tpg.com",
+    "registrationDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TPG CAPITAL BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/30/2025"
+      }
+    ]
+  },
+  {
     "id": "1360413",
     "name": "CHONG, RACHELLE",
     "address": "345 WEST PORTAL AVENUE, SUITE 110\nSAN FRANCISCO, CA 94127",
@@ -7087,6 +7119,7 @@
     "phone": "(916) 441-4242",
     "email": "sos@stephencompany.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9918,13 +9951,14 @@
     "address": "55 M STREET SOUTHEAST, SUITE 540\nWASHINGTON, DC 20003",
     "phone": "(202) 789-0300",
     "email": "compliance_ca_aba_1@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "04/04/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AMERICAN BAKERS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/04/2025"
       }
     ]
   },
@@ -11911,14 +11945,14 @@
     "name": "FROEB, CHARLES ",
     "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 743-1500",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/30/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
         "entityName": "TPG CAPITAL BD, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/30/2025"
       }
     ]
   },
@@ -12193,6 +12227,23 @@
         "entityName": "EAGLE CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "06/04/2025"
+      }
+    ]
+  },
+  {
+    "id": "1466666",
+    "name": "GALGIANI, CATHLEEN",
+    "address": "1127 11TH STREET, SUITE 544\nSACRAMENTO, CA 95814",
+    "phone": "(916) 204-6932",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GALGIANI CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -13465,15 +13516,10 @@
     "address": "355 SOUTH GRANDE AVENUE, SUITE 100\nLOS ANGELES, CA 90071",
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LATHAM & WATKINS LLP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "05/23/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Terminated",
+    "relationships": []
   },
   {
     "id": "1459385",
@@ -17994,13 +18040,14 @@
     "address": "120 FIFTH AVENUE, 11TH FLOOR\nNEW YORK, NY 10011",
     "phone": "(646) 756-1199",
     "email": "mjordan@docksideplatforms.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "06/11/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DOCKSIDE LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/11/2025"
       }
     ]
   },
@@ -29039,6 +29086,22 @@
     ]
   },
   {
+    "id": "1478795",
+    "name": "QUINTERO, ANALISA",
+    "address": "1808 14TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "01/27/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 1000",
+        "type": "Employer",
+        "effectiveDate": "01/27/2025"
+      }
+    ]
+  },
+  {
     "id": "1416809",
     "name": "QUIROZ, PRISCILLA",
     "address": "915 L STREET, SUITE 1210\nSACRAMENTO, CA 95814",
@@ -30960,6 +31023,7 @@
     "phone": "(949) 285-4432",
     "email": "rzrussell@statestreet.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34164,6 +34228,22 @@
     ]
   },
   {
+    "id": "1464746",
+    "name": "STRAKOSCH, TIMOTHY F.",
+    "address": "ONE BEACON STREET\nBOSTON, MA 02108",
+    "phone": "(617) 832-8126",
+    "registrationDate": "05/09/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BOSTON PARTNERS SECURITIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "05/09/2025"
+      }
+    ]
+  },
+  {
     "id": "1413767",
     "name": "STRASSER, CHRISTOPH",
     "address": "305 HIDDEN HOLLOW ROAD\nJACKSON, WY 83001",
@@ -34383,6 +34463,22 @@
         "entityName": "BRIGHTON PARK CAPITAL MANAGEMENT, LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1338096",
+    "name": "SUPPLE, WILLIAM J.",
+    "address": "ONE BEACON STREET, 30TH FLOOR\nBOSTON, MA 02108",
+    "phone": "(617) 832-8193",
+    "email": "bsupple@boston-partners.com",
+    "registrationDate": "05/09/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BOSTON PARTNERS SECURITIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "05/09/2025"
       }
     ]
   },
@@ -37361,14 +37457,14 @@
     "name": "WEINGART, JACK",
     "address": "345 CALIFORNIA STREET, SUITE 3300\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 743-1500",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/30/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
         "entityName": "TPG CAPITAL BD, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/30/2025"
       }
     ]
   },
