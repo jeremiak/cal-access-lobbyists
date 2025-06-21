@@ -5314,6 +5314,7 @@
     "phone": "(916) 447-1299",
     "mailingAddress": "2991 SACRAMENTO STREET #298\nBERKELEY, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6839,6 +6840,22 @@
         "entityName": "DRAGONEER INVESTMENT GROUP, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481688",
+    "name": "CLEVELAND, MEGAN",
+    "address": "830 S STREET\nSACRAMENTO, CA 95811",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "06/02/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATURE CONSERVANCY; THE",
+        "type": "Employer",
+        "effectiveDate": "06/02/2025"
       }
     ]
   },
@@ -13519,7 +13536,14 @@
     "registrationDate": "05/23/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Terminated",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "LATHAM & WATKINS LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/23/2025"
+      }
+    ]
   },
   {
     "id": "1459385",
@@ -14963,6 +14987,7 @@
     "phone": "(916) 446-5021",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15465,6 +15490,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15525,6 +15551,22 @@
         "entityName": "ENGLANDER KNABE & ALLEN",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480265",
+    "name": "HAWS, GALEN",
+    "address": "30 HUDSON STREET\nJERSEY CITY, NJ 07302",
+    "phone": "(201) 827-6399",
+    "email": "ghaws@lordabbett.com",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LORD, ABBETT & CO. LLC",
+        "type": "Employer",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -15593,6 +15635,22 @@
         "entityName": "OMI MANAGEMENT US LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481752",
+    "name": "HEALY, ELIZABETH Y",
+    "address": "185 GREENWOOD ROAD\nNAPA, CA 94558",
+    "phone": "(707) 226-0413",
+    "email": "grcompliance@thedoctors.com",
+    "registrationDate": "06/11/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DOCTORS MANAGEMENT COMPANY; THE",
+        "type": "Employer",
+        "effectiveDate": "06/11/2025"
       }
     ]
   },
@@ -15806,14 +15864,15 @@
     "name": "HENDERSON, ERIC",
     "address": "1750 MERIDIAN AVENUE P.O. BOX 5152\nSAN JOSE, CA 95125-9998",
     "phone": "(408) 857-7713",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "05/23/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HENDERSON CONSULTING; ERIC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/23/2025"
       }
     ]
   },
@@ -18058,6 +18117,7 @@
     "phone": "(650) 251-7806",
     "email": "ajoseph@generalatlantic.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23598,14 +23658,7 @@
     "registrationDate": "05/27/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Terminated",
-    "relationships": [
-      {
-        "entityName": "TAFT STETTINIUS & HOLLISTER, LLP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "05/27/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1462362",
@@ -26189,6 +26242,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -29703,6 +29757,7 @@
     "phone": "(916) 446-4656",
     "email": "brendan@syaslpartners.com",
     "registrationDate": "02/18/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31480,14 +31535,15 @@
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
     "phone": "(916) 432-5180",
     "email": "jsandman@cahf.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/14/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSOCIATION OF HEALTH FACILITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/14/2025"
       }
     ]
   },
