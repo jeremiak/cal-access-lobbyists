@@ -1404,6 +1404,22 @@
     ]
   },
   {
+    "id": "1357398",
+    "name": "AXELROD, ZACH",
+    "address": "10100 SANTA MONICA BOULEVARD, SUITE 600\nLOS ANGELES, CA 90067",
+    "phone": "(310) 575-1716",
+    "email": "zach.axelrod@carlyle.com",
+    "registrationDate": "05/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/30/2025"
+      }
+    ]
+  },
+  {
     "id": "1402930",
     "name": "AYALA VARGAS, RAQUEL",
     "address": "1415 L STREET, SUITE 870\nSACRAMENTO, CA 95602",
@@ -1838,6 +1854,22 @@
         "entityName": "WARBURG PINCUS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1399241",
+    "name": "BARAD, DANIEL",
+    "address": "2001 ADDISON STREET, SUITE 200\nBERKELEY, CA 94704",
+    "phone": "(510) 843-1874",
+    "email": "dbarad@ucs.org",
+    "registrationDate": "06/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNION OF CONCERNED SCIENTISTS, INC.",
+        "type": "Employer",
+        "effectiveDate": "06/12/2025"
       }
     ]
   },
@@ -3643,6 +3675,7 @@
     "phone": "(916) 208-2011",
     "email": "chris@bollinger-ga.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5130,13 +5163,14 @@
     "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
     "phone": "(212) 390-2361",
     "email": "catherine.campbell@blackstone.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "01/02/2025",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/02/2025"
       }
     ]
   },
@@ -5205,6 +5239,22 @@
         "entityName": "PRETIUM PARTNERS, LLC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481706",
+    "name": "CANALES, MICHELE",
+    "address": "2001 ADDISON STREET, SUITE 200\nBERKELEY, CA 94704",
+    "phone": "(510) 843-1872",
+    "email": "mcanales@ucs.org",
+    "registrationDate": "06/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNION OF CONCERNED SCIENTISTS, INC.",
+        "type": "Employer",
+        "effectiveDate": "06/12/2025"
       }
     ]
   },
@@ -5281,6 +5331,7 @@
     "phone": "(209) 482-7966",
     "email": "mcaprio@republicservices.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6641,6 +6692,22 @@
     ]
   },
   {
+    "id": "1426804",
+    "name": "CIGANIK, PETER",
+    "address": "787 7TH AVENUE, 50TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 220-5224",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GTIS PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1395646",
     "name": "CIULLO, JENNIFER V.",
     "address": "465 MEETING STREET, SUITE 500\nCHARLESTON, SC 29403",
@@ -6897,10 +6964,12 @@
   {
     "id": "1456671",
     "name": "COBB, TIMOTHY",
-    "address": "717 FIFTH AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
+    "address": "717 5TH AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 705-5000",
     "email": "lobbying@rutan.com",
+    "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11269,6 +11338,22 @@
     ]
   },
   {
+    "id": "1481785",
+    "name": "FINLEY, JOHN L",
+    "address": "1725 3RD STREET\nSAN FRANCISCO, CA 94158",
+    "phone": "(619) 843-6083",
+    "mailingAddress": "3548 CANDLETREE WAY\nSACRAMENTO, CA 95835",
+    "registrationDate": "06/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UBER TECHNOLOGIES, INC.",
+        "type": "Employer",
+        "effectiveDate": "06/16/2025"
+      }
+    ]
+  },
+  {
     "id": "1399084",
     "name": "FISCELLA, JOHN",
     "address": "ONE VANDERBILT AVENUE\nNEW YORK, NY 10017",
@@ -13533,15 +13618,20 @@
     "address": "355 SOUTH GRANDE AVENUE, SUITE 100\nLOS ANGELES, CA 90071",
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
-    "registrationDate": "05/23/2025",
+    "registrationDate": "05/22/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "LATHAM & WATKINS LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "05/23/2025"
+      },
+      {
+        "entityName": "PAUL HASTINGS LLP",
+        "type": "Firm",
+        "effectiveDate": "05/22/2025"
       }
     ]
   },
@@ -15285,6 +15375,23 @@
     ]
   },
   {
+    "id": "1438763",
+    "name": "HARRIS, TRACY",
+    "address": "601 LEXINGTON AVENUE, 59TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 231-0095",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIRIS CAPITAL GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1465183",
     "name": "HARRISON, GARY",
     "address": "114 WEST 47TH STREET, 19TH FLOOR\nNEW YORK, NY 10036",
@@ -16434,16 +16541,23 @@
   {
     "id": "1426738",
     "name": "HOFFMAN, DYLAN",
-    "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
-    "phone": "(505) 402-5738",
-    "email": "dhoffman@technet.org",
-    "registrationDate": "01/01/2025",
+    "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-4656",
+    "email": "hoffman@syaslpartners.com",
+    "registrationDate": "02/18/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
+        "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
+        "type": "Firm",
+        "effectiveDate": "02/18/2025"
+      },
+      {
         "entityName": "TECHNET--TECHNOLOGY NETWORK",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/14/2025"
       }
     ]
   },
@@ -21244,8 +21358,9 @@
     "address": "712 5TH AVENUE\nNEW YORK, NY 10022",
     "phone": "(212) 705-5050",
     "email": "lobbying@rutan.com",
-    "mailingAddress": "717 5TH AVENUE\nNEW YORK, NY 10022",
+    "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22353,6 +22468,7 @@
     "phone": "(916) 446-5021",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23402,14 +23518,15 @@
     "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
     "phone": "(212) 390-2792",
     "email": "christopher.mazza@blackstone.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/02/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/02/2025"
       }
     ]
   },
@@ -24128,6 +24245,23 @@
     ]
   },
   {
+    "id": "1479045",
+    "name": "MEA, JOHN",
+    "address": "38 EAST 19TH STREET, 8TH FLOOR\nNEW YORK, NY 10003",
+    "phone": "(908) 812-4853",
+    "email": "jmm@connaught.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONNAUGHT (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1328685",
     "name": "MEANS, SABRINA",
     "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -24828,7 +24962,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "WENDY MITCHELL CONSULTING, INC.",
+        "entityName": "MITCHELL CONSULTING, INC.; WENDY",
         "type": "Firm",
         "effectiveDate": "06/06/2025"
       }
@@ -25823,6 +25957,23 @@
     ]
   },
   {
+    "id": "1438765",
+    "name": "NADAN, JARED",
+    "address": "601 LEXINGTON AVENUE, 59TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 231-0095",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIRIS CAPITAL GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1480179",
     "name": "NADLER, ANGELA",
     "address": "9 OLD KINGS HIGHWAY SOUTH, 4TH FLOOR\nDARIEN, CT 06820",
@@ -26190,14 +26341,15 @@
     "address": "299 PARK AVENUE, 40TH FLOOR\nNEW YORK, NY 10171",
     "phone": "(212) 812-3100",
     "email": "registration@kingstreet.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/13/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "KING STREET CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/13/2025"
       }
     ]
   },
@@ -27970,6 +28122,7 @@
     "phone": "(510) 610-1384",
     "email": "peratadon@gmail.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": []
   },
@@ -28028,14 +28181,15 @@
     "address": "304 SOUTH BROADWAY #207\nLOS ANGELES, CA 90013",
     "phone": "(213) 624-1380",
     "email": "lobbying@rutan.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/18/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MERCURY PUBLIC AFFAIRS",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/18/2025"
       }
     ]
   },
@@ -28746,6 +28900,7 @@
     "phone": "(617) 840-2923",
     "email": "jkpowell@statestreet.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30386,6 +30541,23 @@
         "entityName": "GUGGENHEIM SECURITIES, LLC",
         "type": "Firm",
         "effectiveDate": "04/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1361215",
+    "name": "ROGG, JENNIFER",
+    "address": "411 THEODORE FREMD AVENUE, SUITE 125\nRYE, NY 10580",
+    "phone": "(914) 269-2020",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DUNES POINT CAPITAL, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -32386,13 +32558,14 @@
     "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
     "phone": "(212) 583-5553",
     "email": "lindsay.shagrin@blackstone.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "01/02/2025",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/02/2025"
       }
     ]
   },
@@ -33704,22 +33877,6 @@
     "relationships": [
       {
         "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1419845",
-    "name": "SOLIS, ALEJANDRO",
-    "address": "1121 L STREET, SUITE 103\nSACRAMENTO, CA 95814",
-    "phone": "(916) 914-5923",
-    "email": "alejandro@lobby-california.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA ADVOCACY LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -38861,6 +39018,22 @@
     "relationships": [
       {
         "entityName": "VIKING GLOBAL INVESTORS LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1450334",
+    "name": "YULES, KATE",
+    "address": "2180 SAND HILL ROAD, SUITE 300\nMENLO PARK, CA 94025",
+    "phone": "(650) 289-2460",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AKKR FUND II MANAGEMENT COMPANY, LP (\"ACCEL-KKR')",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
