@@ -530,14 +530,15 @@
     "phone": "(212) 393-4200",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "QEP ADVISERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -978,6 +979,22 @@
         "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1363190",
+    "name": "ARGUELLO, ALEJANDRA",
+    "address": "1271 AVENUE OF THE AMERICAS, 22ND FLOOR\nNEW YORK, NY 10020",
+    "phone": "(212) 506-0500",
+    "email": "aarguello@hig.com",
+    "registrationDate": "06/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/04/2025"
       }
     ]
   },
@@ -6024,6 +6041,7 @@
     "phone": "(617) 391-3595",
     "email": "achamian@brattleadvisors.com",
     "registrationDate": "05/06/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8483,6 +8501,7 @@
     "phone": "(646) 812-3224",
     "email": "wdaly@fieracapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9146,6 +9165,7 @@
     "phone": "(212) 648-1114",
     "email": "timothy.devlin@jpmorgan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/05/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10855,6 +10875,23 @@
     ]
   },
   {
+    "id": "1370585",
+    "name": "FARQUHARSON, NATASHA S.",
+    "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK, NY 10111",
+    "phone": "(212) 907-5100",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STONEPEAK PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148979",
     "name": "FARREL, GLENN",
     "address": "925 L STREET, SUITE 600\nSACRAMENTO, CA 95814",
@@ -11735,6 +11772,40 @@
     "relationships": [
       {
         "entityName": "SABA CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1393286",
+    "name": "FOSTER, WILLIAM",
+    "address": "9830 COLONNADE BOULEVARD, SUITE 600\nSAN ANTONIO, TX 78230",
+    "phone": "(210) 374-1119",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AFFINIUS CAPITAL",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1465961",
+    "name": "FOX , LINDSAY",
+    "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK , NY 10001",
+    "phone": "(212) 907-5100",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STONEPEAK PARTNERS LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -14364,6 +14435,7 @@
     "phone": "(617) 913-4904",
     "email": "rxngroup@venable.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16868,6 +16940,7 @@
     "phone": "(916) 354-5787",
     "email": "jessica.howard@calbright.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22029,6 +22102,7 @@
     "phone": "(617) 913-4904",
     "email": "rxngroup@venable.com",
     "registrationDate": "04/03/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23247,6 +23321,23 @@
     "relationships": [
       {
         "entityName": "KAYNE ANDERSON CAPITAL ADVISORS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1465956",
+    "name": "MASON , RYAN ",
+    "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK , NY 10001",
+    "phone": "(212) 907-5100",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STONEPEAK PARTNERS LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -33502,6 +33593,7 @@
     "phone": "(212) 969-1168",
     "email": "compliance_ca_ab_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33585,6 +33677,7 @@
     "phone": "(310) 575-1734",
     "email": "mitch.smith@carlyle.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34537,6 +34630,24 @@
     "relationships": [
       {
         "entityName": "AEW CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1359696",
+    "name": "STUCKMAN, SCOTT",
+    "address": "9830 COLONNADE BOULEVARD, SUITE 600\nSAN ANTONIO, TX 78230",
+    "phone": "(310) 567-9300",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AFFINIUS CAPITAL",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -38567,6 +38678,23 @@
     ]
   },
   {
+    "id": "1463242",
+    "name": "WONNACOTT, SKYLER",
+    "address": "1121 L STREET, SUITE 501\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-4676",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/02/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA BUSINESS PROPERTIES ASSOCIATION AND ITS AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/02/2025"
+      }
+    ]
+  },
+  {
     "id": "1460141",
     "name": "WOOD , JAMES K.",
     "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK , FL 32789",
@@ -38596,6 +38724,22 @@
       {
         "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1424978",
+    "name": "WOODS, BRENDEN",
+    "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK, NY 10001",
+    "phone": "(212) 907-5100",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STONEPEAK PARTNERS LP",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
