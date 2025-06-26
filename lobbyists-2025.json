@@ -361,6 +361,7 @@
     "phone": "(212) 350-7700",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -935,10 +936,11 @@
   {
     "id": "1393161",
     "name": "ARAMBEL, JONATHAN",
-    "address": "1020 12TH STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "address": "1100 N STREET, SUITE 3C\nSACRAMENTO, CA 95814",
     "phone": "(916) 800-4047",
     "email": "jda@thirdhousellc.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5583,14 +5585,15 @@
     "address": "535 MADISON AVENUE, 24TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 973-8600",
     "email": "jocaron@aglcredit.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "05/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AGL CREDIT MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/01/2025"
       }
     ]
   },
@@ -9193,6 +9196,24 @@
     ]
   },
   {
+    "id": "1390745",
+    "name": "DHARMARAJAN, SHEILA",
+    "address": "110 EAST 59TH STREET, 24TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 223-1383",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ZMC ADVISORS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1425229",
     "name": "DHARNIDHARKA, IDA",
     "address": "1029 J STREET, SUITE 460\nSACRAMENTO, CA 95814",
@@ -9457,6 +9478,23 @@
         "entityName": "VERITAS CAPITAL FUND MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481217",
+    "name": "DILORETTA, NIC",
+    "address": "4400 MACARTHUR BOULEVARD, SUITE 700\nNEWPORT BEACH, CA 92660",
+    "phone": "(949) 473-7023",
+    "email": "nic.diloretta@blackrock.com",
+    "registrationDate": "05/12/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GLOBAL INFRASTRUCTURE MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/12/2025"
       }
     ]
   },
@@ -12664,6 +12702,7 @@
     "phone": "(617) 954-5000",
     "email": "kgaspar@mfs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13345,6 +13384,24 @@
     "relationships": [
       {
         "entityName": "ACORE CAPITAL",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1378013",
+    "name": "GOLDCHAIN, SCOTT ",
+    "address": "280 PARK AVENUE\nNEW YORK, NY 10017",
+    "phone": "(347) 327-0849",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "N.A. INVESTCORP LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -14222,6 +14279,22 @@
       {
         "entityName": "PACIFIC INVESTMENT MANAGEMENT COMPANY LLC",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1337950",
+    "name": "GREEN, JAMES WILLIAM",
+    "address": "333 GREENWICH AVE.\nGREENWICH, CT 06830",
+    "phone": "(203) 869-4800",
+    "email": "jwg@searleco.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SEARLE & CO",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -16056,6 +16129,22 @@
     ]
   },
   {
+    "id": "1481869",
+    "name": "HENDERSON, JASON",
+    "address": "2017 O STREET\nSACRAMENTO, CA 95811",
+    "phone": "(916) 600-3457",
+    "email": "jhenderson@caedge.org",
+    "registrationDate": "07/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1223125",
     "name": "HENNELLY, MARK M.",
     "address": "1346 BLUE OAKS BOULEVARD\nROSEVILLE, CA 95678",
@@ -16261,6 +16350,7 @@
     "phone": "(916) 266-4575",
     "email": "whickox@calstrat.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20027,6 +20117,24 @@
     ]
   },
   {
+    "id": "1363061",
+    "name": "KNUTSEN, JOHN E.",
+    "address": "THREE FIRST NATIONAL PLAZA, SUITE 4600\nCHICAGO, IL 60602",
+    "phone": "(312) 895-1000",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MADISON DEARBORN PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1477223",
     "name": "KOELLIKER, MATTHEW",
     "address": "555 CALIFORNIA STREET\nSAN FRANCISCO, CA 94104",
@@ -22515,6 +22623,23 @@
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
         "effectiveDate": "02/25/2025"
+      }
+    ]
+  },
+  {
+    "id": "1442951",
+    "name": "MAHAFFY, SHANNON",
+    "address": "888 7TH AVENUE, 18TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 849-9600",
+    "email": "investorrelations@lonestarfunds.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MAHAFFY; SHANNON",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -25289,6 +25414,7 @@
     "phone": "(972) 715-7489",
     "email": "brooks.monroe@invesco.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27109,6 +27235,7 @@
     "address": "20 AIR STREET\nLONDON UK W1B 5AN",
     "email": "evelina.olago@justclimate.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27250,6 +27377,23 @@
         "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481916",
+    "name": "ONUMAH, CAMERON",
+    "address": "51 WEST 52ND STREET\nNEW YORK, NY 10019",
+    "phone": "(240) 331-8804",
+    "email": "conumah.orrick@fiveringslaw.com",
+    "mailingAddress": "C/O 3903 FAIR RIDGE DRIVE, SUITE L-119\nFAIRFAX, VA 22033\nPhone: (240) 331-8804",
+    "registrationDate": "06/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ORRICK HERRINGTON & SUTCLIFFE, LLP",
+        "type": "Firm",
+        "effectiveDate": "06/01/2025"
       }
     ]
   },
@@ -29722,6 +29866,7 @@
     "email": "rraymer@cbia.org",
     "mailingAddress": "5525 CLAUDIED\nELK GROVE, CA 95757",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30643,6 +30788,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2025",
     "status": "Active",
     "relationships": [
       {
@@ -32283,6 +32429,22 @@
     "relationships": [
       {
         "entityName": "SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 1000",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1464364",
+    "name": "SCHREWELIUS, ELLINOR",
+    "address": "BIRGER JARLSGATAN 41 A\nSTOCKHOLM SWEDEN 111 45",
+    "email": "ellinor.schrewelius@verdane.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VERDANE FUND MANAGER AB",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
