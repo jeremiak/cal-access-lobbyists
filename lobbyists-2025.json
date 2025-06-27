@@ -1085,6 +1085,22 @@
     ]
   },
   {
+    "id": "1481767",
+    "name": "ARNWINE, MARSHAL",
+    "address": "980 9TH STREET, SUITE 260\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1036",
+    "email": "marnwine@acluca.org",
+    "registrationDate": "06/09/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACLU CALIFORNIA ACTION",
+        "type": "Employer",
+        "effectiveDate": "06/09/2025"
+      }
+    ]
+  },
+  {
     "id": "1449401",
     "name": "ARONIN, RUBEN",
     "address": "801 SOUTH GRAND AVENUE, SUITE 200\nLOS ANGELES, CA 90017",
@@ -5177,6 +5193,24 @@
     ]
   },
   {
+    "id": "1439346",
+    "name": "CAMPBELL, CATHERINE",
+    "address": "1114 AVENUE OF THE AMERICAS, 20TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(916) 890-3670",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO , CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ANTIN INFRASTRUCTURE PARTNERS US SERVICES LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1459364",
     "name": "CAMPBELL, CATHERINE",
     "address": "345 PARK AVENUE\nNEW YORK, NY 10154",
@@ -6719,6 +6753,7 @@
     "phone": "(212) 220-5224",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8182,14 +8217,15 @@
     "address": "10 SOUTH DEARBORN STREET, 38TH FLOOR\nCHICAGO, IL 60603",
     "phone": "(312) 385-8330",
     "email": "rculver@jpmorgan.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "05/29/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SECURITY CAPITAL RESEARCH & MANAGEMENT INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/29/2025"
       }
     ]
   },
@@ -10418,6 +10454,22 @@
     ]
   },
   {
+    "id": "1481955",
+    "name": "EISENPRESSER, JACKSON",
+    "address": "725 FIFTH AVENUE, 24TH FLOOR\nNEW YORK, NY",
+    "phone": "(917) 544-7030",
+    "email": "jackson.eisenpresser@abgadvisory.com",
+    "registrationDate": "06/24/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ABG, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/24/2025"
+      }
+    ]
+  },
+  {
     "id": "1462378",
     "name": "EL-ASMAR, MARWAN",
     "address": "550 MADISON AVENUE, 27TH FLOOR\nNEW YORK, NY 10022",
@@ -11286,6 +11338,7 @@
     "phone": "(207) 968-7465",
     "email": "lobbyistsf@cheynecapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13270,6 +13323,21 @@
         "entityName": "INDUS CAPITAL PARTNERS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481758",
+    "name": "GLEITZ, SABRINA",
+    "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
+    "phone": "(667) 204-0219",
+    "registrationDate": "06/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AXIOM ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "06/13/2025"
       }
     ]
   },
@@ -15527,6 +15595,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16292,19 +16361,36 @@
     ]
   },
   {
+    "id": "1414765",
+    "name": "HESS, ALEXANDRA",
+    "address": "21 STREET JAMES' SQUARE\nLONDON UK SW1Y 4JZ",
+    "email": "alexandra.hess@cinven.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CINVEN AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1428828",
     "name": "HEWITT, SHAUNA",
     "address": "71 SOUTH WACKER DRIVE, SUITE 800\nCHICAGO, IL 60606",
     "phone": "(312) 964-3029",
     "email": "shauna.hewitt@lgima.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/05/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LEGAL & GENERAL INVESTMENT MANAGEMENT AMERICA, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/05/2025"
       }
     ]
   },
@@ -17082,6 +17168,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19460,6 +19547,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20224,6 +20312,7 @@
     "phone": "(475) 550-4346",
     "email": "ckojima@generalatlantic.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20358,6 +20447,7 @@
     "phone": "(754) 218-5500",
     "email": "jkroll@gqg.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21199,6 +21289,7 @@
     "phone": "(212) 303-6180",
     "email": "slegister@bdtmsd.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23695,6 +23786,22 @@
     ]
   },
   {
+    "id": "1481958",
+    "name": "MAY, JOHN",
+    "address": "71 SOUTH WACKER DRIVE, SUITE 800\nCHICAGO, IL 60606",
+    "phone": "(312) 964-3125",
+    "email": "john.may@lgima.com",
+    "registrationDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEGAL & GENERAL INVESTMENT MANAGEMENT AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "06/20/2025"
+      }
+    ]
+  },
+  {
     "id": "1456902",
     "name": "MAYES, CHAD",
     "address": "1301 I STREET\nSACRAMENTO, CA 95814",
@@ -24385,6 +24492,7 @@
     "phone": "(310) 552-8903",
     "email": "compliance_ca_nuveen_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24770,6 +24878,7 @@
     "phone": "(916) 447-6733",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24938,6 +25047,23 @@
     "relationships": [
       {
         "entityName": "ARDIAN US LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477590",
+    "name": "MILLER, JORDAN",
+    "address": "540 MADISON AVENUE\nNEW YORK, NY 10022",
+    "phone": "(916) 442-7757",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -26181,6 +26307,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26935,6 +27062,7 @@
     "phone": "(916) 442-0753",
     "email": "kobrien@wclp.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -29420,6 +29548,7 @@
     "phone": "(212) 235-1000",
     "email": "cquality@redbirdcap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30287,6 +30416,23 @@
     "relationships": [
       {
         "entityName": "CONNOR, CLARK & LUNN FINANCIAL GROUP LTD., AND ITS AFFILIATES, INCLUDING CONNOR, CLARK & LUNN (USA) LTD.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1467816",
+    "name": "RIEDELL, JUSTIN",
+    "address": "12 EAST 49TH STREET, 43RD FLOOR\nNEW YORK, NY 10017",
+    "phone": "(917) 565-1483",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CINVEN AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -31339,6 +31485,7 @@
     "phone": "(310) 478-4005",
     "email": "erozell@aristotlecap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35659,6 +35806,7 @@
     "phone": "(416) 362-7711",
     "email": "ethompson@onex.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37589,6 +37737,24 @@
     ]
   },
   {
+    "id": "1470645",
+    "name": "WALLS, KEVIN",
+    "address": "540 MADISON AVENUE, 30TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(646) 688-1591",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1376420",
     "name": "WALSH, JENNIFER F.",
     "address": "3000 K STREET NW, SUITE 600\nWASHINGTON , DC 20007",
@@ -39021,6 +39187,22 @@
         "entityName": "WESTERN MANUFACTURED HOUSING COMMUNITIES ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1459457",
+    "name": "YAHYA, ZEENAT",
+    "address": "980 9TH STREET, SUITE 260\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-1036",
+    "email": "zyahya@acluca.org",
+    "registrationDate": "06/09/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACLU CALIFORNIA ACTION",
+        "type": "Employer",
+        "effectiveDate": "06/09/2025"
       }
     ]
   },
