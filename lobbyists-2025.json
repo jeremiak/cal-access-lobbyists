@@ -611,6 +611,23 @@
     ]
   },
   {
+    "id": "1467828",
+    "name": "AMANFOR, EMMANUEL",
+    "address": "2827 NORCROSS DRIVE\nSACRAMENTO, CA 95833",
+    "phone": "(916) 318-0914",
+    "email": "eaforsac@gmail.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EAMG LLC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1477221",
     "name": "AMAVISCA, ANDREA",
     "address": "1231 I STREET, SUITE 400\nSACRAMENTO, CA 95814",
@@ -3676,6 +3693,7 @@
     "phone": "(617) 357-1235",
     "email": "trevor.boire@blackrock.com",
     "registrationDate": "01/23/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4561,6 +4579,7 @@
     "phone": "(212) 257-6008",
     "email": "dbrown@waterfallam.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10493,6 +10512,7 @@
     "phone": "(212) 257-4614",
     "email": "seliran@waterfallam.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13567,6 +13587,7 @@
     "phone": "(646) 330-9846",
     "email": "agolynskaya@nea.com",
     "registrationDate": "05/12/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16617,6 +16638,22 @@
     ]
   },
   {
+    "id": "1481889",
+    "name": "HION, BRITTA",
+    "address": "240 GREENWICH STREET\nNEW YORK, NY 10286",
+    "phone": "(347) 767-8964",
+    "email": "britta.hion@bny.com",
+    "registrationDate": "06/23/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEWTON INVESTMENT MANAGEMENT NORTH AMERICA, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/23/2025"
+      }
+    ]
+  },
+  {
     "id": "1461646",
     "name": "HIRSCH, MALCOLM",
     "address": "730 THIRD AVENUE\nNEW YORK, NY 10017",
@@ -17032,6 +17069,7 @@
     "email": "jhstrategicadvocate@gmail.com",
     "mailingAddress": "P.O. BOX 90932\nLOS ANGELES, CA 90000",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18012,6 +18050,7 @@
     "phone": "(617) 531-6343",
     "email": "njessey@arclight.com",
     "registrationDate": "05/29/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21530,6 +21569,7 @@
     "phone": "(212) 400-8425",
     "email": "compliance@octagoncredit.com",
     "registrationDate": "05/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24409,6 +24449,7 @@
     "phone": "(212) 822-0589",
     "email": "smcmurtry@apollo.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24559,6 +24600,7 @@
     "phone": "(646) 965-8587",
     "email": "compliance@octagoncredit.com",
     "registrationDate": "05/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34730,6 +34772,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -39280,6 +39323,7 @@
     "phone": "(916) 442-2952",
     "email": "myedidia@unitehere.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
