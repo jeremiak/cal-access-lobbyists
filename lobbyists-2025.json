@@ -550,6 +550,7 @@
     "phone": "(408) 646-7003",
     "email": "aalvarado@caedge.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2502,6 +2503,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3018,13 +3020,14 @@
     "address": "915 L STREET, SUITE 1150\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-2237",
     "email": "jberry@yourcba.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "06/01/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA BROADCASTERS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/01/2025"
       }
     ]
   },
@@ -4458,6 +4461,22 @@
     ]
   },
   {
+    "id": "1478720",
+    "name": "BROETZ, ANAMICA GAWRI",
+    "address": "205 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 528-2970",
+    "email": "anamica.broetz@brookfield.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1386221",
     "name": "BROKAW, NICHOLAS K.",
     "address": "1215 K STREET, SUITE 2030\nSACRAMENTO, CA 95814",
@@ -4680,6 +4699,7 @@
     "phone": "(916) 446-2788",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9725,6 +9745,7 @@
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10680,6 +10701,7 @@
     "phone": "(212) 571-1244",
     "email": "jcottrill@hudsonbaycapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12843,6 +12865,7 @@
     "email": "blueowl@nmgovlaw.com",
     "mailingAddress": "C/O 2350 KERNER BOULEVARD SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16289,6 +16312,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "04/14/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20590,6 +20614,7 @@
     "phone": "(213) 978-0600",
     "email": "nicole.kurian@lacity.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21056,6 +21081,7 @@
     "phone": "(916) 442-5009",
     "email": "judco12000@yahoo.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25475,6 +25501,7 @@
     "phone": "(916) 446-2788",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26678,6 +26705,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "02/10/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30136,6 +30164,7 @@
     "phone": "(916) 233-3772",
     "email": "creardon@cfbf.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31278,6 +31307,7 @@
     "phone": "(212) 390-2792",
     "email": "william.rosener@blackstone.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34672,6 +34702,7 @@
     "phone": "(916) 446-2788",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
