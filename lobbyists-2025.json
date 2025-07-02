@@ -2419,13 +2419,14 @@
     "address": "601 LEXINGTON AVENUE, 53RD FLOOR\nNEW YORK, NY 10022",
     "phone": "(929) 668-4276",
     "email": "ania.batko@apax.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "06/30/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "APAX PARTNERS US, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -5199,6 +5200,23 @@
     ]
   },
   {
+    "id": "1479650",
+    "name": "CALLAGHAN, BROOKE",
+    "address": "660 STEAMBOAT ROAD, 1ST FLOOR\nGREENWICH, CT 06830",
+    "phone": "(203) 742-0939",
+    "email": "bcallaghan@gallatinpoint.com",
+    "registrationDate": "01/16/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GALLATIN POINT CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/16/2025"
+      }
+    ]
+  },
+  {
     "id": "1471423",
     "name": "CALLANAN, BILL",
     "address": "767 FIFTH AVENUE, 50TH FLOOR\nNEW YORK, NY 10153",
@@ -6270,6 +6288,7 @@
     "phone": "(312) 578-0033",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9762,6 +9781,7 @@
     "phone": "(916) 326-5800",
     "email": "ddolfie@cmua.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11047,6 +11067,7 @@
     "phone": "(603) 501-7344",
     "email": "e.farrington@impaxam.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11347,6 +11368,7 @@
     "phone": "(916) 441-6974",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11578,14 +11600,15 @@
     "phone": "(312) 683-1900",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/20/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VALOR MANAGEMENT LLC AND ITS SUBSIDIARIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/20/2025"
       }
     ]
   },
@@ -12527,6 +12550,7 @@
     "phone": "(212) 293-4040",
     "email": "jgalateria@eaglecap.com",
     "registrationDate": "06/04/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15926,6 +15950,7 @@
     "phone": "(201) 827-6399",
     "email": "ghaws@lordabbett.com",
     "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15960,6 +15985,7 @@
     "email": "khp@asantecapital.com",
     "mailingAddress": "10 EAST, 53RD STREET- 12TH FLOOR\nNEW YORK, NY 10022",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16548,6 +16574,7 @@
     "phone": "(617) 330-9333",
     "email": "jhigley@incomeresearch.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16684,6 +16711,7 @@
     "phone": "(847) 565-9155",
     "email": "compliance_ca_nuveen_9@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16927,6 +16955,7 @@
     "address": "5 BRYANT STREET, SUITE 23\nNEW YORK, NY 10018",
     "phone": "(646) 832-4498",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -17076,6 +17105,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -17770,6 +17800,7 @@
     "phone": "(914) 241-7430",
     "email": "jaidev@kohlberg.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -17833,29 +17864,13 @@
   },
   {
     "id": "1342666",
-    "name": "JANSE VAN RENSBURG, FRASER S.",
-    "address": "10 EAST, 53RD STREET, 12TH FLOOR\nNEW YORK, NY 10022",
-    "phone": "(646) 694-9615",
-    "email": "fvr@asantecapital.com",
-    "mailingAddress": "10 EAST, 53RD STREET-12TH FLOOR\nNEW YORK, NY 10022",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ASANTE CAPITAL GROUP ADVISORS LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1342666",
     "name": "JANSE VAN RENSBURG, FRASER SIMPSON",
     "address": "10 EAST, 53RD STREET, 12TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(646) 694-9615",
     "email": "fvr@asantecapital.com",
     "mailingAddress": "10 EAST, 53RD STREET-12TH FLOOR\nNEW YORK, NY 10022",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19186,6 +19201,7 @@
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21989,6 +22005,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23028,6 +23045,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23449,6 +23467,7 @@
     "email": "firm@cprastrategies.com",
     "mailingAddress": "600 W BROADWAY SUITE 700\nSACRAMENTO , CA 92101\nPhone: (916) 672-0916\nEmail: firm@cprastrategies.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23566,6 +23585,7 @@
     "phone": "(212) 671-4500",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23599,6 +23619,7 @@
     "phone": "(310) 284-6445",
     "email": "umaslesa@kaynecapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23685,6 +23706,7 @@
     "phone": "(212) 624-1200",
     "email": "jmather@cifc.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -23701,6 +23723,7 @@
     "phone": "(209) 244-2888",
     "email": "amathews@faccc.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24207,6 +24230,7 @@
     "phone": "(212) 756-3508",
     "email": "katie.mcdowell@greycroft.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24424,15 +24448,9 @@
     "address": "51 MADISON AVENUE\nNEW YORK, NY 10010",
     "phone": "(917) 703-4071",
     "email": "shane.mcmahon@nylinvestments.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NEW YORK LIFE INVESTMENT MANAGEMENT LLC AND ITS AFFILLIATES MACKAY SHIELDS, CANDRIAM, AND APOGEM CAPITAL LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1431972",
@@ -26039,6 +26057,7 @@
     "phone": "(617) 330-9333",
     "email": "emueller@incomeresearch.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27973,6 +27992,7 @@
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28071,6 +28091,7 @@
     "phone": "(212) 293-4040",
     "email": "cpaolella@eaglecap.com",
     "registrationDate": "06/04/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28633,6 +28654,7 @@
     "phone": "(212) 826-7563",
     "email": "grey@caspianlp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
