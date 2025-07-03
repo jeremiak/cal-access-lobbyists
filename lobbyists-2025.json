@@ -1330,6 +1330,7 @@
     "address": "FLOOR 2 EAST CARRINGTON HOUSE, 126-130\nLONDON, ENGLAND W1B 5SE 11111",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -2420,6 +2421,7 @@
     "phone": "(929) 668-4276",
     "email": "ania.batko@apax.com",
     "registrationDate": "06/30/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Terminated",
     "relationships": [
       {
@@ -3798,6 +3800,7 @@
     "address": "5TH FLOOR 20 AIR STREET\nLONDON UK W1B 5AN",
     "email": "tequila.bone@bregal.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -4462,22 +4465,6 @@
     ]
   },
   {
-    "id": "1478720",
-    "name": "BROETZ, ANAMICA GAWRI",
-    "address": "205 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
-    "phone": "(212) 528-2970",
-    "email": "anamica.broetz@brookfield.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1386221",
     "name": "BROKAW, NICHOLAS K.",
     "address": "1215 K STREET, SUITE 2030\nSACRAMENTO, CA 95814",
@@ -4633,6 +4620,7 @@
     "phone": "(404) 216-6164",
     "email": "lewis.brown@csh.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -5611,6 +5599,7 @@
     "phone": "(916) 444-6201",
     "email": "kcarmichael@adamsbroadwell.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13409,6 +13398,21 @@
     ]
   },
   {
+    "id": "1481689",
+    "name": "GLENN, LAURA",
+    "address": "225 FRANKLIN STREET, SUITE 2700\nBOSTON, MA 02110",
+    "phone": "(617) 722-4700",
+    "registrationDate": "06/05/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
+        "type": "Employer",
+        "effectiveDate": "06/05/2025"
+      }
+    ]
+  },
+  {
     "id": "1442215",
     "name": "GLENN, STEVEN G.",
     "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
@@ -18308,6 +18312,7 @@
     "phone": "(650) 589-1660",
     "email": "djohnston@adamsbroadwell.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -18410,6 +18415,7 @@
     "phone": "(801) 455-4230",
     "email": "ben.jones@magellangroup.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -18443,6 +18449,7 @@
     "phone": "(916) 804-2499",
     "email": "teamdavejones@gmail.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19064,6 +19071,7 @@
     "phone": "(203) 489-1459",
     "email": "compliance@oneriveram.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19726,6 +19734,7 @@
     "phone": "(212) 756-3508",
     "email": "gabriella@greycroft.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20054,6 +20063,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20342,6 +20352,7 @@
     "phone": "(212) 516-3173",
     "email": "michael.koester@5cinvest.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
@@ -20979,6 +20990,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(202) 296-8086",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21065,6 +21077,7 @@
     "email": "bl@asantecapital.com",
     "mailingAddress": "10 EAST 53RD STREET, 12TH FLOOR\nNEW YORK, NY 10022",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21081,6 +21094,7 @@
     "phone": "(212) 232-1420",
     "email": "compliance@capstoneco.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21165,6 +21179,7 @@
     "email": "hfl@leal-law.com",
     "mailingAddress": "3767 WORSHAM AVENUE\nLONG BEACH, CA 90808",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21286,6 +21301,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP. 428 J STREET. STE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24510,6 +24526,7 @@
     "phone": "(617) 424-4700",
     "email": "kevin.mcnamara@martingale.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24571,6 +24588,16 @@
     ]
   },
   {
+    "id": "1414610",
+    "name": "MC RAE, NATHALIE",
+    "address": "4 EMBARCADERO CENTER, SUITE 3300\nSAN FRANCISCO, CA 94111",
+    "phone": "(770) 363-4443",
+    "email": "judson@stockbridge.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1346826",
     "name": "MC RAY, KENNETH ",
     "address": "2029 CENTURY PARK EAST, 16TH FLOOR\nLOS ANGELES, CA 90067",
@@ -24611,6 +24638,7 @@
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24710,6 +24738,7 @@
     "address": "5008 BENT CREEK COURT\nEL DORADO HILLS, CA 95762",
     "phone": "(916) 932-3018",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -24725,8 +24754,8 @@
     "address": "38 EAST 19TH STREET, 8TH FLOOR\nNEW YORK, NY 10003",
     "phone": "(908) 256-4073",
     "email": "jm@connaught.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CONNAUGHT (US) LLC",
@@ -30522,6 +30551,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39902,6 +39932,7 @@
     "phone": "(212) 888-3413",
     "email": "compliance@muzinich.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
