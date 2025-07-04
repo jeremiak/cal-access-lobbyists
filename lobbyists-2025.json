@@ -4393,7 +4393,8 @@
       {
         "entityName": "NORTHERN CALIFORNIA WATER ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -4459,6 +4460,22 @@
     "relationships": [
       {
         "entityName": "CANYON PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1478720",
+    "name": "BROETZ, ANAMICA GAWRI",
+    "address": "205 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 528-2970",
+    "email": "anamica.broetz@brookfield.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -11718,6 +11735,23 @@
     ]
   },
   {
+    "id": "1481543",
+    "name": "FLEMING, CHRISTINE",
+    "address": "101 HUNTINGTON AVENUE\nBOSTON, MA 02199",
+    "phone": "(857) 370-3972",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "06/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
+        "type": "Employer",
+        "effectiveDate": "06/30/2025"
+      }
+    ]
+  },
+  {
     "id": "1470705",
     "name": "FLEMMING, MICHAEL",
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
@@ -16135,6 +16169,22 @@
     ]
   },
   {
+    "id": "1423246",
+    "name": "HECKMANN, KASSIDY M.",
+    "address": "1800 CENTURY PARK EAST, 8TH FLOOR\nLOS ANGELES, CA 90067",
+    "phone": "(310) 315-8200",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MC GUIREWOODS CONSULTING, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1451605",
     "name": "HEIDELBACH, KRISTIN",
     "address": "8530 STANTON AVENUE, SUITE 2A\nBUENA PARK, CA 90620",
@@ -19751,6 +19801,7 @@
     "phone": "(917) 304-8837",
     "email": "jb.kiley@bridgepoint.eu",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -39966,6 +40017,7 @@
     "phone": "(212) 715-3880",
     "email": "mzwebner@thirdpoint.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
