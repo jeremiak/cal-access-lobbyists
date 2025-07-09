@@ -10381,6 +10381,22 @@
     ]
   },
   {
+    "id": "1482072",
+    "name": "EADDY, OLIVIA CASTELLO",
+    "address": "320 PARK AVENUE, 23RD FLOOR\nNEW YORK, NY 10022-4690",
+    "phone": "(917) 374-1408",
+    "email": "olivia.eaddy@permira.com",
+    "registrationDate": "07/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1427359",
     "name": "EASLEY, MATTHEW",
     "address": "1201 K STREET, SUITE 750\nSACRAMENTO, CA 95814",
@@ -11680,6 +11696,7 @@
     "phone": "(212) 761-0252",
     "email": "natalie.fitch@morganstanley.com",
     "registrationDate": "05/05/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14291,6 +14308,22 @@
         "entityName": "NATIONAL CENTER FOR YOUTH LAW",
         "type": "Employer",
         "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481943",
+    "name": "GRAD, ALISSA",
+    "address": "330 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(212) 516-3194",
+    "email": "alissa.grad@5cinvest.com",
+    "registrationDate": "06/25/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "5C INVESTMENT PARTNERS ADVISOR LLC",
+        "type": "Employer",
+        "effectiveDate": "06/25/2025"
       }
     ]
   },
@@ -17916,6 +17949,7 @@
     "phone": "(202) 637-8924",
     "email": "compliance_ca_nuveen_10@multistate.u",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21622,6 +21656,7 @@
     "phone": "(212) 390-1820",
     "email": "rlemberg@itemgmt.com",
     "registrationDate": "04/08/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25308,15 +25343,9 @@
     "address": "1370 AVENUE OF THE AMERICAS\nNEW YORK, NY 10019",
     "phone": "(212) 506-5610",
     "email": "douglas.miller@ardian.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ARDIAN US LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1477590",
@@ -25584,15 +25613,9 @@
     "address": "51 MADISON AVENUE\nNEW YORK, NY 10010",
     "phone": "(212) 315-1483",
     "email": "chris.mitrovich@apogemcapital.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NEW YORK LIFE INVESTMENT MANAGEMENT LLC AND ITS AFFILLIATES MACKAY SHIELDS, CANDRIAM, AND APOGEM CAPITAL LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1477945",
@@ -31271,6 +31294,7 @@
     "phone": "(213) 400-8664",
     "email": "jaime@rojascommunications.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -32194,6 +32218,7 @@
     "phone": "(646) 776-8140",
     "email": "rachel.salerno@artemisrep.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
