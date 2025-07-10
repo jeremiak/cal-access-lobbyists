@@ -4212,6 +4212,22 @@
     ]
   },
   {
+    "id": "1471539",
+    "name": "BREIT, ZACHARY",
+    "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 382-9333",
+    "email": "zachary.breit@brookfield.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1466451",
     "name": "BRENNAN, SARAH",
     "address": "1215 K STREET, SUITE 2290\nSACRAMENTO, CA 95814",
@@ -4355,6 +4371,7 @@
     "email": "ethan.brier@brookfield.com",
     "mailingAddress": "14749 VALLEY VISTA BOULEVARD\nSHERMAN OAKS, CA 91403",
     "registrationDate": "06/20/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5990,14 +6007,15 @@
     "address": "601 LEXINGTON AVENUE, 53RD FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 419-2496",
     "email": "andrew.cavanna@apax.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "APAX PARTNERS US, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -13705,6 +13723,23 @@
     ]
   },
   {
+    "id": "1459929",
+    "name": "GOLDSMITH, DALE J.",
+    "address": "12100 WILSHIRE BLVD, SUITE 1600\nLOS ANGELES, CA 90025",
+    "phone": "(310) 209-8800",
+    "email": "ruey@agd-landuse.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARMBRUSTER GOLDSMITH & DELVAC LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1467276",
     "name": "GOLDSTEIN, DAVID",
     "address": "600 WASHINGTON BOULEVARD\nSTAMFORD, CT 06901",
@@ -15750,6 +15785,22 @@
     ]
   },
   {
+    "id": "1334630",
+    "name": "HARRIS, CHRISTOPHER M.",
+    "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281-1023",
+    "phone": "(602) 617-2345",
+    "email": "chris.harris@brookfield.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1470195",
     "name": "HARRIS, DAVID",
     "address": "440 N BARRANCA AVENUE, #3263\nCOVINA, CA 91723",
@@ -17182,10 +17233,11 @@
   {
     "id": "1448276",
     "name": "HOMAYOUN, ALI",
-    "address": "395 9TH AVE, 1 MANHATTAN STREET, 56TH FL\nNEW YORK, NY 10001",
+    "address": "66 HUDSON BOULEVARD, 65TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 455-0419",
     "email": "ali.homayoun@eislercapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25960,6 +26012,22 @@
     ]
   },
   {
+    "id": "1467776",
+    "name": "MORALES, MATEO PALACIO",
+    "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 417-2559",
+    "email": "mateo.palacio@brookfield.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1322086",
     "name": "MORALES, SANDRA S.",
     "address": "3424 MCKINLEY VILLAGE WAY\nSACRAMENTO, CA 95816",
@@ -28775,10 +28843,11 @@
   {
     "id": "1448275",
     "name": "PENA, ANDREW",
-    "address": "395 9TH AVENUE, 1 MANHATTAN WEST, 56TH FL\nNEW YORK, NY 10001",
+    "address": "66 HUDSON BOULEVARD, 65TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 455-0419",
     "email": "andrew.pena@eislercapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29052,6 +29121,22 @@
     "relationships": [
       {
         "entityName": "UBS ASSET MANAGEMENT (AMERICAS) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1460803",
+    "name": "PETROW, HELEN",
+    "address": "250 VESEY STREET\nNEW YORK, NY 10281",
+    "phone": "(212) 618-3491",
+    "email": "helen.petrow@brookfiled.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -29723,6 +29808,25 @@
     ]
   },
   {
+    "id": "1294690",
+    "name": "PRIEST, TODD",
+    "address": "432 MENDOZA TERRACE\nCORONA DEL MAR, CA 92625",
+    "phone": "(949) 287-2297",
+    "email": "todd@toddpriest.com",
+    "mailingAddress": "P.O. BOX 1021\nCORONA DEL MAR, CA 92625\nPhone: (949) 287-2297\nEmail: todd@toddpriest.com",
+    "registrationDate": "06/10/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "PRIEST AND ASSOCIATES; TODD",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/10/2025"
+      }
+    ]
+  },
+  {
     "id": "1467748",
     "name": "PRINCE, ELIZABETH",
     "address": "590 PACIFIC AVENUE\nSAN FRANCISCO, CA 94133",
@@ -30070,10 +30174,11 @@
   {
     "id": "1449295",
     "name": "RAFFEL, ALIZA",
-    "address": "395 9TH AVENUE, 1 MANHATTAN WEST, 56TH FL\nNEW YORK, NY 10001",
+    "address": "66 HUDSON BOULEVARD, 65TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 455-0430",
     "email": "aliza.raffel@eislercapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30113,6 +30218,23 @@
     "relationships": [
       {
         "entityName": "PGIM, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1478072",
+    "name": "RAHE, CHRISTOPHER P.",
+    "address": "12680 HIGH BLUFF DRIVE, SUITE 400\nSAN DIEGO, CA 92130",
+    "phone": "(858) 703-4401",
+    "email": "compliance@ecpgp.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENERGY CAPITAL PARTNERS MANAGEMENT, LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -32513,6 +32635,23 @@
     "relationships": [
       {
         "entityName": "CVS HEALTH",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481800",
+    "name": "SARABI, RACHAEL",
+    "address": "12130 MILLENNIUM DRIVE, SUITE 300\nLOS ANGELES, CA 90094",
+    "phone": "(949) 779-2590",
+    "email": "rsarabi@eastbeacham.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EAST BEACH ASSET MANAGEMENT",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -34945,6 +35084,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35138,6 +35278,22 @@
       {
         "entityName": "STONE ADVOCACY",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1466632",
+    "name": "STORZ, FREDERICK",
+    "address": "12680 HIGH BLUFF DRIVE, SUITE 400\nSAN DIEGO, CA 92130",
+    "phone": "(858) 703-4401",
+    "email": "compliance@ecpgp.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENERGY CAPITAL PARTNERS MANAGEMENT, LP",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -38729,6 +38885,22 @@
         "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482193",
+    "name": "WESSON, HERB",
+    "address": "304 SOUTH BROADWAY, #207\nLOS ANGELES, CA 90013",
+    "phone": "(213) 624-1380",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "06/25/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MERCURY PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "06/24/2025"
       }
     ]
   },
