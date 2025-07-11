@@ -91,15 +91,9 @@
     "address": "3446 GUNDRY AVENUE\nLONG BEACH, CA 90807",
     "phone": "(310) 592-1503",
     "email": "jguard@kaufmanlegalgroup.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "GUNDRY GROUP STRATEGIES, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1411571",
@@ -820,14 +814,15 @@
     "address": "100 EAST PRATT STREET\nBALTIMORE, MD 21202",
     "phone": "(415) 772-1157",
     "email": "meenu.annamalai@troweprice.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "T. ROWE PRICE ASSOCIATES, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "04/01/2025"
       }
     ]
   },
@@ -1233,6 +1228,7 @@
     "phone": "(916) 712-0071",
     "email": "kevin.aslanian@ccwro.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1961,6 +1957,23 @@
     ]
   },
   {
+    "id": "1481960",
+    "name": "BARCIA, MADELINE",
+    "address": "40 10TH AVENUE, 5TH FLOOR\nNEW YORK, NY 10014",
+    "phone": "(916) 890-3670",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "07/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STRIPES",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1476890",
     "name": "BARDINELLI, MARA",
     "address": "520 MADISON AVENUE, FLOOR 25\nNEW YORK, NY 10022",
@@ -2166,6 +2179,22 @@
         "entityName": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1469129",
+    "name": "BARRERA, LINDA",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(202) 296-8086",
+    "registrationDate": "05/30/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "AJW, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/30/2025"
       }
     ]
   },
@@ -2455,6 +2484,7 @@
     "address": "1801 L STREET, SUITE 20\nSACRAMENTO, CA 95811",
     "phone": "(916) 502-1453",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6782,6 +6812,23 @@
     ]
   },
   {
+    "id": "1435282",
+    "name": "CHRISTOPHER, MARK",
+    "address": "1114 6TH AVENUE, 16TH FLOOR\nNEW YORK, NY 10036",
+    "phone": "(347) 991-6247",
+    "email": "mark.christopher@hgcapital.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HG (US) INC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1478141",
     "name": "CHU, HYACINTH",
     "address": "1700 BROADWAY, 35TH FLOOR\nNEW YORK, NY 10019",
@@ -7090,6 +7137,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "06/02/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9307,6 +9355,7 @@
     "phone": "(562) 951-4025",
     "email": "hdevine@calstate.edu",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12298,6 +12347,23 @@
     ]
   },
   {
+    "id": "1478574",
+    "name": "FREEMAN, TOM",
+    "address": "38 EAST 19TH STREET, 8TH FLOOR\nNEW YORK, NY 10003",
+    "phone": "(781) 507-5728",
+    "email": "tf@connaught.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONNAUGHT (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1463756",
     "name": "FRENCH, REBECCA",
     "address": "600 LEXINGTON AVENUE\nNEW YORK, NY 10022",
@@ -13895,6 +13961,7 @@
     "phone": "(916) 449-2850",
     "email": "compliance@olsnremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14778,6 +14845,23 @@
     "relationships": [
       {
         "entityName": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES,  AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1415046",
+    "name": "GRIFFITH, TYLER D.",
+    "address": "100 FEDERAL STREET, 36TH FLOOR\nBOSTON, MA 02110",
+    "phone": "(617) 946-2613",
+    "email": "tgriffith@thl.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEE PARTNERS, L.P.; THOMAS H.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -16538,6 +16622,22 @@
     ]
   },
   {
+    "id": "1481895",
+    "name": "HENRY, CHRISTOPHER M.",
+    "address": "11513 WEST PICO BOULEVARD\nLOS ANGELES, CA 90064",
+    "phone": "(310) 895-7911",
+    "email": "chenry@majestic-hospitality.com",
+    "registrationDate": "06/10/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MAJESTIC HOSPITALITY GROUP INC.",
+        "type": "Firm",
+        "effectiveDate": "06/10/2025"
+      }
+    ]
+  },
+  {
     "id": "1376696",
     "name": "HENSCHEL, SEAN P.",
     "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
@@ -17715,6 +17815,7 @@
     "phone": "(212) 605-6081",
     "email": "jhwang@onerockcapital",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18190,6 +18291,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20908,6 +21010,7 @@
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21471,6 +21574,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/17/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482287",
+    "name": "LEDFORD, JODAN",
+    "address": "2300 NORTH RIDGETOP ROAD\nSANTE FE, NM 87506",
+    "phone": "(800) 847-0200",
+    "email": "jledford@thornburg.com",
+    "registrationDate": "07/02/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "THORNBURG INVESTMENT MANAGEMENT, INC.",
+        "type": "Employer",
+        "effectiveDate": "07/02/2025"
       }
     ]
   },
@@ -22106,6 +22225,23 @@
     "relationships": [
       {
         "entityName": "LEADINGAGE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1439868",
+    "name": "LINTON, EMEKA",
+    "address": "100 FEDERAL STREET, 35TH FLOOR\nBOSTON, MA 02110",
+    "phone": "(617) 748-8551",
+    "email": "elinton@thl.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEE PARTNERS, L.P.; THOMAS H.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -25827,6 +25963,23 @@
     ]
   },
   {
+    "id": "1412577",
+    "name": "MOLINARI, VINCENT",
+    "address": "38 EAST 19TH STREET, 8TH FLOOR\nNEW YORK, NY 10003",
+    "phone": "(908) 578-4195",
+    "email": "vm@connaught.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONNAUGHT (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1397931",
     "name": "MOLLER, NICHOLAS",
     "address": "277 PARK AVENUE, 22ND FLOOR\nNEW YORK, NY 10172",
@@ -26001,15 +26154,9 @@
     "address": "580 2ND STREET, SUITE 200\nOAKLAND, CA 94607",
     "phone": "(510) 465-6444",
     "email": "rmorales@edtrustwest.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EDUCATION TRUST; THE",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1467776",
@@ -26017,15 +26164,9 @@
     "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
     "phone": "(212) 417-2559",
     "email": "mateo.palacio@brookfield.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1322086",
@@ -28939,15 +29080,14 @@
     "address": "304 SOUTH BROADWAY #207\nLOS ANGELES, CA 90013",
     "phone": "(213) 624-1380",
     "email": "lobbying@rutan.com",
-    "registrationDate": "06/18/2025",
+    "registrationDate": "07/01/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "MERCURY PUBLIC AFFAIRS",
         "type": "Firm",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "06/18/2025"
+        "effectiveDate": "07/01/2025"
       }
     ]
   },
@@ -32401,6 +32541,23 @@
     ]
   },
   {
+    "id": "1336421",
+    "name": "SAMMON, DARLENE",
+    "address": "150 SPEAR STREET, SUITE 1350\nSAN FREANCISCO, CA 94105",
+    "phone": "(917) 281-0850",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "07/09/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EQT PARTNERS INC.",
+        "type": "Employer",
+        "effectiveDate": "07/09/2025"
+      }
+    ]
+  },
+  {
     "id": "1362013",
     "name": "SAMSON, ANTHONY J.",
     "address": "1121 L STREET, SUITE 406\nSACRAMENTO, CA 95814",
@@ -33277,6 +33434,7 @@
     "phone": "(312) 634-2538",
     "email": "jeffrey.seaver@ppmamerica.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -33600,6 +33758,7 @@
     "phone": "(415) 692-4018",
     "email": "talobbying@tides.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -33717,6 +33876,7 @@
     "phone": "(415) 227-0900",
     "email": "nsheriff@buchalter.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33840,6 +34000,7 @@
     "phone": "(916) 287-9885",
     "email": "dshiv@housingca.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -34040,6 +34201,7 @@
     "phone": "(212) 715-6825",
     "email": "nsimon@varaderocapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -34156,6 +34318,7 @@
     "phone": "(310) 917-1446",
     "email": "clientservice@dimensional.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -34358,6 +34521,7 @@
     "phone": "(212) 833-2800",
     "email": "msmendzuik@torchlightinvestors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34677,6 +34841,7 @@
     "phone": "(916) 444-5532",
     "email": "gsoares@cmadocs.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34847,6 +35012,7 @@
     "phone": "(347) 601-5121",
     "email": "ms@westcap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/24/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35015,6 +35181,7 @@
     "phone": "(312) 915-2860",
     "email": "splithoff@waltonst.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35169,6 +35336,7 @@
     "phone": "(209) 915-9809",
     "email": "cstelzer@cccbha.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -36741,6 +36909,23 @@
         "entityName": "PERMIRA ADVISERS L.L.C., AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481961",
+    "name": "TRACY, RYAN",
+    "address": "40 10TH AVENUE, 5TH FLOOR\nNEW YORK, NY 10014",
+    "phone": "(916) 890-3670",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "07/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STRIPES",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
       }
     ]
   },
@@ -39066,6 +39251,23 @@
       {
         "entityName": "KP PUBLIC AFFAIRS",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1342119",
+    "name": "WHITE, GREGORY A.",
+    "address": "100 FEDERAL STREET, 35TH FLOOR\nBOSTON, MA 02110",
+    "phone": "(617) 946-2642",
+    "email": "gwhite@thl.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEE PARTNERS, L.P.; THOMAS H.",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
