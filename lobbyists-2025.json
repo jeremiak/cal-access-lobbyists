@@ -96,6 +96,16 @@
     "relationships": []
   },
   {
+    "id": "1456520",
+    "name": "ACKERMANN, STEPHAN",
+    "address": "400 ATLANTIC STREET, SUITE 1000\nSTAMFORD, CT 06901",
+    "phone": "(203) 983-4200",
+    "email": "stephan.ackermann@axa-im.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1411571",
     "name": "ACKLER, TATUM E.",
     "address": "1121 L STREET, SUITE 406\nSACRAMENTO, CA 95814",
@@ -135,15 +145,9 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 896-4841",
     "email": "reed@caleec.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1442603",
@@ -168,15 +172,9 @@
     "address": "277 PARK AVENUE, FLOOR 21\nNEW YORK, NY 10172",
     "phone": "(212) 562-9921",
     "email": "anurag.agarwal@jpmorgan.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1461234",
@@ -202,6 +200,7 @@
     "phone": "(916) 446-7517",
     "email": "leilania@sscal.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -268,16 +267,10 @@
     "name": "AKKERMAN, JOHN",
     "address": "51 MADISON AVENUE\nNEW YORK, NY 10010",
     "phone": "(212) 230-3805",
-    "email": "john.akkerman@mackayshields.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NEW YORK LIFE INVESTMENT MANAGEMENT LLC AND ITS AFFILLIATES MACKAY SHIELDS, CANDRIAM, AND APOGEM CAPITAL LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "email": "john.akkerman@nylinvestments.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1265535",
@@ -799,6 +792,7 @@
     "phone": "(973) 802-6000",
     "email": "lobbying@prudential.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -1087,15 +1081,9 @@
     "address": "115 BROADWAY, OFFICE 07-106\nNEW YORK, NY 10004",
     "phone": "(646) 934-6045",
     "email": "tarnold@recordfg.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "RECORD CURRENCY MANAGEMENT LIMITED",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1481767",
@@ -2173,6 +2161,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -3830,14 +3819,15 @@
     "name": "BONE, TEQUILA",
     "address": "5TH FLOOR 20 AIR STREET\nLONDON UK W1B 5AN",
     "email": "tequila.bone@bregal.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BREGAL INVESTMENTS LLP & AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -4281,6 +4271,7 @@
     "phone": "(916) 442-3838",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -4838,6 +4829,7 @@
     "phone": "(212) 478-0125",
     "email": "regulatory@nyc.deshaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7998,6 +7990,7 @@
     "phone": "(212) 287-5508",
     "email": "philip.cothern@hpspartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8403,6 +8396,7 @@
     "phone": "(646) 569-2342",
     "email": "kayla.cummings@orix.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -8674,6 +8668,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (712) 452-2110\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -8731,6 +8726,23 @@
         "entityName": "HELLMAN & FRIEDMAN LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477313",
+    "name": "DANIELSEN, THOMAS",
+    "address": "1111 BRICKELL AVENUE\nMIAMI, FL 33131",
+    "phone": "(347) 607-8594",
+    "email": "danielsen@powersustainable.com",
+    "registrationDate": "06/30/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "POWER SUSTAINABLE MANAGER U.S.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -9525,6 +9537,7 @@
     "address": "399 PARK AVENUE, 22ND FLOOR\nNEW YORK , NY 10022",
     "phone": "(212) 359-7300",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -9926,6 +9939,7 @@
     "phone": "(212) 938-6366",
     "email": "dana.dolphin@laurioncap.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -10534,6 +10548,7 @@
     "phone": "(916) 208-9814",
     "email": "brandon.ebeck@pge.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -10681,6 +10696,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -10849,6 +10865,7 @@
     "phone": "(213) 400-8664",
     "email": "jasmid@rojascommunications.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11647,6 +11664,7 @@
     "email": "jfink@sigulerguff.com",
     "mailingAddress": "470 ATLANTIC AVENUE\nBOSTON, MA 02210",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11712,6 +11730,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11780,6 +11799,7 @@
     "phone": "(203) 653-7803",
     "email": "emmett.fitzgerald@aspectcapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11949,6 +11969,7 @@
     "email": "lobbying@prudential.com",
     "mailingAddress": "1011 CATALPA ROAD\nARCADIA, CA 91007",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11982,6 +12003,7 @@
     "phone": "(617) 722-4779",
     "email": "sara.flour@rbc.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12370,6 +12392,7 @@
     "phone": "(212) 303-7100",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21721,6 +21744,7 @@
     "phone": "(916) 442-3838",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23294,6 +23318,7 @@
     "phone": "(916) 442-3838",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23396,6 +23421,7 @@
     "phone": "(312) 855-5700",
     "email": "john.mancuso@heitman.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26926,16 +26952,10 @@
     "name": "NAZARIANS, RAFI",
     "address": "1415 L STREET, SUITE 960\nSACRAMENTO, CA 95814",
     "phone": "(626) 585-2638",
-    "email": "compliance_ca_aarp@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AARP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "email": "compliance_ca_aarp_2@multistate.us",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1357933",
@@ -27028,15 +27048,9 @@
     "address": "ONE SANSOME STREET, 37TH FLOOR\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 439-9500",
     "email": "jnelson@hig.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "H.I.G. CAPITAL, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1361929",
@@ -27106,15 +27120,9 @@
     "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 799-6996",
     "email": "tasha@pacificpolicygroup.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PACIFIC POLICY GROUP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1281372",
@@ -27209,15 +27217,9 @@
     "address": "ONE CONGRESS STREET \nBOSTON, MA 02114",
     "phone": "(617) 664-2676",
     "email": "honichols@statestreet.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "STATE STREET BANK AND TRUST COMPANY",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1475740",
@@ -27398,15 +27400,9 @@
     "address": "51 MADISON AVENUE\nNEW YORK, NY 100",
     "phone": "(212) 601-3621",
     "email": "patrick.noonan@apogemcapital.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NEW YORK LIFE INVESTMENT MANAGEMENT LLC AND ITS AFFILLIATES MACKAY SHIELDS, CANDRIAM, AND APOGEM CAPITAL LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1461354",
@@ -33007,13 +33003,14 @@
     "name": "SCHIMMELBUSCH, CAROLINE",
     "address": "5TH FLOOR 20 AIR STREET\nLONDON, UK W1B 5AN",
     "email": "caroline.schimmelbusch@bregal.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "06/30/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BREGAL INVESTMENTS LLP & AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -35917,6 +35914,7 @@
     "email": "csweeney@komen.org",
     "mailingAddress": "2364 BASTOGNE WALK\nSACRAMENTO, CA 95834",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -35984,6 +35982,7 @@
     "phone": "(415) 877-4887",
     "email": "compliance@foresitecapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -36331,6 +36330,7 @@
     "phone": "(916) 642-1726",
     "email": "sterrell@aiacalifornia.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -36382,6 +36382,7 @@
     "phone": "(212) 973-8600",
     "email": "ptheoharides@aglcredit.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -36414,6 +36415,7 @@
     "phone": "(212) 326-1500",
     "email": "fthomas@oakhilladvisors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -36466,6 +36468,7 @@
     "phone": "(219) 670-7279",
     "email": "chuck.thompson@magellangroup.com.au",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -36482,6 +36485,7 @@
     "phone": "(203) 404-5232",
     "email": "cthompson@elliottmgmt.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -36618,6 +36622,7 @@
     "phone": "(916) 447-7018",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -36634,6 +36639,7 @@
     "phone": "(202) 344-4000",
     "email": "sdclobbying@venable.com",
     "registrationDate": "03/11/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37071,6 +37077,7 @@
     "phone": "(212) 671-4500",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -37205,6 +37212,7 @@
     "address": "222 SOUTH RIVERSIDE PLAZA, FLOOR 34\nCHICAGO, IL 60606",
     "phone": "(312) 537-3613",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -37306,6 +37314,7 @@
     "phone": "(916) 554-1000",
     "email": "eturner@calcima.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37528,6 +37537,7 @@
     "phone": "(213) 528-8870",
     "email": "raquel@ballardpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -38067,6 +38077,7 @@
     "phone": "(916) 747-7791",
     "email": "compliance_ca_tiktok_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -38234,6 +38245,7 @@
     "address": "747 FRONT STREET\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 694-8776",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -38640,6 +38652,7 @@
     "phone": "(562) 951-4025",
     "email": "mwashington@calstate.edu",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -39312,6 +39325,7 @@
     "phone": "(916) 442-3838",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -39975,6 +39989,7 @@
     "phone": "(650) 526-4335",
     "email": "regulatory@nyc.deshaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
