@@ -172,8 +172,9 @@
     "address": "277 PARK AVENUE, FLOOR 21\nNEW YORK, NY 10172",
     "phone": "(212) 562-9921",
     "email": "anurag.agarwal@jpmorgan.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "07/11/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
     "relationships": []
   },
   {
@@ -1330,15 +1331,9 @@
     "address": "4550 MONTGOMERY AVENUE, SUITE 1100 N\nBESTHESDA, MD 20814",
     "phone": "(301) 841-2639",
     "email": "calobby@nmgovlaw.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CYSTIC FIBROSIS FOUNDATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1294600",
@@ -4739,6 +4734,22 @@
     ]
   },
   {
+    "id": "1482209",
+    "name": "BROWN, MARK",
+    "address": "501 COMMERCE STREET\nNASHVILLE, TN 37203",
+    "phone": "(310) 286-6086",
+    "email": "compliance_ca_ab_2@multistate.us",
+    "registrationDate": "06/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALLIANCEBERNSTEIN LP",
+        "type": "Employer",
+        "effectiveDate": "06/30/2025"
+      }
+    ]
+  },
+  {
     "id": "1480811",
     "name": "BROWN, NATALIE S",
     "address": "1107 9TH STREET, SUITE 901\nSACRAMENTO, CA 95814",
@@ -7480,6 +7491,22 @@
     ]
   },
   {
+    "id": "1481225",
+    "name": "CONNOR, ALISON",
+    "address": "277 PARK AVENUE, 34TH FLOOR\nNEW YORK, NY 10172",
+    "phone": "(212) 771-1717",
+    "email": "aconnor@arsenalcapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARSENAL CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1473114",
     "name": "CONROY, SEAN",
     "address": "900 NORTH MICHIGAN AVENUE, SUITE 1100\nCHICAGO, IL 60611",
@@ -8361,8 +8388,8 @@
     "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
     "phone": "(916) 557-1100",
     "email": "molly.culton@sierraclub.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "SIERRA CLUB",
@@ -8412,8 +8439,8 @@
     "address": "1230 AVENUE OF THE AMERICAS, SUITE 1803\nNEW YORK, NY 10020",
     "phone": "(646) 453-7850",
     "email": "compliance@abbeycapital.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "ABBEY CAPITAL (US) LLC",
@@ -8497,13 +8524,14 @@
     "phone": "(212) 432-4600",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "06/30/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ANCHORAGE CAPITAL ADVISORS, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -8559,6 +8587,16 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1396812",
+    "name": "CUTTER, TERESA",
+    "address": "3 EMBARCADERO CENTER, 5TH FLOOR\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 644-4162",
+    "email": "tcutter@whiteoaksf.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1337670",
@@ -9660,7 +9698,8 @@
       {
         "entityName": "SANTA CLARA COUNTY OFFICE OF EDUCATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/01/2025"
       }
     ]
   },
@@ -12568,6 +12607,7 @@
     "phone": "(312) 444-5299",
     "email": "cfl79@ntrs.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -12719,6 +12759,7 @@
     "address": "515 SOUTH FLOWER STREET, 49TH FLOOR\nLOS ANGELES, CA 90071",
     "phone": "(213) 233-5776",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13211,6 +13252,7 @@
     "phone": "(530) 848-5050",
     "email": "leora.g@sbcglobal.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13396,6 +13438,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13430,6 +13473,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LASW CORP. 428 J STREET, STE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13514,6 +13558,7 @@
     "phone": "(415) 732-7700",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -13717,6 +13762,7 @@
     "phone": "(310) 843-3000",
     "email": "cgoff@empyrean.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13749,6 +13795,7 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -14459,6 +14506,7 @@
     "phone": "(212) 649-6697",
     "email": "isaiah.grady@man.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -14710,6 +14758,7 @@
     "address": "777 YAMATO ROAD, SUITE 300\nBOCA RATON, FL 33431",
     "phone": "(561) 544-4552",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -14777,6 +14826,7 @@
     "phone": "(212) 634-5941",
     "email": "pgrenley@sigulerguff.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15360,6 +15410,7 @@
     "phone": "(562) 797-1640",
     "email": "evan.g.gyorkos@boeing.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15544,6 +15595,7 @@
     "phone": "(202) 344-4000",
     "email": "dyhake@venable.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -15999,6 +16051,7 @@
     "phone": "(718) 406-2287",
     "email": "gary.harrison@ifminvestors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16049,6 +16102,7 @@
     "phone": "(212) 476-8071",
     "email": "aharsch@american-securities.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16088,6 +16142,22 @@
         "entityName": "PUBLIC POLICY ADVOCATES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1377586",
+    "name": "HARTY, FAITH A.",
+    "address": "8 SOUND SHORE DRIVE\nGREENWICH, CT 06830",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "07/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LITTLEJOHN & CO. LLC",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
       }
     ]
   },
@@ -16149,6 +16219,7 @@
     "phone": "(656) 603-0860",
     "email": "khassanali@hillhouseinvestment.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -19665,14 +19736,15 @@
     "address": "2821 ARIZONA AVENUE, SUITE A\nSANTA MONICA, CA 90404",
     "phone": "(714) 721-0385",
     "email": "tanner@tannerkelly.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TK PUBLIC AFFAIRS",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -27048,9 +27120,15 @@
     "address": "ONE SANSOME STREET, 37TH FLOOR\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 439-9500",
     "email": "jnelson@hig.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "07/14/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1361929",
@@ -27462,15 +27540,9 @@
     "phone": "(415) 374-2365",
     "email": "trent.norris@hoganlovells.com",
     "mailingAddress": "555 13TH STREET NW\nWASHINGTON, DC 20004\nPhone: (415) 374-2365\nEmail: trent.norris@hoganlovells.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "HOGAN LOVELLS US LLP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1262654",
@@ -27751,15 +27823,9 @@
     "address": "461 FIFTH AVENUE, 14TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(646) 582-5772",
     "email": "noates@firstavenue.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "FAP USA, LP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1412063",
@@ -27777,6 +27843,17 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1422833",
+    "name": "OBERG, JASON",
+    "address": "540 MADISON AVENUE\nNEW YORK, NY 10022",
+    "phone": "(646) 681-4909",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1148874",
@@ -28150,6 +28227,16 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1475619",
+    "name": "OSEGUERA, ELIZABETH",
+    "address": "2201 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 449-2273",
+    "email": "eoseguera@cacfs.org",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1435203",
@@ -30812,6 +30899,22 @@
         "entityName": "CAPITOL ADVISORS GROUP LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482255",
+    "name": "REINGLASS, JENYA",
+    "address": "1251 AVE OF THE AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
+    "phone": "(212) 257-6018",
+    "email": "jreinglass@waterfallam.com",
+    "registrationDate": "07/08/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WATERFALL ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "07/08/2025"
       }
     ]
   },
@@ -37887,6 +37990,22 @@
     ]
   },
   {
+    "id": "1482290",
+    "name": "VAZQUEZ, CARA",
+    "address": "1111 BRICKELL AVENUE\nMIAMI, FL 33131",
+    "phone": "(305) 505-6301",
+    "email": "vazquez@powersustainable.com",
+    "registrationDate": "07/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POWER SUSTAINABLE MANAGER U.S.",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1231501",
     "name": "VEAL-HUNTER, CAROLYN J.",
     "address": "1215 K STREET, SUITE 1150\nSACRAMENTO, CA 95814",
@@ -38402,6 +38521,22 @@
         "entityName": "WALKER STRATEGIES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1465780",
+    "name": "WALKER, KAPRI",
+    "address": "1624 FRANKLIN STREET, 11TH FLOOR\nOAKLAND, CA 94612",
+    "phone": "(510) 836-4700",
+    "email": "kwalker@safeandjust.org",
+    "registrationDate": "04/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALLIANCE FOR SAFETY AND JUSTICE",
+        "type": "Employer",
+        "effectiveDate": "04/30/2025"
       }
     ]
   },
@@ -39027,6 +39162,7 @@
     "phone": "(407) 221-5901",
     "email": "mtwe@lundbeck.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -40380,6 +40516,7 @@
     "phone": "(212) 262-0005",
     "email": "azambito@mhrfund.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
