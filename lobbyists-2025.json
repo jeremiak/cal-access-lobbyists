@@ -6891,7 +6891,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "BRINLEY PARTNERS",
+        "entityName": "BRINLEY PARTNERS, LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -8622,6 +8622,7 @@
     "phone": "(212) 205-4100",
     "email": "altsmap.compliance@wilshire.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8823,8 +8824,8 @@
     "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 223-8448",
     "email": "davidsson@campbell-lutyens.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CAMPBELL LUTYENS & CO. INC.",
@@ -8935,6 +8936,15 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1454851",
+    "name": "DE FILIPPO, MARGARET",
+    "address": "60 ARCH STREET, 3RD FLOOR\nGREENWICH, CT 06830",
+    "phone": "(203) 340-7876",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1449095",
@@ -9744,8 +9754,8 @@
     "address": "9 WEST 57TH STREET, 31ST FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 404-0899",
     "email": "compliance@veritascapital.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "VERITAS CAPITAL FUND MANAGEMENT, LLC",
@@ -14837,6 +14847,24 @@
     ]
   },
   {
+    "id": "1469232",
+    "name": "GRESENS , ANNE ",
+    "address": "650 MADISON AVENUE, 23RD FLOOR\nNEW YORK , NY 10022",
+    "phone": "(212) 891-3610",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BC PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1399655",
     "name": "GRESHAM, BRANT",
     "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
@@ -16831,15 +16859,9 @@
     "phone": "(209) 663-9148",
     "email": "jherrlaw@aol.com",
     "mailingAddress": "P.O. BOX 70392\nSTOCKTON, CA 95267",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "HERRICK ATTORNEY AT LAW; JOHN",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1438979",
@@ -17238,15 +17260,9 @@
     "address": "1 CALIFORNIA STREET, SUITE 1920\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 375-4014",
     "email": "candida.hoeberichts@bgo.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BENTALLGREENOAK REAL ESTATE US LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1373891",
@@ -17365,15 +17381,9 @@
     "address": "2180 HARVARD STREET, SUITE 400\nSACRAMENTO, CA 95815",
     "phone": "(916) 576-0585",
     "email": "sean.hoffman@molinahealthcare.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MOLINA HEALTHCARE OF CALIFORNIA",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1343072",
@@ -18432,7 +18442,7 @@
   {
     "id": "1477227",
     "name": "JENKINS, SELBY A.",
-    "address": "450 PARK AVENUE, 9TH FLOOR\nNEW YORK, NY 10022",
+    "address": "50 HUDSON YARDS, 73RD FLOOR\nNEW YORK, NY 10001",
     "email": "skaiser@omers.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
@@ -19210,7 +19220,7 @@
   {
     "id": "1477226",
     "name": "KALAMAKIS, IRINI",
-    "address": "450 PARK AVENUE, 9TH FLOOR\nNEW YORK, NY 10022",
+    "address": "50 HUDSON YARDS, 73RD FLOOR\nNEW YORK, NY 10001",
     "email": "ikalamakis@omers.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
@@ -23061,6 +23071,22 @@
     ]
   },
   {
+    "id": "1481469",
+    "name": "MACDOWELL, JAMES",
+    "address": "6400 S. FIDDLERS GREEN CIRCLE, SUITE 300\nGREENWOOD VILLAGE, CO 80111",
+    "phone": "(720) 515-3135",
+    "email": "james.macdowell@scidan.com",
+    "registrationDate": "04/22/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SCIDAN CONSULTING GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/22/2025"
+      }
+    ]
+  },
+  {
     "id": "1377309",
     "name": "MACHADO, CARLOS",
     "address": "3251 BEACON BOULEVARD\nWEST SACRAMENTO, CA 95691",
@@ -24097,6 +24123,24 @@
     ]
   },
   {
+    "id": "1464156",
+    "name": "MASKELL, ALEXIS",
+    "address": "40 PORTMAN SQUARE\nLONDON, UK W1H 6DA",
+    "phone": "(212) 891-2880",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BC PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1451618",
     "name": "MASLESA, UNA",
     "address": "2121 AVENUE OF THE STARS, 9TH FLOOR\nLOS ANGELES, CA 90067",
@@ -24907,6 +24951,23 @@
         "entityName": "MC HUGH KOEPKE PADRON GOVERNMENT RELATIONS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482396",
+    "name": "MC INTYRE, CLAIRE",
+    "address": "90 PARK AVENUE, 20TH FLOOR\nNEW YORK, NY 10016",
+    "phone": "(212) 883-2800",
+    "email": "cmcintyre@torchlight.com",
+    "mailingAddress": "1001 K STREET, 6TH FLOOR\nSACRAMENTO, CA 95814",
+    "registrationDate": "07/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TORCHLIGHT INVESTORS LLC",
+        "type": "Employer",
+        "effectiveDate": "07/15/2025"
       }
     ]
   },
@@ -26767,6 +26828,22 @@
     ]
   },
   {
+    "id": "1481987",
+    "name": "MURPHY, SHAUN",
+    "address": "74774 HIGHWAY 111\nINDIAN WELLS, CA 92210",
+    "phone": "(760) 322-2275",
+    "email": "murphy@sbemp.com",
+    "registrationDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SLOVAK BARON EMPEY MURPHY & PINKNEY LLP",
+        "type": "Firm",
+        "effectiveDate": "05/15/2025"
+      }
+    ]
+  },
+  {
     "id": "1336347",
     "name": "MURPHY, STEPHEN",
     "address": "11 MADISON AVENUE\nNEW YORK, NY 10010",
@@ -27708,7 +27785,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "BRINLEY PARTNERS",
+        "entityName": "BRINLEY PARTNERS, LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -28296,7 +28373,8 @@
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
     "phone": "(916) 432-5201",
     "email": "powens@cahf.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/14/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29087,15 +29165,9 @@
     "address": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
     "phone": "(310) 712-1850",
     "email": "dpequet@platinumequity.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1355993",
@@ -29354,16 +29426,10 @@
     "name": "PETROW, HELEN",
     "address": "250 VESEY STREET\nNEW YORK, NY 10281",
     "phone": "(212) 618-3491",
-    "email": "helen.petrow@brookfiled.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "email": "helen.petrow@brookfield.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1332073",
@@ -29524,15 +29590,9 @@
     "address": "465 MEETING STREET\nCHARLESTON, SC 29403",
     "phone": "(843) 579-9400",
     "email": "e.askcompliance@greystar.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1376527",
@@ -29791,6 +29851,22 @@
         "entityName": "EQUITIX MANCO L.P",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481466",
+    "name": "POLLAK, NATHAN J.",
+    "address": "6400 S. FIDDLERS GREEN CIRCLE, SUITE 300\nGREENWOOD VILLAGE, CA 80111",
+    "phone": "(720) 515-3135",
+    "email": "nathan@scidan.com",
+    "registrationDate": "04/22/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SCIDAN CONSULTING GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/22/2025"
       }
     ]
   },
@@ -36433,7 +36509,6 @@
     "phone": "(916) 642-1726",
     "email": "sterrell@aiacalifornia.org",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -36518,7 +36593,6 @@
     "phone": "(212) 326-1500",
     "email": "fthomas@oakhilladvisors.com",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -36742,7 +36816,6 @@
     "phone": "(202) 344-4000",
     "email": "sdclobbying@venable.com",
     "registrationDate": "03/11/2025",
-    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37417,7 +37490,6 @@
     "phone": "(916) 554-1000",
     "email": "eturner@calcima.org",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37640,7 +37712,6 @@
     "phone": "(213) 528-8870",
     "email": "raquel@ballardpartners.com",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -38196,7 +38267,6 @@
     "phone": "(916) 747-7791",
     "email": "compliance_ca_tiktok_1@multistate.us",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -39311,6 +39381,7 @@
     "email": "twetterman@archlight.com",
     "mailingAddress": "140 EAST 45TH STREET, 44TH FLOOR\nNEW YORK, NY 10017",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39546,6 +39617,7 @@
     "email": "dwilcox@cccarpenters.org",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39629,6 +39701,7 @@
     "phone": "(203) 899-3400",
     "email": "bwilliams@grahamcapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -39822,6 +39895,7 @@
     "phone": "(202) 344-4000",
     "email": "adilobbying@venable.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -40311,6 +40385,7 @@
     "address": "16 YORK STREET, SUITE 2900\nTORONTO ON M5J0E6",
     "phone": "(416) 369-8591",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
