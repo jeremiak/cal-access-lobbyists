@@ -1392,15 +1392,9 @@
     "phone": "(916) 945-5984",
     "email": "cecil.autry@libertymutual.com",
     "mailingAddress": "1415 L STREET, SUITE 670\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LIBERTY MUTUAL INSURANCE",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1340531",
@@ -1559,15 +1553,9 @@
     "address": "1415 L STREET, SUITE 960\nSACRAMENTO, CA 95814",
     "phone": "(916) 213-5742",
     "email": "compliance_ca_aarp_3@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AARP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1359080",
@@ -1592,15 +1580,9 @@
     "name": "BACA, TERRI NIKOLE",
     "address": "1215 K STREET, SUITE 1800\nSACRAMENTO, CA 95814",
     "phone": "(916) 524-5786",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AT&T SERVICES INC. AND ITS AFFILIATES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1275085",
@@ -1745,6 +1727,7 @@
     "phone": "(916) 822-5631",
     "email": "matthew@pcl.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -1778,6 +1761,7 @@
     "phone": "(512) 831-2523",
     "email": "cdoherty@havelii.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
     "status": "Active",
     "relationships": [
       {
@@ -16418,14 +16402,15 @@
     "address": "600 LEXINGTON AVENUE, 20TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(929) 593-1122",
     "email": "ihazel@onex.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/13/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "OMI MANAGEMENT US LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/13/2025"
       }
     ]
   },
@@ -30561,6 +30546,16 @@
     ]
   },
   {
+    "id": "1482424",
+    "name": "RAHMAN, NADIA",
+    "address": "724 8TH AVENUE APT 4\nSAN FRANCISCO, CA 94118",
+    "phone": "(713) 557-0045",
+    "email": "nadia@raahman-consulting.com",
+    "registrationDate": "04/03/2025",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1456722",
     "name": "RAMATICI, ROSS",
     "address": "575 BROADWAY, 3RD FLOOR\nNEW YORK, NY 10017",
@@ -31030,6 +31025,16 @@
     ]
   },
   {
+    "id": "1359982",
+    "name": "REMSTEDT, LAWRENCE D.",
+    "address": "605 THIRD AVENUE, 38TH FLOOR\nNEW YORK, NY 10158",
+    "phone": "(212) 610-6115",
+    "email": "uscompliance@nikkoam.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1460006",
     "name": "RENAUD, ERIK P.",
     "address": "13100 SKYLINE BOULEVARD\nWOODSIDE, CA 94062",
@@ -31359,15 +31364,9 @@
     "address": "580 2ND STREET, SUITE 200\nOAKLAND, CA 94607",
     "phone": "(510) 465-6444",
     "email": "brivas@edtrustwest.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EDUCATION TRUST; THE",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1478993",
@@ -33543,15 +33542,9 @@
     "address": "1350 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(347) 843-1971",
     "email": "stephen.sciaraffo@cheynecapital.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CHEYNE CAPITAL US, LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1419125",
@@ -33647,6 +33640,7 @@
     "email": "lobbying@rutan.com",
     "mailingAddress": "150 POST STREET, SUITE 405\nSAN FRANCISCO, CA 94108",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33697,15 +33691,9 @@
     "address": "200 CLARENDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
     "phone": "(617) 531-6336",
     "email": "ysegura@arclight.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1149012",
@@ -33901,15 +33889,9 @@
     "address": "101 SOUTH TRYON STREET, SUITE 3400\nCHARLOTTE, NC 28280",
     "phone": "(704) 945-2104",
     "email": "tshakon@ridgemontep.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1467947",
@@ -38621,6 +38603,7 @@
     "phone": "(510) 836-4700",
     "email": "kwalker@safeandjust.org",
     "registrationDate": "04/30/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
