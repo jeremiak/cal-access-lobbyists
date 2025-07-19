@@ -9905,6 +9905,7 @@
     "phone": "(203) 302-2500",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10054,8 +10055,8 @@
     "address": "1211 AVENUE OF THE AMERICAS, FLOOR 23\nNEW YORK, NY 10036",
     "phone": "(646) 460-5309",
     "email": "mark.donnelly@nordea.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "NORDEA INVESTMENT MANAGEMENT NORTH AMERICA, INC.",
@@ -10579,8 +10580,8 @@
     "address": "10100 SANTA MONICA BOULEVARD, SUITE 1000\nLOS ANGELES, CA 90067",
     "phone": "(310) 414-7870",
     "email": "legalnotices@pccpllc.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "PCCP, LLC",
@@ -10594,8 +10595,8 @@
     "name": "EDDY, SHANNON",
     "address": "2501 PORTOLA WAY \nSACRAMENTO, CA 95818",
     "phone": "(415) 819-4285",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CONSCIOUS VENTURES GROUP",
@@ -11376,7 +11377,8 @@
     "address": "1121 11TH STREET, SUITE 408\nSACRAMENTO, CA 95814",
     "phone": "(916) 341-0808",
     "email": "jfeldman@lawpolicy.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/18/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11470,6 +11472,17 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1334811",
+    "name": "FERNANDES, JULIA NOVAES",
+    "address": "7 BRYANT PARK, 24TH FLOOR\nNEW YORK, NY 10018",
+    "phone": "(212) 808-4231",
+    "email": "FPPC@BMHLAW.COM",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1303367",
@@ -22474,6 +22487,7 @@
     "email": "william.lloyd@tcw.com",
     "mailingAddress": "865 SOUTH FIGUEROA STREET\nLOS ANGELES, CA 90017\nPhone: (212) 771-4149\nEmail: william.lloyd@tcw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29155,6 +29169,23 @@
     ]
   },
   {
+    "id": "1482399",
+    "name": "PENNINGTON, MATTHEW",
+    "address": "1201 K STREET, SUITE 1830\nSACRAMENTO, CA 95814",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "07/07/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BP AMERICA, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "07/07/2025"
+      }
+    ]
+  },
+  {
     "id": "1363060",
     "name": "PEQUET, DAVID E.",
     "address": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
@@ -31816,15 +31847,9 @@
     "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 90017",
     "phone": "(213) 760-7436",
     "email": "mark.romano@tcw.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TCW, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1318958",
@@ -32019,15 +32044,9 @@
     "address": "1029 K STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-3838",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1386634",
@@ -32106,6 +32125,23 @@
     "relationships": [
       {
         "entityName": "KP PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1297329",
+    "name": "ROSS, KYRA E.",
+    "address": "1400 K STREET, SUITE 360\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-6789",
+    "email": "kyra@emanuelsjones.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EMANUELS JONES & ASSOCIATES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
