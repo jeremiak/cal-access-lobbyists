@@ -3624,6 +3624,29 @@
     ]
   },
   {
+    "id": "1442353",
+    "name": "BOARDMAN, WILLIAM",
+    "address": "99 HIGH STREET, SUITE 2802\nBOSTON, MA 02110",
+    "phone": "(617) 308-3028",
+    "email": "bill.boardman@agf.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AGF INVESTMENTS AMERICA INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/01/2025"
+      },
+      {
+        "entityName": "AGF INVESTMENTS LLC",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1148397",
     "name": "BOCCADORO, MICHAEL E.",
     "address": "925 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
@@ -4430,6 +4453,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "06/30/2025"
+      },
+      {
+        "entityName": "PLASTICS INDUSTRY ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -6962,6 +6990,24 @@
     ]
   },
   {
+    "id": "1418307",
+    "name": "CLARK III, JOHN S. (SEAN)",
+    "address": "200 CRESCENT COURT, SUITE 1200\nDALLAS, TX 75201",
+    "phone": "(214) 624-9626",
+    "email": "sclark@westwoodgroup.com",
+    "mailingAddress": "1237 WEST ROSCOE STREET\nCHICAGO, IL 75201",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTWOOD MANAGEMENT CORP.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1419364",
     "name": "CLARK, COURTNEY",
     "address": "1800 AVENUE OF THE STARS, SUITE 1400\nLOS ANGELES, CA 90067",
@@ -7417,6 +7463,23 @@
     "relationships": [
       {
         "entityName": "BLONIEN, A PROFESSIONAL LAW CORPORATION; J.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1436558",
+    "name": "CONDON, CAITLIN",
+    "address": "60 ARCH STREET, 3RD FLOOR\nGREENWICH, CT 06830",
+    "phone": "(203) 340-7881",
+    "email": "cc@crossoceanpartners.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONDON; CAITLIN",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -8224,6 +8287,29 @@
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1459392",
+    "name": "CROCKER, JONATHAN",
+    "address": "99 HIGH STREET, SUITE 2802\nBOSTON, MA 02110",
+    "phone": "(203) 984-6567",
+    "email": "jonathan.crocker@agf.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AGF INVESTMENTS AMERICA INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/01/2025"
+      },
+      {
+        "entityName": "AGF INVESTMENTS LLC",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
       }
     ]
   },
@@ -11110,6 +11196,7 @@
     "phone": "(916) 557-1101",
     "email": "gabriela.facio@sierraclub.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -11142,8 +11229,8 @@
     "address": "101 SOUTH TRYON STREET, SUITE 3400\nCHARLOTTE, NC 28280",
     "phone": "(704) 944-0917",
     "email": "lfahrney@ridgemontep.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
@@ -11658,8 +11745,8 @@
     "address": "4 EMBARCADERO CENTER, FLOOR 24\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 281-4517",
     "email": "anjuli.finch@lazard.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "LAZARD ASSET MANAGEMENT LLC",
@@ -11674,8 +11761,8 @@
     "address": "400 N. CAPITOL STREET, NORTHWEST,SUITE 475\nSHELTON, CT 06484",
     "phone": "(203) 426-1320",
     "email": "mfindlay@nssf.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
@@ -11741,8 +11828,8 @@
     "address": "ONE VANDERBILT AVENUE\nNEW YORK, NY 10017",
     "phone": "(212) 326-1500",
     "email": "jfiscella@oakhilladvisors.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "OAK HILL ADVISORS, L.P.",
@@ -12251,8 +12338,8 @@
     "name": "FRANCHITTI, ELEANOR",
     "address": "40 BERKELEY SQUARE, 3RD FLOOR\nLONDON, W1J 5AL, UK",
     "email": "efranchitti@caxton.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CAXTON EUROPE LLP",
@@ -14395,6 +14482,7 @@
     "phone": "(212) 822-0762",
     "email": "bgostin@apollo.com",
     "registrationDate": "02/04/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16210,6 +16298,7 @@
     "email": "tony.hass@kkr.com",
     "mailingAddress": "30 HUDSON YARDS\nNEW YORK, NY 10001",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19325,6 +19414,28 @@
     ]
   },
   {
+    "id": "1458346",
+    "name": "KANAK, DANIEL",
+    "address": "26 ESPLANADE\nSAINT HELIER, JERSEY JE2 3QA, NY 10017",
+    "email": "admin@nordiccapital.je",
+    "registrationDate": "06/03/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NORDIC CAPITAL GROUP L.P.",
+        "type": "Employer",
+        "effectiveDate": "06/03/2025"
+      },
+      {
+        "entityName": "WARBURG PINCUS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/09/2025"
+      }
+    ]
+  },
+  {
     "id": "1377055",
     "name": "KANDO-KAISER, DANIELLE C.",
     "address": "1121 L STREET, SUITE 602\nSACRAMENTO, CA 95814",
@@ -22344,6 +22455,23 @@
     ]
   },
   {
+    "id": "1440010",
+    "name": "LINTON, DAVID O.",
+    "address": "200 CRESCENT COURT #1200\nDALLAS, TX 75201",
+    "phone": "(214) 756-6900",
+    "email": "dlinton@westwoodgroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WESTWOOD MANAGEMENT CORP.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1439868",
     "name": "LINTON, EMEKA",
     "address": "100 FEDERAL STREET, 35TH FLOOR\nBOSTON, MA 02110",
@@ -24552,6 +24680,7 @@
     "phone": "(646) 828-2137",
     "email": "margaret.mccarthy@kkr.com",
     "registrationDate": "03/27/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24850,15 +24979,9 @@
     "address": "11111 SANTA MONICA BOULEVARD 15TH FLOOR\nLOS ANGELES, CA 90025",
     "phone": "(310) 231-6100",
     "email": "cmcgeehin@causwaycap.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CAUSEWAY CAPITAL MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1470122",
@@ -26192,6 +26315,23 @@
     "relationships": [
       {
         "entityName": "MONAGAN GOVERNMENT RELATIONS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1365499",
+    "name": "MONARES, GABRIEL M.",
+    "address": "1000 SOUTH VINCENT AVENUE, SUITE 403\nWEST COVINA, CA 91790",
+    "phone": "(626) 919-8000",
+    "email": "gabriel@monaresgroup.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/03/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MONARES GROUP; THE",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -27789,14 +27929,15 @@
     "address": "630 FIFTH AVENUE, SUITE 2620\nNEW YORK, NY 10111",
     "phone": "(646) 485-6589",
     "email": "molaughlin@brinleypartners.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/24/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BRINLEY PARTNERS, LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/24/2025"
       }
     ]
   },
@@ -32071,15 +32212,9 @@
     "address": "65 EAST 55TH STREET, 19TH FLOOR\nNEW YORK , NY 10022",
     "phone": "(212) 699-2261",
     "email": "abrielle.rosenthal@towerbrookfinan.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TOWERBROOK FINANCIAL, L.P. AND ITS AFFILIATES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1459045",
@@ -32305,15 +32440,9 @@
     "phone": "(209) 368-5229",
     "email": "randy@roxsonlaw.com",
     "mailingAddress": "P.O. BOX 1089\nWOODBRIDGE, CA 95258",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ROXSON, P.C.; LAW OFFICE OF RANDY D.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1449780",
@@ -34330,15 +34459,9 @@
     "phone": "(916) 415-6756",
     "email": "compliance@veritascapital.com",
     "mailingAddress": "555 CAPITOL MALL STE 400\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "VERITAS CAPITAL FUND MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1149448",
@@ -34363,15 +34486,9 @@
     "address": "925 L STREET\nSACRAMENTO, CA 95814",
     "phone": "(313) 701-9046",
     "email": "asilhi@ford.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "FORD MOTOR COMPANY AND ITS AFFILIATES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1459546",
