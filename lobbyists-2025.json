@@ -10143,13 +10143,7 @@
     "email": "mark.donnelly@nordea.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "NORDEA INVESTMENT MANAGEMENT NORTH AMERICA, INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1433865",
@@ -11236,6 +11230,22 @@
         "entityName": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482154",
+    "name": "FAJEAU, LAYNE",
+    "address": "909 12TH STREET, SUITE 202\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-1101",
+    "email": "layne.fajeau@sierraclub.org",
+    "registrationDate": "07/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIERRA CLUB",
+        "type": "Employer",
+        "effectiveDate": "07/16/2025"
       }
     ]
   },
@@ -15393,6 +15403,21 @@
         "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482375",
+    "name": "GUSMAN, CONNOR",
+    "address": "1127 11TH STREET, SUITE 512\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-5999",
+    "registrationDate": "06/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROAD & GUSMAN",
+        "type": "Firm",
+        "effectiveDate": "06/30/2025"
       }
     ]
   },
@@ -31055,6 +31080,23 @@
     ]
   },
   {
+    "id": "1148946",
+    "name": "REEB, ROBERT J.",
+    "address": "1415 L STREET, SUITE 870\nSACRAMENTO, CA 95814",
+    "phone": "(916) 558-1926",
+    "email": "bobr@water-warrior.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "REEB GOVERNMENT RELATIONS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1393869",
     "name": "REEB, SETH",
     "address": "1415 L STEEET, SUITE 870\nSACRAMENTO, CA 95814",
@@ -31639,6 +31681,22 @@
         "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481731",
+    "name": "ROBLES, ERIC",
+    "address": "241 E COLORADO BOULEVARD, SUITE 201\nPASADENA, CA 91101",
+    "phone": "(213) 448-1265",
+    "email": "erobles@erstrat.com",
+    "registrationDate": "07/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ERSTRAT LLC",
+        "type": "Firm",
+        "effectiveDate": "07/01/2025"
       }
     ]
   },
@@ -32535,15 +32593,9 @@
     "address": "1806 WEST KETTLEMAN LANE, SUITE L\nLODI, CA 95242",
     "phone": "(209) 888-6039",
     "email": "dean@mohanlaw.net",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "S. DEAN RUIZ, ESQ. OF MOHAN HARRIS RUIZ LLP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1477739",
@@ -32567,15 +32619,9 @@
     "name": "RUSHING, ROCKY J.",
     "address": "421 8TH STREET\nSACRAMENTO, CA 95831",
     "phone": "(916) 446-8062",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "RJR CONSULTING",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1467927",
@@ -32753,15 +32799,9 @@
     "address": "6216 LAURINE WAY\nSACRAMENTO, CA 95824",
     "phone": "(415) 238-3179",
     "email": "nick@socialcompassion.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SOCIAL COMPASSION IN LEGISLATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1261662",
@@ -32968,18 +33008,12 @@
   {
     "id": "1459737",
     "name": "SANCHEZ, DANIEL",
-    "address": "1121 L STREET, SUITE103\nSACRAMENTO, CA 95814",
+    "address": "1121 L STREET, SUITE 103\nSACRAMENTO, CA 95814",
     "phone": "(530) 219-5248",
     "email": "daniel@lobby-california.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA ADVOCACY LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1317635",
@@ -33060,15 +33094,9 @@
     "address": "1211 AVENUE OF THE AMERICAS, FLOOR 23\nNEW YORK, NY 10036",
     "phone": "(347) 325-2075",
     "email": "glen.sanders@nordea.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NORDEA INVESTMENT MANAGEMENT NORTH AMERICA, INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1449226",
@@ -38679,6 +38707,21 @@
         "entityName": "GREENBERG TRAURIG, LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482195",
+    "name": "WAGONER, RACHEL",
+    "address": "3340 11TH STREET\nSACRAMENTO, CA 95818",
+    "phone": "(916) 747-8089",
+    "registrationDate": "07/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RMW STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "07/01/2025"
       }
     ]
   },
