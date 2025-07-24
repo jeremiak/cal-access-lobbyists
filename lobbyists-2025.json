@@ -1931,6 +1931,7 @@
     "phone": "(916) 516-5208",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -1981,6 +1982,7 @@
     "phone": "(510) 465-6444",
     "email": "mbardo@edtrustwest.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -2122,15 +2124,9 @@
     "address": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
     "phone": "(310) 712-1850",
     "email": "mbarnhill@platinumequity.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1338987",
@@ -2173,6 +2169,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(202) 296-8086",
     "registrationDate": "05/30/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Terminated",
     "relationships": [
       {
@@ -2319,15 +2316,9 @@
     "phone": "(619) 263-7254",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "P.O. BOX 6754\nFOLSOM, CA 95763",
-    "registrationDate": "01/02/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
-        "type": "Employer",
-        "effectiveDate": "01/02/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1464594",
@@ -2537,15 +2528,9 @@
     "address": "2200 ATLANTIC STREET, SUITE 320\nSTAMFORD, CT 06902",
     "phone": "(203) 489-1450",
     "email": "sebastian.bea@cbam.coinbase.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "COINBASE ASSET MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1400757",
@@ -2553,23 +2538,18 @@
     "address": "10 EAST 53RD STREET, 21ST FLOOR\nNEW YORK, NY 10022",
     "phone": "(646) 983-6118",
     "email": "bachar.beaini@firstsentier.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "FIRST SENTIER INVESTORS  (US) LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1456865",
     "name": "BEAM, RAE A.",
-    "address": "PO BOX 333\nCALDWELL, ID 83606",
+    "address": "P.O. BOX 333\nCALDWELL, ID 83606",
     "phone": "(916) 719-6710",
-    "email": "916 beamr@gmail.com",
+    "email": "916beamr@gmail.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -3170,15 +3150,21 @@
     "name": "BIALAS, EDWARD T.",
     "address": "5847 SAN FELIPE STREET\nHOUSTON, TX 77057",
     "phone": "(832) 667-7379",
-    "email": "compliance@firstreserve.com",
+    "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
+        "entityName": "ANCHORAGE CAPITAL ADVISORS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
+      },
+      {
         "entityName": "FIRST RESERVE MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/27/2025"
       }
     ]
   },
@@ -4047,14 +4033,15 @@
     "phone": "(203) 863-5000",
     "email": "sboyadjieva@vikingglobal.com",
     "mailingAddress": "660 FIFTH AVENUE, 9TH FLOOR\nNEW YORK , NY 10103",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VIKING GLOBAL INVESTORS LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -6682,13 +6669,14 @@
     "address": "520 CAPITOL MALL, SUITE 220\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-6977",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "06/01/2025",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "UNION OF AMERICAN PHYSICIANS AND DENTISTS",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/01/2025"
       }
     ]
   },
@@ -11920,7 +11908,7 @@
   {
     "id": "1396751",
     "name": "FITZGERALD, WILLIAM E.",
-    "address": "ONE STATION PLACE\nSTAMFORD, CT 06902",
+    "address": "10 PORTMAN SQUARE\nLONDON W1H 6AZ UK, XX 00000",
     "phone": "(203) 653-7803",
     "email": "emmett.fitzgerald@aspectcapital.com",
     "registrationDate": "01/01/2025",
@@ -24886,15 +24874,9 @@
     "phone": "(310) 282-8820",
     "email": "FPPC@BMHLAW.COM",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMNETO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "DIGITALBRIDGE GROUP, INC. AND AFFILIATED ENTITIES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1456734",
@@ -25753,6 +25735,21 @@
     "relationships": [
       {
         "entityName": "CAPITOL LAW AND POLICY INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1442668",
+    "name": "MIGHELL, ABIGAIL",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -31550,7 +31547,8 @@
       {
         "entityName": "FIRST SENTIER INVESTORS  (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/02/2025"
       }
     ]
   },
@@ -32081,6 +32079,22 @@
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
         "effectiveDate": "02/25/2025"
+      }
+    ]
+  },
+  {
+    "id": "1401384",
+    "name": "ROMERO, MELISSA ",
+    "address": "1111 BROADWAY, SUITE 300\nOAKLAND, CA 94607",
+    "phone": "(916) 223-5894",
+    "email": "melissa@envirovoters.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ENVIRONMENTAL VOTERS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -33277,15 +33291,9 @@
     "phone": "(415) 732-7700",
     "email": "lobbying@rutan.com",
     "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
-    "registrationDate": "03/31/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CENTER FOR BIOLOGICAL DIVERSITY",
-        "type": "Employer",
-        "effectiveDate": "03/31/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1456652",
@@ -33293,15 +33301,9 @@
     "address": "225 FRANKLIN STREET\nBOSTON , MA 02110",
     "phone": "(617) 722-4700",
     "email": "michael.schantz@rbc.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1479263",
@@ -33508,21 +33510,25 @@
     ]
   },
   {
+    "id": "1424977",
+    "name": "SCHMITZ, DANIEL",
+    "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK, NY 10001",
+    "phone": "(212) 907-5100",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1362760",
     "name": "SCHMOLE, PETER J.",
     "address": "11150 SANTA MONICA BOULEVARD, SUITE 200\nLOS ANGELES, CA 90025",
     "phone": "(310) 479-9998",
     "email": "pschmole@lacapm.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LOS ANGELES CAPITAL MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1339323",
@@ -34891,21 +34897,6 @@
     ]
   },
   {
-    "id": "1442668",
-    "name": "SMET, ABIGAIL",
-    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
-    "phone": "(916) 426-9170",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1468339",
     "name": "SMITH, CHRISTINE",
     "address": "1127 11TH STREET, SUITE 925\nSACRAMENTO, CA 95814",
@@ -35046,15 +35037,9 @@
     "address": "711 HIGH STREET\nDES MOINES , IA 50392",
     "phone": "(562) 822-3355",
     "email": "smith.teri@principal.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PRINCIPAL GLOBAL INVESTORS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1252185",
@@ -36460,15 +36445,9 @@
     "address": "8 MARINA BOULEVARD, MARINA BAY\nFINANCIAL CENTER SINGAPORE, SG 18981",
     "phone": "(656) 603-0860",
     "email": "jtang@hillhouseinvestment.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "HILLHOUSE INVESTMENT MANAGMENT, LTD.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1401208",
@@ -36607,15 +36586,9 @@
     "name": "TAYLOR, TIMOTHY F.",
     "address": "1121 L STREET, SUITE 100\nSACRAMENTO, CA 95814",
     "phone": "(916) 612-6000",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TAYLOR & ASSOCIATES",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1414809",
@@ -36674,15 +36647,9 @@
     "address": "800 BOYLSTON, SUITE 1000\nBOSTON, MA 02199",
     "phone": "(617) 880-7440",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BAYPINE LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1457566",
@@ -36690,15 +36657,9 @@
     "address": "1931 H STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 642-1726",
     "email": "sterrell@aiacalifornia.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AMERICAN INSTITUTE OF ARCHITECTS CALIFORNIA",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1442222",
@@ -36774,15 +36735,9 @@
     "address": "ONE VANDERBILT AVENUE\nNEW YORK, NY 10017",
     "phone": "(212) 326-1500",
     "email": "fthomas@oakhilladvisors.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "OAK HILL ADVISORS, L.P.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1384167",
@@ -36997,15 +36952,9 @@
     "address": "600 MASSACHUSETTS AVENUE, NW\nWASHINGTON, DC 20001",
     "phone": "(202) 344-4000",
     "email": "sdclobbying@venable.com",
-    "registrationDate": "03/11/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "VENABLE LLP",
-        "type": "Firm",
-        "effectiveDate": "03/11/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1355260",
@@ -38788,6 +38737,23 @@
       {
         "entityName": "WALKER STRATEGIES",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1441700",
+    "name": "WALKER, IAN",
+    "address": "600 5TH AVENUE, 2ND FLOOR\nNEW YORK, NY 10020",
+    "phone": "(212) 407-4600",
+    "email": "ian.walker@gam.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GAM USA INC.",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
