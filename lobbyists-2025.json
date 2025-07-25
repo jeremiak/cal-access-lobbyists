@@ -6635,14 +6635,15 @@
     "address": "10100 SANTA MONICA BOULEVARD, SUITE 600\nLOS ANGELES, CA 90067",
     "phone": "(310) 270-5089",
     "email": "tiffany.chhuor@carlyle.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/18/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TCG CAPITAL MARKETS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/18/2025"
       }
     ]
   },
@@ -6710,6 +6711,22 @@
         "entityName": "KPG CAPITAL PARTNERS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1457075",
+    "name": "CHMIELINSKI, LUKE",
+    "address": "601 LEXINGTON AVENUE, 58TH FLOOR\nNEW YORK, CA 10022",
+    "phone": "(212) 419-2439",
+    "email": "luke.chmielinski@apax.com",
+    "registrationDate": "06/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APAX PARTNERS US, LLC",
+        "type": "Employer",
+        "effectiveDate": "06/06/2025"
       }
     ]
   },
@@ -6833,10 +6850,10 @@
   {
     "id": "1478141",
     "name": "CHU, HYACINTH",
-    "address": "1700 BROADWAY, 35TH FLOOR\nNEW YORK, NY 10019",
-    "phone": "(202) 849-9002",
-    "email": "hchu.lspower@vantagelegal.com",
-    "mailingAddress": "12587 FAIR LAKES CIRCLE, PMB 173\nFAIRFAX, VA 22033",
+    "address": "12587 FAIR LAKES CIRCLE, PMB 170\nFAIRFAX, VA 22033",
+    "phone": "(240) 331-8804",
+    "email": "hchu.lspower@fiveringslaw.com",
+    "mailingAddress": "12587 FAIR LAKES CIRCLE, PMB 170\nFAIRFAX, VA 22033\nPhone: (240) 331-8804\nEmail: hchu.lspower@fiveringslaw.com",
     "registrationDate": "01/09/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
@@ -9755,10 +9772,10 @@
   {
     "id": "1459180",
     "name": "DIETRICH, HENRY D.",
-    "address": "1700 BROADWAY, 35TH FLOOR\nNEW YORK, NY 10019",
-    "phone": "(202) 849-9002",
-    "email": "ddietrich.lspower@vantagelegal.com",
-    "mailingAddress": "12587 FAIR LAKES CIRCLE, PMB 173\nFAIRFAX, VA 22033",
+    "address": "12587 FAIR LAKES CIRCLE, PMB 170\nFAIRFAX, VA 22033",
+    "phone": "(240) 331-8804",
+    "email": "ddietrich.lspower@fiveringslaw.com",
+    "mailingAddress": "12587 FAIR LAKES CIRCLE, PMB 170\nFAIRFAX, VA 22033\nPhone: (240) 331-8804\nEmail: ddietrich.lspower@fiveringslaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
@@ -10164,6 +10181,24 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/25/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477591",
+    "name": "DOPPMAN, JOHN",
+    "address": "7 BRYANT PARK, 24TH FLOOR\nNEW YORK, NY 10018",
+    "phone": "(212) 808-0149",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCMI, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/01/2025"
       }
     ]
   },
@@ -11302,6 +11337,22 @@
         "entityName": "STONEPEAK PARTNERS LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1356402",
+    "name": "FARRAR, MATTHEW",
+    "address": "2882 SAND HILL ROAD, SUITE 100\nMENLO PARK, CA 94025",
+    "phone": "(212) 303-1650",
+    "email": "mfarrar@bdtmsd.com",
+    "registrationDate": "07/22/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MSD PARTNERS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "07/22/2025"
       }
     ]
   },
@@ -25843,9 +25894,16 @@
     "address": "1370 AVENUE OF THE AMERICAS\nNEW YORK, NY 10019",
     "phone": "(212) 506-5610",
     "email": "douglas.miller@ardian.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "07/23/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARDIAN US LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1477590",
@@ -26484,6 +26542,7 @@
     "phone": "(510) 465-6444",
     "email": "rmorales@edtrustwest.org",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Revoked",
     "relationships": []
   },
@@ -28524,10 +28583,10 @@
   {
     "id": "1463163",
     "name": "OWEN, KATHLEEN M. K.",
-    "address": "51 WEST 52ND STREET\nNEW YORK, NY 10019",
-    "phone": "(202) 849-9002",
-    "email": "kowen.orrick@vantagelegal.com",
-    "mailingAddress": "12587 FAIR LAKES CIRCLE PMB 163\nFAIRFAX, VA 22033\nPhone: (202) 849-9002\nEmail: kowen.orrick@vantagelegal.com",
+    "address": "3903 FAIR RIDGE DRIVE, SUITE L-119\nFAIRFAX, VA 22033",
+    "phone": "(240) 331-8804",
+    "email": "kowen.orrick@fiveringslaw.com",
+    "mailingAddress": "3903 FAIR RIDGE DRIVE, SUITE L-119\nFAIRFAX, VA 22033\nPhone: (240) 331-8804\nEmail: kowen.orrick@fiveringslaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
@@ -31902,6 +31961,24 @@
     ]
   },
   {
+    "id": "1476469",
+    "name": "RODRIGUEZ, MADELINE",
+    "address": "520 MADISON AVENUE, 34TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 321-3780",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MPOWERED CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1298806",
     "name": "RODRIGUEZ, SAM",
     "address": "131 ARLENE TERRACE\nSAN RAFAEL, CA 94903",
@@ -33025,9 +33102,16 @@
     "address": "1121 L STREET, SUITE 103\nSACRAMENTO, CA 95814",
     "phone": "(530) 219-5248",
     "email": "daniel@lobby-california.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "07/22/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ADVOCACY LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1317635",
@@ -33674,15 +33758,9 @@
     "address": "9797 FALCON MEADOW DRIVE\nELK GROVE, CA 95624",
     "phone": "(916) 690-0098",
     "email": "compliance_ca_sage_2@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SAGE THERAPEUTICS",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1396994",
@@ -34124,6 +34202,23 @@
         "entityName": "GREENBERG TRAURIG, LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481221",
+    "name": "SHARIF, MICHAEL",
+    "address": "1231 I STREET, SUITE 206\nSACRAMENTO, CA 95814",
+    "phone": "(916) 662-6486",
+    "email": "mikedsharif@gmail.com",
+    "registrationDate": "05/19/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FANSLAU GOVERNMENT AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "05/19/2025"
       }
     ]
   },
@@ -34626,10 +34721,10 @@
   {
     "id": "1480308",
     "name": "SIMONIS, EMILY",
-    "address": "1700 BROADWAY, 35TH FLOOR\nNEW YORK, NY 10019",
-    "phone": "(202) 849-9002",
-    "email": "esimonis.lspower@vantagelegal.com",
-    "mailingAddress": "12587 FAIR LAKES CIRCLE, PMB 173\nFAIRFAX, VA 22033",
+    "address": "12587 FAIR LAKES CIRCLE, PMB 170\nFAIRFAX, VA 22033",
+    "phone": "(240) 331-8804",
+    "email": "esimonis.lspower@fiveringslaw.com",
+    "mailingAddress": "12587 FAIR LAKES CIRCLE, PMB 170\nFAIRFAX, VA 22033\nPhone: (240) 331-8804\nEmail: esimonis.lspower@fiveringslaw.com",
     "registrationDate": "01/28/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
@@ -35761,10 +35856,10 @@
   {
     "id": "1449297",
     "name": "STEWART, DAMON",
-    "address": "51 WEST 52ND STREET \nNEW YORK, NY 10019",
-    "phone": "(202) 849-9002",
-    "email": "dstewart.orrick@vantagelegal.com",
-    "mailingAddress": "12587 FAIR LAKES CIRCLE PMB 163\nFAIRFAX, VA 22039\nPhone: (202) 849-9002\nEmail: dstewart.orrick@vantagelegal.com",
+    "address": "3930 FAIR RIDGE DRIVE, SUITE L-119\nFAIRFAX, VA 22033",
+    "phone": "(240) 331-8804",
+    "email": "dstewart.orrick@fiveringslaw.com",
+    "mailingAddress": "3930 FAIR RIDGE DRIVE, SUITE L-119\nFAIRFAX, VA 22033\nPhone: (240) 331-8804\nEmail: dstewart.orrick@fiveringslaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
@@ -36996,15 +37091,9 @@
     "address": "1225 CORONET AVENUE\nPASADENA, CA 91107",
     "phone": "(626) 808-7305",
     "email": "frstrydude@verizon.net",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TODD; JOHN",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1400504",
@@ -37621,15 +37710,9 @@
     "address": "455 CAPITOL MALL, SUITE 210\nSACRAMENTO, CA 95814",
     "phone": "(916) 554-1000",
     "email": "eturner@calcima.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA CONSTRUCTION & INDUSTRIAL MATERIALS ASSOCIATION",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1398328",
@@ -37843,15 +37926,9 @@
     "address": "743 SEWARD STREET, SUITE 200\nLOS ANGELES, CA 90038",
     "phone": "(213) 528-8870",
     "email": "raquel@ballardpartners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BALLARD PARTNERS",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1386266",
@@ -38064,15 +38141,9 @@
     "address": "707 AMY LANE\nREDONDO BEACH, CA 90278",
     "phone": "(310) 880-9605",
     "email": "compliance_ca_sage_1@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SAGE THERAPEUTICS",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1342956",
@@ -38281,15 +38352,9 @@
     "name": "VELASCO, PAULINA",
     "address": "777 SOUTH ALAMEDA STREET, 2ND FLOOR\nLOS ANGELES, CA 90021",
     "phone": "(323) 434-2490",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "VELADA CONSULTING LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1479480",
@@ -38398,15 +38463,9 @@
     "address": "5800 BRISTOL CITY PARKWAY\nCULVER CITY, CA 90230",
     "phone": "(916) 747-7791",
     "email": "compliance_ca_tiktok_1@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TIKTOK INC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1347446",
@@ -38599,15 +38658,9 @@
     "address": "50 CALIFORNIA STREET, SUITE 500\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 217-2000",
     "email": "awaelder@earthjustice.org",
-    "registrationDate": "01/13/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EARTHJUSTICE",
-        "type": "Employer",
-        "effectiveDate": "01/13/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1385532",
@@ -38834,15 +38887,9 @@
     "address": "2200 ATLANTIC STREET, SUITE 310\nSTAMFORD, CT 06902",
     "phone": "(203) 489-1549",
     "email": "compliance@oneriveram.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ONE RIVER ASSET MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1470645",
