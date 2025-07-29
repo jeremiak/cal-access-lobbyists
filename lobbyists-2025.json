@@ -397,14 +397,15 @@
     "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
     "phone": "(212) 810-5255",
     "email": "willie.alford@blackrock.com",
-    "registrationDate": "03/18/2025",
+    "registrationDate": "07/22/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GLOBAL INFRASTRUCTURE MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "03/18/2025"
+        "effectiveDate": "03/18/2025",
+        "terminationDate": "07/22/2025"
       }
     ]
   },
@@ -918,7 +919,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "APEKIAN ADVOCACY",
+        "entityName": "KESTER/ PAHOS OBO ALLIANCE FOR RETAIL ENNERGY MARKETS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -9827,7 +9828,7 @@
   {
     "id": "1481217",
     "name": "DILORETTA, NIC",
-    "address": "4400 MACARTHUR BOULEVARD, SUITE 700\nNEWPORT BEACH, CA 92660",
+    "address": "725 PONCE DE LEON AVENUE, NE\nATLANTA, GA 30306",
     "phone": "(949) 473-7023",
     "email": "nic.diloretta@blackrock.com",
     "registrationDate": "05/12/2025",
@@ -12661,8 +12662,8 @@
     "phone": "(416) 306-9800",
     "email": "finance@altas.com",
     "mailingAddress": "79 WELLINGTON STREET, SUITE 3500\nTORONTO ON M5K1K7",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "ALTAS PARTNERS LLC",
@@ -12785,14 +12786,15 @@
     "address": "2951 28TH STREET, SUITE 1000\nSANTA MONICA, CA 90405",
     "phone": "(415) 670-2063",
     "email": "danie.furey@blackrock.com",
-    "registrationDate": "03/18/2025",
+    "registrationDate": "07/22/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GLOBAL INFRASTRUCTURE MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "03/18/2025"
+        "effectiveDate": "03/18/2025",
+        "terminationDate": "07/22/2025"
       }
     ]
   },
@@ -12854,8 +12856,8 @@
     "address": "P.O. BOX 1481\nSHINGLE SPRINGS, CA 95682",
     "phone": "(916) 337-9031",
     "email": "bill@gainesandassociates.net",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "GAINES & ASSOCIATES",
@@ -13014,6 +13016,15 @@
     ]
   },
   {
+    "id": "1435204",
+    "name": "GANTKIN MAZZARELLA, HEATHER",
+    "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
+    "phone": "(617) 850-3378",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1149573",
     "name": "GARCIA, ELOY ",
     "address": "1718 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
@@ -13036,8 +13047,8 @@
     "address": "1005 12TH STREET, SUITE 200\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-3545",
     "email": "lgarcia@cagrocers.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CALIFORNIA GROCERS ASSOCIATION",
@@ -15588,14 +15599,15 @@
     "address": "1110 K STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-4848",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/02/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA FACULTY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/02/2025"
       }
     ]
   },
@@ -20151,7 +20163,7 @@
   {
     "id": "1475556",
     "name": "KEYS, NOAH",
-    "address": "50 HUDSON YARDS\nNEW YORK, NY 10001",
+    "address": "725 PONCE DE LEON AVENUE, NE\nATLANTA, GA 30306",
     "phone": "(646) 276-0615",
     "email": "noah.keys@blackrock.com",
     "registrationDate": "03/18/2025",
@@ -32737,9 +32749,16 @@
     "name": "RUSHING, ROCKY J.",
     "address": "421 8TH STREET\nSACRAMENTO, CA 95831",
     "phone": "(916) 446-8062",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "07/24/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RJR CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1467927",
@@ -34219,6 +34238,23 @@
     "registrationDate": "07/01/2025",
     "status": "Revoked",
     "relationships": []
+  },
+  {
+    "id": "1482377",
+    "name": "SHAMA, MAHA",
+    "address": "340 MADISON AVENUE, SUITE 12C\nNEW YORK, NY 10173",
+    "phone": "(646) 827-8710",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "registrationDate": "07/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BANSK GROUP",
+        "type": "Employer",
+        "effectiveDate": "07/15/2025"
+      }
+    ]
   },
   {
     "id": "1467947",
@@ -38088,14 +38124,15 @@
     "address": "725 PONCE DE LEON AVENUE, NORTHEAST\nATLANTA, GA 30306",
     "phone": "(310) 581-1846",
     "email": "mario.valverde@blackrock.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/22/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BLACKROCK CORPORATION US INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/22/2025"
       }
     ]
   },
@@ -39586,30 +39623,18 @@
     "address": "45 ROCKEFELLER PLAZA\nNEW YORK, NY 10111",
     "phone": "(212) 715-0300",
     "email": "kgarrett@tishmanspeyer.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TISHMAN SPEYER PROPERTIES, L.P.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1223302",
     "name": "WETCH, SCOTT",
     "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-3413",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACTUM, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1339653",
@@ -39687,15 +39712,9 @@
     "address": "ONE NYALA FARMS ROAD\nWESTPORT, CT 06880",
     "phone": "(203) 226-3030",
     "email": "joel.whidden@bwater.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BRIDGEWATER ASSOCIATES, LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1148975",
@@ -39753,15 +39772,9 @@
     "address": "1100 11TH STREET, SUITE 311\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-7983",
     "email": "heather@vjohnwhite.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "WHITE ASSOCIATES; V. JOHN",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1374657",
@@ -39820,15 +39833,9 @@
     "address": "630 5TH AVENUE, FLOOR 36\nNEW YORK, NY 10111",
     "phone": "(212) 223-8448",
     "email": "wiener@campbell-lutyens.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CAMPBELL LUTYENS & CO. INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1149224",
@@ -40116,15 +40123,9 @@
     "address": "445 PARK AVENUE, 9TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(917) 208-9419",
     "email": "jens@niobraracap.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "NIOBRARA CAPITAL PARTNERS",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1462709",
@@ -40286,15 +40287,9 @@
     "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(212) 907-5100",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "STONEPEAK PARTNERS LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1282403",
@@ -40320,15 +40315,9 @@
     "phone": "(213) 624-6200",
     "email": "tim@ostrategiesgroup.com",
     "mailingAddress": "515 SOUTH FIGUEROA STREET, SUITE 1110\nLOS ANGELES, CA 90071",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ORTEGA STRATEGIES GROUP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1426615",
