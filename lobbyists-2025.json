@@ -10290,7 +10290,7 @@
     "id": "1377666",
     "name": "DOZA, ASMAT",
     "address": "1271 AVENUE OF THE AMERICAS, 22ND FLOOR\nNEW YORK, NY 10020",
-    "phone": "(202) 506-0500",
+    "phone": "(212) 506-0500",
     "email": "adoza@hig.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/25/2024",
@@ -27300,13 +27300,18 @@
   {
     "id": "1435544",
     "name": "NAG, SIDDHARTH",
-    "address": "1215 K STREET, SUITE 1650\nSACRAMENTO, CA 95814",
-    "phone": "(916) 447-4806",
-    "email": "snag@rcrcnet.org",
-    "registrationDate": "04/01/2025",
+    "address": "500 CAPITOL MALL, SUITE 2350\nSACRAMENTO, CA 95814",
+    "phone": "(279) 229-3600",
+    "email": "siddnag26@gmail.com",
+    "registrationDate": "06/14/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "NAG CONSULTING; SIDD",
+        "type": "Firm",
+        "effectiveDate": "06/14/2025"
+      },
       {
         "entityName": "RURAL COUNTY REPRESENTATIVES OF CALIFORNIA AND AFFILIATED ENTITIES GOLDEN STATE FINANCE AUTHORITY, RURAL COUNTIES' ENVIRONMENTAL SERVICES JOINT POWERS AUTHORITY AND GOLDEN STATE CONNECT AUTHORITY",
         "type": "Employer",
@@ -27485,9 +27490,9 @@
   },
   {
     "id": "1464209",
-    "name": "NELSON, JENNY",
+    "name": "NELSON, JENNIFER",
     "address": "ONE SANSOME STREET, 37TH FLOOR\nSAN FRANCISCO, CA 94104",
-    "phone": "(415) 439-9500",
+    "phone": "(415) 439-5500",
     "email": "jnelson@hig.com",
     "registrationDate": "07/14/2025",
     "status": "Active",
@@ -34981,6 +34986,16 @@
     ]
   },
   {
+    "id": "1149321",
+    "name": "SINGH-ALLEN, BOBBIE",
+    "address": "1017 L STREET #419\nSACRAMENTO, CA 95814",
+    "phone": "(916) 627-1170",
+    "email": "bobbie@apca.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1343511",
     "name": "SINOR, SANDY L.",
     "address": "2501 NORTH HARWOOD, SUITE 2010\nDALLAS, TX 75201",
@@ -35620,6 +35635,21 @@
     ]
   },
   {
+    "id": "1481357",
+    "name": "SOSA-MARTINEZ, RUTH",
+    "address": "530 SOUTH BOYLE AVENUE\nLOS ANGELES, CA 90033",
+    "phone": "(510) 423-4300",
+    "registrationDate": "05/27/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POWERCA ACTION",
+        "type": "Employer",
+        "effectiveDate": "05/20/2025"
+      }
+    ]
+  },
+  {
     "id": "1357787",
     "name": "SOTIRHOS, MICHAEL",
     "address": "40 10TH AVENUE, 10TH FLOOR\nNEW YORK, NY 10014",
@@ -36046,6 +36076,17 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1421893",
+    "name": "STIVERS, MARK",
+    "address": "1107 9TH STREET, SUITE 610\nSACRAMENTO, CA 95814",
+    "phone": "(916) 224-0318",
+    "email": "mstivers@chpc.net",
+    "mailingAddress": "369 PINE STREET, SUITE 300\nSAN FRANCISCO, CA 94104",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1277487",
@@ -37344,6 +37385,16 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1376227",
+    "name": "TOMLIN, LINCOLN ",
+    "address": "3333 FAIRVIEW ROAD\nCOSTA MESA, CA 92626",
+    "phone": "(714) 885-2315",
+    "email": "tomlin.lincoln@ace.aaa.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1467623",
