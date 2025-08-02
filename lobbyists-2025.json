@@ -11104,7 +11104,8 @@
       {
         "entityName": "CRUZ STRATEGIES, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/17/2025"
       }
     ]
   },
@@ -11240,14 +11241,15 @@
     "address": "126 EAST 56TH STREET, SUITE 3200\nNEW YORK, NY 10022",
     "phone": "(475) 278-8037",
     "email": "kfahrman@monroecap.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/26/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MONROE CAPITAL MANAGEMENT ADVISORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/26/2025"
       }
     ]
   },
@@ -13389,9 +13391,9 @@
     "address": "60 COLUMBUS CIRCLE, 20TH FLOOR\nNEW YORK, NY 10023",
     "phone": "(212) 484-0045",
     "email": "legal@mackregroup.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/11/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MACK REAL ESTATE CREDIT STRATEGIES, L.P.",
@@ -13584,6 +13586,15 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1375817",
+    "name": "GILBERT, JAMES",
+    "address": "499 PARK AVENUE, SUITE 1601, 16TH FLOOR\nNEW YORK, NY 10022",
+    "email": "j.gilbert@winton.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1464329",
@@ -14054,8 +14065,8 @@
     "address": "259 WILSON HILL ROAD\nCOLRAIN, MA 01340",
     "phone": "(917) 692-3368",
     "email": "compliance_ca_tiaa_1@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "TEACHERS INSURANCE AND ANNUITY ASSOCIATION OF AMERICA (TIAA)",
@@ -14103,8 +14114,8 @@
     "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0597",
     "email": "gonsalves@gonsalvi.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "GONSALVES & SON; JOE A.",
@@ -14119,8 +14130,8 @@
     "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0597",
     "email": "gonsalves@gonsalvi.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "GONSALVES & SON; JOE A.",
@@ -14135,8 +14146,8 @@
     "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0597",
     "email": "gonsalves@gonsalvi.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "GONSALVES & SON; JOE A.",
@@ -14798,8 +14809,8 @@
     "address": "450 EAST LAS OLAS BOULEVARD, SUITE 750\nFORT LAUDERDALE, FL 33301",
     "phone": "(754) 218-5500",
     "email": "jgrant@gqg.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "GQG PARTNERS LLC AND ITS AFFILIATE, GQG PRIVATE CAPITAL SOLUTIONS LLC",
@@ -14882,8 +14893,8 @@
     "address": "650 NEWPORT CENTER DRIVE\nNEWPORT BEACH, CA 92660",
     "phone": "(949) 720-4871",
     "email": "kevin.gray@pimco.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "PACIFIC INVESTMENT MANAGEMENT COMPANY LLC",
@@ -15769,8 +15780,8 @@
     "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
     "phone": "(916) 557-9745",
     "email": "abe@capitoladvisors.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CAPITOL ADVISORS GROUP LLC",
@@ -18031,8 +18042,9 @@
     "phone": "(212) 421-1000",
     "email": "lobbying@prudential.com",
     "mailingAddress": "55 EAST 52ND STREET\nNEW YORK, NY 10055\nPhone: (973) 802-6000\nEmail: lobbying@prudential.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
     "relationships": []
   },
   {
@@ -32006,6 +32018,19 @@
     ]
   },
   {
+    "id": "1458347",
+    "name": "RODRIGUEZ, ALEXIS",
+    "registrationDate": "07/21/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA CHAMBER OF COMMERCE",
+        "type": "Employer",
+        "effectiveDate": "07/21/2025"
+      }
+    ]
+  },
+  {
     "id": "1470704",
     "name": "RODRIGUEZ, AUBREY",
     "address": "1017 L STREET, BOX 630\nSACRAMENTO, CA 95814",
@@ -40236,6 +40261,16 @@
         "terminationDate": "03/03/2025"
       }
     ]
+  },
+  {
+    "id": "1420779",
+    "name": "WILSON, BARRY",
+    "address": "461 5TH AVENUE, 14TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(646) 582-5777",
+    "email": "usacompliance@firstavenue.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1467734",
