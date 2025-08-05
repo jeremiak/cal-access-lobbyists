@@ -2538,7 +2538,14 @@
     "email": "sebastian.bea@cbam.coinbase.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "COINBASE ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
+      }
+    ]
   },
   {
     "id": "1400757",
@@ -4597,14 +4604,15 @@
     "address": "875 3RD AVENUE\nNEW YORK, NY 10022",
     "phone": "(212) 891-2100",
     "email": "cbrossard@cerberus.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/31/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CERBERUS CAPITAL MANAGEMENT, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/31/2025"
       }
     ]
   },
@@ -12137,6 +12145,7 @@
     "phone": "(916) 332-1996",
     "email": "sara@calaborfed.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14146,8 +14155,8 @@
     "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0597",
     "email": "gonsalves@gonsalvi.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "GONSALVES & SON; JOE A.",
@@ -15813,8 +15822,8 @@
     "address": "2800 NORTH 44TH STREET, SUITE 800 \nSUITE 800",
     "phone": "(209) 210-7059",
     "email": "compliance_ca_phi_1@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "PHI HEALTH, LLC",
@@ -16151,8 +16160,8 @@
     "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281-1023",
     "phone": "(602) 617-2345",
     "email": "chris.harris@brookfield.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
@@ -16201,8 +16210,8 @@
     "address": "700 NORTH TREMONT STREET\nOCEANSIDE, CA 92054",
     "phone": "(617) 780-2589",
     "email": "compliance_ca_vertex_1@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "VERTEX PHARMACEUTICALS INC.",
@@ -18045,7 +18054,13 @@
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "JENNISON ASSOCIATES LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1343549",
@@ -19811,9 +19826,16 @@
     "address": "2 GREENWICH PLAZA, SUITE 220\nGREENWICH, CT 06830",
     "phone": "(203) 618-1400",
     "email": "compliance@lpcap.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LONE PINE CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1337199",
@@ -31197,7 +31219,7 @@
     "id": "1316992",
     "name": "REAMAN, DARREN",
     "address": "8475 NIGHTFALL LANE\nFISHERS, IN 46037",
-    "phone": "(800) 669-5329",
+    "phone": "(317) 617-1453",
     "email": "compliance_ca_cedia_1@multistate.us",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
@@ -33233,7 +33255,7 @@
   {
     "id": "1435953",
     "name": "SANCHEZ, CHRISTOPHER",
-    "address": "1107 9TH STREET, SUITE 601\nSACRAMENTO, CA 95814",
+    "address": "1201 J STREET, SUITE 200\nSACRAMENTO, CA 95814",
     "phone": "(916) 232-2024",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
