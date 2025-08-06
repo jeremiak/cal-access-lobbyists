@@ -5157,15 +5157,9 @@
     "address": "743 SEWARD STREET, SUITE 200\nLOS ANGELES, CA 90038",
     "phone": "(213) 528-8870",
     "email": "tevy@ballardpartners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BALLARD PARTNERS",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1377578",
@@ -5313,6 +5307,7 @@
     "phone": "(415) 732-7700",
     "email": "lobbying@rutan.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -5466,6 +5461,7 @@
     "email": "july1776@sbcglobal.net",
     "mailingAddress": "131 EL BOSQUE DRIVE\nSAN JOSE, CA 95134\nPhone: (408) 921-2039\nEmail: july1776@sbcglobal.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -5581,15 +5577,9 @@
     "address": "65 EAST 55TH STREET, 19TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 699-2264",
     "email": "fjc@towerbrookfinancial.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TOWERBROOK FINANCIAL, L.P. AND ITS AFFILIATES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1359381",
@@ -5615,15 +5605,9 @@
     "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 90071",
     "phone": "(213) 760-8046",
     "email": "joseph.carieri@tcw.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TCW, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1479938",
@@ -5717,15 +5701,9 @@
     "address": "3432 MISTY MORNING CIRCLE\nSACRAMENTO, CA 95827",
     "phone": "(916) 336-6703",
     "email": "jose@ezraconzult.com",
-    "registrationDate": "03/11/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "EZRACONZULT LLC",
-        "type": "Firm",
-        "effectiveDate": "03/11/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1274774",
@@ -5905,6 +5883,7 @@
     "phone": "(617) 859-1500",
     "email": "info@keyslawcorp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -5955,6 +5934,7 @@
     "phone": "(212) 224-8929",
     "email": "jcastignetti@qic.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -6143,15 +6123,9 @@
     "phone": "(213) 624-6200",
     "email": "karina@strategiesgroup.com",
     "mailingAddress": "515 SOUTH FIGUEROA STREET, SUITE 1110\nLOS ANGELES, CA 90071",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ORTEGA STRATEGIES GROUP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1236630",
@@ -6345,15 +6319,9 @@
     "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 227-0900",
     "email": "lchartrand@buchalter.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1335645",
@@ -6413,6 +6381,7 @@
     "phone": "(212) 822-0419",
     "email": "achastain-chapman@apollo.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -6839,6 +6808,7 @@
     "phone": "(310) 442-0592",
     "email": "tchristian@edgelinecapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6937,8 +6907,8 @@
     "address": "1270 AVENUE OF THE AMERICAS, SUITE 408\nNEW YORK, NY 10020",
     "phone": "(212) 224-8220",
     "email": "scott.church@rede-partners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "REDE PARTNERS (AMERICAS) LLC",
@@ -7002,8 +6972,8 @@
     "address": "455 CAPITOL MALL, SUITE 315\nSACRAMENTO, CA 95814",
     "phone": "(916) 557-1166",
     "email": "lclarkharvey@cccbha.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CALIFORNIA COUNCIL OF COMMUNITY BEHAVIORAL HEALTH AGENCIES",
@@ -7095,6 +7065,22 @@
         "entityName": "NATIONAL CENTER FOR YOUTH LAW",
         "type": "Employer",
         "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482919",
+    "name": "CLARKE, EDWARD G",
+    "address": "733 WASHINGTON ROAD\nPITTSBURGH, PA 15228",
+    "phone": "(857) 288-1500",
+    "email": "eclarke@kiltearnpartners.com",
+    "registrationDate": "08/05/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KILTEARN PARTNERS, INC.",
+        "type": "Employer",
+        "effectiveDate": "08/05/2025"
       }
     ]
   },
@@ -7263,6 +7249,7 @@
     "email": "lobbying@rutan.com",
     "mailingAddress": "150 POST STREET, SUITE 405\nSAN FRANCISCO, CA 94108",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -7295,8 +7282,8 @@
     "address": "405 COLORADO STREET, SUITE 1600\nAUSTIN, TX 78701",
     "phone": "(737) 704-1561",
     "email": "icohen@havelii.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "HAVELI INVESTMENTS, L.P.",
@@ -7379,8 +7366,8 @@
     "phone": "(916) 447-2999",
     "email": "rcoleman@cpehn.org",
     "mailingAddress": "2991 SACRAMENTO STREET #298\nBERKELEY, CA 94702",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CALIFORNIA PAN - ETHNIC HEALTH NETWORK",
@@ -7576,6 +7563,16 @@
     ]
   },
   {
+    "id": "1356937",
+    "name": "CONROD, DAVID ",
+    "address": "712 5TH AVENUE., 8TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 881-1207",
+    "email": "cmurphy@focuspoint.com",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1473114",
     "name": "CONROY, SEAN",
     "address": "900 NORTH MICHIGAN AVENUE, SUITE 1100\nCHICAGO, IL 60611",
@@ -7768,8 +7765,8 @@
     "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 223-8448",
     "email": "cooper@campbell-lutyens.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CAMPBELL LUTYENS & CO. INC.",
@@ -7969,6 +7966,7 @@
     "phone": "(279) 789-0011",
     "email": "andrea.m.correia@gsk.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -14672,6 +14670,22 @@
         "entityName": "5C INVESTMENT PARTNERS ADVISOR LLC",
         "type": "Employer",
         "effectiveDate": "06/25/2025"
+      }
+    ]
+  },
+  {
+    "id": "1353786",
+    "name": "GRAD, PATRICIA",
+    "address": "100 PARK AVENUE, FLOOR 31\nNEW YORK, NY 10017",
+    "phone": "(212) 771-1717",
+    "email": "pgrad@arsenalcapital.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARSENAL CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -21441,9 +21455,16 @@
     "address": "550 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 303-1650",
     "email": "tladda@bdtmsd.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/04/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MSD PARTNERS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "03/04/2025"
+      }
+    ]
   },
   {
     "id": "1382762",
@@ -27710,9 +27731,16 @@
     "address": "ONE CONGRESS STREET \nBOSTON, MA 02114",
     "phone": "(617) 664-2676",
     "email": "honichols@statestreet.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STATE STREET BANK AND TRUST COMPANY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1475740",
