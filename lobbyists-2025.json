@@ -3309,6 +3309,7 @@
     "phone": "(415) 262-5100",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -3859,6 +3860,7 @@
     "phone": "(617) 581-9096",
     "email": "compliance_ca_slc_4@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -4001,6 +4003,7 @@
     "phone": "(202) 496-3370",
     "email": "cboswell@natadvisors.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -4015,15 +4018,9 @@
     "name": "BOUTELLER, PATRICK",
     "address": "1029 K STREET #43\nSACRAMENTO, CA 95814",
     "phone": "(310) 560-5929",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ARENA PUBLIC AFFAIRS LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1334585",
@@ -4126,6 +4123,7 @@
     "phone": "(415) 262-5100",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -4242,15 +4240,9 @@
     "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
     "phone": "(212) 382-9333",
     "email": "zachary.breit@brookfield.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1466451",
@@ -4506,6 +4498,7 @@
     "phone": "(330) 301-2562",
     "email": "ed.brockway@novartis.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
     "relationships": [
       {
@@ -5007,6 +5000,7 @@
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -5056,15 +5050,9 @@
     "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "david@caleec.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1352952",
@@ -5089,15 +5077,9 @@
     "address": "1270 AVENUE OF THE AMERICAS, SUITE 2602\nNEW YORK, NY 10020",
     "phone": "(646) 453-7850",
     "email": "compliance@abbeycapital.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ABBEY CAPITAL (US) LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1149239",
@@ -6940,8 +6922,8 @@
     "address": "465 MEETING STREET, SUITE 500\nCHARLESTON, SC 29403",
     "phone": "(843) 579-9400",
     "email": "e.askcompliance@greystar.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
@@ -6956,8 +6938,8 @@
     "address": "1600-1981 MCGILL COLLEGE AVENUE\nMONTREAL, CANADA H3A2Y1",
     "phone": "(508) 735-4322",
     "email": "tclancy@pinestoneam.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "PINESTONE ASSET MANAGEMENT INC.",
@@ -11673,7 +11655,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
+        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO DBA CALIFORNIA FEDERATION OF LABOR UNIONS, AFL-CIO",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -12147,7 +12129,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
+        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO DBA CALIFORNIA FEDERATION OF LABOR UNIONS, AFL-CIO",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -13071,13 +13053,14 @@
     "address": "1005 12TH STREET, SUITE 200\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-3545",
     "email": "lgarcia@cagrocers.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/01/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA GROCERS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/01/2025"
       }
     ]
   },
@@ -14916,8 +14899,9 @@
     "address": "650 NEWPORT CENTER DRIVE\nNEWPORT BEACH, CA 92660",
     "phone": "(949) 720-4871",
     "email": "kevin.gray@pimco.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/05/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "PACIFIC INVESTMENT MANAGEMENT COMPANY LLC",
@@ -21851,14 +21835,15 @@
     "address": "7 WORLD TRADE CENTER, 250 GREENWICH ST.\n32TH FLOOR",
     "phone": "(212) 232-1420",
     "email": "compliance@capstoneco.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC AND AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -22818,7 +22803,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
+        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO DBA CALIFORNIA FEDERATION OF LABOR UNIONS, AFL-CIO",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -31821,13 +31806,15 @@
     "address": "1201 NORTH BROADWAY\nLOS ANGELES, CA 90012",
     "phone": "(310) 746-4200",
     "email": "amy.arentowicz@mccourtpartners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "06/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MCCOURT PARTNERS REAL ESTATE LLC AND ITS AFFILIATES, CHAVEZ RAVINE LAND COMPANY LLC AND AERIAL RAPID TRANSIT TECHNOLOGIES LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/01/2025"
       }
     ]
   },
@@ -37402,6 +37389,23 @@
     ]
   },
   {
+    "id": "1338844",
+    "name": "TOBIN, MICHAEL",
+    "address": "640 5TH AVENUE, 21ST FLOOR\nNEW YORK, NY 10019",
+    "phone": "(646) 825-7623",
+    "email": "lobbying@rutan.com",
+    "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
+    "registrationDate": "07/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OWL CREEK ASSET MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "07/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1458688",
     "name": "TODD, JOHN ",
     "address": "1225 CORONET AVENUE\nPASADENA, CA 91107",
@@ -38642,7 +38646,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
+        "entityName": "CALIFORNIA LABOR FEDERATION, AFL-CIO DBA CALIFORNIA FEDERATION OF LABOR UNIONS, AFL-CIO",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
