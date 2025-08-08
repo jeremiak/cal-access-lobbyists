@@ -262,6 +262,23 @@
     ]
   },
   {
+    "id": "1471653",
+    "name": "AHUMADA, DOMINIQUE",
+    "address": "559 SAN YSIDRO ROAD, SUITE I\nMONTECITO, CA 93108",
+    "phone": "(917) 400-0860",
+    "email": "dominique@leadedgecapital.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEAD EDGE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1460092",
     "name": "AKIN, MATT",
     "address": "1201 K STREET SUITE 1820\nSACRAMENTO, CA 95814",
@@ -3101,15 +3118,9 @@
     "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 90017",
     "phone": "(213) 760-7675",
     "email": "keith.bewick@tcw.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TCW, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "08/07/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1456046",
@@ -3684,6 +3695,17 @@
     ]
   },
   {
+    "id": "1449313",
+    "name": "BODNAR, SARAH E.",
+    "address": "10550 LANSING STREET\nMENDOCINO, CA 95460",
+    "phone": "(707) 684-9431",
+    "email": "sarah@gspa.co",
+    "mailingAddress": "PO BOX 729\nMENDOCINO, CA 95460\nPhone: (707) 684-9431",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
     "id": "1395038",
     "name": "BOEHM, KELLI",
     "address": "1201 J STREET, SUITE 226\nSACRAMENTO, CA 95814",
@@ -3775,15 +3797,9 @@
     "address": "575 MADISON AVENUE, 25TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 207-3061",
     "email": "abollyky@silver-rock.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "SILVER ROCK FINANCIAL LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1467986",
@@ -3843,15 +3859,9 @@
     "phone": "(646) 300-0541",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\n7TH FLOOR\nSACRAMENTO, CA 95814\nPhone: (646) 300-0541\nEmail: fppc@bmhlaw.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1472481",
@@ -6588,8 +6598,8 @@
     "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 223-2432",
     "email": "chhabria@campbell-lutyens.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "CAMPBELL LUTYENS & CO. INC.",
@@ -6673,8 +6683,8 @@
     "address": "2078 PROSPECTOR AVENUE, UNIT 11\nPARK CITY, UT 84060",
     "phone": "(786) 436-0030",
     "email": "mchiodi@kpgcapitalpartners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "KPG CAPITAL PARTNERS, LLC",
@@ -6706,6 +6716,7 @@
     "phone": "(310) 777-5440",
     "email": "compliancedocreview@tpg.com",
     "registrationDate": "01/30/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7348,8 +7359,9 @@
     "phone": "(916) 447-2999",
     "email": "rcoleman@cpehn.org",
     "mailingAddress": "2991 SACRAMENTO STREET #298\nBERKELEY, CA 94702",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/05/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CALIFORNIA PAN - ETHNIC HEALTH NETWORK",
@@ -7545,16 +7557,6 @@
     ]
   },
   {
-    "id": "1356937",
-    "name": "CONROD, DAVID ",
-    "address": "712 5TH AVENUE., 8TH FLOOR\nNEW YORK, NY 10019",
-    "phone": "(212) 881-1207",
-    "email": "cmurphy@focuspoint.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
-  },
-  {
     "id": "1473114",
     "name": "CONROY, SEAN",
     "address": "900 NORTH MICHIGAN AVENUE, SUITE 1100\nCHICAGO, IL 60611",
@@ -7578,8 +7580,8 @@
     "phone": "(646) 857-8244",
     "email": "brian.conry@pinebridge.com",
     "mailingAddress": "65 EAST 55TH STREET\nNEW YORK, NY 10022",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "PINEBRIDGE INVESTMENTS LLC",
@@ -7915,8 +7917,8 @@
     "address": "1 METLIFE WAY\nWHIPPANY, NJ 07981",
     "phone": "(973) 307-8565",
     "email": "jeana.corker@metlife.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "METLIFE INVESTMENT MANAGEMENT, LLC",
@@ -8100,8 +8102,8 @@
     "phone": "(646) 300-0541",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
@@ -8807,6 +8809,23 @@
     ]
   },
   {
+    "id": "1471706",
+    "name": "DAMJANOVIC, EMILA",
+    "address": "559 SAN YSIDRO ROAD, SUITE  I\nMONTECITO, CA 93108",
+    "phone": "(212) 814-8723",
+    "email": "emilia@leadedgecapital.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEAD EDGE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1342926",
     "name": "DANIELS, SUSANNA",
     "address": "415 MISSION STREET, SUITE 5700\nSAN FRANCISCO, CA 94105",
@@ -8912,14 +8931,15 @@
     "address": "12770 EL CAMINO REAL, SUITE 100\nSAN DIEGO, CA 92130",
     "phone": "(858) 361-4750",
     "email": "lobbying@rutan.com",
-    "registrationDate": "03/06/2025",
+    "registrationDate": "08/05/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "SOUTHWEST STRATEGIES, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/05/2025"
       }
     ]
   },
@@ -9888,6 +9908,23 @@
     ]
   },
   {
+    "id": "1448364",
+    "name": "DISTASIO, VICTORIA L.",
+    "address": "1 AMERICAN LANE\nGREENWICH, CT 06831",
+    "phone": "(203) 742-7727",
+    "email": "vdistasio@veritionfund.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VERITION FUND MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1480854",
     "name": "DISTEFANO, OLIVIA R",
     "address": "300 PARK AVENUE SOUTH, LEVEL 2\nNEW YORK, NY 10010",
@@ -10485,8 +10522,8 @@
     "address": "777 3RD AVENUE, 18TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(212) 845-7977",
     "email": "mdunn@starboardvalue.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
     "relationships": [
       {
         "entityName": "STARBOARD VALUE LP",
@@ -14104,8 +14141,9 @@
     "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0597",
     "email": "gonsalves@gonsalvi.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/04/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "GONSALVES & SON; JOE A.",
@@ -14120,8 +14158,9 @@
     "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0597",
     "email": "gonsalves@gonsalvi.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/04/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "GONSALVES & SON; JOE A.",
@@ -14136,7 +14175,8 @@
     "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0597",
     "email": "gonsalves@gonsalvi.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/04/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14529,6 +14569,7 @@
     "phone": "(212) 271-3885",
     "email": "compliance@tailwind.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14588,6 +14629,17 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1149011",
+    "name": "GOULD, ROXANNE L",
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 715-0900",
+    "email": "roxanne@gouldgr.com",
+    "mailingAddress": "400 CAPITOL MALL, SUITE 2200\nSACRAMENTO, CA 95814\nPhone: (916) 441-2430",
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1223370",
@@ -18236,8 +18288,9 @@
     "phone": "(916) 443-4405",
     "email": "anna.ioakimedes@lausd.net",
     "mailingAddress": "333 SOUTH BEAUDRY AVENUE, 24TH FLOOR\nLOS ANGELES, CA 90017",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/06/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -22554,9 +22607,16 @@
     "address": "1940 SHELFIELD DRIVE\nCARMICHAEL, CA 95608",
     "phone": "(916) 712-5827",
     "email": "jlightman@whatsb-yond.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WHAT'S B-YOND?, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1344262",
@@ -23198,6 +23258,22 @@
         "entityName": "GOLDEN STATE ADVOCACY PARTNERS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482762",
+    "name": "LYNCH, JOHN F.",
+    "address": "11 APEX DRIVE\nMALBOROUGH, MA 01752",
+    "phone": "(857) 288-1500",
+    "email": "jlynch@capeannam.com",
+    "registrationDate": "07/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPE ANN ASSET MANAGEMENT, INC",
+        "type": "Employer",
+        "effectiveDate": "07/15/2025"
       }
     ]
   },
@@ -29774,6 +29850,23 @@
     ]
   },
   {
+    "id": "1481281",
+    "name": "PETERSON, CHRISTOPHER L.",
+    "address": "1201 J STREET, THIRD FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 576-0689",
+    "email": "c.peterson@capitolcore.com",
+    "mailingAddress": "205 CARTWHEEL BEND\nAUSTIN, TX 78738",
+    "registrationDate": "04/29/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL CORE GROUP, INC.",
+        "type": "Firm",
+        "effectiveDate": "04/29/2025"
+      }
+    ]
+  },
+  {
     "id": "1470253",
     "name": "PETERSON, SHAUN",
     "address": "ELEVEN MADISON AVENUE\nNEW YORK, NY 10010-3629",
@@ -30106,7 +30199,8 @@
       {
         "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
-        "effectiveDate": "01/06/2025"
+        "effectiveDate": "01/06/2025",
+        "terminationDate": "07/23/2025"
       }
     ]
   },
@@ -30748,14 +30842,15 @@
     "address": "200 N. SPRING STREET, 3RD FLOOR, ROOM 303\nLOS ANGELES, CA 90012",
     "phone": "(213) 978-0600",
     "email": "freddie.quintana@lacity.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/18/2025",
     "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LOS ANGELES; CITY OF",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/18/2025"
       }
     ]
   },
@@ -37048,9 +37143,16 @@
     "address": "1931 H STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 642-1726",
     "email": "sterrell@aiacalifornia.org",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/06/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN INSTITUTE OF ARCHITECTS CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1442222",
