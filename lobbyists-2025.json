@@ -3068,15 +3068,9 @@
     "name": "BERRY, MARK",
     "address": "11 CHARLES II STREET\nLONDON UK SW1Y 4QU ",
     "email": "mb@crossoceanpartners.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BERRY; MARK",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1443452",
@@ -7277,13 +7271,7 @@
     "email": "icohen@havelii.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "HAVELI INVESTMENTS, L.P.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1449895",
@@ -7917,13 +7905,14 @@
     "address": "1 METLIFE WAY\nWHIPPANY, NJ 07981",
     "phone": "(973) 307-8565",
     "email": "jeana.corker@metlife.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "06/26/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "METLIFE INVESTMENT MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/26/2025"
       }
     ]
   },
@@ -14175,7 +14164,7 @@
     "address": "1201 K STREET, SUITE 1850\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-0597",
     "email": "gonsalves@gonsalvi.com",
-    "registrationDate": "08/04/2025",
+    "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
@@ -18661,14 +18650,15 @@
     "address": "201 MAIN STREET, SUITE 2100\nFORT WORTH, TX 76102",
     "phone": "(817) 769-1601",
     "email": "sjarratt@crestlineinc.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CRESTLINE MANAGEMENT,  LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/01/2025"
       }
     ]
   },
@@ -34273,9 +34263,16 @@
     "address": "200 CLARENDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
     "phone": "(617) 531-6336",
     "email": "ysegura@arclight.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/07/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1149012",
@@ -37228,9 +37225,16 @@
     "address": "ONE VANDERBILT AVENUE\nNEW YORK, NY 10017",
     "phone": "(212) 326-1500",
     "email": "fthomas@oakhilladvisors.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/07/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OAK HILL ADVISORS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1384167",
