@@ -191,7 +191,13 @@
     "registrationDate": "07/11/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1461234",
@@ -936,7 +942,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "KESTER/ PAHOS OBO ALLIANCE FOR RETAIL ENNERGY MARKETS",
+        "entityName": "KESTER/ PAHOS OBO ALLIANCE FOR RETAIL ENERGY MARKETS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -15861,8 +15867,8 @@
     "address": "2800 NORTH 44TH STREET, SUITE 800 \nSUITE 800",
     "phone": "(209) 210-7059",
     "email": "compliance_ca_phi_1@multistate.us",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/07/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "PHI HEALTH, LLC",
