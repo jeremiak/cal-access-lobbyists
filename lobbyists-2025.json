@@ -4044,7 +4044,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "INTERMEDIATE CAPITAL GROUP, INC.",
+        "entityName": "ICG INVESTMENTS INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -6949,8 +6949,9 @@
     "address": "1600-1981 MCGILL COLLEGE AVENUE\nMONTREAL, CANADA H3A2Y1",
     "phone": "(508) 735-4322",
     "email": "tclancy@pinestoneam.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/07/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "PINESTONE ASSET MANAGEMENT INC.",
@@ -11114,9 +11115,9 @@
   {
     "id": "1448965",
     "name": "ESTRADA, STEPHANIE",
-    "address": "925 L STREET, SUITE 600\nSACRAMENTO, CA 95814",
-    "phone": "(510) 778-3167",
-    "email": "stephanie@cruzstrategies.com",
+    "address": "700 ANDERSON HILL ROAD, MD-312\nPURCHASE, NY 10577",
+    "phone": "(914) 253-2000",
+    "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
@@ -11126,6 +11127,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "07/17/2025"
+      },
+      {
+        "entityName": "PEPSICO, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "08/01/2025"
       }
     ]
   },
@@ -11237,6 +11243,22 @@
     "registrationDate": "04/01/2025",
     "status": "Active",
     "relationships": []
+  },
+  {
+    "id": "1351898",
+    "name": "EZZES, STEVE",
+    "address": "1325 N BEACH STREET, SUITE 201\nPHILADELPHIA, PA 19125",
+    "phone": "(203) 434-5328",
+    "email": "sezzes@newmarketcapital.com",
+    "registrationDate": "07/31/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEWMARKET INVESTMENT MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "07/31/2025"
+      }
+    ]
   },
   {
     "id": "1460003",
@@ -16289,14 +16311,15 @@
     "phone": "(212) 231-0095",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIRIS CAPITAL GROUP, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -16414,6 +16437,22 @@
         "entityName": "LITTLEJOHN & CO. LLC",
         "type": "Employer",
         "effectiveDate": "07/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482951",
+    "name": "HARVEY, ISABEL",
+    "address": "1325 N BEACH STREET, SUITE 201\nPHILADELPHIA, PA 19125",
+    "phone": "(215) 515-0805",
+    "email": "iharvey@newmarketcapital.com",
+    "registrationDate": "07/31/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEWMARKET INVESTMENT MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "07/31/2025"
       }
     ]
   },
@@ -17885,9 +17924,16 @@
     "phone": "(916) 844-5646",
     "email": "eh4@sbcglobal.net",
     "mailingAddress": "4700 MARLBOROUGH WAY\nCARMICHAEL, CA 95608-6228",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/07/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOWARD ADVOCACY, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1447345",
@@ -18285,8 +18331,14 @@
     "mailingAddress": "333 SOUTH BEAUDRY AVENUE, 24TH FLOOR\nLOS ANGELES, CA 90017",
     "registrationDate": "08/06/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "In Suspense",
-    "relationships": []
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1479491",
@@ -20297,6 +20349,22 @@
     ]
   },
   {
+    "id": "1469884",
+    "name": "KEZELMAN, JASON",
+    "address": "TWO GREENWICH PLAZA, SUITE 1\nGREENWICH, CT 06830",
+    "phone": "(949) 375-3976",
+    "email": "jkezelman@silverpointcapital.com",
+    "registrationDate": "08/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SILVER POINT CAPITAL, L.P.",
+        "type": "Employer",
+        "effectiveDate": "08/04/2025"
+      }
+    ]
+  },
+  {
     "id": "1460545",
     "name": "KHA, JEN",
     "address": "2865 SAND HILL ROAD\nMENLO PARK, CA 94025",
@@ -21353,6 +21421,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/25/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482807",
+    "name": "KUMAR NARANG, GRAYDON",
+    "address": "1 VANDERBILT AVENUE, SUITE 3400\nNEW YORK, NY 10017",
+    "phone": "(203) 939-4079",
+    "email": "grady.narang@carlyle.com",
+    "registrationDate": "08/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/04/2025"
       }
     ]
   },
@@ -24409,6 +24493,23 @@
     ]
   },
   {
+    "id": "1462308",
+    "name": "MARTINEZ, SUZANNE",
+    "address": "155 NORTH WACKER DRIVE, SUITE 4320\nCHICAGO, IL 60606",
+    "phone": "(312) 783-4111",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AFFINIUS CAPITAL",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1471946",
     "name": "MARTINSEN, SHANNON",
     "address": "40 10TH AVENUE, 5TH FLOOR\nNEW YORK, NY 10014",
@@ -26108,14 +26209,6 @@
     ]
   },
   {
-    "id": "1481755",
-    "name": "MILLER, MATT",
-    "address": ", CA\n\t",
-    "registrationDate": "06/16/2025",
-    "status": "Active",
-    "relationships": []
-  },
-  {
     "id": "1222972",
     "name": "MILLER, MONICA",
     "address": "1017 L STREET, SUITE 595\nSACRAMENTO, CA 95814",
@@ -27382,14 +27475,15 @@
     "phone": "(212) 231-0095",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIRIS CAPITAL GROUP, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -29452,16 +29546,6 @@
     ]
   },
   {
-    "id": "1479774",
-    "name": "PEARSALL, ROBERT",
-    "address": "10 G STREET NE, SUITE 600\nWASHINGTON, DC 20002",
-    "phone": "(510) 387-4670",
-    "email": "replaw2011@gmail.com",
-    "registrationDate": "04/07/2025",
-    "status": "Active",
-    "relationships": []
-  },
-  {
     "id": "1427089",
     "name": "PEATE, JEFFREY",
     "address": "1350 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10019",
@@ -29619,7 +29703,13 @@
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "PERATA; DON R.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1314275",
@@ -30188,9 +30278,9 @@
     "address": "1127 11TH STREEET, SUITE 300\nSACRAMENTO , CA 95814",
     "phone": "(916) 974-9270",
     "email": "cpizzotti@me.com",
-    "registrationDate": "01/06/2025",
+    "registrationDate": "07/23/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
@@ -30292,7 +30382,7 @@
     "phone": "(916) 468-0950",
     "email": "randy@whitebrennerllp.com",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "12/12/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -31027,6 +31117,22 @@
     ]
   },
   {
+    "id": "1482806",
+    "name": "RAJENDRAN, MAX",
+    "address": "10100 SANTA MONICA BOULEVARD, SUITE 600\nLOS ANGELES, CA 90067",
+    "phone": "(310) 904-9007",
+    "email": "max.rajendran@carlyle.com",
+    "registrationDate": "08/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "08/04/2025"
+      }
+    ]
+  },
+  {
     "id": "1456722",
     "name": "RAMATICI, ROSS",
     "address": "575 BROADWAY, 3RD FLOOR\nNEW YORK, NY 10017",
@@ -31464,6 +31570,22 @@
     ]
   },
   {
+    "id": "1482968",
+    "name": "REIBEN, RACHEL",
+    "address": "299 PARK AVENUE, 40TH FLOOR\nNEW YORK, NY 10171",
+    "phone": "(646) 289-7686",
+    "email": "rreiben@kingstreet.com",
+    "registrationDate": "08/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KING STREET CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "08/12/2025"
+      }
+    ]
+  },
+  {
     "id": "1346101",
     "name": "REID, LEE ANGELA",
     "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -31594,6 +31716,9 @@
   {
     "id": "1399750",
     "name": "REYNOLDS, STEPHEN",
+    "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
@@ -31817,9 +31942,9 @@
     "address": "10 EAST 53RD STREET\nNEW YORK, NY 10022",
     "phone": "(917) 656-0816",
     "email": "hillary.ripley@igneoip.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/02/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "FIRST SENTIER INVESTORS  (US) LLC",
@@ -32148,6 +32273,8 @@
   {
     "id": "1458347",
     "name": "RODRIGUEZ, ALEXIS",
+    "address": "1215 K STREET, SUITE 1400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 930-1220",
     "registrationDate": "07/21/2025",
     "status": "Active",
     "relationships": [
@@ -32965,8 +33092,8 @@
     "address": "P.O. BOX 160634\nSACRAMENTO, CA 95816",
     "phone": "(916) 340-5507",
     "email": "julie@yourhoac.org",
-    "registrationDate": "02/01/2025",
-    "status": "Active",
+    "registrationDate": "04/09/2025",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "HEALTH OFFICERS ASSOCIATION OF CALIFORNIA",
@@ -33689,8 +33816,8 @@
     "address": "230 PARK AVENUE, 14TH FLOOR\nNEW YORK, NY 10169",
     "phone": "(212) 309-5930",
     "email": "paul.schemel@voya.com",
-    "registrationDate": "02/03/2025",
-    "status": "Active",
+    "registrationDate": "05/07/2025",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "VOYA INVESTMENT MANAGEMENT CO. LLC",
@@ -35015,6 +35142,9 @@
   {
     "id": "1373544",
     "name": "SIMONETTE, GARY",
+    "address": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
@@ -35330,9 +35460,9 @@
     "address": "280 PARK AVENUE, 11TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(212) 833-2800",
     "email": "msmendzuik@torchlightinvestors.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "TORCHLIGHT INVESTORS LLC",
@@ -36071,9 +36201,9 @@
     "address": "1585 BROADWAY\nNEW YORK, NY 10036",
     "phone": "(917) 748-4055",
     "email": "matt.steccato@morganstanley.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "05/05/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "MORGAN STANLEY INVESTMENT MANAGEMENT INC.",
@@ -38674,7 +38804,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "INTERMEDIATE CAPITAL GROUP, INC.",
+        "entityName": "ICG INVESTMENTS INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -38914,9 +39044,16 @@
     "address": "5800 BRISTOL CITY PARKWAY\nCULVER CITY, CA 90230",
     "phone": "(916) 747-7791",
     "email": "compliance_ca_tiktok_1@multistate.us",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/08/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TIKTOK INC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1347446",
@@ -39767,9 +39904,16 @@
     "address": "1600-1981 MCGILL COLLEGE AVENUE\nMONTREAL, QC H3A2Y1",
     "phone": "(508) 233-3604",
     "email": "sweiss@pinestoneam.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/07/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PINESTONE ASSET MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1411770",
@@ -39820,28 +39964,6 @@
         "entityName": "BARINGS LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1441420",
-    "name": "WELLS, JORDAN",
-    "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95816",
-    "email": "legcoordinator@counties.org",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
-        "type": "Employer",
-        "effectiveDate": "03/02/2025"
-      },
-      {
-        "entityName": "NATIONAL STEWARDSHIP ACTION COUNCIL",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "02/28/2025"
       }
     ]
   },
