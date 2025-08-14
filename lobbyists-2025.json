@@ -1745,7 +1745,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "MURDOCH WALRATH  & HOLMES",
+        "entityName": "MURDOCH WALRATH & HOLMES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -6179,7 +6179,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "MURDOCH WALRATH  & HOLMES",
+        "entityName": "MURDOCH WALRATH & HOLMES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -12916,8 +12916,9 @@
     "address": "P.O. BOX 1481\nSHINGLE SPRINGS, CA 95682",
     "phone": "(916) 337-9031",
     "email": "bill@gainesandassociates.net",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "GAINES & ASSOCIATES",
@@ -13636,8 +13637,9 @@
     "name": "GILBERT, JAMES",
     "address": "499 PARK AVENUE, SUITE 1601, 16TH FLOOR\nNEW YORK, NY 10022",
     "email": "j.gilbert@winton.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/11/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -19595,7 +19597,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "MURDOCH WALRATH  & HOLMES",
+        "entityName": "MURDOCH WALRATH & HOLMES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -20550,8 +20552,8 @@
     "address": "28 STATE STREET\nBOSTON, MA 02109",
     "phone": "(617) 720-7966",
     "email": "adiam.kiflom@abrdn.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/08/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -24981,6 +24983,23 @@
     ]
   },
   {
+    "id": "1474008",
+    "name": "MC CALL, BRIAN",
+    "address": "650 TOWN CENTER DRIVE, 20TH FLOOR\nCOASTA MESA, CA 92626",
+    "phone": "(213) 485-1234",
+    "email": "lobbying.compliance@lw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LATHAM & WATKINS LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1479750",
     "name": "MC CALLUM, REBECCA",
     "address": "17 OLD KINGS HIGHWAY SOUTH\nDARIEN, CT 06820",
@@ -25615,23 +25634,6 @@
       {
         "entityName": "MKP CAPITAL MANAGEMENT, L.L.C.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1474199",
-    "name": "MCCALL, BRIAN",
-    "address": "650 TOWN CENTER DRIVE, 20TH FLOOR\nCOASTA MESA, CA 92626",
-    "phone": "(213) 485-1234",
-    "email": "lobbying.compliance@lw.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LATHAM & WATKINS LLP",
-        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -28946,7 +28948,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "MURDOCH WALRATH  & HOLMES",
+        "entityName": "MURDOCH WALRATH & HOLMES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -31482,9 +31484,16 @@
     "address": "1415 L STEEET, SUITE 870\nSACRAMENTO, CA 95814",
     "phone": "(916) 558-1926",
     "email": "sethr@water-warrior.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "REEB GOVERNMENT RELATIONS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1338570",
@@ -33329,7 +33338,7 @@
       {
         "entityName": "SOMOS GROUP",
         "type": "Firm",
-        "effectiveDate": "04/04/2025"
+        "effectiveDate": "03/21/2025"
       }
     ]
   },
