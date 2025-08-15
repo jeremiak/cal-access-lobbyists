@@ -949,6 +949,22 @@
     ]
   },
   {
+    "id": "1482435",
+    "name": "APKARIAN, BRIAN",
+    "address": "399 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 708-4801",
+    "email": "brian.apkarian@mlp.com",
+    "registrationDate": "07/24/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MILLENNIUM MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "07/24/2025"
+      }
+    ]
+  },
+  {
     "id": "1480748",
     "name": "APPEL, SAMUEL A.",
     "address": "6500 ROSEMEAD BOULEVARD\nPICO RIVERA, CA 90660",
@@ -3859,9 +3875,16 @@
     "phone": "(646) 300-0541",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\n7TH FLOOR\nSACRAMENTO, CA 95814\nPhone: (646) 300-0541\nEmail: fppc@bmhlaw.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1472481",
@@ -7575,8 +7598,9 @@
     "phone": "(646) 857-8244",
     "email": "brian.conry@pinebridge.com",
     "mailingAddress": "65 EAST 55TH STREET\nNEW YORK, NY 10022",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/11/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "PINEBRIDGE INVESTMENTS LLC",
@@ -11939,14 +11963,20 @@
     "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(628) 220-7269",
     "email": "jfiscella@sixthstreet.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/14/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "OAK HILL ADVISORS, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/21/2025"
+      },
+      {
+        "entityName": "SIXTH STREET BD, LLC",
+        "type": "Employer",
+        "effectiveDate": "04/07/2025"
       }
     ]
   },
@@ -19031,9 +19061,16 @@
     "address": "660 FIFTH AVENUE\nNEW YORK , NY 10103",
     "phone": "(917) 862-5716",
     "email": "malcolm.johnson@macquarie.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MACQUARIE INFRASTRUCTURE AND REAL ASSETS INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1318206",
@@ -22278,7 +22315,7 @@
   {
     "id": "1456822",
     "name": "LEGISTER, SEAN-PATRICK",
-    "address": "1 VANDERBILT AVENUE, 26TH FLOOR\nNEW YORK, NY 10017",
+    "address": "550 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 303-6180",
     "email": "slegister@bdtmsd.com",
     "registrationDate": "01/01/2025",
