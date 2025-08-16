@@ -1588,6 +1588,22 @@
     ]
   },
   {
+    "id": "1483150",
+    "name": "AZADIAN, JAMES",
+    "address": "444 SOUTH FLOWER STREET, SUITE 2200\nLOS ANGELES, CA 90071",
+    "phone": "(213) 457-1779",
+    "email": "compliance@dykema.com",
+    "registrationDate": "07/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DYKEMA GOSSETT PLLC",
+        "type": "Firm",
+        "effectiveDate": "07/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1458275",
     "name": "AZEVEDO, DAVID",
     "address": "1415 L STREET, SUITE 960\nSACRAMENTO, CA 95814",
@@ -8893,6 +8909,24 @@
         "entityName": "FULL MOON STRATEGIES",
         "type": "Firm",
         "effectiveDate": "03/20/2025"
+      }
+    ]
+  },
+  {
+    "id": "1446229",
+    "name": "DAUBAR, MICHELLE",
+    "address": "2200 ATLANTIC AVENUE, SUITE 300\nSTAMFORD, CT 06902",
+    "phone": "(203) 717-1362",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OAK HC/FT",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -16567,7 +16601,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+        "entityName": "GLP CAPITAL PARTNERS INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/17/2025"
@@ -22151,7 +22185,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+        "entityName": "GLP CAPITAL PARTNERS INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/17/2025"
@@ -22362,7 +22396,7 @@
         "effectiveDate": "03/19/2025"
       },
       {
-        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+        "entityName": "GLP CAPITAL PARTNERS INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/03/2025"
@@ -22627,7 +22661,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+        "entityName": "GLP CAPITAL PARTNERS INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/17/2025"
@@ -24572,8 +24606,9 @@
     "address": "1017 L STREET, SUITE 534\nSACRAMENTO, CA 95814",
     "phone": "(916) 267-5536",
     "email": "cara@publichousingconsulting.net",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/15/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
     "relationships": []
   },
   {
@@ -26016,6 +26051,23 @@
     ]
   },
   {
+    "id": "1448182",
+    "name": "MEYER, MADISON",
+    "address": "2200 ATLANTIC AVENUE, SUITE 300\nSTAMFORD, CT 06902",
+    "phone": "(203) 717-1367",
+    "email": "madison@oakhcft.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OAK HC/FT",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1348090",
     "name": "MEYERS, ASHLEY M.",
     "address": "351 NORTH SUMNEYTOWN PIKE UG3A-94\nNORTH WALES, PA 19454",
@@ -27175,14 +27227,15 @@
     "address": "117 E. COLORADO BOULEVARD, SUITE 465\nPASADENA, CA 91105",
     "phone": "(626) 240-4850",
     "email": "kmueller@brentfiol.com",
-    "registrationDate": "01/08/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BRENT & FIOL, LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -39567,6 +39620,7 @@
     "phone": "(919) 917-8480",
     "email": "lindsey.walter@novartis.com",
     "registrationDate": "07/28/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -40589,7 +40643,7 @@
         "effectiveDate": "03/19/2025"
       },
       {
-        "entityName": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+        "entityName": "GLP CAPITAL PARTNERS INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/03/2025"
