@@ -2608,9 +2608,16 @@
     "address": "10 EAST 53RD STREET, 21ST FLOOR\nNEW YORK, NY 10022",
     "phone": "(646) 983-6118",
     "email": "bachar.beaini@firstsentier.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "07/02/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "FIRST SENTIER INVESTORS  (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/02/2025"
+      }
+    ]
   },
   {
     "id": "1456865",
@@ -2768,15 +2775,9 @@
     "address": "12160 SIERRA DRIVE\nTRUCKEE, CA 96161",
     "phone": "(916) 628-7163",
     "email": "brittany.benesi@aspca.org",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AMERICAN SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS; THE",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1442336",
@@ -4427,6 +4428,22 @@
         "entityName": "ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS; THE",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482037",
+    "name": "BRIDGES, SARAH E.",
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-5420",
+    "email": "sbridges@cmta.net",
+    "registrationDate": "06/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "06/17/2025"
       }
     ]
   },
@@ -6639,13 +6656,7 @@
     "email": "chhabria@campbell-lutyens.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "CAMPBELL LUTYENS & CO. INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1476783",
@@ -6724,13 +6735,7 @@
     "email": "mchiodi@kpgcapitalpartners.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "KPG CAPITAL PARTNERS, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1457075",
@@ -6941,13 +6946,7 @@
     "email": "scott.church@rede-partners.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "REDE PARTNERS (AMERICAS) LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1426804",
@@ -6974,13 +6973,7 @@
     "email": "e.askcompliance@greystar.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1343101",
@@ -7007,13 +7000,7 @@
     "email": "lclarkharvey@cccbha.org",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA COUNCIL OF COMMUNITY BEHAVIORAL HEALTH AGENCIES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1418307",
@@ -7786,13 +7773,7 @@
     "email": "cooper@campbell-lutyens.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "CAMPBELL LUTYENS & CO. INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1465012",
@@ -8534,13 +8515,7 @@
     "email": "compliance@abbeycapital.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "ABBEY CAPITAL (US) LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1415215",
@@ -8954,13 +8929,7 @@
     "email": "davidsson@campbell-lutyens.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "CAMPBELL LUTYENS & CO. INC.",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1441067",
@@ -9409,15 +9378,9 @@
     "address": "4700 WILSHIRE BOULEVARD\nLOS ANGELES, CA 90010",
     "phone": "(213) 652-3534",
     "email": "jdellinger@cimgroup.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CIM GROUP L.P.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "07/01/2025",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1440299",
@@ -9953,13 +9916,7 @@
     "email": "hmdisano@statestreet.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "STATE STREET BANK AND TRUST COMPANY",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1448364",
@@ -10054,13 +10011,7 @@
     "mailingAddress": "22 FAIRVIEW TERRACE\nMAPLEWOOD, NJ 07040",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "CORE AND VALUE ADVISORS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1467677",
@@ -10205,13 +10156,7 @@
     "mailingAddress": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1477874",
@@ -10407,13 +10352,7 @@
     "email": "scott.draper@algertglobal.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "ALGERT GLOBAL LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1471995",
@@ -10775,13 +10714,7 @@
     "email": "legalnotices@pccpllc.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "PCCP, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1229725",
@@ -10790,13 +10723,7 @@
     "phone": "(415) 819-4285",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "CONSCIOUS VENTURES GROUP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1148742",
@@ -11361,13 +11288,7 @@
     "email": "lfahrney@ridgemontep.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1482154",
@@ -11916,13 +11837,7 @@
     "email": "anjuli.finch@lazard.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "LAZARD ASSET MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1424836",
@@ -11932,13 +11847,7 @@
     "email": "mfindlay@nssf.org",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1389444",
@@ -12304,6 +12213,16 @@
         "effectiveDate": "01/01/2025"
       }
     ]
+  },
+  {
+    "id": "1482673",
+    "name": "FLOWERS, ZACH",
+    "address": "P.O. BOX 160634\nSACRAMENTO, CA 95816",
+    "phone": "(916) 340-5507",
+    "email": "zach@yourhoac.org",
+    "registrationDate": "08/01/2025",
+    "status": "Active",
+    "relationships": []
   },
   {
     "id": "1468891",
@@ -12786,8 +12705,9 @@
     "phone": "(416) 306-9800",
     "email": "finance@altas.com",
     "mailingAddress": "79 WELLINGTON STREET, SUITE 3500\nTORONTO ON M5K1K7",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/14/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "ALTAS PARTNERS LLC",
@@ -16293,8 +16213,9 @@
     "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281-1023",
     "phone": "(602) 617-2345",
     "email": "chris.harris@brookfield.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
@@ -16789,6 +16710,7 @@
     "phone": "(707) 226-0413",
     "email": "grcompliance@thedoctors.com",
     "registrationDate": "06/11/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16905,9 +16827,16 @@
     "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281-1023",
     "phone": "(213) 330-8122",
     "email": "dan.heffernan@brookfield.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1451605",
@@ -17574,6 +17503,23 @@
     ]
   },
   {
+    "id": "1482234",
+    "name": "HOCHMAN, JACK",
+    "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 445-7463",
+    "email": "jack.hochman@brookfield.com",
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "08/13/2025"
+      }
+    ]
+  },
+  {
     "id": "1476694",
     "name": "HODGKINS, JENNIFER",
     "address": "2015 J STREET, SUITE 100\nSACRAMENTO , CA 95811",
@@ -17860,6 +17806,7 @@
     "phone": "(703) 267-1250",
     "email": "khopkins@nrahq.org",
     "registrationDate": "06/04/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19883,6 +19830,23 @@
     ]
   },
   {
+    "id": "1404932",
+    "name": "KATARINCIC, JAMES D.",
+    "address": "250 VESEY STREET, 15H FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 301-2347",
+    "email": "jim.katarincic@brookfield.com",
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "08/13/2025"
+      }
+    ]
+  },
+  {
     "id": "1373604",
     "name": "KATZ, DAVID A.",
     "address": "12121 WILSHIRE BOULEVARD, SUITE 1240\nLOS ANGELES, CA 90025",
@@ -20608,6 +20572,7 @@
     "phone": "(916) 552-2960",
     "email": "bsca@politicomlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21405,7 +21370,7 @@
   {
     "id": "1441968",
     "name": "KOZEL, COURTNEY B.",
-    "address": "1603 ORRINGTON AVENUE, SUITE 1100\nEVANSTON, IL 60201",
+    "address": "151 NORTH FRANKLIN STREET, SUITE 2150\nCHICAGO, IL 60606",
     "phone": "(312) 767-4635",
     "email": "courtney.kozel@eldariver.com",
     "registrationDate": "01/01/2025",
@@ -21746,6 +21711,7 @@
     "phone": "(916) 443-5422",
     "email": "nicklapis@cawrecycles.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": []
   },
@@ -24609,7 +24575,13 @@
     "registrationDate": "08/15/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "PUBLIC HOUSE CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1407273",
@@ -26266,6 +26238,23 @@
     ]
   },
   {
+    "id": "1480620",
+    "name": "MILLER, GAYLE",
+    "address": "250 VESEY STREET, 15H FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 549-8334",
+    "email": "gayle.miller@brookfield.com",
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "08/13/2025"
+      }
+    ]
+  },
+  {
     "id": "1477590",
     "name": "MILLER, JORDAN",
     "address": "540 MADISON AVENUE\nNEW YORK, NY 10022",
@@ -27465,6 +27454,7 @@
     "address": "250 W 55TH STREET, 34TH FLOOR\nNEW  YORK, NY 10019",
     "phone": "(332) 223-6310",
     "registrationDate": "04/11/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30067,9 +30057,16 @@
     "address": "250 VESEY STREET\nNEW YORK, NY 10281",
     "phone": "(212) 618-3491",
     "email": "helen.petrow@brookfield.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1332073",
@@ -32843,9 +32840,16 @@
     "address": "65 EAST 55TH STREET, 19TH FLOOR\nNEW YORK , NY 10022",
     "phone": "(212) 699-2261",
     "email": "abrielle.rosenthal@towerbrookfinan.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/15/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TOWERBROOK FINANCIAL, L.P. AND ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1459045",
@@ -33879,9 +33883,16 @@
     "phone": "(415) 732-7700",
     "email": "lobbying@rutan.com",
     "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/14/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CENTER FOR BIOLOGICAL DIVERSITY",
+        "type": "Employer",
+        "effectiveDate": "03/31/2025"
+      }
+    ]
   },
   {
     "id": "1456652",
@@ -37599,14 +37610,15 @@
     "address": "1121 L STREET, #900\nSACRAMENTO, CA 95814",
     "phone": "(916) 712-2504",
     "email": "rthompson@mwdh2o.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/02/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/02/2025"
       }
     ]
   },
@@ -37737,6 +37749,7 @@
     "email": "lobbying@rutan.com",
     "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
     "registrationDate": "07/28/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -40515,6 +40528,7 @@
     "phone": "(707) 226-0773",
     "email": "grcompliance@thedoctors.com",
     "registrationDate": "05/29/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
