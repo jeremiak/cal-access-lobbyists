@@ -3107,8 +3107,9 @@
     "name": "BERRY, MARK",
     "address": "11 CHARLES II STREET\nLONDON UK SW1Y 4QU ",
     "email": "mb@crossoceanpartners.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/18/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -6171,9 +6172,16 @@
     "phone": "(213) 624-6200",
     "email": "karina@strategiesgroup.com",
     "mailingAddress": "515 SOUTH FIGUEROA STREET, SUITE 1110\nLOS ANGELES, CA 90071",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ORTEGA STRATEGIES GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1236630",
@@ -6368,6 +6376,7 @@
     "phone": "(415) 227-0900",
     "email": "lchartrand@buchalter.com",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Revoked",
     "relationships": []
   },
@@ -6912,6 +6921,7 @@
     "phone": "(916) 839-4466",
     "email": "contact@mkcpublicaffairs.com",
     "registrationDate": "06/11/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -7771,8 +7781,9 @@
     "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 223-8448",
     "email": "cooper@campbell-lutyens.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/14/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -8927,8 +8938,9 @@
     "address": "630 5TH AVENUE, 36TH FLOOR\nNEW YORK, NY 10111",
     "phone": "(212) 223-8448",
     "email": "davidsson@campbell-lutyens.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/14/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -9041,6 +9053,7 @@
     "address": "60 ARCH STREET, 3RD FLOOR\nGREENWICH, CT 06830",
     "phone": "(203) 340-7876",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Revoked",
     "relationships": []
   },
@@ -13859,6 +13872,7 @@
     "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
     "phone": "(667) 204-0219",
     "registrationDate": "06/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19749,7 +19763,9 @@
   {
     "id": "1354821",
     "name": "KANTER, THOMAS",
-    "mailingAddress": "350 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022\nPhone: (212) 256-8345\nEmail: t.kanter@mwam.com",
+    "address": "350 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 256-8345",
+    "email": "t.kanter@mwam.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
@@ -21097,9 +21113,9 @@
     "phone": "(212) 321-3789",
     "email": "tknechtel@varde.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600 \nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/05/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "VARDE PARTNERS, INC.",
@@ -21713,7 +21729,13 @@
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "CALIFORNIANS AGAINST WASTE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1453055",
@@ -24334,6 +24356,7 @@
     "phone": "(312) 416-8499",
     "email": "marroquin@campbell-lutyens.com",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Revoked",
     "relationships": []
   },
@@ -28500,8 +28523,9 @@
     "address": "461 FIFTH AVENUE, 14TH FLOOR\nNEW YORK, NY 10017",
     "phone": "(646) 582-5772",
     "email": "noates@firstavenue.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/15/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -31426,8 +31450,9 @@
     "address": "60 ARCH STREET, 3RD FLOOR\nGREENWICH, CT 06830",
     "phone": "(203) 340-7889",
     "email": "plr@crossoceanpartners.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/14/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -33117,6 +33142,7 @@
     "id": "1482626",
     "name": "RUBINSTEIN, ARIELLE TOPLEY ",
     "address": "222 BERKELEY STREET, 18TH FLOOR\nBOSTON, MA 02116",
+    "phone": "(617) 824-1000",
     "email": "atopleyrubinstein@summitpartners.com",
     "registrationDate": "08/01/2025",
     "status": "Active",
@@ -37315,8 +37341,9 @@
     "name": "TAYLOR, TIMOTHY F.",
     "address": "1121 L STREET, SUITE 100\nSACRAMENTO, CA 95814",
     "phone": "(916) 612-6000",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/14/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -40448,8 +40475,9 @@
     "address": "630 5TH AVENUE, FLOOR 36\nNEW YORK, NY 10111",
     "phone": "(212) 223-8448",
     "email": "wiener@campbell-lutyens.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/14/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
