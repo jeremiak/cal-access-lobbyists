@@ -3405,8 +3405,8 @@
     "phone": "(212) 588-6477",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 10036",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "02/28/2025",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "ARGAND PARTNERS, LP",
@@ -5216,8 +5216,8 @@
     "address": "250 PARK AVENUE, 15TH FLOOR\nNEW YORK, NY 10177",
     "phone": "(646) 965-8586",
     "email": "compliance@octagoncredit.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "05/01/2025",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "OCTAGON CREDIT INVESTORS, LLC",
@@ -9806,9 +9806,9 @@
     "address": "1029 J STREET, SUITE 220\nSACRAMENTO, CA 95814",
     "phone": "(530) 301-3510",
     "email": "adickey@sccoe.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "SANTA CLARA COUNTY OFFICE OF EDUCATION",
@@ -10238,9 +10238,9 @@
     "address": "7 BRYANT PARK, 24TH FLOOR\nNEW YORK, NY 10018",
     "phone": "(212) 808-0149",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "05/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "TCMI, INC. AND AFFILIATED ENTITIES",
@@ -11240,7 +11240,13 @@
     "phone": "(661) 674-7847",
     "registrationDate": "04/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "SKE STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
+      }
+    ]
   },
   {
     "id": "1351898",
@@ -12235,7 +12241,13 @@
     "email": "zach@yourhoac.org",
     "registrationDate": "08/01/2025",
     "status": "Active",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "HEALTH OFFICERS ASSOCIATION OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "08/01/2025"
+      }
+    ]
   },
   {
     "id": "1468891",
@@ -13244,9 +13256,9 @@
     "phone": "(415) 364-0000",
     "email": "seamus@lh-pa.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/25/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
@@ -16582,9 +16594,9 @@
     "address": "2000 AVENUE OF THE STARS\nLOS ANGELES, CA 90067",
     "phone": "(310) 871-3332",
     "email": "alison.hawkins@artemisrep.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/28/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "ARTEMIS REAL ESTATE PARTNERS, LLC",
