@@ -2502,6 +2502,7 @@
     "address": "3800 WATT AVENUE, SUITE 210\nSACRAMENTO, CA 95826",
     "phone": "(916) 564-4949",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5113,6 +5114,22 @@
     ]
   },
   {
+    "id": "1482597",
+    "name": "BUDRA, MAX",
+    "address": "100 PALL MALL\nLONDON UNITED KINGDOM SW1Y5NQ, XX 00000",
+    "email": "mbudra@capvest.com",
+    "registrationDate": "07/25/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "07/25/2025"
+      }
+    ]
+  },
+  {
     "id": "1474007",
     "name": "BUFFA, NIKKI",
     "address": "650 TOWN CENTER DRIVE 20TH FLOOR\nCOSTA MESA, CA 92626",
@@ -6823,7 +6840,7 @@
   {
     "id": "1457075",
     "name": "CHMIELINSKI, LUKE",
-    "address": "601 LEXINGTON AVENUE, 58TH FLOOR\nNEW YORK, CA 10022",
+    "address": "601 LEXINGTON AVENUE, 58TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 419-2439",
     "email": "luke.chmielinski@apax.com",
     "registrationDate": "06/06/2025",
@@ -7949,6 +7966,7 @@
     "phone": "(212) 699-2261",
     "email": "alicia.corbin@towerbrookfinancial.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -10070,14 +10088,15 @@
     "name": "DJAHANGIRI, MAHTISA",
     "address": "90912TH STREET, STE 202\nSACRAMENTO, CA 95814",
     "phone": "(214) 578-2921",
-    "registrationDate": "01/21/2025",
+    "registrationDate": "07/25/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIERRA CLUB",
         "type": "Employer",
-        "effectiveDate": "01/21/2025"
+        "effectiveDate": "01/21/2025",
+        "terminationDate": "07/25/2025"
       }
     ]
   },
@@ -10122,9 +10141,16 @@
     "phone": "(646) 799-1033",
     "email": "doddy@stockbridge.com",
     "mailingAddress": "22 FAIRVIEW TERRACE\nMAPLEWOOD, NJ 07040",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/19/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORE AND VALUE ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1467677",
@@ -12471,6 +12497,23 @@
     ]
   },
   {
+    "id": "1482924",
+    "name": "FOSTER, CARMEL M",
+    "address": "40 PARK CITY CT, 1301\nSACRAMENTO, CA 95831",
+    "phone": "(415) 407-0472",
+    "email": "mycharacterreferences@gmail.com",
+    "registrationDate": "08/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MY CHARACTER REFERENCES LLC",
+        "type": "Employer",
+        "effectiveDate": "08/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1393286",
     "name": "FOSTER, WILLIAM",
     "address": "9830 COLONNADE BOULEVARD, SUITE 600\nSAN ANTONIO, TX 78230",
@@ -12729,6 +12772,7 @@
     "email": "tf@connaught.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13491,18 +13535,23 @@
   {
     "id": "1427987",
     "name": "GAYDEN, LAWRENCE ",
-    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
-    "phone": "(916) 498-3356",
-    "email": "lgayden@cmta.net",
-    "mailingAddress": "1201 K STREET\nSACRAMENTO, CA 95814\nPhone: (916) 554-5317",
+    "address": "1201 K STREET, 15TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 554-5317",
+    "email": "lawrence.gayden@cda.org",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
+        "entityName": "CALIFORNIA DENTAL ASSOCIATION AND ITS WHOLLY OWNED SUBSIDIARIES",
+        "type": "Employer",
+        "effectiveDate": "02/19/2025"
+      },
+      {
         "entityName": "CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/18/2025"
       }
     ]
   },
@@ -17142,6 +17191,7 @@
     "phone": "(916) 600-3457",
     "email": "jhenderson@caedge.org",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24554,9 +24604,16 @@
     "address": "1300 EL CAMINO REAL, SUITE 300\nMENLO PARK, CA 94025",
     "phone": "(650) 935-9594",
     "email": "devan@stg.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/18/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STG PARTNERS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1399026",
@@ -26874,6 +26931,7 @@
     "email": "vm@connaught.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28441,9 +28499,16 @@
     "phone": "(415) 374-2365",
     "email": "trent.norris@hoganlovells.com",
     "mailingAddress": "555 13TH STREET NW\nWASHINGTON, DC 20004\nPhone: (415) 374-2365\nEmail: trent.norris@hoganlovells.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/18/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOGAN LOVELLS US LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1262654",
@@ -31438,6 +31503,22 @@
     ]
   },
   {
+    "id": "1482723",
+    "name": "RAHM, JOSHUA M",
+    "address": "12647 OLIVE BOULEVARD, SUITE 410\nST.LOUIS, MO 63141",
+    "phone": "(515) 320-3979",
+    "email": "jrahm@soy.org",
+    "registrationDate": "07/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN SOYBEAN ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "07/15/2025"
+      }
+    ]
+  },
+  {
     "id": "1482424",
     "name": "RAHMAN, NADIA",
     "address": "724 8TH AVENUE APT 4\nSAN FRANCISCO, CA 94118",
@@ -31633,6 +31714,23 @@
     "registrationDate": "07/01/2025",
     "status": "Revoked",
     "relationships": []
+  },
+  {
+    "id": "1478180",
+    "name": "RASSO, VINCENT",
+    "address": "1020 12TH STREET, SUITE 232\nSACRAMENTO, CA 95814",
+    "phone": "(909) 653-8556",
+    "email": "govrelations@ucsa.com",
+    "mailingAddress": "22584 VAN BUREN STREET\nGRAND TERRACE, CA 92313",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1458345",
@@ -34607,9 +34705,16 @@
     "address": "1350 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10019",
     "phone": "(347) 843-1971",
     "email": "stephen.sciaraffo@cheynecapital.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/18/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHEYNE CAPITAL US, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1419125",
@@ -34935,6 +35040,22 @@
         "entityName": "CFM INTERNATIONAL INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482596",
+    "name": "SHAH, SHIVANI",
+    "address": "100 PALL MALL\nLONDON UNITED KINGDOM SW1Y5NQ, XX 00000",
+    "email": "sshah@capvest.com",
+    "registrationDate": "07/25/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPVEST PARTNERS LLP",
+        "type": "Employer",
+        "effectiveDate": "07/25/2025"
       }
     ]
   },
@@ -40670,6 +40791,22 @@
     "registrationDate": "07/01/2025",
     "status": "Revoked",
     "relationships": []
+  },
+  {
+    "id": "1482317",
+    "name": "WHITELAW, ERIN",
+    "address": "315 PARK AVENUE SOUTH, 18TH FLOOR\nNEW YORK, NY 10010",
+    "phone": "(646) 540-7371",
+    "email": "ewhitelaw@walleyecapital.com",
+    "registrationDate": "07/23/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "WALLEYE CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "07/23/2025"
+      }
+    ]
   },
   {
     "id": "1374657",
