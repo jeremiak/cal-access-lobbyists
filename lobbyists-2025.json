@@ -7403,7 +7403,7 @@
     "address": "405 COLORADO STREET, SUITE 1600\nAUSTIN, TX 78701",
     "phone": "(737) 704-1561",
     "email": "icohen@havelii.com",
-    "registrationDate": "08/13/2025",
+    "registrationDate": "08/19/2025",
     "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
@@ -7677,6 +7677,7 @@
     "phone": "(212) 771-1717",
     "email": "aconnor@arsenalcapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8333,14 +8334,15 @@
     "address": "1831 K STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/14/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DISABILITY RIGHTS CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/14/2025"
       }
     ]
   },
@@ -8357,7 +8359,8 @@
       {
         "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
         "type": "Employer",
-        "effectiveDate": "01/14/2025"
+        "effectiveDate": "01/14/2025",
+        "terminationDate": "08/18/2025"
       }
     ]
   },
@@ -10320,9 +10323,16 @@
     "address": "1211 AVENUE OF THE AMERICAS, FLOOR 23\nNEW YORK, NY 10036",
     "phone": "(646) 460-5309",
     "email": "mark.donnelly@nordea.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/20/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NORDEA INVESTMENT MANAGEMENT NORTH AMERICA, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1433865",
@@ -12308,6 +12318,22 @@
     ]
   },
   {
+    "id": "1483131",
+    "name": "FLETCHER, NATHAN",
+    "address": "PO BOX 92040\nSOUTHLAKE, TX 76092",
+    "phone": "(858) 249-8233",
+    "email": "nate.fletcher@outlook.com",
+    "registrationDate": "08/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARROW ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "08/15/2025"
+      }
+    ]
+  },
+  {
     "id": "1322387",
     "name": "FLOCKS, SARA ",
     "address": "1001 K STREET, SUITE 200\nSACRAMENTO, CA 95814",
@@ -12621,13 +12647,7 @@
     "email": "efranchitti@caxton.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "CAXTON ASSOCIATES LLP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1477303",
@@ -13665,13 +13685,7 @@
     "email": "kgettinger@kpgcapitalpartners.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "KPG CAPITAL PARTNERS, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1456901",
@@ -14290,13 +14304,7 @@
     "email": "compliance_ca_tiaa_1@multistate.us",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "TEACHERS INSURANCE AND ANNUITY ASSOCIATION OF AMERICA (TIAA)",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1255631",
@@ -14895,6 +14903,7 @@
     "phone": "(212) 516-3194",
     "email": "alissa.grad@5cinvest.com",
     "registrationDate": "06/25/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15065,13 +15074,7 @@
     "email": "jgrant@gqg.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "GQG PARTNERS LLC AND ITS AFFILIATE, GQG PRIVATE CAPITAL SOLUTIONS LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1428296",
@@ -16053,13 +16056,7 @@
     "email": "abe@capitoladvisors.org",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "CAPITOL ADVISORS GROUP LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1469179",
@@ -16475,13 +16472,7 @@
     "email": "compliance_ca_vertex_1@multistate.us",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": [
-      {
-        "entityName": "VERTEX PHARMACEUTICALS INC.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1283112",
@@ -18069,8 +18060,9 @@
     "phone": "(916) 443-4405",
     "email": "sasha.horwitz@lausd.net",
     "mailingAddress": "333 SOUTH BEAUDRY AVENUE, 24TH FLOOR\nLOS ANGELES, CA 90017",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/21/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -19322,6 +19314,7 @@
     "phone": "(415) 538-4848",
     "email": "elysha.johnston@ubs.com",
     "registrationDate": "07/24/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23400,6 +23393,7 @@
     "phone": "(916) 446-5021",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24099,14 +24093,15 @@
     "address": "980 9TH STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-5021",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/04/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA NURSES ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/04/2025"
       }
     ]
   },
@@ -27239,7 +27234,7 @@
   {
     "id": "1272940",
     "name": "MORETTI, MATT",
-    "address": "1010 12TH STREET, SUITE 200\nSACRAMENTO, CA 95814",
+    "address": "1100 N STREET, SUITE 1B\nSACRAMENTO, CA 95814",
     "phone": "(916) 800-2472",
     "email": "mat@mjmadvocacy.com",
     "registrationDate": "01/01/2025",
@@ -29988,6 +29983,22 @@
         "entityName": "CLEAR ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1483221",
+    "name": "PELOTE, CHAD",
+    "address": "900 J STREET, FIRST FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 769-9331",
+    "email": "chadpelote79@gmail.com",
+    "registrationDate": "08/18/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PELOTE ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "08/18/2025"
       }
     ]
   },
@@ -33370,14 +33381,15 @@
     "address": "1831 K STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/14/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DISABILITY RIGHTS CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/14/2025"
       }
     ]
   },
@@ -33746,9 +33758,16 @@
     "address": "6216 LAURINE WAY\nSACRAMENTO, CA 95824",
     "phone": "(415) 238-3179",
     "email": "nick@socialcompassion.org",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/19/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOCIAL COMPASSION IN LEGISLATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1261662",
@@ -37623,6 +37642,7 @@
     "phone": "(323) 422-1560",
     "email": "daniel.taylor@invesco.com",
     "registrationDate": "02/18/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -41976,6 +41996,22 @@
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1371550",
+    "name": "ZHAO, MENGHAN",
+    "address": "64 WILLOW PLACE, SUITE 100\nMENLO PARK, CA 94025",
+    "phone": "(650) 473-2264",
+    "email": "jzhao@ta.com",
+    "registrationDate": "08/19/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TA ASSOCIATES MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "08/19/2025"
       }
     ]
   },
