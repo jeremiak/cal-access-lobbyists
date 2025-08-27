@@ -1395,9 +1395,16 @@
     "address": "4550 MONTGOMERY AVENUE, SUITE 1100 N\nBESTHESDA, MD 20814",
     "phone": "(301) 841-2639",
     "email": "calobby@nmgovlaw.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CYSTIC FIBROSIS FOUNDATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1294600",
@@ -1440,9 +1447,16 @@
     "phone": "(916) 945-5984",
     "email": "cecil.autry@libertymutual.com",
     "mailingAddress": "1415 L STREET, SUITE 670\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/22/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LIBERTY MUTUAL INSURANCE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1340531",
@@ -4919,6 +4933,7 @@
     "phone": "(212) 224-8220",
     "email": "zack.brown@rede-partners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6255,7 +6270,7 @@
   {
     "id": "1236630",
     "name": "CESPEDES, LARISA  M.",
-    "address": "915 L STREET, SUITE 1480\nSACRAMENTO, CA 95814",
+    "address": "1017 L STREET, #593\nSACRAMENTO, CA 95814",
     "phone": "(916) 414-8384",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
@@ -7747,6 +7762,7 @@
     "email": "raymond@lh-pa.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12273,6 +12289,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "06/30/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -15072,9 +15089,16 @@
     "address": "450 EAST LAS OLAS BOULEVARD, SUITE 750\nFORT LAUDERDALE, FL 33301",
     "phone": "(754) 218-5500",
     "email": "jgrant@gqg.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/22/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GQG PARTNERS LLC AND ITS AFFILIATE, GQG PRIVATE CAPITAL SOLUTIONS LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1428296",
@@ -16202,6 +16226,7 @@
     "email": "hansen@lh-pa.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 318-8866\nEmail: infoa@keyslawcorp.com",
     "registrationDate": "04/21/2025",
+    "ethicsCourseCompletionDate": "03/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26418,7 +26443,7 @@
   {
     "id": "1149219",
     "name": "MILLER IV, GEORGE ",
-    "address": "915 L STREET, SUITE 1480\nSACRAMENTO, CA 95814",
+    "address": "1017 L STREET, #593\nSACRAMENTO, CA 95814",
     "phone": "(916) 414-8384",
     "email": "george@millercespedes.com",
     "registrationDate": "01/01/2025",
@@ -34476,7 +34501,7 @@
   },
   {
     "id": "1435025",
-    "name": "SCHMIT, MORGAN",
+    "name": "SCHMIT-SOBECK, MORGAN",
     "address": "375 PARK AVENUE, 18TH FLOOR\nNEW YORK, NY 10152",
     "phone": "(212) 407-5256",
     "email": "fppc@bmhlaw.com",
@@ -36408,6 +36433,23 @@
     ]
   },
   {
+    "id": "1381990",
+    "name": "SOPHOCLES, GEORGE C.",
+    "address": "22 VANDERBILT AVENUE, 27TH FLOOR\nNEW YORK, NY 10017",
+    "phone": "(212) 396-8782",
+    "email": "gsophocles@tigfunds.com",
+    "registrationDate": "05/15/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TIG ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "05/15/2025"
+      }
+    ]
+  },
+  {
     "id": "1397508",
     "name": "SORENSEN, BROOKE",
     "address": "9 WEST 57TH STREET\nNEW YORK, NY 10019",
@@ -37774,9 +37816,16 @@
     "address": "800 BOYLSTON, SUITE 1000\nBOSTON, MA 02199",
     "phone": "(617) 880-7440",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/22/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BAYPINE LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1457566",
