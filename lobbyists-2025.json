@@ -190,6 +190,23 @@
     ]
   },
   {
+    "id": "1483378",
+    "name": "AFZAL, SAMIR",
+    "address": "601 CALIFORNIA STREET, FLOOR 19\nSAN FRANCISCO, CA 94108",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "08/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FTV MANAGEMENT COMPANY L.P.",
+        "type": "Employer",
+        "effectiveDate": "08/15/2025"
+      }
+    ]
+  },
+  {
     "id": "1414806",
     "name": "AGARWAL, ANURAG A.",
     "address": "277 PARK AVENUE, FLOOR 21\nNEW YORK, NY 10172",
@@ -3226,8 +3243,10 @@
   {
     "id": "1456046",
     "name": "BEZDEK, CLARISSA ''KAM''",
-    "address": "1225 8TH STREET SUITE 340\nSACRAMENTO, CA 95814",
-    "phone": "(415) 392-8887",
+    "address": "455 CAPITOL MALL, SUITE 703\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-4035",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
@@ -3235,7 +3254,13 @@
       {
         "entityName": "CALIFORNIA TROUT",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/26/2025"
+      },
+      {
+        "entityName": "NORTHERN CALIFORNIA WATER ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "07/15/2025"
       }
     ]
   },
@@ -6651,6 +6676,7 @@
     "phone": "(737) 308-8454",
     "email": "bchay@havelii.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6848,9 +6874,16 @@
     "address": "2078 PROSPECTOR AVENUE, UNIT 11\nPARK CITY, UT 84060",
     "phone": "(786) 436-0030",
     "email": "mchiodi@kpgcapitalpartners.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/26/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KPG CAPITAL PARTNERS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1457075",
@@ -7114,9 +7147,16 @@
     "address": "455 CAPITOL MALL, SUITE 315\nSACRAMENTO, CA 95814",
     "phone": "(916) 557-1166",
     "email": "lclarkharvey@cccbha.org",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/26/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNCIL OF COMMUNITY BEHAVIORAL HEALTH AGENCIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1418307",
@@ -8253,8 +8293,8 @@
     "phone": "(646) 300-0541",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "03/31/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
@@ -10590,6 +10630,22 @@
     ]
   },
   {
+    "id": "1346407",
+    "name": "DUCKETT, ALLAN",
+    "address": "200 PARK AVENUE, 25TH FLOOR\nNEW YORK, NY 10166",
+    "phone": "(925) 282-9783",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "07/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOLUB CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "07/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1342389",
     "name": "DUDZIK, JOHN A.",
     "address": "250 PARK AVENUE, 15TH FLOOR\nNEW YORK, NY 10177",
@@ -11592,6 +11648,21 @@
         "entityName": "GF ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1483031",
+    "name": "FARRELL, JOSH",
+    "address": "20 CARLTON HOUSE TERRACE, 2ND FLOOR\nLONDON, SW1Y, 5AN UK, XX 00000",
+    "email": "jfarrell@caxton.com",
+    "registrationDate": "08/19/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAXTON ASSOCIATES LLP",
+        "type": "Employer",
+        "effectiveDate": "08/19/2025"
       }
     ]
   },
@@ -12662,9 +12733,16 @@
     "name": "FRANCHITTI, ELEANOR",
     "address": "40 BERKELEY SQUARE, 3RD FLOOR\nLONDON, W1J 5AL, UK",
     "email": "efranchitti@caxton.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/31/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "CAXTON ASSOCIATES LLP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/31/2025"
+      }
+    ]
   },
   {
     "id": "1477303",
@@ -16793,9 +16871,9 @@
     "address": "2000 AVENUE OF THE STARS\nLOS ANGELES, CA 90067",
     "phone": "(310) 871-3332",
     "email": "alison.hawkins@artemisrep.com",
-    "registrationDate": "02/28/2025",
+    "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "ARTEMIS REAL ESTATE PARTNERS, LLC",
@@ -18546,6 +18624,23 @@
     ]
   },
   {
+    "id": "1483380",
+    "name": "INGLESBY, BRETT",
+    "address": "601 CALIFORNIA STREET, FLOOR 19\nSAN FRANCISCO, CA 94108",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
+    "registrationDate": "08/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FTV MANAGEMENT COMPANY L.P.",
+        "type": "Employer",
+        "effectiveDate": "08/15/2025"
+      }
+    ]
+  },
+  {
     "id": "1415074",
     "name": "INSKO, KEVAN A.",
     "address": "2030 WEST EL CAMINO AVENUE, SUITE 210\nSACRAMENTO, CA 95833",
@@ -19493,6 +19588,7 @@
     "phone": "(530) 887-9944",
     "email": "fredjones@jps.net",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
@@ -21629,9 +21725,16 @@
     "phone": "(646) 685-8935",
     "email": "will.kreitler@parksquarecapital.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600,\n SACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/25/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1481171",
@@ -21839,6 +21942,23 @@
         "entityName": "LA VIGNE STRATEGIES, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1483344",
+    "name": "LACOMBE, CAROLINE",
+    "address": "520 MADISON AVENUE, 34TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 321-3780",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "08/25/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VARDE PARTNERS, INC.",
+        "type": "Employer",
+        "effectiveDate": "08/25/2025"
       }
     ]
   },
@@ -22668,14 +22788,15 @@
     "address": "200 PARK AVENUE SOUTH, SUITE 1511\nNEW YORK CITY, NY 10003",
     "phone": "(212) 390-1820",
     "email": "rlemberg@itemgmt.com",
-    "registrationDate": "04/08/2025",
+    "registrationDate": "08/29/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ITE MANAGEMENT L.P.",
         "type": "Employer",
-        "effectiveDate": "04/08/2025"
+        "effectiveDate": "04/08/2025",
+        "terminationDate": "08/29/2025"
       }
     ]
   },
@@ -26267,6 +26388,7 @@
     "phone": "(512) 969-8395",
     "email": "hmetzinger@havelii.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26532,6 +26654,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28845,9 +28968,16 @@
     "phone": "(646) 681-4909",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/25/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1148874",
@@ -30638,8 +30768,9 @@
     "phone": "(323) 447-9606",
     "email": "jhonny@atlantic-strateg.com",
     "mailingAddress": "4326 EAST 60TH STREET #24\nHUNTINGTON PARK, CA 90255",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "08/19/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -30713,18 +30844,23 @@
   {
     "id": "1318712",
     "name": "PIZZOTTI, COBY K. ",
-    "address": "1127 11TH STREEET, SUITE 300\nSACRAMENTO , CA 95814",
-    "phone": "(916) 974-9270",
+    "address": "3310 SUISUN BAY ROAD\nSACRAMENTO , CA 95691",
+    "phone": "(916) 708-5548",
     "email": "cpizzotti@me.com",
-    "registrationDate": "07/23/2025",
+    "registrationDate": "08/19/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/06/2025",
         "terminationDate": "07/23/2025"
+      },
+      {
+        "entityName": "CKP CONSULTING AND STRATEGY",
+        "type": "Firm",
+        "effectiveDate": "08/01/2025"
       }
     ]
   },
@@ -34522,9 +34658,16 @@
     "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(212) 907-5100",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "06/30/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "STONEPEAK PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
+      }
+    ]
   },
   {
     "id": "1362760",
@@ -38121,6 +38264,22 @@
     ]
   },
   {
+    "id": "1444722",
+    "name": "THRONSON, ERIC",
+    "address": "P.O. BOX 255\nDAVIS, CA 95617",
+    "phone": "(512) 826-0648",
+    "registrationDate": "09/01/2025",
+    "ethicsCourseCompletionDate": "11/08/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "THRONSON CONSULTING; EJ",
+        "type": "Firm",
+        "effectiveDate": "09/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1398038",
     "name": "THUERWACHTER, JAMES A.",
     "address": "925 L STREET, SUITE 1450\nSACRAMENTO, CA 95814",
@@ -39186,6 +39345,25 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "07/22/2025"
+      }
+    ]
+  },
+  {
+    "id": "1451399",
+    "name": "VAN DER LINDEN, ROSS ",
+    "address": "2200 PARK AVENUE, 25TH FLOOR\nNEW YORK, NY 10166",
+    "phone": "(212) 750-6060",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "150 SOUTH WACKER DRIVE, 5TH FLOOR\nCHICAGO, IL 60606",
+    "registrationDate": "06/30/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "GOLUB CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -41406,9 +41584,16 @@
     "address": "550 WEST 34TH STREET, 48TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(212) 907-5100",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/25/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STONEPEAK PARTNERS LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1282403",
@@ -41966,6 +42151,23 @@
         "entityName": "LEUKEMIA & LYMPHOMA SOCIETY",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1425831",
+    "name": "ZAVALA, DEBORAH BAUTISTA",
+    "address": "925 L STREET, SUITE 600\nSACRAMENTO, CA 95814",
+    "phone": "(530) 908-9642",
+    "email": "deborah@cruzstrategies.com",
+    "registrationDate": "08/06/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CRUZ STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "08/06/2025"
       }
     ]
   },
