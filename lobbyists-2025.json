@@ -2242,9 +2242,16 @@
     "address": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
     "phone": "(310) 712-1850",
     "email": "mbarnhill@platinumequity.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/27/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1338987",
@@ -3966,15 +3973,20 @@
     "name": "BONE, TEQUILA",
     "address": "5TH FLOOR 20 AIR STREET\nLONDON UK W1B 5AN",
     "email": "tequila.bone@bregal.com",
-    "registrationDate": "06/30/2025",
-    "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Terminated",
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "BREGAL INVESTMENTS LLP & AFFILIATES",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "06/30/2025"
+      },
+      {
+        "entityName": "BU BREGAL UNTERNEHMERKAPITAL UK LIMITED",
+        "type": "Employer",
+        "effectiveDate": "08/13/2025"
       }
     ]
   },
@@ -5305,6 +5317,24 @@
       {
         "entityName": "DEVEAU BURR GROUP, LLC",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1341297",
+    "name": "BURRASTON, PAUL R.",
+    "address": "601 LEXINGTON AVENUE, 55TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(415) 519-8752",
+    "email": "paul.burraston@patria.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PATRIA INVESTMENTS US LLC",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -8689,9 +8719,16 @@
     "address": "1230 AVENUE OF THE AMERICAS, SUITE 1803\nNEW YORK, NY 10020",
     "phone": "(646) 453-7850",
     "email": "compliance@abbeycapital.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/27/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ABBEY CAPITAL (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1415215",
@@ -10104,9 +10141,16 @@
     "address": "ONE CONGRESS STREET\nBOSTON, MA 02114",
     "phone": "(617) 664-2613",
     "email": "hmdisano@statestreet.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "01/02/2025",
+    "status": "Withdrawn",
+    "relationships": [
+      {
+        "entityName": "STATE STREET BANK AND TRUST COMPANY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/02/2025"
+      }
+    ]
   },
   {
     "id": "1448364",
@@ -10352,9 +10396,16 @@
     "phone": "(212) 905-0026",
     "email": "adone@platinumequity.com",
     "mailingAddress": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/27/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1477874",
@@ -11541,6 +11592,7 @@
     "phone": "(916) 557-1101",
     "email": "layne.fajeau@sierraclub.org",
     "registrationDate": "07/16/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12868,14 +12920,15 @@
     "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95814",
     "phone": "(916) 327-7500",
     "email": "legcoordinator@counties.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/22/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/22/2025"
       }
     ]
   },
@@ -13391,17 +13444,22 @@
   {
     "id": "1426557",
     "name": "GARCIA, LETICIA",
-    "address": "1005 12TH STREET, SUITE 200\nSACRAMENTO, CA 95814",
-    "phone": "(916) 448-3545",
-    "email": "lgarcia@cagrocers.com",
-    "registrationDate": "08/01/2025",
-    "status": "Terminated",
+    "address": "1121 L STREET, SUITE 607\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-1975",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "08/27/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CALIFORNIA GROCERS ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "08/01/2025"
+      },
+      {
+        "entityName": "CALIFORNIA RETAILERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "08/27/2025"
       }
     ]
   },
@@ -18042,14 +18100,15 @@
     "address": "1014 ENCINO ROW\nCORONADO, CA 92118",
     "phone": "(502) 588-2388",
     "email": "eliot.honaker@invesco.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/27/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "INVESCO ADVISERS, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/27/2025"
       }
     ]
   },
@@ -18382,6 +18441,22 @@
         "entityName": "SOCIAL CHANGE PARTNERS, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1148989",
+    "name": "HUGHES, WALTER",
+    "address": "1017 L STREET #335\nSACRAMENTO, CA 95814",
+    "phone": "(916) 804-2737",
+    "email": "hugheswf@hughesadvocacycom.com",
+    "registrationDate": "08/25/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HUGHES ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "08/25/2025"
       }
     ]
   },
@@ -30251,9 +30326,16 @@
     "address": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
     "phone": "(310) 712-1850",
     "email": "dpequet@platinumequity.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/27/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1355993",
@@ -30847,20 +30929,15 @@
     "address": "3310 SUISUN BAY ROAD\nSACRAMENTO , CA 95691",
     "phone": "(916) 708-5548",
     "email": "cpizzotti@me.com",
-    "registrationDate": "08/19/2025",
+    "registrationDate": "08/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/06/2025",
         "terminationDate": "07/23/2025"
-      },
-      {
-        "entityName": "CKP CONSULTING AND STRATEGY",
-        "type": "Firm",
-        "effectiveDate": "08/01/2025"
       }
     ]
   },
@@ -32461,6 +32538,24 @@
     "relationships": [
       {
         "entityName": "CINVEN AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1439390",
+    "name": "RIEMER, JONATHAN \"YONI\"",
+    "address": "13413 GALLERIA CIRCLE, SUITE Q-300\nAUSTIN, TX 78738",
+    "phone": "(512) 765-6536",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PEAK ROCK CAPITAL LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -34538,14 +34633,20 @@
     "name": "SCHIMMELBUSCH, CAROLINE",
     "address": "5TH FLOOR 20 AIR STREET\nLONDON, UK W1B 5AN",
     "email": "caroline.schimmelbusch@bregal.com",
-    "registrationDate": "06/30/2025",
-    "status": "Terminated",
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "BREGAL INVESTMENTS LLP & AFFILIATES",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "06/30/2025"
+      },
+      {
+        "entityName": "BU BREGAL UNTERNEHMERKAPITAL UK LIMITED",
+        "type": "Employer",
+        "effectiveDate": "08/13/2025"
       }
     ]
   },
@@ -39743,6 +39844,22 @@
     ]
   },
   {
+    "id": "1480685",
+    "name": "VIK, GUSTAV MAGNUS NICHOLAS",
+    "address": "THE SPIRAL 66 HUDSON BLVD E, STE 5340 53RD\nNEW YORK, NY 10018",
+    "phone": "(916) 442-7757",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIFTH WALL VENTURES MANAGEMENT LLC AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "04/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1481452",
     "name": "VILKER, JEFFREY P",
     "address": "30 PENHALLOW ST\nPORTSMOUTH, NH 03801",
@@ -40706,6 +40823,29 @@
     ]
   },
   {
+    "id": "1441420",
+    "name": "WELLS, JORDAN",
+    "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95816",
+    "phone": "(916) 327-7500",
+    "email": "legcoordinator@counties.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
+        "type": "Employer",
+        "effectiveDate": "03/02/2025"
+      },
+      {
+        "entityName": "NATIONAL STEWARDSHIP ACTION COUNCIL",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1393416",
     "name": "WELLS, RICHARD A.",
     "address": "301 SOUTH COLLEGE STREET, SUITE 3800\nCHARLOTTE, NC 28202",
@@ -41516,14 +41656,15 @@
     "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95814",
     "phone": "(916) 327-7500",
     "email": "legcoordinator@counties.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/25/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/25/2025"
       }
     ]
   },
@@ -41714,6 +41855,7 @@
     "phone": "(916) 442-1036",
     "email": "zyahya@acluca.org",
     "registrationDate": "06/09/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
