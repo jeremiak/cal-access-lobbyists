@@ -5793,9 +5793,16 @@
     "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 90071",
     "phone": "(213) 760-8046",
     "email": "joseph.carieri@tcw.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/28/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCW, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1479938",
@@ -15926,7 +15933,9 @@
     "name": "GUSMAN, CONNOR",
     "address": "1127 11TH STREET, SUITE 512\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-5999",
+    "email": "connor.gusman@bglaw.org",
     "registrationDate": "06/30/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16620,6 +16629,24 @@
     "relationships": [
       {
         "entityName": "DISABILITY RIGHTS CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1357580",
+    "name": "HARRIS, PAMELA B.",
+    "address": "888 BOYLSTON STREET, SUITE 1600\nBOSTON, MA 02199",
+    "phone": "(617) 859-2959",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ABRY PARTNERS II, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -21726,6 +21753,23 @@
     ]
   },
   {
+    "id": "1473049",
+    "name": "KORNEL, KATIE",
+    "address": "110 NORTH WACKER DRIVE, 55TH FLOOR\nCHICAGO, IL 60606",
+    "phone": "(312) 506-5600",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LINDEN MANAGER LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1476198",
     "name": "KOSHLAYCHUK, MELISSA",
     "address": "1415 L STREET, #1060\nSACRAMENTO, CA 95621",
@@ -24753,6 +24797,15 @@
     ]
   },
   {
+    "id": "1477565",
+    "name": "MARKS, CAROLINE",
+    "address": "888 BOYLSTON STREET, STE 600\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-7757",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": []
+  },
+  {
     "id": "1148625",
     "name": "MARKUSON, RICHARD H.",
     "address": "419 NASCA WAY\nSACRAMENTO, CA 95831",
@@ -27352,6 +27405,7 @@
     "phone": "(213) 244-0516",
     "email": "peter.moore@tcw.com",
     "registrationDate": "04/29/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -33207,9 +33261,16 @@
     "address": "515 SOUTH FLOWER STREET\nLOS ANGELES, CA 90017",
     "phone": "(213) 760-7436",
     "email": "mark.romano@tcw.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/28/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCW, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1318958",
@@ -35393,7 +35454,7 @@
   },
   {
     "id": "1467947",
-    "name": "SHANER, LAUREN",
+    "name": "SHANER BRIGGS, LAUREN",
     "address": "100 SAINT PAUL STREET, SUITE 800\nDENVER, CO 80206",
     "phone": "(720) 284-6426",
     "email": "lauren.shaner@kslcapital.com",
