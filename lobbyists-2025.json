@@ -103,13 +103,20 @@
   },
   {
     "id": "1418392",
-    "name": "ACEBO, KEVIN",
+    "name": "ACEBO, KEVIN M.",
     "address": "3446 GUNDRY AVENUE\nLONG BEACH, CA 90807",
     "phone": "(310) 592-1503",
     "email": "jguard@kaufmanlegalgroup.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/27/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GUNDRY GROUP STRATEGIES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1456520",
@@ -186,6 +193,23 @@
         "entityName": "PERSONAL INSURANCE FEDERATION OF CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481900",
+    "name": "ADLER, MICHAEL",
+    "address": "9 WEST 57TH STREET\nNEW YORK, NY 10019",
+    "phone": "(332) 455-6717",
+    "email": "madler@apollo.com",
+    "registrationDate": "06/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "06/13/2025"
       }
     ]
   },
@@ -1648,9 +1672,16 @@
     "address": "1415 L STREET, SUITE 960\nSACRAMENTO, CA 95814",
     "phone": "(916) 213-5742",
     "email": "compliance_ca_aarp_3@multistate.us",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "09/02/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AARP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1359080",
@@ -5026,6 +5057,22 @@
     "relationships": [
       {
         "entityName": "D.E. SHAW & CO., L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1477422",
+    "name": "BRUESER, NICHOLAS",
+    "address": "2180 SAND HILL ROAD, SUITE 300\nMENLO PARK, CA 94025",
+    "phone": "(650) 289-2460",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AKKR FUND II MANAGEMENT COMPANY, LP (\"ACCEL-KKR')",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -14629,7 +14676,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "GONZALEZ; CAROL",
+        "entityName": "LATINA ADVOCATES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -14932,14 +14979,15 @@
     "address": "485 LEXINGTON AVENUE\nNEW YORK, NY 10017",
     "phone": "(212) 271-3885",
     "email": "compliance@tailwind.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/30/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TAILWIND MANAGEMENT LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/30/2025"
       }
     ]
   },
@@ -19824,14 +19872,15 @@
     "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "cjoves@calstrat.com",
-    "registrationDate": "01/13/2025",
+    "registrationDate": "08/15/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/12/2025"
+        "effectiveDate": "01/12/2025",
+        "terminationDate": "08/15/2025"
       }
     ]
   },
@@ -30753,6 +30802,24 @@
     ]
   },
   {
+    "id": "1483187",
+    "name": "PHILLIPS, KATIE",
+    "address": "915 L STREET, SUITE 1400\nSACRAMENTO, CA 95814",
+    "phone": "(888) 926-4988",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CENTENE AND ITS AFFILIATE HEALTH NET",
+        "type": "Employer",
+        "effectiveDate": "08/13/2025"
+      }
+    ]
+  },
+  {
     "id": "1464284",
     "name": "PHILLIPS, RYAN",
     "address": "599 WEST PUTNAM AVENUE\nGREENWICH, CT 06830",
@@ -34116,7 +34183,8 @@
       {
         "entityName": "SOMOS GROUP",
         "type": "Firm",
-        "effectiveDate": "03/21/2025"
+        "effectiveDate": "03/21/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -38208,6 +38276,7 @@
     "phone": "(914) 208-0182",
     "email": "jean.thomas@sicm.com",
     "registrationDate": "05/07/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -38566,7 +38635,8 @@
       {
         "entityName": "SOMOS GROUP",
         "type": "Firm",
-        "effectiveDate": "03/21/2025"
+        "effectiveDate": "03/21/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -40161,9 +40231,16 @@
     "address": "50 CALIFORNIA STREET, SUITE 500\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 217-2000",
     "email": "awaelder@earthjustice.org",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/29/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EARTHJUSTICE",
+        "type": "Employer",
+        "effectiveDate": "01/13/2025"
+      }
+    ]
   },
   {
     "id": "1385532",
@@ -41073,9 +41150,16 @@
     "name": "WETCH, SCOTT",
     "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-3413",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/27/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1339653",
