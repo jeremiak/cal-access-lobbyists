@@ -4303,6 +4303,22 @@
     ]
   },
   {
+    "id": "1483162",
+    "name": "BRACKMANN, KATHRYN",
+    "address": "1127 11TH STREET, SUITE 346\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "08/11/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "08/11/2025"
+      }
+    ]
+  },
+  {
     "id": "1468950",
     "name": "BRADISH, MARGO",
     "address": "50 CALIFORNIA STREET, SUITE 3200\nSAN FRANCISCO, CA 94111",
@@ -9659,9 +9675,16 @@
     "address": "4700 WILSHIRE BOULEVARD\nLOS ANGELES, CA 90010",
     "phone": "(213) 652-3534",
     "email": "jdellinger@cimgroup.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/29/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "CIM GROUP L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/29/2025"
+      }
+    ]
   },
   {
     "id": "1440299",
@@ -11635,9 +11658,16 @@
     "address": "101 SOUTH TRYON STREET, SUITE 3400\nCHARLOTTE, NC 28280",
     "phone": "(704) 944-0917",
     "email": "lfahrney@ridgemontep.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/29/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1482154",
@@ -16972,6 +17002,7 @@
     "phone": "(617) 835-9972",
     "email": "aris.hatch@stepstonegroup.com",
     "registrationDate": "04/10/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -17215,6 +17246,7 @@
     "phone": "(646) 373-4417",
     "email": "bhecht@itemgmt.com",
     "registrationDate": "04/08/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21532,6 +21564,7 @@
     "phone": "(332) 277-2616",
     "email": "johnpaul.klucik@ifminvestors.com",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28951,6 +28984,22 @@
     ]
   },
   {
+    "id": "1483556",
+    "name": "O'CONNOR, MORGAN ELIZABETH",
+    "address": "415 MISSION STREET, SUITE 5700\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 788-5111",
+    "email": "morgan@hf.com",
+    "registrationDate": "09/08/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HELLMAN & FRIEDMAN LLC",
+        "type": "Employer",
+        "effectiveDate": "09/08/2025"
+      }
+    ]
+  },
+  {
     "id": "1378856",
     "name": "O'DONNELL, ERIC",
     "address": "1401 DOVE STREET, SUITE 430 \nNEWPORT BEACH, CA 92660",
@@ -30909,9 +30958,16 @@
     "address": "465 MEETING STREET\nCHARLESTON, SC 29403",
     "phone": "(843) 579-9400",
     "email": "e.askcompliance@greystar.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/29/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1376527",
@@ -32883,6 +32939,22 @@
     ]
   },
   {
+    "id": "1483550",
+    "name": "RIVERS, KRISTA",
+    "address": "303 BROADWAY, SUITE 1200\nCINCINNATI, OH 45202",
+    "phone": "(312) 965-8198",
+    "email": "krista.rivers@fortwashington.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FORT WASHINGTON INVESTMENT ADVISORS, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1297099",
     "name": "ROBERSON, STEPHANIE A. ",
     "address": "1121 L STREET\nSACRAMENTO, CA 95814",
@@ -33879,6 +33951,7 @@
     "phone": "(415) 282-3334",
     "email": "jrubio@medasf.org",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
