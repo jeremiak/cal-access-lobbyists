@@ -197,6 +197,22 @@
     ]
   },
   {
+    "id": "1376664",
+    "name": "ADEY, CHRISTOPHER",
+    "address": "2 INTERNATIONAL PLACE\nBOSTON, MA 02109",
+    "phone": "(617) 312-2822",
+    "email": "chris.adey@mackenzieinvestments.com",
+    "registrationDate": "01/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MACKENZIE INVESTMENTS CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/17/2025"
+      }
+    ]
+  },
+  {
     "id": "1481900",
     "name": "ADLER, MICHAEL",
     "address": "9 WEST 57TH STREET\nNEW YORK, NY 10019",
@@ -261,6 +277,21 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/28/2025"
+      }
+    ]
+  },
+  {
+    "id": "1483573",
+    "name": "AGUAYO, EMMANUEL JESUS",
+    "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-2162",
+    "registrationDate": "08/25/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KP PUBLIC AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "08/25/2025"
       }
     ]
   },
@@ -409,6 +440,23 @@
         "entityName": "GOLDMAN SACHS ASSET MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480151",
+    "name": "ALCANTAR, REBECCA",
+    "address": "1215 K STREET, SUITE 2010\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-2960",
+    "email": "bsca@politicomlaw.com",
+    "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLUE SHIELD OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -26325,6 +26373,7 @@
     "email": "jmm@connaught.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26736,7 +26785,8 @@
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/06/2025"
       }
     ]
   },
@@ -31108,13 +31158,18 @@
     "email": "cpizzotti@me.com",
     "registrationDate": "08/01/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "01/06/2025",
         "terminationDate": "07/23/2025"
+      },
+      {
+        "entityName": "CKP CONSULTING AND STRATEGY",
+        "type": "Firm",
+        "effectiveDate": "08/01/2025"
       }
     ]
   },
@@ -31587,14 +31642,15 @@
     "address": "730 3RD AVENUE\nNEW YORK, NY 10017",
     "phone": "(646) 578-6851",
     "email": "compliance_ca_nuveen_6@multistate.us",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/26/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NUVEEN SERVICES LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/26/2025"
       }
     ]
   },
@@ -32012,6 +32068,23 @@
     ]
   },
   {
+    "id": "1419634",
+    "name": "RAMIREZ, ANDRES",
+    "address": "1215 K STREET SUITE 2010\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-2960",
+    "email": "bsca@politicomlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLUE SHIELD OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1467073",
     "name": "RAMIREZ, QUITA",
     "address": "23 SAVILE ROW\nLONDON UK W1S2ET",
@@ -32137,8 +32210,9 @@
     "address": "1270 AVENUE OF THE AMERICAS, SUITE 408\nNEW YORK, NY 10020",
     "phone": "(212) 224-8220",
     "email": "sakib.rashid@rede-partners.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
+    "registrationDate": "09/02/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -36257,6 +36331,23 @@
     "relationships": []
   },
   {
+    "id": "1469111",
+    "name": "SINGLETON, ROBERT",
+    "address": "1390 CHAIN BRIDGE ROAD, SUITE A108\nMCLEAN, VA 22101",
+    "phone": "(202) 470-3046",
+    "email": "robert@progresschamber.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CHAMBER OF PROGRESS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1343511",
     "name": "SINOR, SANDY L.",
     "address": "2501 NORTH HARWOOD, SUITE 2010\nDALLAS, TX 75201",
@@ -38675,9 +38766,15 @@
     "address": "1225 CORONET AVENUE\nPASADENA, CA 91107",
     "phone": "(626) 808-7305",
     "email": "frstrydude@verizon.net",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "09/02/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TODD; JOHN",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1400504",
