@@ -1484,14 +1484,15 @@
     "address": "4550 MONTGOMERY AVENUE, SUITE 1100 N\nBESTHESDA, MD 20814",
     "phone": "(301) 841-2639",
     "email": "calobby@nmgovlaw.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CYSTIC FIBROSIS FOUNDATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -3188,13 +3189,14 @@
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
-    "registrationDate": "01/21/2025",
-    "status": "Active",
+    "registrationDate": "06/30/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MUDRICK CAPITAL MANAGEMENT LP",
         "type": "Employer",
-        "effectiveDate": "01/21/2025"
+        "effectiveDate": "01/21/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -13557,6 +13559,23 @@
     "relationships": []
   },
   {
+    "id": "1464931",
+    "name": "GANTT, GENE",
+    "address": "1826 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
+    "phone": "(916) 769-9609",
+    "email": "genegantt@comcast.net",
+    "registrationDate": "05/21/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "K STREET CONSULTING, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1149573",
     "name": "GARCIA, ELOY ",
     "address": "1718 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
@@ -13924,7 +13943,8 @@
       {
         "entityName": "MACK REAL ESTATE CREDIT STRATEGIES, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/11/2025"
       }
     ]
   },
@@ -23799,6 +23819,24 @@
     ]
   },
   {
+    "id": "1296831",
+    "name": "LOPEZ, PAMELA S.",
+    "address": "1826 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
+    "phone": "(916) 658-1688",
+    "email": "pamela@kstreet.us.com",
+    "mailingAddress": "5443 BUCKWOOD WAY\nSACRAMENTO, CA 95835",
+    "registrationDate": "05/21/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "K STREET CONSULTING, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1401281",
     "name": "LOR, XONG",
     "address": "1118 10TH STREET\nSACRAMENTO, CA 95814",
@@ -28385,14 +28423,15 @@
     "address": "527 MADISON AVENUE, 6TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(415) 389-6800",
     "email": "calobby@nmgovlaw.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MUDRICK CAPITAL MANAGEMENT LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -32392,6 +32431,23 @@
         "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481218",
+    "name": "REDLER, NICOLE",
+    "address": "1826 CAPITOL AVENUE\nSACRAMENTO, CA 95814",
+    "phone": "(518) 435-5878",
+    "email": "nicole@kstreet.us.com",
+    "registrationDate": "04/29/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "K STREET CONSULTING, LLC",
+        "type": "Firm",
+        "effectiveDate": "04/29/2025"
       }
     ]
   },
@@ -36420,6 +36476,7 @@
     "phone": "(332) 277-8749",
     "email": "maia.sklarov@ifminvestors.com",
     "registrationDate": "07/08/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -39159,6 +39216,23 @@
     ]
   },
   {
+    "id": "1442536",
+    "name": "TREMBLAY, JOSEPH",
+    "address": "ONE SANSOME STREET, 37TH FLOOR\nSAN FRANCISCO, CA 94104",
+    "phone": "415439500",
+    "email": "jtremblay@hig.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "H.I.G. CAPITAL, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1463248",
     "name": "TRENCHARD, EMMA",
     "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
@@ -39896,6 +39970,23 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "04/16/2025"
+      }
+    ]
+  },
+  {
+    "id": "1243948",
+    "name": "VARGAS, AFRACK ",
+    "address": "1826 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
+    "phone": "(916) 658-1688",
+    "email": "afrack@kstreet.us.com",
+    "registrationDate": "05/21/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "K STREET CONSULTING, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -42605,7 +42696,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "LEUKEMIA & LYMPHOMA SOCIETY",
+        "entityName": "BLOOD CANCER UNITED, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
