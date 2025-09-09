@@ -10928,8 +10928,8 @@
   {
     "id": "1243081",
     "name": "DUNN, KEITH",
-    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
-    "phone": "(916) 273-6567",
+    "address": "1818 L STREET, SUITE 316\nSACRAMENTO, CA 95811",
+    "phone": "(916) 290-2900",
     "email": "keithdunn@me.com",
     "registrationDate": "02/04/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
@@ -11121,9 +11121,16 @@
     "name": "EDDY, SHANNON",
     "address": "2501 PORTOLA WAY \nSACRAMENTO, CA 95818",
     "phone": "(415) 819-4285",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "09/04/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONSCIOUS VENTURES GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1148742",
@@ -18796,6 +18803,7 @@
     "phone": "(916) 259-5126",
     "email": "mhyatt.jd@protonmail.com",
     "registrationDate": "07/04/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25058,14 +25066,15 @@
     "address": "1107 9TH STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 287-9885",
     "email": "cmartin@housingca.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "08/29/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HOUSING CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/29/2025"
       }
     ]
   },
@@ -25540,14 +25549,15 @@
     "phone": "(212) 878-0600",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "09/05/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WARBURG PINCUS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/05/2025"
       }
     ]
   },
@@ -29521,14 +29531,15 @@
     "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95814",
     "phone": "(916) 327-7500",
     "email": "legcoordinator@counties.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "09/05/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/05/2025"
       }
     ]
   },
@@ -42753,14 +42764,15 @@
     "address": "10 EAST 40TH STREET, SUITE 1310\nNEW YORK, NY 10016",
     "phone": "(203) 979-2909",
     "email": "b.zeng@impaxam.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/31/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "IMPAX ASSET MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/31/2025"
       }
     ]
   },
