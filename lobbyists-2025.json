@@ -18085,9 +18085,16 @@
     "address": "1 CALIFORNIA STREET, SUITE 1920\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 375-4014",
     "email": "candida.hoeberichts@bgo.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "08/20/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BENTALLGREENOAK REAL ESTATE US LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1373891",
@@ -42177,9 +42184,16 @@
     "phone": "(213) 624-6200",
     "email": "tim@ostrategiesgroup.com",
     "mailingAddress": "515 SOUTH FIGUEROA STREET, SUITE 1110\nLOS ANGELES, CA 90071",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "09/04/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ORTEGA STRATEGIES GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1426615",
