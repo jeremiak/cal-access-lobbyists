@@ -4471,6 +4471,21 @@
     ]
   },
   {
+    "id": "1483710",
+    "name": "BRANNAN, TIM",
+    "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "registrationDate": "08/25/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "01/20/2016"
+      }
+    ]
+  },
+  {
     "id": "1467330",
     "name": "BRAWER, RUSS",
     "address": "452 FIFTH AVENUE, 28TH FLOOR\nNEW YORK, NY 10018",
@@ -8336,6 +8351,22 @@
     ]
   },
   {
+    "id": "1417359",
+    "name": "COSGROVE, GERALD",
+    "address": "TEN POST OFFICE SQUARE\nBOSTON, MA 02109",
+    "phone": "(617) 412-8468",
+    "email": "gerry.cosgrove@eolascapital.com",
+    "registrationDate": "08/28/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EOLAS CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "08/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1468733",
     "name": "COSIO, MELISSA",
     "address": "300 LAKESIDE DRIVE, SUITE 210\nOAKLAND, CA 94612",
@@ -9267,6 +9298,22 @@
       {
         "entityName": "CAMPBELL LUTYENS & CO. INC.",
         "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1481369",
+    "name": "DAVIE, THOMAS",
+    "address": "200 PARK AVENUE, 45TH FLOOR\nNEW YORK, NY 10166",
+    "phone": "(212) 704-3000",
+    "email": "thomas.davie@sagemount.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BREGAL INVESTMENTS, INC.",
+        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -11939,7 +11986,8 @@
       {
         "entityName": "AB CARVAL INVESTORS LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/21/2025"
       }
     ]
   },
@@ -14388,6 +14436,22 @@
     ]
   },
   {
+    "id": "1481446",
+    "name": "GLENN, JIM",
+    "address": "200 PARK AVENUE, 45TH FLOOR\nNEW YORK, NY 10166",
+    "phone": "(212) 704-3000",
+    "email": "jim.glenn@sagemount.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BREGAL INVESTMENTS, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1481689",
     "name": "GLENN, LAURA",
     "address": "225 FRANKLIN STREET, SUITE 2700\nBOSTON, MA 02110",
@@ -14482,6 +14546,22 @@
     "relationships": [
       {
         "entityName": "EMPYREAN CAPITAL PARTNERS, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1441006",
+    "name": "GOGGIN, SHEA",
+    "address": "200 PARK AVENUE, 45TH FLOOR\nNEW YORK, NY 10166",
+    "phone": "(212) 704-3000",
+    "email": "shea@sagemount.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BREGAL INVESTMENTS, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -16564,7 +16644,8 @@
       {
         "entityName": "AB CARVAL INVESTORS LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/24/2025"
       }
     ]
   },
@@ -17581,6 +17662,21 @@
         "entityName": "RESOLUTE",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1483722",
+    "name": "HERMAN, DYLAN",
+    "address": "2049 CENTURY PARK EAST, SUITE 3050\nLOS ANGELES, CA 90067",
+    "phone": "(310) 996-9600",
+    "registrationDate": "09/03/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POST ADVISORY GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/03/2025"
       }
     ]
   },
@@ -24332,6 +24428,23 @@
     ]
   },
   {
+    "id": "1483324",
+    "name": "MACINTYRE, JAMES D.",
+    "address": "TEN POST OFFICE SQUARE, SUITE 1101\nBOSTON, MA 02109",
+    "phone": "(508) 846-2364",
+    "email": "des.macintyre@eolascapital.com",
+    "registrationDate": "08/28/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EOLAS CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "08/28/2025"
+      }
+    ]
+  },
+  {
     "id": "1437228",
     "name": "MACKAY, LILY",
     "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
@@ -30867,7 +30980,8 @@
       {
         "entityName": "UBS ASSET MANAGEMENT (AMERICAS) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/23/2025"
       }
     ]
   },
