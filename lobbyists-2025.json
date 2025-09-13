@@ -3326,7 +3326,14 @@
     "email": "keith.bewick@tcw.com",
     "registrationDate": "08/07/2025",
     "status": "Revoked",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "TCW, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/03/2025"
+      }
+    ]
   },
   {
     "id": "1456046",
@@ -5501,6 +5508,7 @@
     "phone": "(415) 249-8013",
     "email": "tommy.bush@nb.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19330,6 +19338,7 @@
     "address": "70 WILLOW ROAD, SUITE 100\nMENLO PARK, CA 94025",
     "phone": "(650) 618-7300",
     "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
     "relationships": []
