@@ -14090,6 +14090,23 @@
     ]
   },
   {
+    "id": "1282106",
+    "name": "GIBBS, PAMELA E.",
+    "address": "910 K STREET, SUITE 345\nSACRAMENTO, CA 95814",
+    "phone": "(916) 324-6651",
+    "email": "gibbs_pamela@lacoe.edu",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOS ANGELES COUNTY OFFICE OF EDUCATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1374394",
     "name": "GIBBS, RICHARD A.",
     "address": "925 L STREET, SUITE 1404\nSACRAMENTO, CA 95814",
@@ -15241,10 +15258,16 @@
     "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
     "phone": "(916) 715-0900",
     "email": "roxanne@gouldgr.com",
-    "mailingAddress": "400 CAPITOL MALL, SUITE 2200\nSACRAMENTO, CA 95814\nPhone: (916) 441-2430",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "09/09/2025",
+    "ethicsCourseCompletionDate": "12/04/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOULD GOVERNMENT RELATIONS; ROXANNE",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1223370",
@@ -21317,6 +21340,7 @@
     "phone": "(617) 720-7966",
     "email": "adiam.kiflom@abrdn.com",
     "registrationDate": "08/08/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "In Suspense",
     "relationships": []
   },
