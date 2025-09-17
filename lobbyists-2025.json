@@ -8478,13 +8478,18 @@
   {
     "id": "1457542",
     "name": "COVRE, DANIEL",
-    "address": "412 WEST 15TH STREET, 15TH FLOOR\nNEW YORK, NY 10011",
-    "phone": "(646) 300-0541",
+    "address": "200 PARK AVENUE, SUITE 1501\nNEW YORK, NY 10003",
+    "phone": "(917) 576-4256",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "03/31/2025",
-    "status": "Terminated",
+    "registrationDate": "09/12/2025",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "BASALT INFRASTRUCTURE PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/12/2025"
+      },
       {
         "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
         "type": "Employer",
@@ -18546,8 +18551,14 @@
     "mailingAddress": "333 SOUTH BEAUDRY AVENUE, 24TH FLOOR\nLOS ANGELES, CA 90017",
     "registrationDate": "08/21/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "In Suspense",
-    "relationships": []
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1463666",
@@ -20911,7 +20922,8 @@
       {
         "entityName": "FASANARA CAPITAL LTD",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/28/2025"
       }
     ]
   },
@@ -27027,6 +27039,22 @@
         "entityName": "SIERRA CLUB",
         "type": "Employer",
         "effectiveDate": "04/22/2025"
+      }
+    ]
+  },
+  {
+    "id": "1149568",
+    "name": "MIHLSTEN, GEORGE J.",
+    "address": "355 SOUTH GRAND AVENUE, SUITE100\nLOS ANGELES, CA 90071-1560",
+    "phone": "(213) 485-1234",
+    "email": "lobbying.compliance@lw.com",
+    "registrationDate": "09/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LATHAM & WATKINS LLP",
+        "type": "Firm",
+        "effectiveDate": "09/06/2025"
       }
     ]
   },
