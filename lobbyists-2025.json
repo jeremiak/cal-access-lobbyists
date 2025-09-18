@@ -1016,14 +1016,15 @@
     "phone": "(212) 672-5000",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALLL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/14/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CENTERBRIDGE PARTNERS, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/14/2025"
       }
     ]
   },
@@ -11474,6 +11475,22 @@
         "entityName": "T. ROWE PRICE ASSOCIATES, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1340353",
+    "name": "ENCINAS, JEROME ",
+    "address": "1017 L STREET, SUITE 610\nSACRAMENTO, CA 95814",
+    "phone": "(714) 471-4407",
+    "email": "jerome@encinasga.com",
+    "registrationDate": "08/22/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENCINAS GOVERNMENT AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "08/22/2025"
       }
     ]
   },
@@ -21966,6 +21983,22 @@
         "entityName": "KOHLBERG KRAVIS ROBERTS & CO. L. P. (\"KKR\")",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1483883",
+    "name": "KOENIG, JACKIE",
+    "address": "3225 DEODAR STREET\nCARMICHAEL, CA 95608",
+    "phone": "(916) 500-2767",
+    "email": "jackie.koenig@gmail.com",
+    "registrationDate": "09/02/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KOENIG CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "09/02/2025"
       }
     ]
   },
@@ -35449,6 +35482,23 @@
         "entityName": "VERDANE FUND MANAGER AB",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1338296",
+    "name": "SCHROCK, DAVID L.",
+    "address": "6400 SOUTH FIDDLERS GREEN CIRCLE\nGREENWOOD VILLAGE, CO 80111",
+    "phone": "(303) 723-6073",
+    "email": "david.schrock@mesirow.com",
+    "mailingAddress": "353 NORTH CLARK STREET\nCHICAGO, IL 60654",
+    "registrationDate": "08/05/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MESIROW FINANCIAL SERVICES, INC. AND/OR SUBSIDIARIES",
+        "type": "Employer",
+        "effectiveDate": "08/05/2025"
       }
     ]
   },
