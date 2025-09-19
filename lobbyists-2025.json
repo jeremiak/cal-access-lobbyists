@@ -1352,14 +1352,15 @@
     "address": "1ST FLOOR, LIBERATION HOUSE, CASTLE STREET\nST. HELIER JERSEY JE1 1GL",
     "email": "compliance@rkim.co.uk",
     "mailingAddress": "1001 K STREET, 6TH FLOOR\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "09/30/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RED KITE INVESTMENT MANAGEMENT LIMITED",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/30/2025"
       }
     ]
   },
@@ -3515,7 +3516,8 @@
       {
         "entityName": "SACHEM HEAD CAPITAL MANAGEMENT LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/12/2025"
       }
     ]
   },
@@ -5430,7 +5432,7 @@
     "phone": "(916) 898-9305",
     "email": "sburns@actumllc.com",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -8465,14 +8467,15 @@
     "address": "1 FLOOR, LIBERATION HOUSE, CASTLE STREET\nST. HELIER JERSEY JE1 1GL",
     "email": "compliance@rkim.co.uk",
     "mailingAddress": "1001 K STREET, 6TH FLOOR\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "09/30/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RED KITE INVESTMENT MANAGEMENT LIMITED",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/30/2025"
       }
     ]
   },
@@ -9268,7 +9271,7 @@
   {
     "id": "1446229",
     "name": "DAUBAR, MICHELLE",
-    "address": "2200 ATLANTIC AVENUE, SUITE 300\nSTAMFORD, CT 06902",
+    "address": "2200 ATLANTIC STREET, SUITE 300\nSTAMFORD, CT 06902",
     "phone": "(203) 717-1362",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
@@ -12000,24 +12003,6 @@
         "entityName": "HINES PRIVATE WEALTH SOLUTIONS LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1350750",
-    "name": "FAUVER, KERRY B.",
-    "address": "1601 UTICA AVENUE SOUTH SUITE 1000\nMINNEAPOLIS, MN 55416",
-    "phone": "(952) 444-4858",
-    "email": "kerry.fauver@carval.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AB CARVAL INVESTORS LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "07/21/2025"
       }
     ]
   },
@@ -16681,24 +16666,6 @@
         "entityName": "ON BEHALF OF HEITMAN LLC & AFFILIATES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1335680",
-    "name": "HANSON, MATTHEW R.",
-    "address": "1601 UTICA AVENUE SOUTH SUITE 1000\nMINNEAPOLIS, MN 55416",
-    "phone": "(952) 444-4859",
-    "email": "matthew.hanson@carval.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AB CARVAL INVESTORS LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "07/24/2025"
       }
     ]
   },
@@ -22042,9 +22009,16 @@
     "address": "100 WEST PUTNAM AVENUE\nGREENWICH, CT 06830",
     "phone": "(203) 485-5755",
     "email": "kkoh@svpglobal.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "09/16/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "STRATEGIC VALUE PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/16/2025"
+      }
+    ]
   },
   {
     "id": "1460060",
@@ -26946,7 +26920,7 @@
   {
     "id": "1448182",
     "name": "MEYER, MADISON",
-    "address": "2200 ATLANTIC AVENUE, SUITE 300\nSTAMFORD, CT 06902",
+    "address": "2200 ATLANTIC STREET, SUITE 300\nSTAMFORD, CT 06902",
     "phone": "(203) 717-1367",
     "email": "madison@oakhcft.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
