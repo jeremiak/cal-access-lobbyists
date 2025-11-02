@@ -36,11 +36,15 @@ const lobbyists: Lobbyist[] = [];
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0";
 const session = args.session ? +args.session : 2023;
 
+const headers = {
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0'
+}
+
 async function scrapeLobbyistsForLetter(letter: string): Promise<Lobbyist> {
   console.log(`Scraping lobbyists for ${letter}`);
   const url =
     `https://cal-access.sos.ca.gov/Lobbying/Lobbyists/list.aspx?letter=${letter}&session=${session}`;
-  const response = await fetch(url);
+  const response = await fetch(url, { headers });
   const html = await response.text();
   const document: HTMLDocument | null = new DOMParser().parseFromString(
     html,
@@ -78,7 +82,7 @@ async function scrapeLobbyist(id: string, session: string) {
   console.log(`Scraping lobbyist info for ${id}`);
   const url =
     `https://cal-access.sos.ca.gov/Lobbying/Lobbyists/Detail.aspx?id=${id}&session=${session}`;
-  const response = await fetch(url);
+  const response = await fetch(url, { headers });
   const html = await response.text();
   const document: HTMLDocument | null = new DOMParser().parseFromString(
     html,
