@@ -4082,9 +4082,15 @@
     "address": "575 MADISON AVENUE, 25TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 207-3061",
     "email": "abollyky@silver-rock.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "10/31/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SILVER ROCK FINANCIAL LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1467986",
@@ -42020,25 +42026,6 @@
         "entityName": "WATTS ADVOCACY; MARK",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1456823",
-    "name": "WATTS, TIYESHA",
-    "address": "816 21ST STREET\nSACRAMENTO, CA 95811",
-    "phone": "(415) 345-8667",
-    "email": "fppc@bmhlaw.com",
-    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA ACADEMY OF FAMILY PHYSICIANS",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "08/22/2025"
       }
     ]
   },
