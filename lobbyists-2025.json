@@ -18750,14 +18750,15 @@
     "name": "HOINACKI, DANIEL",
     "address": "5 BRYANT STREET, SUITE 23\nNEW YORK, NY 10018",
     "phone": "(646) 832-4498",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/30/2025",
     "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SALUDA GRADE ASSET MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/30/2025"
       }
     ]
   },
@@ -21376,6 +21377,22 @@
         "entityName": "CALIFORNIA CHAMBER OF COMMERCE",
         "type": "Employer",
         "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
+    "id": "1484614",
+    "name": "KENNEDY, ERIKA",
+    "address": "1825 NW CORPORATE BOULEVARD, SUITE 300\nBOCA RATON, FL 33431",
+    "phone": "(561) 241-2425",
+    "email": "ekennedy@polencapital.com",
+    "registrationDate": "10/23/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLEN CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/23/2025"
       }
     ]
   },
@@ -28463,6 +28480,22 @@
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
         "effectiveDate": "02/24/2025"
+      }
+    ]
+  },
+  {
+    "id": "1148465",
+    "name": "MORAN, PATRICK K.",
+    "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3444",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "READ & ASSOCIATES, LLC; AARON",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -36995,6 +37028,22 @@
     ]
   },
   {
+    "id": "1484615",
+    "name": "SHIRILLA, MATT",
+    "address": "1825 NW CORPORATE BOULEVARD, SUITE 300\nBOCA RATON, FL 33431",
+    "phone": "(561) 241-2425",
+    "email": "mshirilla@polencapital.com",
+    "registrationDate": "09/24/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "POLEN CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/24/2025"
+      }
+    ]
+  },
+  {
     "id": "1470065",
     "name": "SHIV, DIVYA",
     "address": "1107 9TH STREET\nSACRAMENTO, CA 95814",
@@ -39699,7 +39748,7 @@
   {
     "id": "1339940",
     "name": "THORSEN, DANIELLE",
-    "address": "2000 AVENUE OF THE STARS\nLOS ANGELES, CA 90067",
+    "address": "2121 ROSECRANS AVENUE, SUITE 5300\nEL SEGUNDO, CA 90245",
     "phone": "(212) 822-0566",
     "email": "dthorsen@apollo.com",
     "registrationDate": "01/01/2025",
