@@ -86,6 +86,29 @@
     ]
   },
   {
+    "id": "1482331",
+    "name": "ABOUEZZI, ALEXANDRA",
+    "address": "124 EAST 14TH STREET, 21ST FLOOR\nNEW YORK, NY 10003",
+    "phone": "(212) 888-1433",
+    "email": "lobbying@rutan.com",
+    "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94104",
+    "registrationDate": "10/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ABOUEZZI; ALEXANDRA",
+        "type": "Firm",
+        "effectiveDate": "10/01/2025"
+      },
+      {
+        "entityName": "COMPASS ROSE ASSET MANAGEMENT, LP",
+        "type": "Employer",
+        "effectiveDate": "06/30/2025",
+        "terminationDate": "09/30/2025"
+      }
+    ]
+  },
+  {
     "id": "1418392",
     "name": "ACEBO, KEVIN M.",
     "address": "3446 GUNDRY AVENUE\nLONG BEACH, CA 90807",
@@ -4197,6 +4220,21 @@
         "entityName": "BOOT ADVOCACY",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1415272",
+    "name": "BOOTHBY, JIM",
+    "address": "5 BRYANT PARK, 23RD FLOOR\nNEW YORK, NY 10018",
+    "phone": "(332) 242-4776",
+    "registrationDate": "10/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SALUDA GRADE ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "10/30/2025"
       }
     ]
   },
@@ -12757,8 +12795,13 @@
     "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
     "registrationDate": "10/01/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "SEARCHLIGHT CAPITAL PARTNERS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "10/01/2025"
+      },
       {
         "entityName": "VALOR MANAGEMENT LLC AND ITS SUBSIDIARIES",
         "type": "Employer",
@@ -13070,6 +13113,23 @@
         "entityName": "ARES MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1484408",
+    "name": "FOGARTY, BRIDGET",
+    "address": "900 3RD AVENUE, SUITE 1801\nNEW YORK, NY 10022",
+    "phone": "(212) 888-1433",
+    "email": "lobbying@rutan.com",
+    "mailingAddress": "455 MARKET STREET, SUITE 1400 \nSAN FRANCISCO, CA 94105",
+    "registrationDate": "10/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FOGARTY; BRIDGET",
+        "type": "Firm",
+        "effectiveDate": "10/01/2025"
       }
     ]
   },
@@ -13442,24 +13502,6 @@
         "entityName": "CLEARLAKE CAPITAL GROUP, L.P.",
         "type": "Employer",
         "effectiveDate": "07/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1478574",
-    "name": "FREEMAN, TOM",
-    "address": "38 EAST 19TH STREET, 8TH FLOOR\nNEW YORK, NY 10003",
-    "phone": "(781) 507-5728",
-    "email": "tf@connaught.com",
-    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CONNAUGHT (US) LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -18766,6 +18808,7 @@
     "name": "HOINACKI, DANIEL",
     "address": "5 BRYANT STREET, SUITE 23\nNEW YORK, NY 10018",
     "phone": "(646) 832-4498",
+    "email": "daniel.hoinacki@saludagrade.com",
     "registrationDate": "10/30/2025",
     "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Terminated",
@@ -21707,9 +21750,16 @@
     "address": "100 FEDERAL STREET\nBOSTON, MA 02110",
     "phone": "(929) 746-9093",
     "email": "compliance_ca_nuveen_4@multistate.us",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/06/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NUVEEN SERVICES LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1440915",
@@ -22747,6 +22797,7 @@
     "name": "KUHN , STEVEN P.",
     "address": "5 BRYANT PARK, SUITE 23 \nNEW YORK , NY 10018",
     "phone": "(332) 282-2863",
+    "email": "steven.kuhn@saludagrade.com",
     "registrationDate": "03/25/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Terminated",
@@ -24106,6 +24157,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "09/30/2025"
+      },
+      {
+        "entityName": "LIKA; JANELLE",
+        "type": "Firm",
+        "effectiveDate": "10/01/2025"
       }
     ]
   },
@@ -27208,24 +27264,6 @@
     ]
   },
   {
-    "id": "1479045",
-    "name": "MEA, JOHN",
-    "address": "38 EAST 19TH STREET, 8TH FLOOR\nNEW YORK, NY 10003",
-    "phone": "(908) 812-4853",
-    "email": "jmm@connaught.com",
-    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CONNAUGHT (US) LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1328685",
     "name": "MEANS, SABRINA",
     "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
@@ -28198,24 +28236,6 @@
       {
         "entityName": "STRATEGIC SOLUTIONS ADVISORS",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1412577",
-    "name": "MOLINARI, VINCENT",
-    "address": "38 EAST 19TH STREET, 8TH FLOOR\nNEW YORK, NY 10003",
-    "phone": "(908) 578-4195",
-    "email": "vm@connaught.com",
-    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CONNAUGHT (US) LLC",
-        "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -33559,6 +33579,22 @@
     ]
   },
   {
+    "id": "1484811",
+    "name": "REIRDEN, JEFFREY",
+    "address": "ONE BUSH STREET, SUITE 400\nSAN FRANCISCO, CA 94104",
+    "phone": "(415) 591-2773",
+    "email": "jreirden@vcm.com",
+    "registrationDate": "11/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VICTORY CAPITAL MANAGEMENT INC.",
+        "type": "Employer",
+        "effectiveDate": "11/04/2025"
+      }
+    ]
+  },
+  {
     "id": "1478219",
     "name": "REISNER, ZACHARY I.",
     "address": "700 TAMALPAIS DRIVE, SUITE 401B\nCORTE MADERA, CA 94925",
@@ -37375,14 +37411,15 @@
     "address": "15935 LA CANTERA PARKWAY\nSAN ANTONIO, TX 78256",
     "phone": "(415) 806-5108",
     "email": "ssimpkin@vcm.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/17/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VICTORY CAPITAL MANAGEMENT INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/17/2025"
       }
     ]
   },
