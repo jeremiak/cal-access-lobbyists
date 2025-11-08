@@ -5504,8 +5504,8 @@
   {
     "id": "1477571",
     "name": "BURDELL, PAUL",
-    "address": "11 BELGRAVE ROAD, PIMLICO\nLONDON SW1V 1RB, UK",
-    "phone": "(916) 442-7757",
+    "address": "11 BELGRAVE ROAD\nLONDON SW1V 1RB, UK",
+    "phone": "(203) 457-5060",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
@@ -23181,9 +23181,9 @@
   {
     "id": "1421966",
     "name": "LATOUR-JARQUIN, DEANNA",
-    "address": "1201 K STREET, SUITE 950\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-7757",
-    "email": "fppc@bmhlaw.com",
+    "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(949) 212-1031",
+    "email": "deanna@majorityadvisors.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
@@ -37753,6 +37753,22 @@
         "entityName": "CLAYTON, DUBILIER & RICE, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1359135",
+    "name": "SMITH, KRISTIN E.",
+    "address": "601 SOUTH FIGUEROA STREET, 39TH FLOOR\nLOS ANGELES, CA 90017",
+    "phone": "(213) 430-1923",
+    "email": "kristin.smith@hwcm.com",
+    "registrationDate": "10/24/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOTCHKIS & WILEY CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "10/24/2025"
       }
     ]
   },
