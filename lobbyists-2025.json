@@ -5266,6 +5266,7 @@
     "phone": "(650) 289-2460",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5509,6 +5510,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -11152,6 +11154,7 @@
     "phone": "(925) 282-9783",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13210,6 +13213,7 @@
     "phone": "(917) 781-2041",
     "email": "cfosso@docksideplatforms.com",
     "registrationDate": "07/23/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13927,10 +13931,11 @@
     "phone": "(202) 361-8275",
     "email": "compliance_ca_akf_1@multistate.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
-        "entityName": "AMERICAN KIDNEY FUND",
+        "entityName": "AMERICAN KIDNEY FUND, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -15531,6 +15536,7 @@
     "phone": "(401) 477-2821",
     "email": "michael.gorman@stepstonegroup.com",
     "registrationDate": "04/10/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -16268,6 +16274,23 @@
         "entityName": "VOYA INVESTMENT MANAGEMENT CO. LLC",
         "type": "Employer",
         "effectiveDate": "02/03/2025"
+      }
+    ]
+  },
+  {
+    "id": "1484676",
+    "name": "GRIMES, JORDAN",
+    "address": "827 BROADWAY, SUITE 310\nOAKLAND, CA 94607",
+    "phone": "(415) 543-6771",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
+    "registrationDate": "09/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREENBELT ALLIANCE",
+        "type": "Employer",
+        "effectiveDate": "09/12/2025"
       }
     ]
   },
@@ -18110,14 +18133,8 @@
     "phone": "(310) 895-7911",
     "email": "chenry@majestic-hospitality.com",
     "registrationDate": "06/10/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "MAJESTIC HOSPITALITY GROUP INC.",
-        "type": "Firm",
-        "effectiveDate": "06/10/2025"
-      }
-    ]
+    "status": "Withdrawn",
+    "relationships": []
   },
   {
     "id": "1376696",
@@ -19652,6 +19669,24 @@
         "entityName": "GOLDMAN SACHS ASSET MANAGEMENT, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1483209",
+    "name": "JABLON, MATTHEW",
+    "address": "211 PERIMETER CENTER PARKWAY, SUITE 900\nATLANTA, GA 30346",
+    "phone": "(404) 620-0931",
+    "email": "jnawrocki@gid.com",
+    "mailingAddress": "125 HIGH STREET, 27TH FLOOR\nBOSTON, MA 02110",
+    "registrationDate": "08/11/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GID INVESTMENT ADVISERS LLC",
+        "type": "Employer",
+        "effectiveDate": "08/11/2025"
       }
     ]
   },
@@ -21666,6 +21701,7 @@
     "phone": "(949) 375-3976",
     "email": "jkezelman@silverpointcapital.com",
     "registrationDate": "08/04/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26284,28 +26320,6 @@
     ]
   },
   {
-    "id": "1466662",
-    "name": "MATHEWS, ANNA",
-    "address": "1823 11TH STREET\nSACRAMENTO, CA 95811",
-    "phone": "(209) 244-2888",
-    "email": "amathews@faccc.org",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "FACULTY ASSOCIATION OF CALIFORNIA COMMUNITY COLLEGES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      },
-      {
-        "entityName": "MATHEWS; ANNA",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1423260",
     "name": "MATSUBARA, LISA",
     "address": "1201 K STREET, SUITE 710\nSACRAMENTO, CA 95814",
@@ -29993,6 +30007,7 @@
     "phone": "(415) 788-5111",
     "email": "morgan@hf.com",
     "registrationDate": "09/08/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30522,6 +30537,7 @@
     "phone": "(404) 978-0358",
     "email": "borr@roarkcapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31412,6 +31428,7 @@
     "phone": "(916) 769-9331",
     "email": "chadpelote79@gmail.com",
     "registrationDate": "08/18/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31567,6 +31584,7 @@
     "address": "C/ JOSE ORTEGA Y GASSET N100,\n3A PLANTA, MADRID, 28006",
     "email": "cristina.ugarriza@permira.com",
     "registrationDate": "05/26/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -31782,6 +31800,23 @@
         "entityName": "CAPITOL CORE GROUP, INC.",
         "type": "Firm",
         "effectiveDate": "04/29/2025"
+      }
+    ]
+  },
+  {
+    "id": "1483447",
+    "name": "PETERSON, PATRICIA",
+    "address": "240 STOCKTON STREET, 7TH FLOOR\nSAN FRANCISCO, CA",
+    "phone": "(415) 608-0242",
+    "email": "tpeterson@accord-group.net",
+    "registrationDate": "08/22/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACCORD CAPITAL PARTNERS LLC",
+        "type": "Firm",
+        "effectiveDate": "08/22/2025"
       }
     ]
   },
@@ -33569,6 +33604,7 @@
     "phone": "(212) 257-6018",
     "email": "jreinglass@waterfallam.com",
     "registrationDate": "07/08/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34029,7 +34065,8 @@
       {
         "entityName": "CALIFORNIA PHARMACISTS ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/31/2025"
       }
     ]
   },
@@ -35071,6 +35108,7 @@
     "phone": "(617) 824-1000",
     "email": "atopleyrubinstein@summitpartners.com",
     "registrationDate": "08/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35506,6 +35544,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "07/09/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -41868,9 +41907,16 @@
     "address": "2200 ATLANTIC STREET, SUITE 310\nSTAMFORD, CT 06902",
     "phone": "(203) 489-1549",
     "email": "compliance@oneriveram.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/06/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ONE RIVER ASSET MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1470645",
@@ -42154,6 +42200,29 @@
     ]
   },
   {
+    "id": "1456823",
+    "name": "WATTS, TIYESHA",
+    "address": "1107 9TH STREET, SUITE 301\nSACRAMENTO, CA 95814",
+    "email": "finance@chpc.net",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/08/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ACADEMY OF FAMILY PHYSICIANS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/22/2025"
+      },
+      {
+        "entityName": "CALIFORNIA HOUSING PARTNERSHIP CORPORATION",
+        "type": "Employer",
+        "effectiveDate": "10/08/2025"
+      }
+    ]
+  },
+  {
     "id": "1484755",
     "name": "WAZ, MATTHEW C",
     "address": "800 CARILLON PARKWAY\nST PETERSBURG, FL 33716",
@@ -42185,6 +42254,7 @@
     "phone": "(202) 637-8924",
     "email": "compliance_ca.nuveen_11@multistate.us",
     "registrationDate": "09/22/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -43792,9 +43862,16 @@
     "address": "2180 SAND HILL ROAD, SUITE 300\nMENLO PARK, CA 94025",
     "phone": "(650) 289-2460",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/06/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AKKR FUND II MANAGEMENT COMPANY, LP (\"ACCEL-KKR')",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1334716",
