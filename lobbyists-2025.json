@@ -1338,10 +1338,10 @@
   {
     "id": "1478007",
     "name": "ARSENAULT, SARA",
-    "address": "555 CAPITOL MALL, SUITE 710\nSACRAMENTO, CA 95814",
+    "address": "2612 17TH STREET\nSACRAMENTO, CA 95818",
     "phone": "(560) 391-2183",
-    "email": "sarsenault@publicpolicypartnership.com",
-    "registrationDate": "03/01/2025",
+    "email": "sara@deveauburrgroup.com",
+    "registrationDate": "11/03/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
@@ -1350,6 +1350,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "02/01/2025"
+      },
+      {
+        "entityName": "DEVEAU BURR GROUP, LLC",
+        "type": "Firm",
+        "effectiveDate": "11/03/2025"
       },
       {
         "entityName": "PUBLIC POLICY PARTNERSHIP (P3)",
@@ -1453,6 +1458,7 @@
     "phone": "(617) 662-9300",
     "email": "jaspropotamitis@statestreet.com",
     "registrationDate": "05/13/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -1993,7 +1999,7 @@
     "phone": "(512) 831-2523",
     "email": "cdoherty@havelii.com",
     "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/25/2024",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12190,7 +12196,7 @@
     "id": "1356402",
     "name": "FARRAR, MATTHEW",
     "address": "2882 SAND HILL ROAD, SUITE 100\nMENLO PARK, CA 94025",
-    "phone": "(212) 303-1650",
+    "phone": "(650) 519-0200",
     "email": "mfarrar@bdtmsd.com",
     "registrationDate": "07/22/2025",
     "status": "Active",
@@ -12814,6 +12820,22 @@
     ]
   },
   {
+    "id": "1484926",
+    "name": "FISHER, ROBERT J",
+    "address": "4700 WILSHIRE BOULEVARD\nOS ANGELES, CA 90010",
+    "phone": "(323) 860-9527",
+    "email": "rjfisher@cimgroup.com",
+    "registrationDate": "11/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CIM GROUP L.P.",
+        "type": "Employer",
+        "effectiveDate": "11/17/2025"
+      }
+    ]
+  },
+  {
     "id": "1481270",
     "name": "FITCH, NATALIE",
     "address": "1061 CALLE ANACAPA\nENCINITAS, CA 92024",
@@ -13076,6 +13098,7 @@
     "phone": "(916) 340-5507",
     "email": "zach@yourhoac.org",
     "registrationDate": "08/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14868,6 +14891,7 @@
     "phone": "(212) 704-3000",
     "email": "jim.glenn@sagemount.com",
     "registrationDate": "09/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14990,6 +15014,7 @@
     "phone": "(212) 704-3000",
     "email": "shea.goggin@sagemount.com",
     "registrationDate": "09/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19335,9 +19360,9 @@
   {
     "id": "1469287",
     "name": "HUNT , KASHA B.",
-    "address": "621 CAPITOL MALL, SUITE 2500\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-8888",
-    "email": "khunt@nossaman.com",
+    "address": "1215 K STREET, SUITE 2260\nSACRAMENTO, CA 95814",
+    "phone": "(916) 492-2766",
+    "email": "kasha@politicalsolutions.us",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
@@ -19345,7 +19370,13 @@
       {
         "entityName": "NOSSAMAN LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/07/2025"
+      },
+      {
+        "entityName": "POLITICAL SOLUTIONS, LLC",
+        "type": "Firm",
+        "effectiveDate": "11/10/2025"
       }
     ]
   },
@@ -19749,6 +19780,7 @@
     "phone": "(646) 522-0841",
     "email": "tjackson@fieracapital.com",
     "registrationDate": "05/04/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -20370,7 +20402,7 @@
   {
     "id": "1482624",
     "name": "JOHNSTON, ELYSHA",
-    "address": "455 MARKET STREET, SUITE 1000\nSAN FRANCISCO, CA 94105",
+    "address": "555 CALIFORNIA STREET, SUITE 3300-B\nSAN FRANCISCO, CA 94104",
     "phone": "(415) 538-4848",
     "email": "elysha.johnston@ubs.com",
     "registrationDate": "07/24/2025",
@@ -21896,6 +21928,23 @@
         "entityName": "BLUE SHIELD OF CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1484819",
+    "name": "KIEFFER, TASIA",
+    "address": "1150 SOUTH OLIVE STREET, FLOOR 10\nLOS ANGELES, CA 90015",
+    "phone": "(323) 889-4348",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "11/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOS ANGELES COUNTY BUSINESS FEDERATION (BIZFED)",
+        "type": "Employer",
+        "effectiveDate": "11/01/2025"
       }
     ]
   },
@@ -23733,7 +23782,7 @@
     "id": "1456822",
     "name": "LEGISTER, SEAN-PATRICK",
     "address": "550 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10022",
-    "phone": "(212) 303-6180",
+    "phone": "(212) 303-1650",
     "email": "slegister@bdtmsd.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
@@ -26413,9 +26462,16 @@
     "address": "ONE MARKET PLAZA, SUITE 2700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 262-3158",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/06/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PJT PARTNERS LP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1441017",
@@ -30126,14 +30182,15 @@
     "address": "10 STATE HOUSE SQUARE, 12TH FLOOR\nHARTFORD, CT 06103",
     "phone": "(860) 616-9158",
     "email": "thomas.oshea@ubs.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/31/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "UBS REALTY INVESTORS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/31/2025"
       }
     ]
   },
@@ -34055,9 +34112,9 @@
   {
     "id": "1294944",
     "name": "RIVAS, MICHELLE ",
-    "address": "4030 LENNANE DRIVE\nSACRAMENTO, CA 95834",
-    "phone": "(916) 779-1400",
-    "email": "mrivas@cpha.com",
+    "address": "1127 11TH STREET, SUITE 210\nSACRAMENTO, CA 95814",
+    "phone": "(916) 207-0615",
+    "email": "rivasadvocacy@outlook.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
@@ -34067,6 +34124,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "10/31/2025"
+      },
+      {
+        "entityName": "RIVAS ADVOCACY LLC",
+        "type": "Firm",
+        "effectiveDate": "11/01/2025"
       }
     ]
   },
@@ -34179,6 +34241,7 @@
     "phone": "(213) 448-1265",
     "email": "erobles@erstrat.com",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35900,9 +35963,16 @@
     "address": "225 FRANKLIN STREET\nBOSTON , MA 02110",
     "phone": "(617) 722-4700",
     "email": "michael.schantz@rbc.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "06/30/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "RBC GLOBAL ASSET MANAGEMENT (U.S.) INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
+      }
+    ]
   },
   {
     "id": "1473968",
@@ -37125,6 +37195,7 @@
     "phone": "(561) 241-2425",
     "email": "mshirilla@polencapital.com",
     "registrationDate": "09/24/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -38179,6 +38250,22 @@
     ]
   },
   {
+    "id": "1484925",
+    "name": "SOPHIA, JAMES T",
+    "address": "2398 E CAMELBACK ROAD, 4TH FLOOR\nPHOENIX, AZ 85016",
+    "phone": "(602) 778-6351",
+    "email": "jsophia@cimgroup.com",
+    "registrationDate": "11/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CIM GROUP L.P.",
+        "type": "Employer",
+        "effectiveDate": "11/17/2025"
+      }
+    ]
+  },
+  {
     "id": "1381990",
     "name": "SOPHOCLES, GEORGE C.",
     "address": "22 VANDERBILT AVENUE, 27TH FLOOR\nNEW YORK, NY 10017",
@@ -38599,7 +38686,8 @@
       {
         "entityName": "CATALYST CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/14/2025"
       }
     ]
   },
@@ -42203,6 +42291,7 @@
     "id": "1456823",
     "name": "WATTS, TIYESHA",
     "address": "1107 9TH STREET, SUITE 301\nSACRAMENTO, CA 95814",
+    "phone": "(415) 433-6804",
     "email": "finance@chpc.net",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "10/08/2025",
@@ -42348,14 +42437,15 @@
     "address": "292 MADISON AVENUE, FLOOR 8\nNEW YORK, NY 10017",
     "phone": "(212) 756-3508",
     "email": "ammy.schlosberg@greycroft.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/03/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GREYCROFT LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/03/2025"
       }
     ]
   },
@@ -44112,13 +44202,14 @@
     "address": "1001 CONNECTICUT AVENUE, NW, #1230\nWASHINGTON, DC 20036",
     "phone": "(916) 917-4519",
     "email": "pzielske@dialysispatients.org",
-    "registrationDate": "03/26/2025",
-    "status": "Active",
+    "registrationDate": "03/27/2025",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "DIALYSIS PATIENT CITIZENS",
         "type": "Employer",
-        "effectiveDate": "03/26/2025"
+        "effectiveDate": "03/26/2025",
+        "terminationDate": "03/27/2025"
       }
     ]
   },
