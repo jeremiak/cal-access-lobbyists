@@ -8449,7 +8449,8 @@
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/05/2025"
       }
     ]
   },
@@ -14458,9 +14459,16 @@
     "address": "2078 PROSPECTOR AVENUE, SUITE 11\nPARK CITY, UT 84060",
     "phone": "(212) 729-1862",
     "email": "kgettinger@kpgcapitalpartners.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/12/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KPG CAPITAL PARTNERS, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1456901",
@@ -18197,9 +18205,16 @@
     "id": "1252707",
     "name": "HERNANDEZ, IGNACIO D.",
     "mailingAddress": "555 CAPITOL MALL, SUITE 750\nSACRAMENTO, CA 95814\nPhone: (916) 447-9719\nEmail: ignacio@hernandezstrategy.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/10/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HERNANDEZ STRATEGY GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1480316",
@@ -22470,7 +22485,8 @@
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/07/2025"
       }
     ]
   },
@@ -25133,6 +25149,7 @@
     "phone": "(720) 515-3135",
     "email": "james.macdowell@scidan.com",
     "registrationDate": "04/22/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30527,6 +30544,7 @@
     "email": "conumah.orrick@fiveringslaw.com",
     "mailingAddress": "C/O 3903 FAIR RIDGE DRIVE, SUITE L-119\nFAIRFAX, VA 22033\nPhone: (240) 331-8804",
     "registrationDate": "06/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -32391,6 +32409,7 @@
     "phone": "(720) 515-3135",
     "email": "nathan@scidan.com",
     "registrationDate": "04/22/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35120,9 +35139,16 @@
     "phone": "(209) 368-5229",
     "email": "randy@roxsonlaw.com",
     "mailingAddress": "P.O. BOX 1089\nWOODBRIDGE, CA 95258",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/12/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ROXSON, P.C.; LAW OFFICE OF RANDY D.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1449780",
@@ -37331,6 +37357,7 @@
     "email": "calobby@nmgovlaw.com",
     "mailingAddress": "C/O 2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901",
     "registrationDate": "10/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -40234,7 +40261,8 @@
       {
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/05/2025"
       }
     ]
   },
@@ -43344,6 +43372,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 300\nSACRAMENTO, CA 95814",
     "registrationDate": "07/18/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -44236,14 +44265,15 @@
     "address": "250 PARK AVENUE SOUTH, #250\nWINTER PARK, FL 32789",
     "phone": "(407) 420-9903",
     "email": "compliance@drz-inc.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/29/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DE PRINCE, RACE & ZOLLO, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/29/2025"
       }
     ]
   },
