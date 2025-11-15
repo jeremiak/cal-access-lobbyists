@@ -1248,14 +1248,15 @@
     "address": "1127 11TH STREET, SUITE 820\nSACRAMENTO, CA 95814",
     "phone": "(916) 446-2646",
     "email": "marnold@mjarnold.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/31/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ARNOLD & ASSOCIATES, INC.",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/31/2025"
       }
     ]
   },
@@ -10691,14 +10692,15 @@
     "address": "500 CAPITOL MALL, SUITE 2350\nSACRAMENTO, CA 95814",
     "phone": "(916) 769-0573",
     "email": "bdocherty@tdgstrategies.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "11/19/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "TDG STRATEGIES",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/19/2025"
       }
     ]
   },
@@ -26479,7 +26481,7 @@
     "address": "ONE MARKET PLAZA, SUITE 2700\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 262-3158",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "11/06/2025",
+    "registrationDate": "11/10/2025",
     "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
@@ -34378,14 +34380,15 @@
     "address": "1020 12TH STREET, SUITE 406 \nSACRAMENTO, CA 95814",
     "phone": "(916) 409-7223",
     "email": "natalie@prime-strategies.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "11/15/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PRIME STRATEGIES OF CALIFORNIA",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/15/2025"
       }
     ]
   },
@@ -36422,6 +36425,22 @@
         "entityName": "KENNEDY LEWIS INVESTMENT MANAGEMENT",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1482619",
+    "name": "SCHULTZ, JAKOB",
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 937-1576",
+    "registrationDate": "05/19/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "05/19/2025"
       }
     ]
   },
@@ -39818,7 +39837,6 @@
     "address": "3053 FREEPORT BOULEVARD, SUITE 259\nSACRAMENTO, CA 95818",
     "phone": "(213) 500-5331",
     "email": "p.anthony@thomasadvocacygroup.com",
-    "mailingAddress": "448 SOUTH HILL STREET, SUITE 1008\nLOS ANGELES, CA 90013",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
@@ -43423,14 +43441,15 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "brandon@caleec.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/18/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "07/18/2025"
       }
     ]
   },
