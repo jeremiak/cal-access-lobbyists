@@ -1098,6 +1098,7 @@
     "phone": "(562) 801-1500",
     "email": "sappel@uaw.net",
     "registrationDate": "02/28/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14051,6 +14052,7 @@
     "phone": "(916) 443-1975",
     "email": "calobby@nmgovlaw.com",
     "registrationDate": "08/27/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19952,9 +19954,16 @@
     "phone": "(650) 618-7300",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/17/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RIVERWOOD CAPITAL MANAGEMENT L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1342666",
@@ -28168,9 +28177,16 @@
     "address": "51 MADISON AVENUE\nNEW YORK, NY 10010",
     "phone": "(212) 315-1483",
     "email": "chris.mitrovich@apogemcapital.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEW YORK LIFE INVESTMENT MANAGEMENT LLC AND ITS AFFILLIATES MACKAY SHIELDS, CANDRIAM, AND APOGEM CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1477945",
@@ -35268,9 +35284,16 @@
     "address": "1806 WEST KETTLEMAN LANE, SUITE L\nLODI, CA 95242",
     "phone": "(209) 888-6039",
     "email": "dean@mohanlaw.net",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/06/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "S. DEAN RUIZ, ESQ. OF MOHAN HARRIS RUIZ LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1477739",
@@ -41538,6 +41561,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "03/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
