@@ -7482,9 +7482,15 @@
     "address": "1270 AVENUE OF THE AMERICAS, SUITE 408\nNEW YORK, NY 10020",
     "phone": "(212) 224-8220",
     "email": "scott.church@rede-partners.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "REDE PARTNERS (AMERICAS) LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1426804",
@@ -8777,6 +8783,7 @@
     "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
     "phone": "(580) 235-8707",
     "registrationDate": "06/25/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -18196,6 +18203,7 @@
     "address": "2049 CENTURY PARK EAST, SUITE 3050\nLOS ANGELES, CA 90067",
     "phone": "(310) 996-9600",
     "registrationDate": "09/03/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -19300,6 +19308,7 @@
     "phone": "(843) 579-9400",
     "email": "askcompliance.com",
     "registrationDate": "09/02/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22416,6 +22425,23 @@
     ]
   },
   {
+    "id": "1484119",
+    "name": "KLOBUCAR, GREG",
+    "address": "400 CROSSING BOULEVARD, 4TH FLOOR\nBRIDGEWATER, NJ 08807",
+    "phone": "(908) 947-0619",
+    "email": "gklobucar@hlmnet.com",
+    "registrationDate": "10/02/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HARDING LOEVNER LP",
+        "type": "Employer",
+        "effectiveDate": "10/02/2025"
+      }
+    ]
+  },
+  {
     "id": "1457062",
     "name": "KLOOS, WILLIAM",
     "address": "875 THIRD AVENUE\nNEW YORK, NY 10022",
@@ -25131,9 +25157,16 @@
     "phone": "(410) 800-7503",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYES LAW\nSACRAMENTO, CA 95814\nPhone: (410) 800-7503\nEmail: info@keyslawcorp.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/14/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SR ONE CAPITAL ADVISORS, LTD.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1402004",
@@ -28894,6 +28927,23 @@
         "entityName": "EQUITY INTERNATIONAL MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1340760",
+    "name": "MUEHLETHALER, JEFF",
+    "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
+    "phone": "(212) 618-3428",
+    "email": "jeffrey.muehlethaler@brookfield.com",
+    "registrationDate": "11/06/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
+        "type": "Employer",
+        "effectiveDate": "11/06/2025"
       }
     ]
   },
@@ -33341,8 +33391,14 @@
     "email": "sakib.rashid@rede-partners.com",
     "registrationDate": "09/02/2025",
     "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "In Suspense",
-    "relationships": []
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "REDE PARTNERS (AMERICAS) LLC",
+        "type": "Firm",
+        "effectiveDate": "01/15/2025"
+      }
+    ]
   },
   {
     "id": "1478180",
@@ -41503,6 +41559,23 @@
     "relationships": []
   },
   {
+    "id": "1484941",
+    "name": "VELAZQUEZ, ALEJANDRA",
+    "address": "303 2ND STREET, SOUTH TOWER, SUITE 800\nSAN FRANCISCO, CA 94107",
+    "phone": "(415) 903-2800",
+    "email": "alejandra.velazquez@doordash.com",
+    "mailingAddress": "28 LIBERTY SHIP WAY, SUITE 2815\nSAUSALITO, CA 94965",
+    "registrationDate": "11/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DOORDASH, INC.",
+        "type": "Employer",
+        "effectiveDate": "11/12/2025"
+      }
+    ]
+  },
+  {
     "id": "1479480",
     "name": "VELCOFF HULTS, RACHEL E.M.",
     "address": "1212 BROADWAY, #600\nOAKLAND, CA 94612",
@@ -42404,6 +42477,13 @@
     "phone": "(415) 228-2820",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
+    "relationships": []
+  },
+  {
+    "id": "1466588",
+    "name": "WEBER, JULIA FELICE",
+    "registrationDate": "09/30/2025",
+    "status": "Terminated",
     "relationships": []
   },
   {
@@ -43841,9 +43921,16 @@
     "address": "1270 AVENUE OF THE AMERICAS, SUITE 408\nNEW YORK, NY 10020",
     "phone": "(212) 224-8220",
     "email": "joseph.chow@rede-partners.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/13/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "REDE PARTNERS (AMERICAS) LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1148248",
