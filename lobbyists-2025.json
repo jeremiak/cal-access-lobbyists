@@ -2715,18 +2715,24 @@
   {
     "id": "1463573",
     "name": "BATKO, ANNA",
-    "address": "601 LEXINGTON AVENUE, 53RD FLOOR\nNEW YORK, NY 10022",
-    "phone": "(929) 668-4276",
-    "email": "ania.batko@apax.com",
-    "registrationDate": "06/30/2025",
+    "address": "11111 SANTA MONICA BOULEVARD, SUITE 2000\nLOS ANGELES, CA 90025",
+    "phone": "(310) 954-0436",
+    "email": "abatko@leonardgreen.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "11/14/2025",
     "ethicsCourseCompletionDate": "01/25/2024",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "APAX PARTNERS US, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "06/30/2025"
+      },
+      {
+        "entityName": "LEONARD GREEN & PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "11/14/2025"
       }
     ]
   },
@@ -3034,9 +3040,16 @@
     "address": "12160 SIERRA DRIVE\nTRUCKEE, CA 96161",
     "phone": "(916) 628-7163",
     "email": "brittany.benesi@aspca.org",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/18/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS; THE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1442336",
@@ -5506,9 +5519,15 @@
     "address": "1121 L STREET, STE 309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
     "email": "david@caleec.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1477571",
@@ -15544,14 +15563,15 @@
     "name": "GOREE, KRISTIN ",
     "address": "1121 L STREET, #309\nSACRAMENTO, CA 95814",
     "phone": "(916) 426-9170",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/06/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/06/2025"
       }
     ]
   },
