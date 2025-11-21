@@ -5415,6 +5415,22 @@
     ]
   },
   {
+    "id": "1485107",
+    "name": "BUCKLES, MEGAN",
+    "address": "1831 K STREET\nSACRAMENTO, CA 95811",
+    "phone": "(916) 504-5800",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "11/03/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DISABILITY RIGHTS CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "11/03/2025"
+      }
+    ]
+  },
+  {
     "id": "1392744",
     "name": "BUCKLEY, ROSS E.",
     "address": "111 L STREET\nSACRAMENTO, CA 95814",
@@ -6395,6 +6411,7 @@
     "phone": "(610) 670-4168",
     "email": "lcarter@acoe.org",
     "registrationDate": "09/29/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9011,6 +9028,22 @@
         "entityName": "MILLENNIUM MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1443346",
+    "name": "CRUMP, CONRAD",
+    "address": "1831 K STREET\nSACRAMENTO, CA 95811",
+    "phone": "(916) 504-5800",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "11/03/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DISABILITY RIGHTS CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "11/03/2025"
       }
     ]
   },
@@ -14681,6 +14714,22 @@
     ]
   },
   {
+    "id": "1485108",
+    "name": "GILBERT, MONICA P.",
+    "address": "1831 K STREET\nSACRAMENTO, CA 95811",
+    "phone": "(916) 504-5800",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "11/03/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DISABILITY RIGHTS CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "11/03/2025"
+      }
+    ]
+  },
+  {
     "id": "1426145",
     "name": "GILL, MISHAAL",
     "address": "1001 K STREET, FLOOR 5\nSACRAMENTO, CA 95814",
@@ -17425,9 +17474,16 @@
     "address": "700 NORTH TREMONT STREET\nOCEANSIDE, CA 92054",
     "phone": "(617) 780-2589",
     "email": "compliance_ca_vertex_1@multistate.us",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/18/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "VERTEX PHARMACEUTICALS INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/18/2025"
+      }
+    ]
   },
   {
     "id": "1283112",
@@ -41988,7 +42044,9 @@
     "name": "WAGONER, RACHEL",
     "address": "3340 11TH STREET\nSACRAMENTO, CA 95818",
     "phone": "(916) 747-8089",
+    "mailingAddress": "1017 L STREET, #633\nSACRAMENTO, CA 95814-3805",
     "registrationDate": "07/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
