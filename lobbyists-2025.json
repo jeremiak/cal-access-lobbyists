@@ -2138,6 +2138,7 @@
     "phone": "(510) 843-1874",
     "email": "dbarad@ucs.org",
     "registrationDate": "06/12/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5975,6 +5976,7 @@
     "phone": "(510) 843-1872",
     "email": "mcanales@ucs.org",
     "registrationDate": "06/12/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -13790,6 +13792,22 @@
     ]
   },
   {
+    "id": "1392224",
+    "name": "FUN, AI LYN",
+    "address": "400 HAMILTON AVENUE, SUITE 230\nPALO ALTO, CA 94301",
+    "phone": "(650) 264-7769",
+    "email": "legalnotices@altamontcapital.com",
+    "registrationDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALTAMONT CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "11/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1347753",
     "name": "FUNG, JENNY  L.",
     "address": "280 PARK AVENUE, 5TH FLOOR\nNEW YORK, NY 10017",
@@ -20598,12 +20616,13 @@
   {
     "id": "1468047",
     "name": "JOHNSTONE, MICHELLE",
-    "address": "900 SEVENTH STREET NW, SUITE 600\nWASHINGTON, DC 20001",
-    "phone": "(202) 496-3370",
-    "email": "mjohnstone@natadvisors.com",
-    "registrationDate": "02/14/2025",
+    "address": "39 LEWIS STREET, 4TH FLOOR\nGREENWICH, CT 06830",
+    "phone": "(770) 262-1567",
+    "email": "michelle.johnstone@cortland.com",
+    "mailingAddress": "2824 BELLEVUE TER NW\nWASHINGTON, DC 20007",
+    "registrationDate": "11/20/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "NATIONAL REAL ESTATE ADVISORS LLC",
@@ -21365,6 +21384,7 @@
     "phone": "(347) 929-0811",
     "email": "kkearney@sixthstreet.com",
     "registrationDate": "02/25/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21476,7 +21496,8 @@
       {
         "entityName": "ANCHORAGE CAPITAL ADVISORS, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/07/2025"
       }
     ]
   },
@@ -22645,9 +22666,16 @@
     "address": "452 FIFTH AVENUE, 30TH FLOOR\nNEW YORK, NY 10018",
     "phone": "(212) 715-6844",
     "email": "rknight@varaderocapital.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "11/20/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VARADERO CAPITAL, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1405371",
@@ -23432,6 +23460,7 @@
     "phone": "(415) 486-5911",
     "email": "clau@sixthstreet.com",
     "registrationDate": "04/07/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -24404,6 +24433,7 @@
     "phone": "(415) 486-5964",
     "email": "dlin@sixthstreet.com",
     "registrationDate": "09/08/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -25508,6 +25538,7 @@
     "phone": "(347) 609-7191",
     "email": "amaguire@sixthstreet.com",
     "registrationDate": "02/25/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -28563,6 +28594,7 @@
     "phone": "(212) 405-8481",
     "email": "cmonsif@sixthstreet.com",
     "registrationDate": "09/25/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -30789,6 +30821,7 @@
     "address": "650 MADISON AVE, 3RD FLOOR\nNEW YORK, NY 10022",
     "phone": "(916) 442-7757",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34836,6 +34869,7 @@
     "phone": "(212) 405-7578",
     "email": "iromero@sixthstreet.com",
     "registrationDate": "02/25/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
