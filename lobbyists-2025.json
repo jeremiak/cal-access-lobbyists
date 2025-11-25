@@ -4341,14 +4341,15 @@
     "address": "1215 K STREET,STE 2030\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-1222",
     "email": "elise@sacramentoadvocates.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "11/28/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SACRAMENTO ADVOCATES INC.",
         "type": "Firm",
-        "effectiveDate": "01/10/2025"
+        "effectiveDate": "01/10/2025",
+        "terminationDate": "11/28/2025"
       }
     ]
   },
@@ -4496,6 +4497,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "08/11/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -6916,6 +6918,22 @@
         "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1358132",
+    "name": "CHARPENTIER, DEAN",
+    "address": "777 YAMATO ROAD, SUITE 300\nBOCA RATON, FL 33431",
+    "phone": "(561) 544-4561",
+    "email": "dean.charpentier@avmltd.com",
+    "registrationDate": "11/18/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AVM, L.P.",
+        "type": "Firm",
+        "effectiveDate": "11/18/2025"
       }
     ]
   },
@@ -22678,6 +22696,22 @@
     ]
   },
   {
+    "id": "1485067",
+    "name": "KNOBEL, JOHN",
+    "address": "5320 KIETZE LANE, SUITE 202\nRENO, NV 89511",
+    "phone": "(775) 484-0830",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "10/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EMPLOYERS COMPENSATION INSURANCE COMPANY",
+        "type": "Employer",
+        "effectiveDate": "10/15/2025"
+      }
+    ]
+  },
+  {
     "id": "1405371",
     "name": "KNUDSEN, JOSHUA M.",
     "address": "1215 K STREET, SUITE 1120\nSACRAMENTO, CA 95814",
@@ -23210,6 +23244,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "08/25/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -36675,6 +36710,22 @@
     ]
   },
   {
+    "id": "1484774",
+    "name": "SCHURMAN, JULIE",
+    "address": "1225 8TH STREET, SUITE 350\nSACRAMENTO, CA 95814",
+    "phone": "(926) 905-2153",
+    "email": "jschurman@thearcca.org",
+    "registrationDate": "09/19/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARC OF CALIFORNIA; THE",
+        "type": "Employer",
+        "effectiveDate": "09/19/2025"
+      }
+    ]
+  },
+  {
     "id": "1338481",
     "name": "SCHWARTZ, ANTONIA",
     "address": "5 GREENWICH OFFICE PARK, 2ND FLOOR\nGREENWICH, CT 06831",
@@ -38672,7 +38723,7 @@
     "address": "1127 11TH STREET, SUITE 544\nSACRAMENTO, CA 95814",
     "phone": "(916) 396-9875",
     "email": "rspencer@rgsca.com",
-    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "mailingAddress": "7909 WALERGA ROAD, SUITE 112-1288\nANTELOPE, CA 95843",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
