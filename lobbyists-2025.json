@@ -300,6 +300,7 @@
     "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-2162",
     "registrationDate": "08/25/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -5424,6 +5425,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "11/03/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8660,6 +8662,7 @@
     "phone": "(617) 412-8468",
     "email": "gerry.cosgrove@eolascapital.com",
     "registrationDate": "08/28/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -9058,6 +9061,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "11/03/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -12346,14 +12350,15 @@
     "address": "395 9TH AVENUE, 1 MANHATTAN WEST, 56TH FL\nNEW YORK, NY 10001",
     "phone": "(332) 455-0419",
     "email": "seye.fasan@eislercapital.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/31/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EISLER CAPITAL (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/31/2025"
       }
     ]
   },
@@ -19041,14 +19046,15 @@
     "address": "66 HUDSON BOULEVARD, 65TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 455-0419",
     "email": "ali.homayoun@eislercapital.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/31/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EISLER CAPITAL (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/31/2025"
       }
     ]
   },
@@ -24977,17 +24983,23 @@
   {
     "id": "1335002",
     "name": "LUCARDI, DONALD H.",
-    "address": "1 FAWCETT PLACE, SUITE 150\nGREENWICH, CT 06830",
-    "phone": "(212) 307-8901",
-    "email": "donald.lucardi@emso.com",
-    "registrationDate": "01/01/2025",
+    "address": "520 MADISON AVENUE, 25TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 317-8915",
+    "email": "don.lucardi@kirkoswald.com",
+    "registrationDate": "11/14/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
         "entityName": "EMSO ASSET MANAGEMENT US LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/31/2025"
+      },
+      {
+        "entityName": "KIRKOSWALD ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "11/14/2025"
       }
     ]
   },
@@ -25966,14 +25978,15 @@
     "address": "395 9TH AVE, 1 MANHATTAN WEST, 56TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 455-0415",
     "email": "alain.marcus@eislercapital.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/31/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EISLER CAPITAL (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/31/2025"
       }
     ]
   },
@@ -28959,14 +28972,15 @@
     "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 227-0900",
     "email": "jmosher@buchalter.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "06/30/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
       }
     ]
   },
@@ -31785,14 +31799,15 @@
     "address": "66 HUDSON BOULEVARD, 65TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 455-0419",
     "email": "andrew.pena@eislercapital.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/31/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EISLER CAPITAL (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/31/2025"
       }
     ]
   },
@@ -33244,14 +33259,15 @@
     "address": "66 HUDSON BOULEVARD, 65TH FLOOR\nNEW YORK, NY 10001",
     "phone": "(332) 455-0430",
     "email": "aliza.raffel@eislercapital.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/31/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "EISLER CAPITAL (US) LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/31/2025"
       }
     ]
   },
@@ -34411,6 +34427,7 @@
     "phone": "(312) 965-8198",
     "email": "krista.rivers@fortwashington.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -41498,14 +41515,14 @@
     "address": "110 NORTH WACKER DRIVE, SUITE 4400\nCHICAGO, IL 60606",
     "phone": "(312) 447-8478",
     "email": "compliance@ppcpartners.com",
-    "registrationDate": "04/16/2025",
+    "registrationDate": "01/02/2025",
     "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "PPC INVESTMENT PARTNERS LP DBA PRITZKER PRIVATE CAPITAL",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
-        "terminationDate": "04/16/2025"
+        "terminationDate": "01/01/2025"
       }
     ]
   },
