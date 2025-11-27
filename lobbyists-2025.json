@@ -8505,9 +8505,9 @@
   {
     "id": "1347731",
     "name": "CORBIN, SAMANTHA A.",
-    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
-    "phone": "(916) 594-9700",
-    "email": "scorbin@bhfs.com",
+    "address": "2315 CAPITOL AVENUE\nSACRAMENTO, CA 95816",
+    "phone": "(916) 203-0809",
+    "email": "samantha@goldenbearstrategies.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
     "status": "Active",
@@ -8517,6 +8517,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "11/05/2025"
+      },
+      {
+        "entityName": "GOLDEN BEAR STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "11/15/2025"
       }
     ]
   },
@@ -22627,24 +22632,6 @@
         "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
-    "id": "1458499",
-    "name": "KNAPP, BRANDON",
-    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
-    "phone": "(916) 594-9700",
-    "email": "bknapp@bhfs.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "02/20/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "11/07/2025"
       }
     ]
   },
@@ -40526,9 +40513,9 @@
   {
     "id": "1417282",
     "name": "TORRES, ALEX",
-    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
-    "phone": "(916) 594-9700",
-    "email": "atorres@bhfs.com",
+    "address": "2315 CAPITOL AVENUE\nSACRAMENTO, CA 95816",
+    "phone": "(916) 203-0809",
+    "email": "alex@goldenbearstrategies.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "03/14/2024",
     "status": "Active",
@@ -40538,6 +40525,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "11/05/2025"
+      },
+      {
+        "entityName": "GOLDEN BEAR STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "11/15/2025"
       }
     ]
   },
