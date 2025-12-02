@@ -4621,7 +4621,7 @@
       {
         "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
         "type": "Firm",
-        "effectiveDate": "01/20/2016"
+        "effectiveDate": "08/25/2025"
       }
     ]
   },
@@ -12290,13 +12290,14 @@
     "address": "2882 SAND HILL ROAD, SUITE 100\nMENLO PARK, CA 94025",
     "phone": "(650) 519-0200",
     "email": "mfarrar@bdtmsd.com",
-    "registrationDate": "07/22/2025",
-    "status": "Active",
+    "registrationDate": "11/14/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MSD PARTNERS, L.P.",
         "type": "Employer",
-        "effectiveDate": "07/22/2025"
+        "effectiveDate": "07/22/2025",
+        "terminationDate": "11/14/2025"
       }
     ]
   },
@@ -19018,13 +19019,14 @@
     "address": "1310 L STREET NW, SUITE 600\nWASHINGTON, DC 20005",
     "phone": "(571) 488-5742",
     "email": "compliance_ca_giffords_2@multistate.us",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "11/19/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GIFFORDS",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/19/2025"
       }
     ]
   },
@@ -21514,11 +21516,11 @@
   {
     "id": "1442823",
     "name": "KELLER, GRACE",
-    "address": "610 BROADWAY, 5TH FLOOR\nNEW YORK, NY 10012",
-    "phone": "(202) 432-4600",
-    "email": "compliance@olsonremcho.com",
-    "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "address": "201 MAIN STREET, SUITE 2100\nFORT WORTH, TX 76102",
+    "phone": "(847) 544-6627",
+    "email": "gkeller@crestlineinc.com",
+    "mailingAddress": "201 MAIN STREET, SUITE 2100\nFORT WORTH, TX 76102",
+    "registrationDate": "11/24/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
@@ -21527,6 +21529,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "11/07/2025"
+      },
+      {
+        "entityName": "CRESTLINE MANAGEMENT,  LP",
+        "type": "Employer",
+        "effectiveDate": "11/24/2025"
       }
     ]
   },
@@ -22632,6 +22639,29 @@
         "entityName": "J.P. MORGAN INVESTMENT MANAGEMENT INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1458499",
+    "name": "KNAPP, BRANDON",
+    "address": "2315 CAPITOL AVENUE\nSACRAMENTO, CA 95816",
+    "phone": "(916) 203-0809",
+    "email": "brandon@goldenbearstrategies.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/07/2025"
+      },
+      {
+        "entityName": "GOLDEN BEAR STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "11/15/2025"
       }
     ]
   },
@@ -23970,14 +24000,15 @@
     "address": "550 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 303-1650",
     "email": "slegister@bdtmsd.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "11/17/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MSD PARTNERS, L.P.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/17/2025"
       }
     ]
   },
@@ -26981,15 +27012,15 @@
     "address": "101 2ND STREET,  SUITE 2400\nSAN FRANCISCO, CA 94105",
     "phone": "(415) 975-3534",
     "email": "frederick.mccrea@newtonim.com",
-    "registrationDate": "04/01/2025",
+    "registrationDate": "04/10/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Terminated",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "NEWTON INVESTMENT MANAGEMENT NORTH AMERICA, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
-        "terminationDate": "04/01/2025"
+        "terminationDate": "04/10/2025"
       }
     ]
   },
@@ -27482,6 +27513,22 @@
         "entityName": "NUVEEN SERVICES LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485265",
+    "name": "MCABEE, MYRA",
+    "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
+    "phone": "(415) 227-0900",
+    "registrationDate": "09/11/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BUCHALTER, A PROFESSIONAL CORPORATION",
+        "type": "Firm",
+        "effectiveDate": "09/11/2025"
       }
     ]
   },
@@ -33934,6 +33981,7 @@
     "phone": "(415) 561-0600",
     "email": "zachary.reisner@avilacapllc.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34674,6 +34722,22 @@
         "entityName": "ACLU CALIFORNIA ACTION",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1361913",
+    "name": "RODRIGUEZ, KIMBERLY",
+    "address": "1100 K STREET, SUITE 101\nSACRAMENTO, CA 95814",
+    "phone": "(916) 327-7500",
+    "email": "legcoordinator@counties.org",
+    "registrationDate": "11/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
+        "type": "Employer",
+        "effectiveDate": "11/17/2025"
       }
     ]
   },
