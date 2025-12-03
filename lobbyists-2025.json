@@ -13627,6 +13627,30 @@
     ]
   },
   {
+    "id": "1478574",
+    "name": "FREEMAN, TOM",
+    "address": "38 EAST 19TH STREET, 8TH FLOOR\nNEW YORK, NY 10003",
+    "phone": "(908) 256-4073",
+    "email": "tf@connaught.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONNAUGHT (U.S.) LLC",
+        "type": "Firm",
+        "effectiveDate": "10/01/2025"
+      },
+      {
+        "entityName": "CONNAUGHT (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/30/2025"
+      }
+    ]
+  },
+  {
     "id": "1463756",
     "name": "FRENCH, REBECCA",
     "address": "600 LEXINGTON AVENUE\nNEW YORK, NY 10022",
@@ -17153,8 +17177,8 @@
   },
   {
     "id": "1399548",
-    "name": "HAMMOND, MIKE",
-    "address": "257 PARK AVENUE SOUTH, SUITE 700\nNEW YORK, NY 10010",
+    "name": "HAMMOND, MICHAEL",
+    "address": "19 UNION SQUARE WEST, 11TH FLOOR\nNEW YORK, NY 10003",
     "phone": "(212) 984-1418",
     "email": "compliance_ca_nuveen_2@multistate.us",
     "registrationDate": "01/01/2025",
@@ -26603,6 +26627,28 @@
     ]
   },
   {
+    "id": "1466662",
+    "name": "MATHEWS, ANNA",
+    "address": "1127 11TH STREET, SUITE 210\nSACRAMENTO, CA 95814",
+    "phone": "(209) 244-2888",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FACULTY ASSOCIATION OF CALIFORNIA COMMUNITY COLLEGES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/10/2025"
+      },
+      {
+        "entityName": "MATHEWS ADVOCATES",
+        "type": "Firm",
+        "effectiveDate": "11/11/2025"
+      }
+    ]
+  },
+  {
     "id": "1423260",
     "name": "MATSUBARA, LISA",
     "address": "1201 K STREET, SUITE 710\nSACRAMENTO, CA 95814",
@@ -27580,6 +27626,30 @@
         "entityName": "OCTAGON CREDIT INVESTORS, LLC",
         "type": "Employer",
         "effectiveDate": "05/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1479045",
+    "name": "MEA, JOHN",
+    "address": "38 EAST 19TH STREET\nNEW YORK, NY 10003",
+    "phone": "(908) 256-4073",
+    "email": "jm@connaught.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONNAUGHT (U.S.) LLC",
+        "type": "Firm",
+        "effectiveDate": "10/01/2025"
+      },
+      {
+        "entityName": "CONNAUGHT (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/30/2025"
       }
     ]
   },
@@ -28564,6 +28634,30 @@
         "entityName": "STRATEGIC SOLUTIONS ADVISORS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1412577",
+    "name": "MOLINARI, VINCENT",
+    "address": "38 EAST 19TH STREET, 8TH FLOOR\nNEW YORK, NY 10003",
+    "phone": "(908) 256-4073",
+    "email": "vm@connaught.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONNAUGHT (U.S.) LLC",
+        "type": "Firm",
+        "effectiveDate": "10/01/2025"
+      },
+      {
+        "entityName": "CONNAUGHT (US) LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/30/2025"
       }
     ]
   },
@@ -33424,6 +33518,24 @@
     ]
   },
   {
+    "id": "1469023",
+    "name": "RAMCHANDANI, MANJUL S.",
+    "address": "39 LEWIS STREET, 4TH FLOOR\nGREENWICH, CT 06830",
+    "phone": "(212) 405-1909",
+    "email": "manjul.ramchandani@cortland.com",
+    "mailingAddress": "3424 PEACHTREE ROAD, NORTHEAST\nATLANTA, GA 30326",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORTLAND INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1344388",
     "name": "RAMEY, ALISON ",
     "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
@@ -33753,6 +33865,22 @@
       {
         "entityName": "CUSTOM ELECTRONIC DESIGN AND INSTALLATION ASSOCIATION (CEDIA)",
         "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1450853",
+    "name": "REANDEAU, NOAH",
+    "address": "6523 83RD AVENUE W\nUNIVERSITY PLACE, WA 98467",
+    "phone": "(253) 973-1892",
+    "email": "noah@modelsolutions.org",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MODEL SOLUTIONS LLC",
+        "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
     ]
@@ -39099,6 +39227,24 @@
     ]
   },
   {
+    "id": "1469022",
+    "name": "STIKER, EDWARD",
+    "address": "39 LEWIS STREET, 4TH FLOOR\nGREENWICH, CT 06830",
+    "phone": "(203) 405-1910",
+    "email": "ned.stiker@cortland.com",
+    "mailingAddress": "3424 PEACHTREE ROAD, NORTHEAST\nATLANTA, GA 30326",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CORTLAND INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1421893",
     "name": "STIVERS, MARK",
     "address": "1107 9TH STREET, SUITE 610\nSACRAMENTO, CA 95814",
@@ -41070,6 +41216,22 @@
         "entityName": "TRITON INVESTMENTS ADVISERS LLP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1484923",
+    "name": "TURNER, BENJAMIN",
+    "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
+    "phone": "(916) 352-0747",
+    "email": "bturner@axiomadvisors.com",
+    "registrationDate": "11/03/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AXIOM ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "11/03/2025"
       }
     ]
   },
