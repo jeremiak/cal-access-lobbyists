@@ -14713,6 +14713,7 @@
     "phone": "(929) 562-2503",
     "email": "vgil@graingp.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -23066,6 +23067,22 @@
     ]
   },
   {
+    "id": "1484987",
+    "name": "KREMS, MICHAEL",
+    "address": "2121 ROSECRANS AVENUE\nEL SEGUNDO, CA 92045",
+    "phone": "(310) 843-1935",
+    "email": "mkrems@apollo.com",
+    "registrationDate": "11/18/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "11/18/2025"
+      }
+    ]
+  },
+  {
     "id": "1481171",
     "name": "KRIEGSMAN, CORY",
     "address": "1 MARITIME PLAZA, SUITE 2100\nSAN FRANCISCO, CA 94111",
@@ -23078,6 +23095,22 @@
         "entityName": "FARALLON CAPITAL MANAGEMENT, L.L.C.",
         "type": "Employer",
         "effectiveDate": "03/27/2025"
+      }
+    ]
+  },
+  {
+    "id": "1484976",
+    "name": "KRISHNAN, SARINA",
+    "address": "9 WEST 57TH STREET\nNEW YORK, NY 10019",
+    "phone": "(332) 263-0889",
+    "email": "skrishnan@apollo.com",
+    "registrationDate": "11/18/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "11/18/2025"
       }
     ]
   },
@@ -27412,9 +27445,16 @@
     "address": "51 MADISON AVENUE\nNEW YORK, NY 10010",
     "phone": "(917) 703-4071",
     "email": "shane.mcmahon@nylinvestments.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NEW YORK LIFE INVESTMENT MANAGEMENT LLC AND ITS AFFILLIATES MACKAY SHIELDS, CANDRIAM, AND APOGEM CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1431972",
@@ -31851,6 +31891,23 @@
     ]
   },
   {
+    "id": "1441491",
+    "name": "PELLEGRINI, JESSICA",
+    "address": "699 BOYLSTON STREET 2ND FLOOR\nBOSTON, MA 02116",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL , CA 94901",
+    "registrationDate": "12/02/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TRANSFORMATION CAPITAL",
+        "type": "Employer",
+        "effectiveDate": "12/02/2025"
+      }
+    ]
+  },
+  {
     "id": "1483221",
     "name": "PELOTE, CHAD",
     "address": "900 J STREET, FIRST FLOOR\nSACRAMENTO, CA 95814",
@@ -32418,7 +32475,8 @@
       {
         "entityName": "MC GUIREWOODS CONSULTING, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/01/2025"
       }
     ]
   },
@@ -35470,6 +35528,7 @@
     "phone": "(916) 441-4545",
     "email": "amberr@acwa.com",
     "registrationDate": "04/28/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -39106,6 +39165,22 @@
     ]
   },
   {
+    "id": "1285729",
+    "name": "STEIN, JONATHAN ",
+    "address": "90 PARK AVENUE, 20TH FLOOR\nNEW YORK, NY 10016",
+    "phone": "(310) 587-2277",
+    "email": "jstein@steinlaw.com",
+    "registrationDate": "11/10/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TORCHLIGHT INVESTORS LLC",
+        "type": "Employer",
+        "effectiveDate": "11/10/2025"
+      }
+    ]
+  },
+  {
     "id": "1481393",
     "name": "STEIN, JULIAN",
     "address": "7 WORLD TRADE CENTER, 250 GREENWICH ST.\n32ND FLOOR",
@@ -41740,7 +41815,7 @@
         "entityName": "PPC INVESTMENT PARTNERS LP DBA PRITZKER PRIVATE CAPITAL",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
-        "terminationDate": "01/01/2025"
+        "terminationDate": "01/02/2025"
       }
     ]
   },
@@ -44100,6 +44175,7 @@
     "phone": "(916) 441-4545",
     "email": "kyliew@acwa.com",
     "registrationDate": "01/02/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
