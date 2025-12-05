@@ -4355,6 +4355,22 @@
     ]
   },
   {
+    "id": "1485025",
+    "name": "BORTMAN, ALANA",
+    "address": "277 PARK AVENUE, FLOOR 34\nNEW YORK, NY 10172",
+    "phone": "(212) 771-1717",
+    "email": "fscrudato@arsenalcapital.com",
+    "registrationDate": "11/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARSENAL CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "11/17/2025"
+      }
+    ]
+  },
+  {
     "id": "1464591",
     "name": "BORYS, JOHN",
     "address": "ONE VANDERBILT AVENUE, SUITE 3400\nNEW YORK, NY 10017",
@@ -5039,13 +5055,14 @@
     "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
     "phone": "(917) 453-2814",
     "email": "adam.brown@guggenheimpartners.com",
-    "registrationDate": "04/01/2025",
-    "status": "Active",
+    "registrationDate": "11/21/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GUGGENHEIM SECURITIES, LLC",
         "type": "Firm",
-        "effectiveDate": "04/01/2025"
+        "effectiveDate": "04/01/2025",
+        "terminationDate": "11/21/2025"
       }
     ]
   },
@@ -17750,6 +17767,7 @@
     "phone": "(630) 333-6885",
     "email": "faiyaz.hashmi@lgima.com",
     "registrationDate": "10/20/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -21371,14 +21389,15 @@
     "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
     "phone": "(212) 801-8966",
     "email": "samuel.katz@guggenheimpartners.com",
-    "registrationDate": "04/01/2025",
+    "registrationDate": "11/21/2025",
     "ethicsCourseCompletionDate": "04/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GUGGENHEIM SECURITIES, LLC",
         "type": "Firm",
-        "effectiveDate": "04/01/2025"
+        "effectiveDate": "04/01/2025",
+        "terminationDate": "11/21/2025"
       }
     ]
   },
@@ -28325,14 +28344,15 @@
     "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
     "phone": "(212) 416-5861",
     "email": "jim.millstein@guggenheimpartners.com",
-    "registrationDate": "04/01/2025",
+    "registrationDate": "11/21/2025",
     "ethicsCourseCompletionDate": "05/07/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GUGGENHEIM SECURITIES, LLC",
         "type": "Firm",
-        "effectiveDate": "04/01/2025"
+        "effectiveDate": "04/01/2025",
+        "terminationDate": "11/21/2025"
       }
     ]
   },
@@ -35019,14 +35039,15 @@
     "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
     "phone": "(917) 227-9221",
     "email": "thomas.rogers@guggenheimpartners.co",
-    "registrationDate": "04/01/2025",
+    "registrationDate": "11/21/2025",
     "ethicsCourseCompletionDate": "04/21/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GUGGENHEIM SECURITIES, LLC",
         "type": "Firm",
-        "effectiveDate": "04/01/2025"
+        "effectiveDate": "04/01/2025",
+        "terminationDate": "11/21/2025"
       }
     ]
   },
@@ -39592,14 +39613,15 @@
     "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
     "phone": "(212) 378-2870",
     "email": "morgan.suckow@guggenheimpartners.c",
-    "registrationDate": "04/01/2025",
+    "registrationDate": "11/21/2025",
     "ethicsCourseCompletionDate": "04/17/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GUGGENHEIM SECURITIES, LLC",
         "type": "Firm",
-        "effectiveDate": "04/01/2025"
+        "effectiveDate": "04/01/2025",
+        "terminationDate": "11/21/2025"
       }
     ]
   },
