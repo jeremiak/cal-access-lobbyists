@@ -32486,12 +32486,19 @@
   {
     "id": "1392860",
     "name": "PIERINI, RYAN",
-    "address": "1800 CENTURY PARK EAST, 8TH FLOOR\nLOS ANGELES, CA 90067",
-    "phone": "(310) 315-8200",
+    "address": "3761 SAN YSIDRO WAY\nSACRAMENTO, CA 95864",
+    "phone": "(916) 995-5323",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "BENCHMARK ADVOCACY",
+        "type": "Firm",
+        "effectiveDate": "12/01/2025"
+      },
       {
         "entityName": "MC GUIREWOODS CONSULTING, LLC",
         "type": "Firm",
@@ -44824,6 +44831,7 @@
     "phone": "(650) 473-2264",
     "email": "jzhao@ta.com",
     "registrationDate": "08/19/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
