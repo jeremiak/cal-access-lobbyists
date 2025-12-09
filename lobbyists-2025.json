@@ -5104,14 +5104,15 @@
     "address": "1251 AVENUE OF THE AMERICAS, 50TH FLOOR\nNEW YORK, NY 10020",
     "phone": "(212) 257-6008",
     "email": "dbrown@waterfallam.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "11/20/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WATERFALL ASSET MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/20/2025"
       }
     ]
   },
@@ -10730,14 +10731,14 @@
     "address": "1 AMERICAN LANE\nGREENWICH, CT 06831",
     "phone": "(203) 742-7727",
     "email": "vdistasio@veritionfund.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "04/01/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
         "entityName": "VERITION FUND MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -18309,14 +18310,15 @@
     "address": "2017 O STREET\nSACRAMENTO, CA 95811",
     "phone": "(916) 600-3457",
     "email": "jhenderson@caedge.org",
-    "registrationDate": "07/01/2025",
+    "registrationDate": "12/01/2025",
     "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "07/01/2025"
+        "effectiveDate": "07/01/2025",
+        "terminationDate": "12/01/2025"
       }
     ]
   },
@@ -31032,6 +31034,22 @@
         "entityName": "ROARK CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1362070",
+    "name": "ORTH, PARTHENIA ",
+    "address": "201 SAINT CHARLES AVENUE, SUITE 3400\nNEW ORLEANS, LA 70170",
+    "phone": "(212) 207-3385",
+    "email": "akotian@enhancedcapital.com",
+    "registrationDate": "11/24/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENHANCED CAPITAL GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/24/2025"
       }
     ]
   },
