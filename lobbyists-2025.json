@@ -4879,7 +4879,7 @@
     "phone": "(916) 442-4035",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "07/01/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
@@ -4892,7 +4892,7 @@
       {
         "entityName": "PLASTICS INDUSTRY ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "07/01/2025"
       }
     ]
   },
@@ -11131,6 +11131,22 @@
         "entityName": "CALIFORNIA DENTAL ASSOCIATION AND ITS WHOLLY OWNED SUBSIDIARIES",
         "type": "Employer",
         "effectiveDate": "03/10/2025"
+      }
+    ]
+  },
+  {
+    "id": "1483591",
+    "name": "DOWLEY, KATHERINE",
+    "address": "400 PARK AVENUE\nNEW YORK, NY 10022",
+    "phone": "(212) 561-5240",
+    "email": "kate.dowley@axa-im.com",
+    "registrationDate": "04/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "W CAPITAL PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "04/01/2025"
       }
     ]
   },
@@ -32848,11 +32864,6 @@
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
-      {
-        "entityName": "EQUITIX INVESTMENTS NORTH AMERICA L.P.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      },
       {
         "entityName": "EQUITIX MANCO L.P",
         "type": "Employer",
