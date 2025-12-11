@@ -10097,6 +10097,22 @@
     ]
   },
   {
+    "id": "1485415",
+    "name": "DELGADO, CHARLES",
+    "address": "1100 K STREET SUITE 101\nSACRAMENTO, CA 95814",
+    "phone": "(916) 327-7500",
+    "email": "legcoordinator@counties.org",
+    "registrationDate": "12/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
+        "type": "Employer",
+        "effectiveDate": "12/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1149304",
     "name": "DELGADO, CONNIE ",
     "address": "1101 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
@@ -10415,7 +10431,8 @@
       {
         "entityName": "KP PUBLIC AFFAIRS",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/12/2025"
       }
     ]
   },
@@ -27010,6 +27027,22 @@
     ]
   },
   {
+    "id": "1485417",
+    "name": "MC CARTHY, BRENDAN",
+    "address": "1100 K STREET SUITE 101\nSACRAMENTO, CA 95814",
+    "phone": "(916) 327-7500",
+    "email": "legcoordinator@counties.org",
+    "registrationDate": "12/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
+        "type": "Employer",
+        "effectiveDate": "12/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1479959",
     "name": "MC CARTHY, MAGGIE",
     "address": "555 CALIFORNIA STREET\nSAN FRANCISCO, CA 94104",
@@ -36505,6 +36538,22 @@
     ]
   },
   {
+    "id": "1446598",
+    "name": "SAVVA, MICHAEL P",
+    "address": "WORLDWIDE PLAZA, 309 WEST 49TH STREET\nNEW YORK, NY 10019",
+    "phone": "(212) 667-9714",
+    "email": "barbara.keller@nomura.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NOMURA CAPITAL MANAGEMENT LLC (\"NCM\")",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1459931",
     "name": "SCARINGE, CHRISTINA",
     "address": "1212 BROADWAY, SUITE 800\nOAKLAND, CA 94612",
@@ -37195,8 +37244,8 @@
   {
     "id": "1435285",
     "name": "SEEMAN, DANIEL",
-    "address": "1017 L STREET, SUITE 274\nSACRAMENTO, CA 95814",
-    "phone": "(916) 573-2351",
+    "address": "555 CAPITOL MALL, SUITE 700\nSACRAMENTO, CA 95815",
+    "phone": "(916) 706-2677",
     "email": "dan@newmomentumstrategies.com",
     "registrationDate": "01/13/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
