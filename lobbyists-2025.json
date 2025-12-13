@@ -24284,6 +24284,22 @@
     ]
   },
   {
+    "id": "1374869",
+    "name": "LEPE JONES, KYLE",
+    "address": "2418 P STREET, APARTMENT 3\nSACRAMENTO, CA 95816",
+    "phone": "(916) 539-0133",
+    "email": "kyle@lepejonesconsulting.com",
+    "registrationDate": "11/21/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LEPE JONES CONSULTING LLC",
+        "type": "Firm",
+        "effectiveDate": "11/21/2025"
+      }
+    ]
+  },
+  {
     "id": "1467878",
     "name": "LESOVSKY, DILLON",
     "address": "655 EAST 3RD STREET\nSAN BERNARDINO, CA 92415",
