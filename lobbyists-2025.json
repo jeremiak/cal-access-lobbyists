@@ -20732,8 +20732,13 @@
     "mailingAddress": "2824 BELLEVUE TER NW\nWASHINGTON, DC 20007",
     "registrationDate": "11/20/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "CORTLAND INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "11/20/2025"
+      },
       {
         "entityName": "NATIONAL REAL ESTATE ADVISORS LLC",
         "type": "Employer",
@@ -27544,6 +27549,23 @@
     ]
   },
   {
+    "id": "1334502",
+    "name": "MC MENOMY, MICHAEL K.",
+    "address": "601 SOUTH FIGUEROA STREET, 49TH FLOOR\nLOS ANGELES, CA 90017",
+    "phone": "(213) 683-4200",
+    "email": "mmcmenomy@cbreim.com",
+    "registrationDate": "12/01/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1431972",
     "name": "MC MILLAN, PETER",
     "address": "909 MONTGOMERY STREET, 4TH FLOOR\nSAN FRANCISCO, CA 94133",
@@ -27589,6 +27611,22 @@
     "relationships": [
       {
         "entityName": "APOLLO MANAGEMENT HOLDINGS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1415043",
+    "name": "MC NAMARA, BERNIE",
+    "address": "601 SOUTH FIGUEROA STREET, 49TH FLOOR\nLOS ANGELES, CA 90017-0000",
+    "phone": "(213) 683-4200",
+    "email": "bernie.mcnamara@cbreim.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -30216,6 +30254,22 @@
         "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485495",
+    "name": "NIELSEN, CHRISTOPHER",
+    "address": "1017 L STREET, #593\nSACRAMENTO, CA 95814",
+    "phone": "(415) 524-6440",
+    "email": "chris@nielsenstrat.com",
+    "registrationDate": "12/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NIELSEN STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "12/01/2025"
       }
     ]
   },
@@ -33705,15 +33759,16 @@
     "address": "39 LEWIS STREET, 4TH FLOOR\nGREENWICH, CT 06830",
     "phone": "(212) 405-1909",
     "email": "manjul.ramchandani@cortland.com",
-    "mailingAddress": "3424 PEACHTREE ROAD, NORTHEAST\nATLANTA, GA 30326",
-    "registrationDate": "01/01/2025",
+    "mailingAddress": "3424 PEACHTREE ROAD, NE, SUITE 300\nATLANTA, GA 30326",
+    "registrationDate": "11/28/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CORTLAND INVESTMENT MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/28/2025"
       }
     ]
   },
@@ -37746,6 +37801,22 @@
     ]
   },
   {
+    "id": "1446115",
+    "name": "SHEPHERDSON, CHRIS",
+    "address": "601 SOUTH FIGUEROA STREET, 49TH FLOOR\nLOS ANGELES, CA 90017",
+    "phone": "(213) 683-4200",
+    "email": "chris.shepherdson@cbreim.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1323354",
     "name": "SHERIFF, NORA ",
     "address": "425 MARKET STREET, 29TH FLOOR\nSAN FRANCISCO, CA 94105",
@@ -39047,6 +39118,22 @@
     ]
   },
   {
+    "id": "1444251",
+    "name": "SPALDING, SCOTT",
+    "address": "3501 JAMBOREE ROAD\nNEWPORT BEACH, CA 92660",
+    "phone": "(949) 315-9900",
+    "email": "scott.spalding@cbreim.com",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1400360",
     "name": "SPARACINO, DAVID",
     "address": "100 CAMPUS DRIVE,  P.O. BOX 650\nFLORHAM PARK, NJ 7932-0650",
@@ -39448,7 +39535,7 @@
     "address": "39 LEWIS STREET, 4TH FLOOR\nGREENWICH, CT 06830",
     "phone": "(203) 405-1910",
     "email": "ned.stiker@cortland.com",
-    "mailingAddress": "3424 PEACHTREE ROAD, NORTHEAST\nATLANTA, GA 30326",
+    "mailingAddress": "3424 PEACHTREE ROAD, NE, SUITE 300\nATLANTA, GA 30326",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
@@ -40405,14 +40492,15 @@
     "phone": "(212) 878-0600",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/24/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WARBURG PINCUS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/24/2025"
       }
     ]
   },
