@@ -6585,32 +6585,107 @@
   {
     "id": "1414036",
     "name": "CASTRO, RICK A.",
-    "relationships": []
+    "address": "2730 SAND HILL ROAD\nMENLO PARK, CA 94025",
+    "phone": "(424) 304-4043",
+    "email": "rcastro@adamsstreetpartners.com",
+    "mailingAddress": "931 5TH STREET\nHERMOSA BEACH, CA 90254",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ADAMS STREET PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1264205",
     "name": "CATTOLICA, STEPHEN J.",
-    "relationships": []
+    "address": "P.O. BOX 2016\nSACRAMENTO, CA 95812",
+    "phone": "(916) 612-3276",
+    "email": "scattolica@scadvocates.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SC ADVOCATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1452202",
     "name": "CAUBLE, JESSE",
-    "relationships": []
+    "address": "800 5TH AVENUE, SUITE 2800\nSEATTLE, WA 98104",
+    "phone": "(612) 749-2847",
+    "email": "jcauble@paraport.com",
+    "mailingAddress": "1981 HIGH RIDGE AVENUE\nCARLSBAD, CA 92008",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARAMETRIC PORTFOLIO ASSOCIATES LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1476794",
     "name": "CAVANNA, ANDREW",
-    "relationships": []
+    "address": "601 LEXINGTON AVENUE, 53RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 419-2496",
+    "email": "andrew.cavanna@apax.com",
+    "registrationDate": "06/30/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "APAX PARTNERS US, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/30/2025"
+      }
+    ]
   },
   {
     "id": "1148538",
     "name": "CAVES, JOSEPH ",
-    "relationships": []
+    "address": "1415 L STREET, SUITE 270\nSACRAMENTO, CA 95814",
+    "phone": "(916) 558-1516",
+    "mailingAddress": "P.O. BOX 19318\nSACRAMENTO, CA 95819",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONSERVATION STRATEGY GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1467492",
     "name": "CAVINTA, GEORGE",
-    "relationships": []
+    "address": "915 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-5053",
+    "email": "gcavinta@nalobby.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NORWOOD ASSOCIATES, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1380530",
@@ -6632,12 +6707,37 @@
   {
     "id": "1393937",
     "name": "CERVANTES, RJ",
-    "relationships": []
+    "address": "1201 J STREET, SUITE 226\nSACRAMENTO, CA 95814",
+    "phone": "(916) 262-4682",
+    "email": "rj@resilientlobby.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RESILIENT ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1457057",
     "name": "CERVANTEZ, KARINA",
-    "relationships": []
+    "address": "1370 N. BREA BOULVARD, SUITE 235\nFULLERTON, CA 92835",
+    "phone": "(213) 624-6200",
+    "email": "karina@strategiesgroup.com",
+    "mailingAddress": "515 SOUTH FIGUEROA STREET, SUITE 1110\nLOS ANGELES, CA 90071",
+    "registrationDate": "08/13/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ORTEGA STRATEGIES GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1236630",
@@ -8237,12 +8337,36 @@
   {
     "id": "1456521",
     "name": "COOK, SIERRA",
-    "relationships": []
+    "address": "1121 L STREET, SUITE 507\nSACRAMENTO, CA 95814",
+    "phone": "(619) 446-7517",
+    "email": "scook@sandi.net",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1319163",
     "name": "COOKE, TERESA",
-    "relationships": []
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 291-2956",
+    "email": "teresa@calobby.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CA LOBBY",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1426170",
@@ -8264,12 +8388,37 @@
   {
     "id": "1377168",
     "name": "COONY, STEVE P.",
-    "relationships": []
+    "address": "1215 K STREET, SUITE 1900\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-2300",
+    "email": "scoony@manatt.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MANATT, PHELPS & PHILLIPS, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1148225",
     "name": "COOPER, GARY S.",
-    "relationships": []
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-4344",
+    "email": "thecoop@earthlink.net",
+    "mailingAddress": "1100 N STREET, SUITE 5D\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COOPER, LEGISLATIVE ADVOCATE; GARY S.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1393217",
@@ -8291,32 +8440,110 @@
   {
     "id": "1465012",
     "name": "COOPER, KAI",
-    "relationships": []
+    "address": "1121 L STREET, SUITE 309\nSACRAMENTO, CA 95814",
+    "phone": "(916) 426-9170",
+    "email": "kai@caleec.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1415619",
     "name": "COOPER, MADELEINE",
-    "relationships": []
+    "address": "1301 I STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-0400",
+    "email": "mcooper@capitoladvocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1461163",
     "name": "COOTSONA, LIZZIE",
-    "relationships": []
+    "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-4656",
+    "email": "lizzie@syaslpartners.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1421778",
     "name": "COPPI HORNBACK, SELENA M.",
-    "relationships": []
+    "address": "455 CAPITOL MALL, SUITE 222\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-1900",
+    "email": "fppc@bmhlaw.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSISTED LIVING ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1414751",
     "name": "CORBIN, ALICIA A.",
-    "relationships": []
+    "address": "65 EAST 55TH STREET, 19TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 699-2261",
+    "email": "alicia.corbin@towerbrookfinancial.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TOWERBROOK FINANCIAL, L.P. AND ITS AFFILIATES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1347731",
     "name": "CORBIN, SAMANTHA A.",
-    "relationships": []
+    "address": "2315 CAPITOL AVENUE\nSACRAMENTO, CA 95816",
+    "phone": "(916) 203-0809",
+    "email": "samantha@goldenbearstrategies.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/05/2025"
+      },
+      {
+        "entityName": "GOLDEN BEAR STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "11/15/2025"
+      }
+    ]
   },
   {
     "id": "1457017",
@@ -8337,7 +8564,19 @@
   {
     "id": "1477010",
     "name": "CORCORAN, MOLLIE",
-    "relationships": []
+    "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-7464",
+    "email": "mollie@axiomadvisors.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AXIOM ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1416956",
@@ -8360,12 +8599,35 @@
   {
     "id": "1419250",
     "name": "CORKER, JEANA R.",
-    "relationships": []
+    "address": "1 METLIFE WAY\nWHIPPANY, NJ 07981",
+    "phone": "(973) 307-8565",
+    "email": "jeana.corker@metlife.com",
+    "registrationDate": "06/26/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "METLIFE INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/26/2025"
+      }
+    ]
   },
   {
     "id": "1458172",
     "name": "CORNEJO, BALTAZAR",
-    "relationships": []
+    "address": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
+    "phone": "(916) 594-9700",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1469819",
@@ -8387,7 +8649,19 @@
   {
     "id": "1251964",
     "name": "CORTEZ, MELISSA ",
-    "relationships": []
+    "address": "1127 11TH STREET, SUITE 400\nSACRAMENTO , CA 95814",
+    "phone": "(916) 448-8240",
+    "email": "mcortez@govadv.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GOVERNMENTAL ADVOCATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1446257",
@@ -8409,22 +8683,70 @@
   {
     "id": "1417359",
     "name": "COSGROVE, GERALD",
-    "relationships": []
+    "address": "TEN POST OFFICE SQUARE\nBOSTON, MA 02109",
+    "phone": "(617) 412-8468",
+    "email": "gerry.cosgrove@eolascapital.com",
+    "registrationDate": "08/28/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EOLAS CAPITAL LLC",
+        "type": "Employer",
+        "effectiveDate": "08/28/2025"
+      }
+    ]
   },
   {
     "id": "1468733",
     "name": "COSIO, MELISSA",
-    "relationships": []
+    "address": "300 LAKESIDE DRIVE, SUITE 210\nOAKLAND, CA 94612",
+    "phone": "(916) 217-8522",
+    "email": "melissa.cosio@pge.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PACIFIC GAS AND ELECTRIC COMPANY AND ITS AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1440402",
     "name": "COSTA, AMY",
-    "relationships": []
+    "address": "3209 MONTE VISTA AVENUE\nALAMEDA, CA 94501",
+    "phone": "(916) 384-6948",
+    "email": "amy@fullmoonstrategies.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FULL MOON STRATEGIES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1357663",
     "name": "COSTA, CLIFF J.",
-    "relationships": []
+    "address": "1112 11TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-5050",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "09/27/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ADVOCATES, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1334533",
@@ -8445,27 +8767,99 @@
   {
     "id": "1392587",
     "name": "COTHERN, PHILIP",
-    "relationships": []
+    "address": "40 WEST 57TH STREET, 33RD FLOOR\nNEW YORK, NY 10019",
+    "phone": "(212) 287-5508",
+    "email": "philip.cothern@hpspartners.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "06/20/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HPS INVESTMENT PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1455908",
     "name": "COUGHLAN, PAUL G.",
-    "relationships": []
+    "address": "1 FLOOR, LIBERATION HOUSE, CASTLE STREET\nST. HELIER JERSEY JE1 1GL",
+    "email": "compliance@rkim.co.uk",
+    "mailingAddress": "1001 K STREET, 6TH FLOOR\nSACRAMENTO, CA 95814",
+    "registrationDate": "09/30/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "RED KITE INVESTMENT MANAGEMENT LIMITED",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/30/2025"
+      }
+    ]
   },
   {
     "id": "1457542",
     "name": "COVRE, DANIEL",
-    "relationships": []
+    "address": "200 PARK AVENUE, SUITE 1501\nNEW YORK, NY 10003",
+    "phone": "(917) 576-4256",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "09/12/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BASALT INFRASTRUCTURE PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "09/12/2025"
+      },
+      {
+        "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "03/31/2025"
+      }
+    ]
   },
   {
     "id": "1148204",
     "name": "COWGER HILL, TERRI",
-    "relationships": []
+    "address": "4801 LAGUNA BOULEVARD, SUITE 105\nELK GROVE, CA 95758",
+    "phone": "(916) 952-3431",
+    "email": "terricowger@aol.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COWGER & ASSOCIATES",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1459517",
     "name": "COX, CARMEN-NICOLE",
-    "relationships": []
+    "address": "500 CAPITOL MALL, SUITE 2350\nSACRAMENTO, CA 95814",
+    "phone": "(916) 793-4323",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACLU CALIFORNIA ACTION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "05/29/2025"
+      },
+      {
+        "entityName": "COX FIRM FOR LAW AND POLICY; THE",
+        "type": "Firm",
+        "effectiveDate": "06/02/2025"
+      }
+    ]
   },
   {
     "id": "1482197",
@@ -25608,7 +26002,13 @@
       {
         "entityName": "CAMPBELL STRATEGY & ADVOCACY LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/05/2025"
+      },
+      {
+        "entityName": "NARRA GOVERNMENT AFFAIRS",
+        "type": "Firm",
+        "effectiveDate": "12/05/2025"
       }
     ]
   },
@@ -33434,6 +33834,22 @@
         "entityName": "ACTUM, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485460",
+    "name": "RAMEY, PAUL D.",
+    "address": "1201 K STREET, SUITE 1250\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-7757",
+    "mailingAddress": "455 CAPITAL MALL. SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/06/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PERSONAL INSURANCE FEDERATION OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/06/2026"
       }
     ]
   },
