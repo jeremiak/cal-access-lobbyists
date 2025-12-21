@@ -2169,26 +2169,7 @@
   {
     "id": "1468174",
     "name": "BARBEE, SYMPHONI",
-    "address": "980 9TH STREET, SUITE 260\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-1036",
-    "email": "sbarbee@acluca.org",
-    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "10/20/2025",
-    "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACLU CALIFORNIA ACTION",
-        "type": "Employer",
-        "effectiveDate": "10/20/2025"
-      },
-      {
-        "entityName": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "10/08/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1481960",
@@ -2386,19 +2367,7 @@
   {
     "id": "1338757",
     "name": "BARNHILL, MARK ",
-    "address": "360 NORTH CRESCENT DRIVE\nBEVERLY HILLS, CA 90210",
-    "phone": "(310) 712-1850",
-    "email": "mbarnhill@platinumequity.com",
-    "registrationDate": "08/27/2025",
-    "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PLATINUM EQUITY ADVISORS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1338987",
@@ -2506,24 +2475,7 @@
   {
     "id": "1425001",
     "name": "BARSOTTI, BRITTNEY",
-    "address": "428 J STREET, SUITE 412\nC/O KEYS LAW",
-    "phone": "(916) 890-3670",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CIVIL JUSTICE ASSOCIATION OF CALIFORNIA",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "03/01/2025"
-      },
-      {
-        "entityName": "WORDS MATTER LLC",
-        "type": "Firm",
-        "effectiveDate": "03/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1477577",
@@ -2700,19 +2652,7 @@
   {
     "id": "1448764",
     "name": "BATJER, MARYBEL",
-    "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
-    "phone": "(916) 266-4575",
-    "email": "mbatjer@calstrat.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1463573",
@@ -2887,19 +2827,7 @@
   {
     "id": "1456865",
     "name": "BEAM, RAE A.",
-    "address": "P.O. BOX 333\nCALDWELL, ID 83606",
-    "phone": "(916) 719-6710",
-    "email": "916beamr@gmail.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BEAMR",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1149210",
