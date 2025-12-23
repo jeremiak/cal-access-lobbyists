@@ -22077,7 +22077,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "VALENCIA GOVERNMENT RELATIONS, INC.",
+        "entityName": "VALENCIA KHAN GOVERNMENT RELATIONS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -25059,7 +25059,20 @@
   {
     "id": "1296831",
     "name": "LOPEZ, PAMELA S.",
-    "relationships": []
+    "address": "1826 CAPITOL AVENUE\nSACRAMENTO, CA 95811",
+    "phone": "(916) 658-1688",
+    "email": "pamela@kstreet.us.com",
+    "mailingAddress": "5443 BUCKWOOD WAY\nSACRAMENTO, CA 95835",
+    "registrationDate": "05/21/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "K STREET CONSULTING, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1401281",
@@ -25088,7 +25101,19 @@
   {
     "id": "1477190",
     "name": "LORUSSO, DREW",
-    "relationships": []
+    "address": "200 CLARENDON STREET\nBOSTON, MA 02116",
+    "phone": "(617) 516-2000",
+    "email": "lobbying@rutan.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BAIN CAPITAL, LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1434906",
@@ -25111,37 +25136,128 @@
   {
     "id": "1287041",
     "name": "LOUIZOS, NICHOLAS",
-    "relationships": []
+    "address": "1415 L STREET, #850\nSACRAMENTO, CA 95814",
+    "phone": "(916) 552-2910",
+    "email": "nlouizos@calhealthplans.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF HEALTH PLANS",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1335002",
     "name": "LUCARDI, DONALD H.",
-    "relationships": []
+    "address": "520 MADISON AVENUE, 25TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 317-8915",
+    "email": "don.lucardi@kirkoswald.com",
+    "registrationDate": "11/14/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "EMSO ASSET MANAGEMENT US LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/31/2025"
+      },
+      {
+        "entityName": "KIRKOSWALD ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "11/14/2025"
+      }
+    ]
   },
   {
     "id": "1346409",
     "name": "LUCEY, CAROLYN",
-    "relationships": []
+    "address": "111 HUNTINGTON AVENUE\nBOSTON, MA 02199",
+    "phone": "(617) 954-5000",
+    "email": "clucey@mfs.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MFS INSTITUTIONAL ADVISORS, INC. AND ITS AFFILIATE MFS FUND DISTRIBUTORS, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1406378",
     "name": "LUCIEN, DARRYL",
-    "relationships": []
+    "address": "1014 21ST STREET, 4TH FLOOR\nSACRAMENTO, CA 95811",
+    "phone": "(530) 601-9640",
+    "email": "darryl@lucienpartners.com",
+    "mailingAddress": "1017 L STREET, SUITE 246\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LUCIEN PARTNERS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1476877",
     "name": "LUGO, ASHLEY",
-    "relationships": []
+    "address": "1029 J STREET, SUITE 200\nSACRAMENTO, CA 05814",
+    "phone": "(916) 446-3095",
+    "email": "alugo@cacountysupts.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA COUNTY SUPERINTENDENTS EDUCATIONAL SERVICES  ASSOCIATION (CCSESA)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1468939",
     "name": "LUGO, VANESSA",
-    "relationships": []
+    "address": "1303 J STREET, SUITE 600\nSACRAMENTO, CA 95814",
+    "phone": "(916) 438-4402",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA BANKERS ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1428829",
     "name": "LUNDY, MEGAN",
-    "relationships": []
+    "address": "1 LETTERMAN DRIVE, BUILDING C, SUITE CP-500\nSAN FRANCISCO, CA 94129",
+    "phone": "(415) 738-4340",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (415) 738-4340\nEmail: info@keyslawcorp.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "04/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PERCHERON INVESTMENT MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1148961",
@@ -30285,7 +30401,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "VALENCIA GOVERNMENT RELATIONS, INC.",
+        "entityName": "VALENCIA KHAN GOVERNMENT RELATIONS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -41786,7 +41902,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "VALENCIA GOVERNMENT RELATIONS, INC.",
+        "entityName": "VALENCIA KHAN GOVERNMENT RELATIONS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -42469,14 +42585,15 @@
     "address": "1301 I STREET\nSACRAMENTO, CA 95814",
     "phone": "(916) 444-0400",
     "email": "rvogelsang@capitoladvocacy.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "09/15/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/15/2025"
       }
     ]
   },
