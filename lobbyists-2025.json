@@ -5206,14 +5206,15 @@
     "address": "1107 9TH STREET, SUITE 901\nSACRAMENTO, CA 95814",
     "phone": "(916) 822-5631",
     "email": "natalie@pcl.org",
-    "registrationDate": "02/06/2025",
+    "registrationDate": "11/14/2025",
     "ethicsCourseCompletionDate": "02/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PLANNING AND CONSERVATION LEAGUE",
         "type": "Employer",
-        "effectiveDate": "02/06/2025"
+        "effectiveDate": "02/06/2025",
+        "terminationDate": "11/14/2025"
       }
     ]
   },
@@ -20680,14 +20681,15 @@
     "address": "2600 RIVER PLAZA DRIVE\nSACRAMENTO, CA 95833",
     "phone": "(916) 561-5688",
     "email": "kjohnston@cfbf.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/22/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/05/2025"
       }
     ]
   },
