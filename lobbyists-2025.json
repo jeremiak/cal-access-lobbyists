@@ -10425,12 +10425,18 @@
   {
     "id": "1148647",
     "name": "DI CARO, CHRISTINA ",
-    "address": "621 CAPITOL MALL, SUITE 1900\nSACRAMENTO, CA 95814",
-    "phone": "(916) 448-2162",
+    "address": "1121 L STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 498-3315",
+    "email": "fppc@bhmlaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "DICARO ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
+      },
       {
         "entityName": "KP PUBLIC AFFAIRS",
         "type": "Firm",
