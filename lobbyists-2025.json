@@ -2802,10 +2802,15 @@
     "phone": "(530) 908-9642",
     "email": "diselazavala@gmail.com",
     "mailingAddress": "PO BOX 911\nWEST SACRAMENTO, CA 95605",
-    "registrationDate": "10/01/2025",
+    "registrationDate": "01/01/2026",
     "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "BAUTISTA ZAVALA GOVERNMENT RELATIONS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
+      },
       {
         "entityName": "CRUZ STRATEGIES, LLC",
         "type": "Firm",
@@ -3500,6 +3505,23 @@
         "entityName": "BALBEC CAPITAL MANAGEMENT, LP",
         "type": "Employer",
         "effectiveDate": "06/12/2025"
+      }
+    ]
+  },
+  {
+    "id": "1469099",
+    "name": "BHATTACHARJEE, PURVA",
+    "address": "2201 K STREET, SUITE 100\nSACRAMENTO , CA 95816",
+    "phone": "(916) 449-2273",
+    "email": "pbhattacharjee@cacfs.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -6944,6 +6966,23 @@
     ]
   },
   {
+    "id": "1469318",
+    "name": "CHARLTON, SCOTT J",
+    "address": "1001 LIBERTY AVENUE\nPITTSBURGH, PA 15222",
+    "phone": "(412) 288-4850",
+    "email": "scott.charlton@federatedhermes.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FEDERATED HERMES, INC. (FORMERLY FEDERATED INVESTORS, INC.)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1358132",
     "name": "CHARPENTIER, DEAN",
     "address": "777 YAMATO ROAD, SUITE 300\nBOCA RATON, FL 33431",
@@ -7251,6 +7290,21 @@
         "entityName": "PSG EQUITY L.L.C.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485580",
+    "name": "CHEYNE, ANDREW",
+    "address": "925 L STREET, SUITE 350\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-1749",
+    "registrationDate": "12/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COUNTY WELFARE DIRECTORS ASSOCIATION OF CALIFORNIA (CWDA)",
+        "type": "Employer",
+        "effectiveDate": "12/17/2025"
       }
     ]
   },
@@ -24861,6 +24915,23 @@
     ]
   },
   {
+    "id": "1469101",
+    "name": "LIU-RAPHAEL, SELENA",
+    "address": "2201 K STREET, SUITE 100\nSACRAMENTO, CA 95816",
+    "phone": "(916) 449-2273",
+    "email": "sraphael@cacfs.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1465949",
     "name": "LIZARDI, ELMER ",
     "address": "1001 K STREET, SUITE 200 \nSACRAMENTO , CA 95814",
@@ -25566,6 +25637,21 @@
         "entityName": "MFS INSTITUTIONAL ADVISORS, INC. AND ITS AFFILIATE MFS FUND DISTRIBUTORS, INC.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485338",
+    "name": "MACIAS, MERCEDES",
+    "address": "909 12TH STREET SUITE 202\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-1101",
+    "registrationDate": "12/19/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SIERRA CLUB",
+        "type": "Employer",
+        "effectiveDate": "12/19/2025"
       }
     ]
   },
@@ -31339,8 +31425,14 @@
     "email": "eoseguera@cacfs.org",
     "registrationDate": "09/29/2025",
     "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "In Suspense",
-    "relationships": []
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1435203",
@@ -31967,6 +32059,22 @@
         "entityName": "ONE ROCK CAPITAL PARTNERS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485363",
+    "name": "PATTERSON, EMILY",
+    "address": "1201 K STREET, SUITE 710\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "12/05/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "12/11/2025"
       }
     ]
   },
@@ -35265,6 +35373,22 @@
     ]
   },
   {
+    "id": "1485642",
+    "name": "ROGERS, KATE",
+    "address": "1121 L STREET SUITE 210\nSACRAMENTO, CA 95814",
+    "phone": "(916) 442-2952",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "12/18/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA YIMBY",
+        "type": "Employer",
+        "effectiveDate": "12/18/2025"
+      }
+    ]
+  },
+  {
     "id": "1480135",
     "name": "ROGERS, THOMAS",
     "address": "330 MADISON AVE.\nNEW YORK, NY 10017",
@@ -38004,6 +38128,23 @@
         "entityName": "CALIFORNIA ASSOCIATION OF HEALTH PLANS",
         "type": "Employer",
         "effectiveDate": "03/06/2025"
+      }
+    ]
+  },
+  {
+    "id": "1376766",
+    "name": "SHILTON, ADRIENNE ",
+    "address": "2201 K STREET \nSACRAMENTO, CA 95816",
+    "phone": "(916) 449-2273",
+    "email": "ashilton@cacfs.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/05/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -41018,6 +41159,22 @@
         "entityName": "TRANSTREND B.V.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485735",
+    "name": "TOLSON, GABRIEL",
+    "address": "1107 9TH STREET\nSACRAMENTO, CA",
+    "phone": "(415) 599-6740",
+    "email": "grabiel@pcl.org",
+    "registrationDate": "12/09/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PLANNING AND CONSERVATION LEAGUE",
+        "type": "Employer",
+        "effectiveDate": "12/09/2025"
       }
     ]
   },
