@@ -6728,6 +6728,22 @@
     ]
   },
   {
+    "id": "1485792",
+    "name": "CERVANTES, GABRIELA",
+    "address": "1303 J STREET, SUITE 450\nSACRAMENTO, CA 95814",
+    "phone": "(916) 441-7991",
+    "email": "gcervantes@acec-ca.org",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN COUNCIL OF ENGINEERING COMPANIES CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1393937",
     "name": "CERVANTES, RJ",
     "address": "1201 J STREET, SUITE 226\nSACRAMENTO, CA 95814",
@@ -8546,7 +8562,7 @@
   {
     "id": "1421778",
     "name": "COPPI HORNBACK, SELENA M.",
-    "address": "455 CAPITOL MALL, SUITE 222\nSACRAMENTO, CA 95814",
+    "address": "455 CAPITOL MALL, SUITE 520\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-1900",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
@@ -8862,6 +8878,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "09/12/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -29690,14 +29707,15 @@
     "address": "1303 J STREET, SUITE 450\nSACRAMENTO, CA 95814",
     "phone": "(916) 441-7991",
     "email": "tmunzing@acec-ca.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/01/2026",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AMERICAN COUNCIL OF ENGINEERING COMPANIES CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/01/2026"
       }
     ]
   },
@@ -31997,7 +32015,7 @@
   {
     "id": "1479968",
     "name": "PARSONS, DANIELLE J.",
-    "address": "455 CAPITOL MALL, SUITE 222\nSACRAMENTO, CA 95814",
+    "address": "455 CAPITOL MALL, SUITE 520\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-1900",
     "email": "danielle@caassistedliving.org",
     "registrationDate": "02/28/2025",
@@ -37793,7 +37811,14 @@
     "email": "tshakon@ridgemontep.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "06/12/2025"
+      }
+    ]
   },
   {
     "id": "1482377",
