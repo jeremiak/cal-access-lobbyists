@@ -6987,14 +6987,15 @@
     "address": "1001 LIBERTY AVENUE\nPITTSBURGH, PA 15222",
     "phone": "(412) 288-4850",
     "email": "scott.charlton@federatedhermes.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FEDERATED HERMES, INC. (FORMERLY FEDERATED INVESTORS, INC.)",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -43453,13 +43454,6 @@
     "phone": "(415) 228-2820",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": []
-  },
-  {
-    "id": "1466588",
-    "name": "WEBER, JULIA FELICE",
-    "registrationDate": "09/30/2025",
-    "status": "Terminated",
     "relationships": []
   },
   {
