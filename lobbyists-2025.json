@@ -35586,14 +35586,15 @@
     "phone": "(801) 655-1998",
     "email": "rromero@pegcompanies.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "02/19/2025",
+    "registrationDate": "12/05/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PEG COMPANIES, INC.",
         "type": "Employer",
-        "effectiveDate": "02/19/2025"
+        "effectiveDate": "02/19/2025",
+        "terminationDate": "12/05/2025"
       }
     ]
   },
