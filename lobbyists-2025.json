@@ -3020,7 +3020,8 @@
       {
         "entityName": "BLUE COAST STRATEGIES LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -8970,10 +8971,10 @@
   {
     "id": "1414432",
     "name": "CRAMER MOWDER, BECCA",
-    "address": "1121 L STREET, BOX 602\nSACRAMENTO, CA 95814",
-    "phone": "916476503",
+    "address": "110 N STREET, SUITE 4C\nSACRAMENTO, CA 95814",
+    "phone": "(916) 469-5254",
     "email": "fppc@bmhlaw.com",
-    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: 916476503\nEmail: fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nEmail: fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "11/14/2024",
     "status": "Active",
@@ -20549,6 +20550,23 @@
     ]
   },
   {
+    "id": "1456769",
+    "name": "JOHNSON, ALLYSON",
+    "address": "514 HIGH STREET\nPALO ALTO, CA 94301",
+    "phone": "(415) 389-6800",
+    "email": "calobby@nmgovlaw.com",
+    "mailingAddress": "2350 KERNER BOULEVARD, SUITE 250\nSAN RAFAEL, CA 94901\nPhone: (415) 389-6800\nEmail: calobby@nmgovlaw.com",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ECLIPSE VENTURES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1477757",
     "name": "JOHNSON, AMIR R.",
     "address": "1215 K STREET, SUITE 1800\nSACRAMENTO, CA 95814",
@@ -21362,10 +21380,10 @@
   {
     "id": "1377055",
     "name": "KANDO-KAISER, DANIELLE C.",
-    "address": "1121 L STREET, SUITE 602\nSACRAMENTO, CA 95814",
-    "phone": "(916) 476-5103",
+    "address": "1100 N STREET, SUITE 4C\nSACRAMENTO, CA 95814",
+    "phone": "(916) 469-5254",
     "email": "fppc@bmhlaw.com",
-    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nPhone: (916) 476-5103\nEmail: fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814\nEmail: fppc@bmhlaw.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
@@ -21537,6 +21555,23 @@
         "type": "Firm",
         "effectiveDate": "04/01/2025",
         "terminationDate": "11/21/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485758",
+    "name": "KAUFMAN, GARY",
+    "address": "30 CHATHAM ROAD, PO BOX 708\nSHORT HILLS, NJ 07078",
+    "phone": "(917) 816-8372",
+    "email": "gkaufman@tangentcapital.com",
+    "mailingAddress": "96 WOOD LANE\nWOODMERE, NY 11598\nPhone: (917) 816-8372\nEmail: gkaufman@tangentcapital.com",
+    "registrationDate": "12/17/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TANGENT CAPITAL PARTNERS, LLC",
+        "type": "Firm",
+        "effectiveDate": "12/22/2025"
       }
     ]
   },
@@ -23037,13 +23072,19 @@
   },
   {
     "id": "1460432",
-    "name": "KOH, KATIE",
-    "address": "100 WEST PUTNAM AVENUE\nGREENWICH, CT 06830",
-    "phone": "(203) 485-5755",
-    "email": "kkoh@svpglobal.com",
-    "registrationDate": "09/16/2025",
-    "status": "Terminated",
+    "name": "KOH, KATELYN",
+    "address": "333 SOUTH GRAND AVENUE, 28TH FLOOR\nLOS ANGELES, CA 90071",
+    "phone": "(213) 760-3060",
+    "email": "katiekoh@oaktreecapital.com",
+    "mailingAddress": "14020 PANAY WAY, APARTMENT 129\nMARINA DEL REY, CA 90292",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "OAKTREE CAPITAL MANAGEMENT, L.P. AND ITS AFFILIATE OCM INVESTMENTS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
+      },
       {
         "entityName": "STRATEGIC VALUE PARTNERS, LLC",
         "type": "Employer",
