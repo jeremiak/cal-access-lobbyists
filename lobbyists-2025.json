@@ -6510,14 +6510,15 @@
     "address": "101 HUNTINGTON AVENUE\nBOSTON, MA 02199",
     "phone": "(617) 859-1500",
     "email": "info@keyslawcorp.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -12811,6 +12812,23 @@
     ]
   },
   {
+    "id": "1485858",
+    "name": "FERRY, FRANCESCA",
+    "address": "900 THIRD AVENUE, 25TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 508-3902",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STELLEX CAPITAL MANAGEMENT",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1273640",
     "name": "FICKER, JARED",
     "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
@@ -17780,13 +17798,14 @@
   },
   {
     "id": "1464299",
-    "name": "HARSCH, AMY S.",
-    "address": "590 MADISON AVENUE\nNEW YORK, NY 10022",
-    "phone": "(212) 476-8071",
-    "email": "aharsch@american-securities.com",
-    "registrationDate": "03/31/2025",
+    "name": "HARSCH, AMY",
+    "address": "510 MADISON AVENUE, 24TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(617) 880-7440",
+    "email": "amy@baypine.com",
+    "mailingAddress": "1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2026",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "AMERICAN SECURITIES LLC",
@@ -21571,7 +21590,7 @@
       {
         "entityName": "TANGENT CAPITAL PARTNERS, LLC",
         "type": "Firm",
-        "effectiveDate": "12/22/2025"
+        "effectiveDate": "12/17/2025"
       }
     ]
   },
@@ -23078,6 +23097,7 @@
     "email": "katiekoh@oaktreecapital.com",
     "mailingAddress": "14020 PANAY WAY, APARTMENT 129\nMARINA DEL REY, CA 90292",
     "registrationDate": "01/01/2026",
+    "ethicsCourseCompletionDate": "06/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -32286,7 +32306,8 @@
       {
         "entityName": "CLEAR ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/05/2026"
       }
     ]
   },
@@ -42666,13 +42687,14 @@
     "address": "THE SPIRAL 66 HUDSON BLVD E, STE 5340 53RD\nNEW YORK, NY 10018",
     "phone": "(916) 442-7757",
     "email": "fppc@bmhlaw.com",
-    "registrationDate": "04/01/2025",
-    "status": "Active",
+    "registrationDate": "09/30/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FIFTH WALL VENTURES MANAGEMENT LLC AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "04/01/2025"
+        "effectiveDate": "04/01/2025",
+        "terminationDate": "09/30/2025"
       }
     ]
   },
