@@ -7934,13 +7934,14 @@
     "address": "11250 WAPLES MILL ROAD\nFAIRFAX, VA 22030",
     "phone": "(703) 267-1250",
     "email": "acline@nrahq.org",
-    "registrationDate": "09/23/2025",
-    "status": "Active",
+    "registrationDate": "01/05/2026",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "NATIONAL RIFLE ASSOCIATION OF AMERICA",
         "type": "Employer",
-        "effectiveDate": "09/23/2025"
+        "effectiveDate": "09/23/2025",
+        "terminationDate": "01/05/2026"
       }
     ]
   },
@@ -9454,7 +9455,7 @@
     "address": "399 PARK AVENUE, 30TH FLOOR\nNEW YORK, NY 10022",
     "phone": "(212) 572-0829",
     "email": "info@keyslawcorp.com",
-    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (212) 572-0829\nEmail: info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW, 1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
@@ -15467,9 +15468,16 @@
     "address": "259 WILSON HILL ROAD\nCOLRAIN, MA 01340",
     "phone": "(917) 692-3368",
     "email": "compliance_ca_tiaa_1@multistate.us",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/31/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "TEACHERS INSURANCE AND ANNUITY ASSOCIATION OF AMERICA (TIAA)",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
+      }
+    ]
   },
   {
     "id": "1255631",
@@ -17805,13 +17813,18 @@
     "mailingAddress": "1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2026",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "AMERICAN SECURITIES LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "03/31/2025"
+      },
+      {
+        "entityName": "BAYPINE LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
       }
     ]
   },
@@ -18442,12 +18455,12 @@
   {
     "id": "1481869",
     "name": "HENDERSON, JASON",
-    "address": "2017 O STREET\nSACRAMENTO, CA 95811",
-    "phone": "(916) 600-3457",
-    "email": "jhenderson@caedge.org",
-    "registrationDate": "12/01/2025",
+    "address": "1823 11TH STREET\nSACRAMENTO, CA 95811",
+    "phone": "(916) 447-8555",
+    "email": "jhenderson@faccc.org",
+    "registrationDate": "01/05/2026",
     "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "Terminated",
+    "status": "In Suspense",
     "relationships": [
       {
         "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
@@ -28785,6 +28798,21 @@
     ]
   },
   {
+    "id": "1485786",
+    "name": "MIRVISS, LILLIAN",
+    "address": "2501 PORTOLA WAY\nSACRAMENTO, CA 95818",
+    "phone": "(415) 819-4285",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CONSCIOUS VENTURES GROUP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1459709",
     "name": "MISSAKIAN, RENEE",
     "address": "9550 TOPANGA CANYON BOULEVARD\nCHATSWORTH , CA 91311",
@@ -34200,7 +34228,8 @@
       {
         "entityName": "REDE PARTNERS (AMERICAS) LLC",
         "type": "Firm",
-        "effectiveDate": "01/15/2025"
+        "effectiveDate": "01/15/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -42783,6 +42812,23 @@
     ]
   },
   {
+    "id": "1469005",
+    "name": "VINDIOLA, MARTIN",
+    "address": "621 CAPITOL MALL, 14TH FLOOR\nSACRAMENTO, CA 95814",
+    "phone": "(916) 898-9305",
+    "email": "mvindiola@actumllc.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/20/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ACTUM, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1468414",
     "name": "VISCARRA, LINDSEY",
     "address": "1779 MASSACHUSETTS AVENUE, SUITE 500\nWASHINGTON, DC 20036",
@@ -45403,7 +45449,8 @@
       {
         "entityName": "FRANKLIN RESOURCES, INC. AND ITS AFFILIATE, FRANKLIN TEMPLETON INSTITUTIONAL, LLC AND BENEFIT STREET PARTNERS LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/30/2025"
       }
     ]
   },
