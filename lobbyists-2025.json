@@ -12791,7 +12791,8 @@
       {
         "entityName": "AXIOM ADVISORS",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -18460,13 +18461,18 @@
     "email": "jhenderson@faccc.org",
     "registrationDate": "01/05/2026",
     "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
       {
         "entityName": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "07/01/2025",
         "terminationDate": "12/01/2025"
+      },
+      {
+        "entityName": "FACULTY ASSOCIATION OF CALIFORNIA COMMUNITY COLLEGES",
+        "type": "Employer",
+        "effectiveDate": "01/05/2026"
       }
     ]
   },
