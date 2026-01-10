@@ -1127,6 +1127,22 @@
     ]
   },
   {
+    "id": "1486010",
+    "name": "APTMAN, MATTHEW E",
+    "address": "201 EAST LAS OLAS BOULEVARD\nFORT LAUDERDALE, FL 33301",
+    "phone": "(212) 845-7988",
+    "email": "maptman@starboardvalue.com",
+    "registrationDate": "12/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "STARBOARD VALUE LP",
+        "type": "Employer",
+        "effectiveDate": "12/15/2025"
+      }
+    ]
+  },
+  {
     "id": "1393161",
     "name": "ARAMBEL, JONATHAN",
     "address": "1100 N STREET, SUITE 3C\nSACRAMENTO, CA 95814",
@@ -21490,14 +21506,15 @@
     "address": "2500 BEE CAVE ROAD, BUILDING III\nAUSTIN, TX 78746",
     "phone": "(512) 647-9445",
     "email": "compliance_ca_cgi_1@multistate.us",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CGI TECHNOLOGIES AND SOLUTIONS, INC.",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -21966,7 +21983,7 @@
   {
     "id": "1345207",
     "name": "KENNEY, STEPHEN A.",
-    "address": "75 ARLINGTON STREET, SUITE 5005\nBOSTON, MA 02116",
+    "address": "601 CLEVELAND STREET, SUITE 330\nCLEARWATER, FL 33755",
     "phone": "(515) 903-4655",
     "email": "skenney@agiscapital.com",
     "registrationDate": "09/02/2025",
@@ -23293,14 +23310,15 @@
     "phone": "(646) 685-8935",
     "email": "will.kreitler@parksquarecapital.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600,\n SACRAMENTO, CA 95814",
-    "registrationDate": "08/25/2025",
+    "registrationDate": "12/01/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/01/2025"
       }
     ]
   },
@@ -37440,9 +37458,9 @@
     "phone": "(916) 690-0098",
     "email": "compliance_ca_schultz@multistate.us",
     "mailingAddress": "9797 FALCON MEADOW DRIVE\nELK GROVE, CA 95624",
-    "registrationDate": "07/24/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SAGE THERAPEUTICS",
@@ -37453,7 +37471,8 @@
       {
         "entityName": "SUPERNUS PHARMACEUTICALS, INC.",
         "type": "Employer",
-        "effectiveDate": "09/17/2025"
+        "effectiveDate": "09/17/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -43249,14 +43268,15 @@
     "phone": "(646) 688-1591",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "09/30/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/30/2025"
       }
     ]
   },
@@ -43519,7 +43539,8 @@
       {
         "entityName": "WATTS ADVOCACY; MARK",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
