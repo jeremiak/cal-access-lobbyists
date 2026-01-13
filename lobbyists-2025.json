@@ -526,6 +526,23 @@
     ]
   },
   {
+    "id": "1459293",
+    "name": "ALEXANDER, MEREDITH L.",
+    "address": "120 CLUNIE DRIVE\nSACRAMENTO, CA 95864",
+    "phone": "(916) 306-1743",
+    "email": "malexander@gridwell.com",
+    "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "01/25/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GRIDWELL CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1373727",
     "name": "ALFARO, ANTONIO",
     "address": "1121 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -2000,14 +2017,15 @@
     "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
     "phone": "(916) 448-3444",
     "email": "sbaker@aaronread.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "READ & ASSOCIATES, LLC; AARON",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -2524,9 +2542,9 @@
     "name": "BARSOTTI, BRITTNEY",
     "address": "428 J STREET, SUITE 412\nC/O KEYS LAW",
     "phone": "(916) 890-3670",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CIVIL JUSTICE ASSOCIATION OF CALIFORNIA",
@@ -2537,7 +2555,8 @@
       {
         "entityName": "WORDS MATTER LLC",
         "type": "Firm",
-        "effectiveDate": "03/01/2025"
+        "effectiveDate": "03/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -4473,14 +4492,18 @@
   {
     "id": "1356975",
     "name": "BOYADJIEVA, SAVINA",
-    "address": "600 WASHINGTON BOULEVARD\nSTAMFORD, CT 06901",
-    "phone": "(203) 863-5000",
-    "email": "sboyadjieva@vikingglobal.com",
-    "mailingAddress": "660 FIFTH AVENUE, 9TH FLOOR\nNEW YORK , NY 10103",
-    "registrationDate": "06/30/2025",
+    "address": "295 LAFAYETTE STREET, SUITE 701\nNEW YORK, NY 10012",
+    "phone": "(646) 680-0240",
+    "email": "savina@thrivecap.com",
+    "registrationDate": "01/05/2026",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "THRIVE CAPITAL MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/05/2026"
+      },
       {
         "entityName": "VIKING GLOBAL INVESTORS LP",
         "type": "Employer",
@@ -9517,6 +9540,22 @@
     ]
   },
   {
+    "id": "1485930",
+    "name": "D?AGOSTINO, THOMAS",
+    "address": "1415 L STREET, SUITE 1100\nSACRAMENTO, CA 95814",
+    "phone": "(916) 448-3444",
+    "email": "tom@aaronread.com",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "READ & ASSOCIATES, LLC; AARON",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1384040",
     "name": "DABINETT, ANDREW",
     "address": "320 PARK AVENUE, 7TH FLOOR\nNEW YORK, NY 10022",
@@ -10660,13 +10699,14 @@
     "name": "DIAZ, DANIEL",
     "address": "15 SANDSTONE COURT\nALAMO, CA 94507",
     "phone": "(510) 508-5555",
-    "registrationDate": "04/01/2025",
-    "status": "Active",
+    "registrationDate": "11/24/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DIAZ; DANIEL",
         "type": "Firm",
-        "effectiveDate": "04/01/2025"
+        "effectiveDate": "04/01/2025",
+        "terminationDate": "11/24/2025"
       }
     ]
   },
@@ -10925,6 +10965,22 @@
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "11/19/2025"
+      }
+    ]
+  },
+  {
+    "id": "1374927",
+    "name": "DOCTOROFF, MICA",
+    "address": "8605 SANTA MONICA BOULEVARD, PMB 771982\nWEST HOLLYWOOD, CA 90069",
+    "phone": "(916) 692-4018",
+    "email": "talobbying@tides.org",
+    "registrationDate": "01/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SMART JUSTICE CALIFORNIA, A PROJECT OF TIDES ADVOCACY",
+        "type": "Employer",
+        "effectiveDate": "01/05/2026"
       }
     ]
   },
@@ -22736,14 +22792,15 @@
     "phone": "(916) 890-3670",
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "11/28/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "VITRUVIAN PARTNERS LTD",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/28/2025"
       }
     ]
   },
@@ -28534,6 +28591,24 @@
     ]
   },
   {
+    "id": "1477590",
+    "name": "MILLER APICELLA, JORDAN",
+    "address": "540 MADISON AVENUE\nNEW YORK, NY 10022",
+    "phone": "(916) 442-7757",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "08/13/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1149219",
     "name": "MILLER IV, GEORGE ",
     "address": "1017 L STREET, #593\nSACRAMENTO, CA 95814",
@@ -28614,24 +28689,6 @@
         "entityName": "BROOKFIELD PRIVATE ADVISORS LLC",
         "type": "Employer",
         "effectiveDate": "08/13/2025"
-      }
-    ]
-  },
-  {
-    "id": "1477590",
-    "name": "MILLER, JORDAN",
-    "address": "540 MADISON AVENUE\nNEW YORK, NY 10022",
-    "phone": "(916) 442-7757",
-    "email": "fppc@bmhlaw.com",
-    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "PARK SQUARE CAPITAL USA LP AND AFFILIATED ENTITIES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
       }
     ]
   },
@@ -33808,13 +33865,18 @@
   {
     "id": "1467006",
     "name": "QUINTANA, FREDDIE J.",
-    "address": "200 N. SPRING STREET, 3RD FLOOR, ROOM 303\nLOS ANGELES, CA 90012",
-    "phone": "(213) 978-0600",
-    "email": "freddie.quintana@lacity.org",
-    "registrationDate": "07/18/2025",
+    "address": "980 NINTH STREET, SUITE 1430\nSACRAMENTO, CA 95814",
+    "phone": "(916) 447-7881",
+    "email": "fquintana@caanet.org",
+    "registrationDate": "01/01/2026",
     "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Terminated",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "CALIFORNIA APARTMENT ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
+      },
       {
         "entityName": "LOS ANGELES; CITY OF",
         "type": "Employer",
@@ -34343,14 +34405,15 @@
     "address": "921 11TH STREET, SUITE 502\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-5422",
     "email": "krystal@cawrecycles.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIANS AGAINST WASTE",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -35186,6 +35249,22 @@
     ]
   },
   {
+    "id": "1416835",
+    "name": "ROBINSON, KAYLA S.",
+    "address": "921 11TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(530) 574-4701",
+    "email": "kayla@cawrecycles@.org",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIANS AGAINST WASTE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1361718",
     "name": "ROBINSON, MATTHEW H.",
     "address": "1415 L STREET, SUITE 1000\nSACRAMENTO, CA 95814",
@@ -35710,6 +35789,23 @@
         "type": "Employer",
         "effectiveDate": "02/19/2025",
         "terminationDate": "12/05/2025"
+      }
+    ]
+  },
+  {
+    "id": "1377053",
+    "name": "ROMLEY, NICHOLAS S.",
+    "address": "925 L STREET, SUITE 1200\nSACRAMENTO, CA 95814",
+    "phone": "(916) 557-9745",
+    "email": "nick@capitoladvisors.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAPITOL ADVISORS GROUP LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
       }
     ]
   },
