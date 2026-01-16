@@ -1876,6 +1876,22 @@
     ]
   },
   {
+    "id": "1486283",
+    "name": "BAHA, MIRIAM",
+    "address": "250 W 55TH STREET, 34TH FLOOR\nNEW YORK, NY 10019",
+    "phone": "(347) 726-9239",
+    "email": "miriam.baha@apertureinvestors.com",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APERTURE INVESTORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026"
+      }
+    ]
+  },
+  {
     "id": "1442134",
     "name": "BAIER, MEGAN",
     "address": "1121 L STREET, SUITE 1060\nSACRAMENTO, CA 95814",
@@ -4019,17 +4035,39 @@
   {
     "id": "1338583",
     "name": "BLUM, TREVOR",
-    "address": "100 INDEPENDENCE MALL WEST\nPHILADELPHIA, PA 19106",
-    "phone": "(503) 784-1047",
+    "address": "660 FIFTH AVENUE\nNEW YORK, NY 10103",
+    "phone": "(415) 762-5029",
     "email": "trevor.blum@macquarie.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
     "relationships": [
       {
+        "entityName": "MACQUARIE INFRASTRUCTURE AND REAL ASSETS INC.",
+        "type": "Employer",
+        "effectiveDate": "12/01/2025"
+      },
+      {
         "entityName": "MACQUARIE INVESTMENT MANAGEMENT ADVISERS",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "11/30/2025"
+      }
+    ]
+  },
+  {
+    "id": "1480591",
+    "name": "BLUM-GUTIERREZ, LIZ",
+    "address": "3149 U ST\nSACRAMENTO, CA 95817",
+    "phone": "(530) 402-4123",
+    "email": "blumgutierrez@gmail.com",
+    "registrationDate": "02/03/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BLUM-GUTIERREZ CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "02/01/2025"
       }
     ]
   },
@@ -12494,7 +12532,7 @@
   {
     "id": "1274269",
     "name": "FANSLAU, JUSTIN ",
-    "address": "1231 I STREET, SUITE 206\nSACRAMENTO, CA 95814",
+    "address": "1330 N STREET #805\nSACRAMENTO, CA 95814",
     "phone": "(808) 348-7653",
     "email": "justin@fanslauga.com",
     "registrationDate": "01/01/2025",
@@ -26204,6 +26242,23 @@
     ]
   },
   {
+    "id": "1486019",
+    "name": "MAIENSCHEIN, BRIAN",
+    "address": "255 BROADWAY, SUITE 1670\nSAN DIEGO, CA 92101",
+    "phone": "(916) 594-9700",
+    "email": "bmaienschein@bhfs.com",
+    "mailingAddress": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814\nPhone: (916) 594-9700",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1442628",
     "name": "MAINTHIA, AMRITA",
     "address": "20 UNIVERSITY ROAD, SUITE 450\nCAMBRIDGE, MA 02138",
@@ -27890,6 +27945,7 @@
     "email": "cmcintyre@torchlight.com",
     "mailingAddress": "1001 K STREET, 6TH FLOOR\nSACRAMENTO, CA 95814",
     "registrationDate": "07/15/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -34782,7 +34838,8 @@
       {
         "entityName": "CALIFORNIA CHAMBER OF COMMERCE",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/02/2026"
       }
     ]
   },
@@ -38241,7 +38298,7 @@
   {
     "id": "1481221",
     "name": "SHARIF, MICHAEL",
-    "address": "1231 I STREET, SUITE 206\nSACRAMENTO, CA 95814",
+    "address": "1330 N STREET #805\nSACRAMENTO, CA 95814",
     "phone": "(916) 662-6486",
     "email": "mike@fanslauga.com",
     "registrationDate": "05/19/2025",
@@ -40452,6 +40509,22 @@
         "entityName": "ARISTOTLE CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486308",
+    "name": "SULICH, KATHERINE",
+    "address": "40 HIGHLAND AVENUE\nROWAYTON, CT 06853",
+    "phone": "(203) 899-3400",
+    "email": "ksulich@grahamcapital.com",
+    "registrationDate": "01/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GRAHAM CAPITAL MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/05/2026"
       }
     ]
   },
