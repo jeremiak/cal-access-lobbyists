@@ -2980,6 +2980,23 @@
     ]
   },
   {
+    "id": "1486276",
+    "name": "BEDFORD, NATHANIEL",
+    "address": "800 CAPITOL STREET, SUITE 3600\nHOUSTON, TX 77002",
+    "phone": "(713) 452-2000",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW, 1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/16/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "QEP ADVISERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/16/2026"
+      }
+    ]
+  },
+  {
     "id": "1344577",
     "name": "BEEVERS, NICK",
     "address": "12 QUEEN ANNE STREET\nLONDON ENGLAND W1G 9LF",
@@ -8966,14 +8983,15 @@
     "address": "40 WEST 57TH STREET, 33RD FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 287-5508",
     "email": "philip.cothern@hpspartners.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/01/2026",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "HPS INVESTMENT PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/01/2026"
       }
     ]
   },
@@ -19912,6 +19930,22 @@
     ]
   },
   {
+    "id": "1334852",
+    "name": "HUNTER, DAVID R.",
+    "address": "111 SOUTH MAIN STREET, SUITE 2350\nSALT LAKE CITY, UT 84111",
+    "phone": "(801) 521-3100",
+    "email": "david.hunter@cynosuregroup.com",
+    "registrationDate": "01/15/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CYNOSURE GROUP; THE",
+        "type": "Employer",
+        "effectiveDate": "01/15/2026"
+      }
+    ]
+  },
+  {
     "id": "1149508",
     "name": "HUNTER, DELANEY L",
     "address": "915 L STREET, SUITE 1270\nSACRAMENTO, CA 95814",
@@ -27779,14 +27813,15 @@
     "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "camdenm@calstrat.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/01/2026",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/01/2026"
       }
     ]
   },
@@ -36054,6 +36089,23 @@
     ]
   },
   {
+    "id": "1485857",
+    "name": "ROPER, JENNA M",
+    "address": "1939 NORTH GATEWAY BOULEVARD, #103\nFRESNO, CA 93727",
+    "phone": "(916) 508-0013",
+    "email": "jenna.roper@centralcalasthma.org",
+    "mailingAddress": "2555 3RD STREET, SUITE 208\nSACRAMENTO, CA 95811",
+    "registrationDate": "12/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CENTRAL CALIFORNIA ASTHMA COLLABORATIVE",
+        "type": "Employer",
+        "effectiveDate": "12/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1249067",
     "name": "ROSA, KRIS",
     "address": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
@@ -36956,6 +37008,22 @@
         "entityName": "CALIFORNIA MEDICAL ASSOCIATION AND AFFILIATES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1420718",
+    "name": "SANCHEZ, CATALINA",
+    "address": "2210 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 446-7904",
+    "email": "csancez@crlaf.org",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
       }
     ]
   },
@@ -43858,6 +43926,11 @@
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "DODD AND CHAABAN STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
+      },
       {
         "entityName": "WATTS ADVOCACY; MARK",
         "type": "Firm",
