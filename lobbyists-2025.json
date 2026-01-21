@@ -3413,14 +3413,15 @@
     "phone": "(212) 433-3220",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ALBACORE CAPITAL GROUP AND AFFILIATED ENTITIES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -12962,8 +12963,8 @@
     "name": "FERRARI, SILVIO J. ",
     "address": "1201 K STREET, SUITE 920\nSACRAMENTO, CA 95814",
     "phone": "(916) 662-5765",
-    "email": "silvio@axiomadvisors.com",
-    "registrationDate": "01/01/2025",
+    "email": "silvio@ferrariadvisors.com",
+    "registrationDate": "01/05/2026",
     "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
@@ -12972,6 +12973,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "12/31/2025"
+      },
+      {
+        "entityName": "FERRARI CAPITOL ADVISORS",
+        "type": "Firm",
+        "effectiveDate": "01/05/2026"
       }
     ]
   },
@@ -13080,7 +13086,7 @@
   {
     "id": "1456768",
     "name": "FINARELLI, CHRISTOPHER",
-    "address": "1625 I STREET NORTH WEST, SUITE 700\nWASHINGTON , DC 2006",
+    "address": "1625 I STREET NORTH WEST, SUITE 700\nWASHINGTON , DC 20006",
     "phone": "(202) 833-7313",
     "email": "cfinarelli@thecpa.org",
     "registrationDate": "01/01/2025",
@@ -17462,6 +17468,23 @@
         "entityName": "VENABLE LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486286",
+    "name": "HALL, ANDREW",
+    "address": "888 BOYLSTON STREET, SUITE 1600\nBOSTON, MA 02199",
+    "phone": "(617) 859-2959",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ABRY PARTNERS II, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026"
       }
     ]
   },
@@ -41590,6 +41613,23 @@
         "entityName": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1396860",
+    "name": "TIRBENI, ANDREW",
+    "address": "412 W 15TH STREET, 15TH FLOOR\nNEW YORK, NY 10011",
+    "phone": "(916) 442-7757",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
       }
     ]
   },
