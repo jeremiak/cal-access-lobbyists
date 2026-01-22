@@ -4080,6 +4080,7 @@
     "phone": "(530) 402-4123",
     "email": "blumgutierrez@gmail.com",
     "registrationDate": "02/03/2025",
+    "ethicsCourseCompletionDate": "03/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -14722,6 +14723,7 @@
     "phone": "(415) 536-2704",
     "email": "jgates@berkshireresi.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -26304,7 +26306,7 @@
     "address": "255 BROADWAY, SUITE 1670\nSAN DIEGO, CA 92101",
     "phone": "(916) 594-9700",
     "email": "bmaienschein@bhfs.com",
-    "mailingAddress": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814\nPhone: (916) 594-9700",
+    "mailingAddress": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2026",
     "status": "Active",
     "relationships": [
@@ -26739,13 +26741,14 @@
     "phone": "(617) 859-2959",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "08/15/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ABRY PARTNERS II, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "08/15/2025"
       }
     ]
   },
@@ -26993,7 +26996,7 @@
   {
     "id": "1290581",
     "name": "MARTINEZ, JUANITA  ",
-    "address": "1102 Q STREET, SUITE 130\nSACRAMENTO, CA 95811",
+    "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
     "phone": "(916) 510-5177",
     "email": "juanita@consultmartinez.com",
     "registrationDate": "01/01/2025",
@@ -32523,13 +32526,14 @@
     "address": "330 MADISON AVENUE\nNEW YORK, NY 10017",
     "phone": "(760) 507-5084",
     "email": "jim.paulsen@guggenheiminvestments.co",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "01/15/2026",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "GUGGENHEIM PARTNERS INVESTMENT MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/15/2026"
       }
     ]
   },
@@ -41305,6 +41309,19 @@
         "entityName": "NEA MANAGEMENT COMPANY, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1432819",
+    "name": "THEODORIDIS, CAROLINE",
+    "registrationDate": "12/04/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FIRST RESERVE MANAGEMENT, L.P.",
+        "type": "Employer",
+        "effectiveDate": "12/04/2025"
       }
     ]
   },
