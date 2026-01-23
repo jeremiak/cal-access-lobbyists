@@ -1401,6 +1401,23 @@
     ]
   },
   {
+    "id": "1476039",
+    "name": "ARTEMENKOV, NICK",
+    "address": "1453 3RD STREET PROMENADE, SUITE 305\nSANTA MONICA, CA 90401",
+    "phone": "(424) 744-4054",
+    "email": "nartemenkov@riversidecompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RIVERSIDE COMPANY L.L.C. D/B/A THE RIVERSIDE COMPANY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1447612",
     "name": "ASHLEY, SAMARA",
     "address": "1100 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
@@ -3147,6 +3164,22 @@
         "entityName": "KIRKOSWALD ASSET MANAGEMENT LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486403",
+    "name": "BENNETT, JOHN",
+    "address": "1729 G STREET APT. 19\nSACRAMENTO, CA 95811",
+    "phone": "(951) 440-7390",
+    "email": "john@cited.tech",
+    "registrationDate": "01/20/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "BENNETT CONSULTING, JOHN M.",
+        "type": "Firm",
+        "effectiveDate": "01/20/2026"
       }
     ]
   },
@@ -8224,6 +8257,23 @@
     ]
   },
   {
+    "id": "1342352",
+    "name": "COLE, ALLISON C.",
+    "address": "45 ROCKEFELLER CENTER, 630 FIFTH AVENUE\nSUITE 400",
+    "phone": "(917) 262-2081",
+    "email": "acole@riversidecompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "RIVERSIDE COMPANY L.L.C. D/B/A THE RIVERSIDE COMPANY",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1334382",
     "name": "COLEMAN , JAMES R.",
     "address": "1ST FLOOR, 10-11 PARK PLACE\nLONDON UK SW1A 1LP , UK",
@@ -9367,7 +9417,7 @@
   {
     "id": "1445952",
     "name": "CUEVAS, JESSE",
-    "address": "980 9TH STREET, SUITE 2000\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET, SUITE 1610\nSACRAMENTO",
     "phone": "(916) 266-4575",
     "email": "jesse@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -17330,6 +17380,22 @@
     ]
   },
   {
+    "id": "1476081",
+    "name": "HACKETT, ANTHONY R.",
+    "address": "921 11TH STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 443-5422",
+    "email": "tony@cawrecycles.org",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIANS AGAINST WASTE",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1405724",
     "name": "HACKMAN, ANDREW R.",
     "address": "51 FRANKLIN STREET\nBOSTON, MA 02110",
@@ -18939,7 +19005,7 @@
   {
     "id": "1360391",
     "name": "HICKOX, WINSTON",
-    "address": "1201 K STREET\nSACRAMENTO, CA 95814",
+    "address": "1201 K STREET, SUITE 1610\nSACRAMENTO, CA 95814",
     "phone": "(916) 266-4575",
     "email": "whickox@calstrat.com",
     "registrationDate": "01/01/2025",
@@ -27065,17 +27131,23 @@
   {
     "id": "1355259",
     "name": "MARTINSON, CARA",
-    "address": "1017 L STREET, SUITE 534\nSACRAMENTO, CA 95814",
-    "phone": "(916) 267-5536",
-    "email": "cara@publichousingconsulting.net",
+    "address": "1301 I STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 444-0400",
+    "email": "cmartinson@capitoladvocacy.com",
     "registrationDate": "08/15/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
     "status": "Active",
     "relationships": [
       {
+        "entityName": "CAPITOL ADVOCACY, LLC",
+        "type": "Firm",
+        "effectiveDate": "01/16/2026"
+      },
+      {
         "entityName": "PUBLIC HOUSE CONSULTING",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/16/2026"
       }
     ]
   },
@@ -30012,7 +30084,8 @@
       {
         "entityName": "PUBLIC INTEREST ADVOCATES",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -36916,6 +36989,22 @@
         "entityName": "SEMPRA AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1445878",
+    "name": "SALAZAR, CRISTINA",
+    "address": "525 EAST 7TH STREET, SUITE C203\nLONG BEACH, CA 90813",
+    "phone": "(562) 983-1333",
+    "registrationDate": "01/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIANS TOGETHER",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "09/14/2025"
       }
     ]
   },
