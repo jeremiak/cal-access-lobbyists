@@ -13084,6 +13084,23 @@
     ]
   },
   {
+    "id": "1486186",
+    "name": "FIELD, MARGARET",
+    "address": "99 CHAUNCY STREET, 6TH FLOOR\nBOSTON, MA 02111",
+    "phone": "(617) 247-0700",
+    "email": "compliance_ca_ceres_1@multistate.us",
+    "mailingAddress": "17 CARLSON AVENUE\nSAN ANSELMO, CA 94960",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CERES, INC.",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026"
+      }
+    ]
+  },
+  {
     "id": "1343969",
     "name": "FIERTZ, STUART CHAPIN",
     "address": "1350 AVENUE OF THE AMERICAS, 28TH FLOOR\nNEW YORK, NY 10019",
@@ -18139,14 +18156,14 @@
     "address": "2201 K STREET\nSACRAMENTO, CA 95816",
     "phone": "(916) 441-6400",
     "email": "whartung@cahf.org",
-    "registrationDate": "10/01/2025",
+    "registrationDate": "01/01/2026",
     "ethicsCourseCompletionDate": "08/13/2025",
     "status": "Active",
     "relationships": [
       {
         "entityName": "CALIFORNIA ASSOCIATION OF HEALTH FACILITIES",
         "type": "Employer",
-        "effectiveDate": "10/01/2025"
+        "effectiveDate": "01/01/2026"
       }
     ]
   },
@@ -33032,7 +33049,7 @@
   {
     "id": "1148352",
     "name": "PERRY, RANDY A.",
-    "address": "6109 KENNETH AVENUE\nCHARMICHAEL, CA 95608",
+    "address": "1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
     "phone": "(916) 716-3952",
     "mailingAddress": "428 J STREET, SUITE 412\nSACRAMENTO, CA 95814\nPhone: (916) 716-3952",
     "registrationDate": "01/01/2025",
@@ -34975,6 +34992,21 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "01/02/2026"
+      }
+    ]
+  },
+  {
+    "id": "1485976",
+    "name": "REIBEL, JOSEPH",
+    "address": "3000 SAND HILL ROAD, BUILDING 2, SUITE 250\nMENLO PARK, CA 94025",
+    "phone": "(614) 716-9309",
+    "registrationDate": "01/13/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INSTITUTIONAL VENTURE PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "01/13/2026"
       }
     ]
   },
@@ -38100,6 +38132,19 @@
         "entityName": "CALIFORNIA HOSPITAL ASSOCIATION/CALIFORNIA ASSOCIATION OF HOSPITALS AND HEALTH SYSTEMS",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1148888",
+    "name": "SCRIBNER, JOHN",
+    "registrationDate": "01/15/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ASSOCIATION OF REALTORS",
+        "type": "Employer",
+        "effectiveDate": "01/15/2026"
       }
     ]
   },
@@ -43768,11 +43813,6 @@
     "ethicsCourseCompletionDate": "09/27/2024",
     "status": "Active",
     "relationships": [
-      {
-        "entityName": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION (CIPA)",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      },
       {
         "entityName": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION (CIPA)",
         "type": "Employer",
