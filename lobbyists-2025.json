@@ -2080,6 +2080,22 @@
     ]
   },
   {
+    "id": "1486586",
+    "name": "BALDWIN, MARY KATE",
+    "address": "50 HUDSON YARDS, FLOOR 77\nNEW YORK, NY 10001",
+    "phone": "(347) 443-6872",
+    "email": "mkbaldwin@vistaequitypartners.com",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026"
+      }
+    ]
+  },
+  {
     "id": "1392586",
     "name": "BALES, JENNIFER",
     "address": "40 WEST 57TH STREET, 33RD FLOOR\nNEW YORK, NY 10019",
@@ -2768,6 +2784,24 @@
         "entityName": "UNITE HERE INTERNATIONAL UNION",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1464539",
+    "name": "BATIBAY, EMILY",
+    "address": "105 WIGMORE STREET\nLONDON, UK W1U 1QY",
+    "phone": "(916) 890-3670",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "C/O KEYS LAW, 1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
+    "registrationDate": "11/28/2025",
+    "ethicsCourseCompletionDate": "03/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VITRUVIAN PARTNERS LTD",
+        "type": "Employer",
+        "effectiveDate": "11/28/2025"
       }
     ]
   },
@@ -4542,6 +4576,22 @@
     ]
   },
   {
+    "id": "1486589",
+    "name": "BOSTIC, JULIAN",
+    "address": "4 EMBARCADERO CENTER, 20TH FLOOR\nSAN FRANCISCO, CA 94111",
+    "phone": "(312) 802-1868",
+    "email": "jbostic@vistaequitypartners.com",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/12/2025"
+      }
+    ]
+  },
+  {
     "id": "1468052",
     "name": "BOSWELL, CARL B.",
     "address": "900 SEVENTH STREET NW, SUITE 600\nWASHINGTON, DC 20001",
@@ -6141,6 +6191,7 @@
     "email": "rcanada@pretium.com",
     "mailingAddress": "3001 NORTH VALLEY DRIVE\nMANHATTAN BEACH, CA 90266",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -8039,6 +8090,22 @@
         "entityName": "JGC GOVERNMENT RELATIONS, INC.",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485977",
+    "name": "CLEMENT, HELEN",
+    "address": "3000 SAND HILL ROAD, BUILDING 2, SUITE 250\nMENLO PARK, CA 94025",
+    "phone": "(617) 821-9432",
+    "email": "hclement@ivp.com",
+    "registrationDate": "01/13/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INSTITUTIONAL VENTURE PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "01/13/2026"
       }
     ]
   },
@@ -11798,6 +11865,22 @@
     ]
   },
   {
+    "id": "1486590",
+    "name": "DUVALL, CHARLES",
+    "address": "50 HUDSON YARDS, FLOOR 77\nNEW YORK, NY 10001",
+    "phone": "(917) 602-8691",
+    "email": "cduvall@vistacreditpartners.com",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026"
+      }
+    ]
+  },
+  {
     "id": "1242282",
     "name": "DWELLEY, STACY I.",
     "address": "1215 K STREET, SUITE 2260\nSACRAMENTO, CA 95814",
@@ -12803,6 +12886,22 @@
         "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC AND AFFILIATES",
         "type": "Employer",
         "effectiveDate": "05/27/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486588",
+    "name": "FEAGIN, GRACE",
+    "address": "50 HUDSON YARDS, FLOOR 77\nNEW YORK, NY 10001",
+    "phone": "(646) 531-4346",
+    "email": "gfeagin@vistaequitypartners.com",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026"
       }
     ]
   },
@@ -15637,14 +15736,15 @@
     "phone": "(347) 327-0849",
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "N.A. INVESTCORP LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -18320,6 +18420,23 @@
     ]
   },
   {
+    "id": "1459294",
+    "name": "HATEFI, ADAM",
+    "address": "901 H STREET, SUITE 120 PMB 176\nSACRAMENTO, CA 95814",
+    "phone": "(916) 306-1743",
+    "email": "ahatefi@gridwell.com",
+    "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GRIDWELL CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "04/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1441651",
     "name": "HAUN, VIVIAN",
     "address": "1831 K STREET\nSACRAMENTO, CA 95811",
@@ -20356,6 +20473,22 @@
         "entityName": "LOS ANGELES; COUNTY OF",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486587",
+    "name": "ISON, ANTHONY",
+    "address": "401 CONGRESS AVENUE, SUITE 3100\nAUSTIN, TX 78701",
+    "phone": "(512) 657-4925",
+    "email": "aison@vistaequitypartners.com",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026"
       }
     ]
   },
@@ -23593,6 +23726,23 @@
     ]
   },
   {
+    "id": "1486602",
+    "name": "KOTHARI, MIHIR",
+    "address": "280 PARK AVENUE\nNEW YORK, NY 10017",
+    "phone": "(917) 545-5051",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "N.A. INVESTCORP LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1366131",
     "name": "KOZBERG, JOANNE",
     "address": "1201 K STREET SUITE 1610\nSACRAMENTO , CA 95814",
@@ -25834,6 +25984,7 @@
     "phone": "(857) 288-1500",
     "email": "jlynch@capeannam.com",
     "registrationDate": "07/15/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27530,7 +27681,8 @@
       {
         "entityName": "CAPITOL ADVOCACY, LLC",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -32447,6 +32599,7 @@
     "phone": "(312) 357-0334",
     "email": "christopher.parisi@guggenheiminvestmen",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
     "relationships": [
       {
@@ -32523,6 +32676,22 @@
         "entityName": "CALIFORNIA ASSISTED LIVING ASSOCIATION",
         "type": "Employer",
         "effectiveDate": "02/28/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486585",
+    "name": "PARZICK, HELEN",
+    "address": "50 HUDSON YARDS, FLOOR 77\nNEW YORK, NY 10001",
+    "phone": "(332) 284-7716",
+    "email": "hparzick@vistaequitypartners.com",
+    "registrationDate": "01/21/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/21/2026"
       }
     ]
   },
@@ -35000,6 +35169,7 @@
     "name": "REIBEL, JOSEPH",
     "address": "3000 SAND HILL ROAD, BUILDING 2, SUITE 250\nMENLO PARK, CA 94025",
     "phone": "(614) 716-9309",
+    "email": "jreibel@ivp.com",
     "registrationDate": "01/13/2026",
     "status": "Active",
     "relationships": [
@@ -37027,8 +37197,9 @@
   {
     "id": "1445878",
     "name": "SALAZAR, CRISTINA",
-    "address": "525 EAST 7TH STREET, SUITE C203\nLONG BEACH, CA 90813",
-    "phone": "(562) 983-1333",
+    "address": "1121 L STREET, SUITE 507\nSACRAMENTO, CA 95814",
+    "phone": "(916) 325-1162",
+    "email": "clivers@rcoe.us",
     "registrationDate": "01/01/2025",
     "status": "Active",
     "relationships": [
@@ -37037,6 +37208,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "09/14/2025"
+      },
+      {
+        "entityName": "RIVERSIDE COUNTY OFFICE OF EDUCATION",
+        "type": "Employer",
+        "effectiveDate": "01/05/2026"
       }
     ]
   },
@@ -39058,6 +39234,22 @@
     ]
   },
   {
+    "id": "1485974",
+    "name": "SIMCOX, ALEXANDRIA",
+    "address": "5547 S BURNER STREET\nHINSDALE, IL 60521",
+    "phone": "(708) 691-8725",
+    "email": "asimcox@ivp.com",
+    "registrationDate": "01/13/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "INSTITUTIONAL VENTURE PARTNERS",
+        "type": "Employer",
+        "effectiveDate": "01/13/2026"
+      }
+    ]
+  },
+  {
     "id": "1464745",
     "name": "SIMON, NAUTIKA",
     "address": "66 HUDSON BOULEVARD EAST, 33RD FLOOR\nNEW YORK, NY 10001",
@@ -40016,6 +40208,7 @@
     "phone": "(949) 315-9900",
     "email": "scott.spalding@cbreim.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
       {
@@ -41411,6 +41604,22 @@
     ]
   },
   {
+    "id": "1486463",
+    "name": "TETLOW, JULIANNA",
+    "address": "1225 8TH STREET, SUITE 595\nSACRAMENTO, CA 95814",
+    "phone": "(916) 820-2344",
+    "email": "julianna@fearlessadvocvacy.com",
+    "registrationDate": "01/26/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FEARLESS ADVOCACY, INC.",
+        "type": "Firm",
+        "effectiveDate": "01/26/2026"
+      }
+    ]
+  },
+  {
     "id": "1442222",
     "name": "TEWKESBURY, ANNIE",
     "address": "450 LEXINGTON AVENUE\nNEW YORK, NY 10017",
@@ -42724,14 +42933,15 @@
     "address": "1121 L STREET, SUITE 507\nSACRAMENTO, CA 95814",
     "phone": "(916) 325-1162",
     "email": "jvaca@rcoe.us",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "10/16/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "RIVERSIDE COUNTY OFFICE OF EDUCATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "10/16/2025"
       }
     ]
   },
@@ -43265,6 +43475,22 @@
     ]
   },
   {
+    "id": "1486584",
+    "name": "VENDITTI, GABRIELA",
+    "address": "50 HUDSON YARDS, FLOOR 77\nNEW YORK, NY 10001",
+    "phone": "(347) 255-0929",
+    "email": "gvenditti@vistaequitypartners.com",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026"
+      }
+    ]
+  },
+  {
     "id": "1147879",
     "name": "VERMEULEN, PHILIP M.",
     "address": "3457 CASTLE CREEK COURT\nROSEVILLE, CA 95661",
@@ -43370,9 +43596,9 @@
   {
     "id": "1452199",
     "name": "VILLACRES, GENEVE",
-    "address": "5800 BRISTOL CITY PARKWAY\nCULVER CITY, CA 90230",
-    "phone": "(916) 747-7791",
-    "email": "compliance_ca_tiktok_1@multistate.us",
+    "address": "5800 BRISTOL CITY PARKWAY, SUITE 300\nCULVER CITY, CA 90230",
+    "phone": "(213) 634-7972",
+    "email": "compliance_ca_tiktokjv_1@multistate.us",
     "registrationDate": "08/08/2025",
     "ethicsCourseCompletionDate": "05/15/2025",
     "status": "Active",
@@ -43380,7 +43606,13 @@
       {
         "entityName": "TIKTOK INC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/23/2026"
+      },
+      {
+        "entityName": "TIKTOK U.S. DATA SECURITY JOINT VENTURE",
+        "type": "Employer",
+        "effectiveDate": "01/23/2026"
       }
     ]
   },
@@ -43559,14 +43791,15 @@
     "name": "VU, QUYNH ANH A",
     "address": "747 FRONT STREET\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 694-8776",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "03/14/2024",
-    "status": "Active",
+    "status": "Withdrawn",
     "relationships": [
       {
         "entityName": "INSTITUTIONAL VENTURE PARTNERS",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
