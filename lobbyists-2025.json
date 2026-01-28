@@ -28702,14 +28702,15 @@
     "phone": "(646) 827-8710",
     "email": "emily@americanindustrial.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "AIP, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -36379,14 +36380,15 @@
     "address": "1 LETTERMAN DRIVE, BUILDING B, SUITE B6-100\nSAN FRANCISCO, CA 94129",
     "phone": "(628) 220-7270",
     "email": "lrood@sixthstreet.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/05/2026",
     "ethicsCourseCompletionDate": "11/14/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SIXTH STREET BD, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/05/2026"
       }
     ]
   },
