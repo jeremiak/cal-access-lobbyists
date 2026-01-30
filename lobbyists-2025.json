@@ -773,15 +773,9 @@
     "address": "P.O. BOX 1656\nWOODLAND, CA 95776",
     "phone": "(916) 596-5987",
     "email": "amajioyi@yahoo.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "POLITICIANS AND LEADERS OF TOMORROW GROUP LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1467828",
@@ -1882,13 +1876,24 @@
     "address": "2916 FRANKLIN BOULEVARD\nSACRAMENTO, CA 95818",
     "phone": "(916) 202-2538",
     "email": "glennbackes@gmail.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
+  },
+  {
+    "id": "1486492",
+    "name": "BAGINSKI, DAN",
+    "address": "3889 MAPLE AVENUE, SUITE 225\nPARKLAND HALL",
+    "phone": "(496) 607-0253",
+    "email": "info@keyslawcorp.com",
+    "mailingAddress": "1001 G STREET, SUITE 201\nC/O KEYS LAW\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/05/2026",
     "status": "Active",
     "relationships": [
       {
-        "entityName": "GLENN BACKES PUBLIC POLICY RESEARCH & CONSULTING LLC",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "entityName": "CITATION CAPITAL",
+        "type": "Employer",
+        "effectiveDate": "01/05/2026"
       }
     ]
   },
@@ -3681,7 +3686,8 @@
       {
         "entityName": "ANCHORAGE CAPITAL ADVISORS, L.P.",
         "type": "Employer",
-        "effectiveDate": "07/01/2025"
+        "effectiveDate": "07/01/2025",
+        "terminationDate": "01/02/2026"
       },
       {
         "entityName": "FIRST RESERVE MANAGEMENT, L.P.",
@@ -5749,16 +5755,9 @@
     "id": "1377662",
     "name": "BULLIS, CORY",
     "mailingAddress": "ONE SOUTH WACKER DRIVE, SUITE 1800\nCHICAGO, IL 60606\nPhone: (916) 690-1839\nEmail: cbullis@invenergy.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "INVENERGY, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "09/30/2025"
-      }
-    ]
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1457082",
@@ -6729,15 +6728,9 @@
     "address": "245 PARK AVENUE\nNEW YORK, NY 10167",
     "phone": "(212) 692-2283",
     "email": "ccasey@angelogordon.com",
-    "registrationDate": "01/30/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "TPG CAPITAL BD, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/30/2025"
-      }
-    ]
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1392801",
@@ -9661,16 +9654,9 @@
     "phone": "(212) 432-4600",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
-    "registrationDate": "06/30/2025",
-    "status": "Terminated",
-    "relationships": [
-      {
-        "entityName": "ANCHORAGE CAPITAL ADVISORS, L.P.",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025",
-        "terminationDate": "06/30/2025"
-      }
-    ]
+    "registrationDate": "01/14/2026",
+    "status": "In Suspense",
+    "relationships": []
   },
   {
     "id": "1148433",
@@ -14505,22 +14491,6 @@
     ]
   },
   {
-    "id": "1471148",
-    "name": "GAITAN, IVY",
-    "address": "515 SOUTH FLOWER STREET, 49TH FLOOR\nLOS ANGELES, CA 90071",
-    "phone": "(213) 233-5776",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AMERICAN REALTY ADVISORS, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
-  },
-  {
     "id": "1460499",
     "name": "GALAN, JONATHAN",
     "address": "1908 BATAAN ROAD, #B\nREDONDO BEACH, CA 90278",
@@ -16458,15 +16428,9 @@
     "address": "100 PARK AVENUE, FLOOR 31\nNEW YORK, NY 10017",
     "phone": "(212) 771-1717",
     "email": "pgrad@arsenalcapital.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ARSENAL CAPITAL MANAGEMENT LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1475140",
@@ -19663,6 +19627,22 @@
     "relationships": [
       {
         "entityName": "COLUMBIA MANAGEMENT INVESTMENT ADVISERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1471148",
+    "name": "HOLZ, IVY",
+    "address": "515 SOUTH FLOWER STREET, 49TH FLOOR\nLOS ANGELES, CA 90071",
+    "phone": "(213) 233-5776",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN REALTY ADVISORS, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -26662,6 +26642,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27683,6 +27664,11 @@
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "12/31/2025"
+      },
+      {
+        "entityName": "GENESI LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
       }
     ]
   },
@@ -35003,7 +34989,7 @@
     "address": "6523 83RD AVENUE W\nUNIVERSITY PLACE, WA 98467",
     "phone": "(253) 973-1892",
     "email": "noah@modelsolutions.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "11/24/2025",
     "status": "Active",
     "relationships": [
       {
@@ -37700,6 +37686,7 @@
     "phone": "(310) 746-4200",
     "email": "amy.arentowicz@mccourtpartners.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/01/2024",
     "status": "Active",
     "relationships": [
       {
@@ -38741,15 +38728,9 @@
     "name": "SHAW, MARLENE",
     "address": "260 FRANKLIN STREET\nBOSTON, MA 02110",
     "phone": "(617) 598-6875",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ACADIAN ASSET MANAGEMENT LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1442635",
@@ -38859,15 +38840,9 @@
     "address": "601 SOUTH FIGUEROA STREET, 49TH FLOOR\nLOS ANGELES, CA 90017",
     "phone": "(213) 683-4200",
     "email": "chris.shepherdson@cbreim.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1323354",
@@ -39907,6 +39882,7 @@
     "phone": "(212) 714-3300",
     "email": "doug@sachemhead.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
     "relationships": [
       {
@@ -40668,15 +40644,9 @@
     "address": "12680 HIGH BLUFF DRIVE, SUITE 400\nSAN DIEGO, CA 92130",
     "phone": "(858) 703-4401",
     "email": "compliance@ecpgp.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "ENERGY CAPITAL PARTNERS MANAGEMENT, LP",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1461226",
@@ -43912,15 +43882,9 @@
     "address": "B CAPITAL GROUP, 10 HUDSON YARDS\nNEW YORK, NY 10001",
     "phone": "(917) 765-1597",
     "email": "ewahab@bcapgroup.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "B CAPITAL GROUP U.S., LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1459609",
