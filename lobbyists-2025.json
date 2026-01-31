@@ -1891,7 +1891,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CITATION CAPITAL",
+        "entityName": "CITATION CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/05/2026"
       }
@@ -3507,7 +3507,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "TFG ASSET MANAGEMENT US LP",
+        "entityName": "TETRAGON PARTNERS US LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -6748,6 +6748,22 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "09/30/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486620",
+    "name": "CASTELLANOS, RAFAEL",
+    "address": "5405 MOREHOUSE DRIVE, SUITE 205\nSAN DIEGO, CA 92121",
+    "phone": "(619) 237-4914",
+    "email": "rc@smcdslaw.com",
+    "registrationDate": "01/15/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SOLOMON MINTON CARDINAL DOYLE & SMITH LLP",
+        "type": "Firm",
+        "effectiveDate": "01/15/2026"
       }
     ]
   },
@@ -10842,7 +10858,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "TFG ASSET MANAGEMENT US LP",
+        "entityName": "TETRAGON PARTNERS US LP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -11701,7 +11717,7 @@
   {
     "id": "1462105",
     "name": "DUFF, SEAN",
-    "address": "311 SOUTH WACKER DRIVE, SUITE 6400\nCHICAGO, IL 60606",
+    "address": "155 N WACKER DRIVE, 35TH FLOOR\nCHICAGO, IL 60606",
     "phone": "(312) 523-2372",
     "email": "sduff@monroecap.com",
     "registrationDate": "01/01/2025",
@@ -20995,6 +21011,7 @@
     "phone": "(212) 699-4000",
     "email": "ajohansen@mcpfunds.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -22457,14 +22474,15 @@
     "phone": "(212) 310-5862",
     "email": "lobbying@rutan.com",
     "mailingAddress": "150 POST STREET, SUITE 405\nSAN FRANCISCO, CA 94108",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "COMPASS ROSE ASSET MANAGEMENT, LP",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -26940,6 +26958,7 @@
     "phone": "(212) 699-4000",
     "email": "smarino@mcpfunds.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
     "relationships": [
       {
@@ -27678,9 +27697,9 @@
     "address": "1925 CENTURY PARK EAST, SUTE 1700\nLOS ANGELES, CA 90067",
     "phone": "(213) 267-0334",
     "email": "jmayes@druven.us",
-    "registrationDate": "02/07/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DRUVEN PUBLIC AFFAIRS LLC",
@@ -28367,15 +28386,9 @@
     "address": "601 SOUTH FIGUEROA STREET, 49TH FLOOR\nLOS ANGELES, CA 90017-0000",
     "phone": "(213) 683-4200",
     "email": "bernie.mcnamara@cbreim.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "CBRE INVESTMENT MANAGEMENT, LLC",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "registrationDate": "01/01/2026",
+    "status": "Revoked",
+    "relationships": []
   },
   {
     "id": "1467686",
@@ -28759,9 +28772,9 @@
     "address": "1925 CENTURY PARK EAST, SUITE 1700\nLOS ANGELES, CA 90067",
     "phone": "(213) 267-0334",
     "email": "dmeraz@druven.us",
-    "registrationDate": "02/07/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DRUVEN PUBLIC AFFAIRS LLC",
@@ -35838,9 +35851,9 @@
     "address": "1925 CENTURY PARK EAST, STE 1700\nLOS ANGELES, CA 90067",
     "phone": "(213) 267-0334",
     "email": "mrobles@druven.us",
-    "registrationDate": "02/07/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "12/12/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "DRUVEN PUBLIC AFFAIRS LLC",
@@ -38982,6 +38995,22 @@
         "entityName": "SHIMODA GOVERNMENT STRATEGIES LLC",
         "type": "Firm",
         "effectiveDate": "03/03/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486664",
+    "name": "SHIN, NATALIE",
+    "address": "525 E 7TH STREET, SUITE C203\nLONG BEACH, CA 90813",
+    "phone": "(562) 983-1333",
+    "email": "info@caltog.org",
+    "registrationDate": "12/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIANS TOGETHER",
+        "type": "Employer",
+        "effectiveDate": "12/01/2025"
       }
     ]
   },
@@ -45832,6 +45861,22 @@
         "entityName": "REDE PARTNERS (AMERICAS) LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1354191",
+    "name": "YI, CHRISTINA",
+    "address": "399 PARK AVENUE, 22ND FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 359-7346",
+    "email": "cyi@tetragoninv.com",
+    "registrationDate": "01/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TETRAGON PARTNERS US LP",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026"
       }
     ]
   },
