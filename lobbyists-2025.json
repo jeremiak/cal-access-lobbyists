@@ -6512,9 +6512,16 @@
     "address": "3432 MISTY MORNING CIRCLE\nSACRAMENTO, CA 95827",
     "phone": "(916) 336-6703",
     "email": "jose@ezraconzult.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/31/2025",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "EZRACONZULT LLC",
+        "type": "Firm",
+        "effectiveDate": "03/11/2025",
+        "terminationDate": "12/31/2025"
+      }
+    ]
   },
   {
     "id": "1274774",
@@ -9654,8 +9661,14 @@
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "555 CAPITOL MALL, SUITE 400\nSACRAMENTO, CA 95814",
     "registrationDate": "01/14/2026",
-    "status": "In Suspense",
-    "relationships": []
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ANCHORAGE CAPITAL ADVISORS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/14/2026"
+      }
+    ]
   },
   {
     "id": "1148433",
@@ -17465,7 +17478,7 @@
     "address": "29 FARM ST\nMAYFAIR W1J 5RL, UK",
     "phone": "(410) 800-7503",
     "email": "info@keyslawcorp.com",
-    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYS LAW\nSACRAMENTO, CA 95814\nPhone: (410) 800-7503\nEmail: info@keyslawcorp.com",
+    "mailingAddress": "1001 G STREET, SUITE 201\nC/O KEYS LAW \nSACRAMENTO, CA 94814\nPhone: (410) 800-7503\nEmail: info@keyslawcorp.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
@@ -20455,6 +20468,22 @@
         "entityName": "OMNI GOVERNMENT RELATIONS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486856",
+    "name": "ISACOVICI, DAVID",
+    "address": "24 RIVERVIEW AVENUE\nARDSLEY, NY 10502",
+    "phone": "(917) 655-9421",
+    "email": "disacovici@quilvestcapital.com",
+    "registrationDate": "01/23/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "QUILVEST CAPITAL PARTNERS SECURITIES",
+        "type": "Employer",
+        "effectiveDate": "01/23/2026"
       }
     ]
   },
@@ -26165,7 +26194,7 @@
     "address": "29 FARM ST. MAYFAIR \nLONDON UK W1J 5RL",
     "phone": "(410) 800-7503",
     "email": "info@keyslawcorp.com",
-    "mailingAddress": "428 J STREET, SUITE 412\nC/O KEYES LAW\nSACRAMENTO, CA 95814\nPhone: (410) 800-7503\nEmail: info@keyslawcorp.com",
+    "mailingAddress": "1001 G STREET, SUITE 201\nC/O KEYS LAW\nSACRAMENTO, CA 94814\nPhone: (410) 800-7503\nEmail: info@keyslawcorp.com",
     "registrationDate": "11/14/2025",
     "ethicsCourseCompletionDate": "11/06/2025",
     "status": "Active",
@@ -28920,6 +28949,22 @@
         "entityName": "MERCK SHARP & DOHME CORP.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486133",
+    "name": "MIBU, DYLAN",
+    "address": "10100 SANTA MONICA BOULEVARD, SUITE 600\nLOS ANGELES, CA 90067",
+    "phone": "(310) 269-7335",
+    "email": "dylan.mibu@carlyle.com",
+    "registrationDate": "01/15/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCG CAPITAL MARKETS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/15/2026"
       }
     ]
   },
@@ -32695,6 +32740,22 @@
         "entityName": "VISTA EQUITY PARTNERS MANAGEMENT, LLC",
         "type": "Employer",
         "effectiveDate": "01/21/2026"
+      }
+    ]
+  },
+  {
+    "id": "1486461",
+    "name": "PASCOE, SEAN",
+    "address": "400 INTERPACE PARKWAY BUILDING A\nPARSIPPANY, NJ 07054",
+    "phone": "(571) 239-9671",
+    "email": "sean.pascoe@tevapharm.com",
+    "registrationDate": "02/03/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TEVA PHARMACEUTICALS USA, INC.",
+        "type": "Employer",
+        "effectiveDate": "02/03/2026"
       }
     ]
   },
@@ -36573,7 +36634,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ROSS; ESPERANZA",
+        "entityName": "ROSS AT THE CAPITOL",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -41994,6 +42055,22 @@
         "entityName": "COPENHAGEN INFRASTRUCTURE PARTNERS, INC. AND AFFILIATED ENTITIES",
         "type": "Employer",
         "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
+    "id": "1298144",
+    "name": "TJERNELL, KRISTOPHER ",
+    "address": "1516 36TH STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 833-5150",
+    "email": "ktjernell@gmail.com",
+    "registrationDate": "01/23/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "COTTONWOOD STRATEGIES LLC",
+        "type": "Firm",
+        "effectiveDate": "01/23/2026"
       }
     ]
   },
