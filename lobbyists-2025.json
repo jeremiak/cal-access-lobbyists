@@ -3307,6 +3307,21 @@
     ]
   },
   {
+    "id": "1378788",
+    "name": "BENZAKEN, NATHANAEL",
+    "address": "1185 AVENUE OF AMERICAS, SUITE 710\nNEW YORK, NY 10036",
+    "email": "nbenzaken@quilvestcapital.com",
+    "registrationDate": "01/23/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "QUILVEST CAPITAL PARTNERS SECURITIES",
+        "type": "Employer",
+        "effectiveDate": "01/23/2026"
+      }
+    ]
+  },
+  {
     "id": "1380744",
     "name": "BERDUGO, RONALD",
     "address": "1215 K STREET, SUITE 2030\nSACRAMENTO, CA 95814",
@@ -19728,13 +19743,14 @@
     "address": "1608 T STREET\nSACRAMENTO , CA 95811",
     "phone": "(916) 468-0950",
     "email": "ashley@whitebrennerllp.com",
-    "registrationDate": "01/01/2025",
-    "status": "Active",
+    "registrationDate": "12/31/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "WHITE BRENNER LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -20613,14 +20629,15 @@
     "address": "445 ORANGE GROVE CIRCLE, #316\nPASADENA, CA 91105",
     "phone": "(646) 522-0841",
     "email": "tjackson@fieracapital.com",
-    "registrationDate": "05/04/2025",
+    "registrationDate": "02/03/2026",
     "ethicsCourseCompletionDate": "11/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "FIERA CAPITAL INC.",
         "type": "Employer",
-        "effectiveDate": "05/04/2025"
+        "effectiveDate": "05/04/2025",
+        "terminationDate": "02/03/2026"
       }
     ]
   },
@@ -25687,6 +25704,23 @@
     ]
   },
   {
+    "id": "1323834",
+    "name": "LOOMIS, PAMELA C.",
+    "address": "1017 L STREET, SUITE 304\nSACRAMENTO, CA 95814",
+    "phone": "(916) 662-1011",
+    "email": "pam@loomisadvocacy.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/14/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LOOMIS ADVOCACY SOLUTIONS",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1147907",
     "name": "LOPER, DENNIS L.",
     "address": "1215 K STREET, SUITE 1500\nSACRAMENTO, CA 95814",
@@ -26230,14 +26264,15 @@
     "address": "6400 S. FIDDLERS GREEN CIRCLE, SUITE 300\nGREENWOOD VILLAGE, CO 80111",
     "phone": "(720) 515-3135",
     "email": "james.macdowell@scidan.com",
-    "registrationDate": "04/22/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "11/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SCIDAN CONSULTING GROUP, LLC",
         "type": "Firm",
-        "effectiveDate": "04/22/2025"
+        "effectiveDate": "04/22/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -30237,6 +30272,22 @@
     ]
   },
   {
+    "id": "1486849",
+    "name": "MUCHMORE, MOLLY",
+    "address": "550 MADISON AVENUE, 20TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 303-1650",
+    "email": "mmuchmore@bdtmsd.com",
+    "registrationDate": "01/29/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "MSD PARTNERS, L.P.",
+        "type": "Employer",
+        "effectiveDate": "01/29/2026"
+      }
+    ]
+  },
+  {
     "id": "1340760",
     "name": "MUEHLETHALER, JEFF",
     "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
@@ -33930,14 +33981,15 @@
     "address": "6400 S. FIDDLERS GREEN CIRCLE, SUITE 300\nGREENWOOD VILLAGE, CA 80111",
     "phone": "(720) 515-3135",
     "email": "nathan@scidan.com",
-    "registrationDate": "04/22/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "11/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "SCIDAN CONSULTING GROUP, LLC",
         "type": "Firm",
-        "effectiveDate": "04/22/2025"
+        "effectiveDate": "04/22/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
