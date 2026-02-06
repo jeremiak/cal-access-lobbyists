@@ -2683,13 +2683,14 @@
     "phone": "(619) 263-7254",
     "email": "compliance@olsonremcho.com",
     "mailingAddress": "P.O. BOX 6754\nFOLSOM, CA 95763",
-    "registrationDate": "08/13/2025",
-    "status": "Active",
+    "registrationDate": "09/15/2025",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
         "type": "Employer",
-        "effectiveDate": "01/02/2025"
+        "effectiveDate": "01/02/2025",
+        "terminationDate": "09/15/2025"
       }
     ]
   },
@@ -7398,6 +7399,22 @@
         "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
         "type": "Employer",
         "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486717",
+    "name": "CHAVEZ, GABRIELA",
+    "address": "4855 SEMINOLE DRIVE\nSAN DIEGO, CA 92115",
+    "phone": "(619) 263-7254",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "12/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "12/01/2025"
       }
     ]
   },
@@ -37570,7 +37587,8 @@
       {
         "entityName": "CATALYST CALIFORNIA",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/31/2026"
       }
     ]
   },
@@ -38146,6 +38164,22 @@
         "entityName": "CENTERBRIDGE PARTNERS, L.P.",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1487274",
+    "name": "SCHOLER, CRAIG",
+    "address": "1121 L STREET, SUITE 408\nSACRAMENTO, CA 95814",
+    "phone": "(916) 425-8481",
+    "email": "craig.scholer@gmail.com",
+    "registrationDate": "02/02/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "OMNI GOVERNMENT RELATIONS",
+        "type": "Firm",
+        "effectiveDate": "02/02/2026"
       }
     ]
   },
@@ -40669,9 +40703,9 @@
   {
     "id": "1458456",
     "name": "STEPHENS, TEJA J.",
-    "address": "1107 9TH STREET, UNIT 880\nSACRAMENTO, CA 95814",
-    "phone": "(916) 221-0208",
-    "email": "tstephens@catalystcalifornia.org",
+    "address": "4855 SEMIOLE DRIVE\nSAN DIEGO, CA 92115",
+    "phone": "(619) 263-7254",
+    "email": "compliance@olsonremcho.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
@@ -40681,6 +40715,11 @@
         "type": "Employer",
         "effectiveDate": "01/01/2025",
         "terminationDate": "11/14/2025"
+      },
+      {
+        "entityName": "UNITED DOMESTIC WORKERS OF AMERICA / AFSCME, AFL-CIO",
+        "type": "Employer",
+        "effectiveDate": "12/01/2025"
       }
     ]
   },
