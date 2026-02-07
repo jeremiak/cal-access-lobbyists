@@ -311,6 +311,22 @@
     ]
   },
   {
+    "id": "1285163",
+    "name": "AGUILERA, RAFAEL",
+    "address": "360 14TH STREET, 2ND FLOOR\nOAKLAND, CA 94612",
+    "phone": "(510) 926-4001",
+    "email": "rafael.aguilera@greenlining.org",
+    "registrationDate": "01/23/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREENLINING INSTITUTE; THE",
+        "type": "Employer",
+        "effectiveDate": "01/23/2026"
+      }
+    ]
+  },
+  {
     "id": "1263105",
     "name": "AGUINALDO, LEILANI ",
     "address": "1121 L STREET, SUITE 1060\nSACRAMENTO, CA 95814",
@@ -6258,6 +6274,7 @@
     "phone": "(212) 813-8338",
     "email": "acantu@adventinternational.com",
     "registrationDate": "01/01/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -10485,6 +10502,7 @@
     "phone": "(916) 327-7500",
     "email": "legcoordinator@counties.org",
     "registrationDate": "12/01/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -11234,7 +11252,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "SMART JUSTICE CALIFORNIA, A PROJECT OF TIDES ADVOCACY",
+        "entityName": "SMART JUSTICE CALIFORNIA, A PROJECT OF BEYOND IMPACT",
         "type": "Employer",
         "effectiveDate": "01/05/2026"
       }
@@ -13186,6 +13204,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -17666,6 +17685,23 @@
     "relationships": []
   },
   {
+    "id": "1375480",
+    "name": "HAJIK, LAUREN ",
+    "address": "1121 L STREET SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(559) 816-3067",
+    "email": "lauren_hajik@uhg.com",
+    "registrationDate": "02/05/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "UNITED HEALTHCARE SERVICES, INC.",
+        "type": "Employer",
+        "effectiveDate": "02/05/2026"
+      }
+    ]
+  },
+  {
     "id": "1469179",
     "name": "HAKE, DAVIS Y.",
     "address": "600 MASSACHUSETTS AVENUE NW \nWASHINGTON , DC 20001",
@@ -17690,6 +17726,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/12/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -18317,6 +18354,7 @@
     "phone": "(215) 515-0805",
     "email": "iharvey@newmarketcapital.com",
     "registrationDate": "07/31/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -23518,6 +23556,7 @@
     "phone": "(775) 484-0830",
     "email": "fppc@bmhlaw.com",
     "registrationDate": "10/15/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -27363,6 +27402,22 @@
     ]
   },
   {
+    "id": "1487398",
+    "name": "MARTINEZ, VANESSA",
+    "address": "777 SOUTH ALAMEDA STREET, 2ND FLOOR\nLOS ANGELES, CA 90021",
+    "phone": "(323) 434-2490",
+    "email": "ahakakzadeh@radfairlaw.com",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VELADA CONSULTING LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1471946",
     "name": "MARTINSEN, SHANNON",
     "address": "40 10TH AVENUE, 5TH FLOOR\nNEW YORK, NY 10014",
@@ -27788,7 +27843,8 @@
       {
         "entityName": "DRUVEN PUBLIC AFFAIRS LLC",
         "type": "Firm",
-        "effectiveDate": "01/20/2025"
+        "effectiveDate": "01/20/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -27901,6 +27957,7 @@
     "phone": "(916) 327-7500",
     "email": "legcoordinator@counties.org",
     "registrationDate": "12/01/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -28863,7 +28920,8 @@
       {
         "entityName": "DRUVEN PUBLIC AFFAIRS LLC",
         "type": "Firm",
-        "effectiveDate": "01/20/2025"
+        "effectiveDate": "01/20/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -31246,6 +31304,23 @@
         "entityName": "BERKSHIRE PARTNERS LLC",
         "type": "Employer",
         "effectiveDate": "01/06/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486252",
+    "name": "NNAKE, CHIBUNDU",
+    "address": "1612 26TH PI SE, UNIT 1\nWASHINGTON, DC 20020",
+    "phone": "(832) 647-7863",
+    "email": "compliance_ca_cb_1@multistate.us",
+    "registrationDate": "01/14/2026",
+    "status": "Withdrawn",
+    "relationships": [
+      {
+        "entityName": "COLLEGE BOARD",
+        "type": "Employer",
+        "effectiveDate": "01/12/2026",
+        "terminationDate": "01/14/2026"
       }
     ]
   },
@@ -35370,6 +35445,7 @@
     "phone": "(415) 591-2773",
     "email": "jreirden@vcm.com",
     "registrationDate": "11/04/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -35991,7 +36067,8 @@
       {
         "entityName": "DRUVEN PUBLIC AFFAIRS LLC",
         "type": "Firm",
-        "effectiveDate": "01/20/2025"
+        "effectiveDate": "01/20/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -38880,7 +38957,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "LEADERSHIP COUNSEL ACTION, A PROJECT OF TIDES ADVOCACY",
+        "entityName": "LEADERSHIP COUNSEL ACTION, A PROJECT OF BEYOND IMPACT",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -39155,6 +39232,7 @@
     "phone": "(562) 983-1333",
     "email": "info@caltog.org",
     "registrationDate": "12/01/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -43604,13 +43682,36 @@
     ]
   },
   {
+    "id": "1487397",
+    "name": "VELASCO, KATHIA",
+    "address": "777 SOUTH ALAMEDA STREET, 2ND FLOOR\nLOS ANGELES, CA 90021",
+    "phone": "(323) 434-2490",
+    "email": "ahakakzadeh@radfairlaw.com",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VELADA CONSULTING LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1437759",
     "name": "VELASCO, PAULINA",
     "address": "777 SOUTH ALAMEDA STREET, 2ND FLOOR\nLOS ANGELES, CA 90021",
     "phone": "(323) 434-2490",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "12/31/2026",
+    "status": "Terminated",
+    "relationships": [
+      {
+        "entityName": "VELADA CONSULTING LLC",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2026"
+      }
+    ]
   },
   {
     "id": "1484941",
@@ -44648,9 +44749,16 @@
     "address": "1415 L STREET, SUITE 960\nSACRAMENTO, CA 95814",
     "phone": "(866) 448-3614",
     "email": "compliance_ca_aarp@multistate.us",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/05/2026",
+    "ethicsCourseCompletionDate": "05/15/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AARP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1358951",
