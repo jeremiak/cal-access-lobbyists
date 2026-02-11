@@ -816,7 +816,7 @@
     "address": "1231 I STREET, SUITE 400\nSACRAMENTO, CA 95814",
     "phone": "(916) 890-3670",
     "email": "info@keyslawcorp.com",
-    "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "mailingAddress": "1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
@@ -825,6 +825,23 @@
         "entityName": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA PRIMARY CARE ASSOCIATION ADVOCATES",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486320",
+    "name": "AMMONS, WILLIAM \"BILL\"",
+    "address": "555 SAINT JAMES'S STREET\nLONDON SW1A 1LA, UK",
+    "phone": "(916) 442-7757",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "01/16/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ALBACORE CAPITAL GROUP AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "01/16/2026"
       }
     ]
   },
@@ -1920,6 +1937,7 @@
     "phone": "(347) 726-9239",
     "email": "miriam.baha@apertureinvestors.com",
     "registrationDate": "01/12/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -3329,6 +3347,7 @@
     "address": "1185 AVENUE OF AMERICAS, SUITE 710\nNEW YORK, NY 10036",
     "email": "nbenzaken@quilvestcapital.com",
     "registrationDate": "01/23/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -6200,7 +6219,7 @@
   {
     "id": "1460056",
     "name": "CAMPOS, DAVID F.",
-    "address": "1100 K STREET\nSACRAMENTO, CA 95814",
+    "address": "1127 ELEVENTH STREET, SUITE 610\nSACRAMENTO, CA 95814",
     "phone": "(408) 299-5193",
     "email": "david.campos@ceo.sccgov.org",
     "registrationDate": "01/01/2025",
@@ -6450,6 +6469,22 @@
         "entityName": "TCW, LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1487512",
+    "name": "CARLSON, ABBY",
+    "address": "2600 RIVER PLAZA DRIVE\nSACRAMENTO, CA 95833",
+    "phone": "(916) 561-5505",
+    "email": "acarlson@cfbf.com",
+    "registrationDate": "02/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA FARM BUREAU FEDERATION",
+        "type": "Employer",
+        "effectiveDate": "02/01/2026"
       }
     ]
   },
@@ -9552,7 +9587,7 @@
     "address": "1231 I STREET, SUITE 400\nSACRAMENTO, CA 95814",
     "phone": "(916) 440-8170",
     "email": "info@keyslawcorp.com",
-    "mailingAddress": "C/O KEYS LAW. 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "mailingAddress": "1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
@@ -9877,14 +9912,15 @@
     "address": "2400 MARCONI AVENUE, SUITE C\nSACRAMENTO, CA 95821",
     "phone": "(916) 368-9460",
     "email": "sherry.ccapp@gmail.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA CONSORTIUM OF ADDICTION PROGRAMS AND PROFESSIONALS",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -12550,7 +12586,7 @@
   {
     "id": "1342574",
     "name": "EVANS-FUDEM, ERIN",
-    "address": "1100 K STREET\nSACRAMENTO, CA 95814",
+    "address": "1127 ELEVENTH STREET, SUITE 610\nSACRAMENTO, CA 95814",
     "phone": "(916) 447-3805",
     "email": "erin.evans-fudem@cco.sccgov.org",
     "registrationDate": "01/01/2025",
@@ -20702,7 +20738,7 @@
     "address": "1231 I STREET, SUITE 400\nSACRAMENTO, CA 95814",
     "phone": "(916) 440-8170",
     "email": "info@keyslawcorp.com",
-    "mailingAddress": "C/O KEYS LAW. 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
+    "mailingAddress": "1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
     "status": "Active",
@@ -23836,6 +23872,7 @@
     "email": "fppc@bmhlaw.com",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -23905,6 +23942,7 @@
     "phone": "(310) 843-1935",
     "email": "mkrems@apollo.com",
     "registrationDate": "11/18/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -23937,6 +23975,7 @@
     "phone": "(332) 263-0889",
     "email": "skrishnan@apollo.com",
     "registrationDate": "11/18/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -25612,14 +25651,15 @@
     "address": "2201 K STREET, SUITE 100\nSACRAMENTO, CA 95816",
     "phone": "(916) 449-2273",
     "email": "sraphael@cacfs.org",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/01/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/01/2025"
       }
     ]
   },
@@ -33026,14 +33066,15 @@
     "address": "10809 FOOTHILL BOULEVARD, SUITE 160-516\nRANCHO CUCAMONGA, CA 91730",
     "phone": "(213) 400-8664",
     "email": "ariel@rojascommunications.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -33320,14 +33361,15 @@
     "address": "1801 PENNSYLVANIA AVENUE, NW, SUITE 410\nWASHINGTON, DC 20006",
     "phone": "(202) 380-1950",
     "email": "compliance_ca_aeu_1@multistate.us",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ADVANCED ENERGY UNITED",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -34630,6 +34672,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "01/27/2025",
+    "ethicsCourseCompletionDate": "02/20/2025",
     "status": "Active",
     "relationships": [
       {
@@ -35531,6 +35574,22 @@
         "entityName": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
         "type": "Firm",
         "effectiveDate": "02/18/2025"
+      }
+    ]
+  },
+  {
+    "id": "1484573",
+    "name": "RESS, DANIEL I",
+    "address": "1012 JEFFERSON STREET\nDELANO, CA 93215",
+    "phone": "(661) 720-9140",
+    "email": "dress@crpe-ej.org",
+    "registrationDate": "06/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CENTER ON RACE, POVERTY & THE ENVIRONMENT",
+        "type": "Employer",
+        "effectiveDate": "06/01/2025"
       }
     ]
   },
@@ -38406,7 +38465,7 @@
   {
     "id": "1484774",
     "name": "SCHURMAN, JULIE",
-    "address": "1225 8TH STREET, SUITE 350\nSACRAMENTO, CA 95814",
+    "address": "455 CAPITOL MALL, SUITE 325\nSACRAMENTO, CA 95814",
     "phone": "(926) 905-2153",
     "email": "jschurman@thearcca.org",
     "registrationDate": "09/19/2025",
@@ -39262,13 +39321,18 @@
   {
     "id": "1470065",
     "name": "SHIV, DIVYA",
-    "address": "1107 9TH STREET\nSACRAMENTO, CA 95814",
-    "phone": "(916) 287-9885",
-    "email": "dshiv@housingca.org",
+    "address": "2201 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 449-2273",
+    "email": "dshiv@cacfs.org",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
     "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/15/2026"
+      },
       {
         "entityName": "HOUSING CALIFORNIA",
         "type": "Employer",
@@ -39883,6 +39947,22 @@
         "entityName": "HEALTH ACCESS CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1374234",
+    "name": "SMITH, DARREN F.",
+    "address": "711 HIGH STREET\nDES MOINES, IA 50392",
+    "phone": "(415) 969-1106",
+    "email": "smith.darren@principal.com",
+    "registrationDate": "01/22/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PRINCIPAL GLOBAL INVESTORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/22/2026"
       }
     ]
   },
