@@ -187,7 +187,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -5757,14 +5757,15 @@
     "address": "650 TOWN CENTER DRIVE 20TH FLOOR\nCOSTA MESA, CA 92626",
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LATHAM & WATKINS LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -5820,7 +5821,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -7480,7 +7481,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/05/2026"
       }
@@ -8880,7 +8881,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -9288,7 +9289,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "06/25/2025"
       }
@@ -12350,7 +12351,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -15199,6 +15200,22 @@
     ]
   },
   {
+    "id": "1486048",
+    "name": "GIARRUSSO-KHLOK, JARED",
+    "address": "GRAND CENTRAL STATION P.O BOX 4777 \nNEW YORK, NY 10163",
+    "phone": "(202) 509-0995",
+    "email": "compliance_ca_mjff_1@multistate.us",
+    "registrationDate": "01/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FOX FOUNDATION FOR PARKINSON'S RESEARCH; THE MICHAEL J.",
+        "type": "Employer",
+        "effectiveDate": "01/05/2026"
+      }
+    ]
+  },
+  {
     "id": "1382122",
     "name": "GIBBONS, MICHELLE L.",
     "address": "1127 11TH STREET, SUITE 806\nSACRAMENTO, CA 95814",
@@ -16274,7 +16291,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "06/06/2025"
@@ -19302,6 +19319,23 @@
         "entityName": "CAMPBELL & COMPANY, LP AND CAMPBELL & COMPANY INVESTMENT ADVISER LLC, A WHOLLY OWNED SUBSIDIARY",
         "type": "Employer",
         "effectiveDate": "05/15/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485254",
+    "name": "HIGHSHAW, CARL F",
+    "address": "2110 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 379-7604",
+    "email": "chighshaw.naswcw@socialworkers.org",
+    "registrationDate": "11/06/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL ASSOCIATION OF SOCIAL WORKERS, CALIFORNIA CHAPTER",
+        "type": "Employer",
+        "effectiveDate": "11/06/2025"
       }
     ]
   },
@@ -23138,6 +23172,7 @@
     "phone": "(703) 267-1250",
     "email": "ckimberling@nrahq.org",
     "registrationDate": "01/05/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -26070,6 +26105,22 @@
     ]
   },
   {
+    "id": "1342682",
+    "name": "LUMBARD, JEFFREY ",
+    "address": "601 LEXINGTON AVENNUE, 58TH FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 419-2416",
+    "email": "jeff.lumbard@apax.com",
+    "registrationDate": "02/02/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "APAX PARTNERS US, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/02/2026"
+      }
+    ]
+  },
+  {
     "id": "1428829",
     "name": "LUNDY, MEGAN",
     "address": "1 LETTERMAN DRIVE, BUILDING C, SUITE CP-500\nSAN FRANCISCO, CA 94129",
@@ -26131,7 +26182,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "10/27/2025"
       }
@@ -27629,7 +27680,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "CALIFORNIA ENVIRONMENTAL JUSTICE ALLIANCE ACTION, A PROJECT OF TIDES ADVOCACY",
+        "entityName": "CALIFORNIA ENVIRONMENTAL JUSTICE ALLIANCE ACTION, A PROJECT OF BEYOND IMPACT",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
       }
@@ -27916,7 +27967,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "04/11/2025"
@@ -27963,14 +28014,15 @@
     "address": "650 TOWN CENTER DRIVE, 20TH FLOOR\nCOASTA MESA, CA 92626",
     "phone": "(213) 485-1234",
     "email": "lobbying.compliance@lw.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "LATHAM & WATKINS LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -29210,7 +29262,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "06/06/2025"
@@ -29559,6 +29611,7 @@
     "address": "2501 PORTOLA WAY\nSACRAMENTO, CA 95818",
     "phone": "(415) 819-4285",
     "registrationDate": "01/01/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -29625,6 +29678,7 @@
     "phone": "(310) 251-3305",
     "email": "wendy@wendymitchellconsulting.com",
     "registrationDate": "06/06/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -29673,14 +29727,15 @@
     "name": "MOELLER, ELIZABETH V.",
     "address": "1200 SEVENTEENTH STREET NW\nWASHINGTON, DC 20036",
     "phone": "(202) 663-8000",
-    "registrationDate": "01/01/2024",
+    "registrationDate": "12/31/2025",
     "ethicsCourseCompletionDate": "11/01/2024",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PILLSBURY WINTHROP SHAW PITTMAN LLP",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -30469,6 +30524,23 @@
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "12/31/2025"
+      }
+    ]
+  },
+  {
+    "id": "1485246",
+    "name": "MUKKAMALA, BINDUMADHAVI",
+    "address": "2110 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 252-2958",
+    "email": "bmukkamala.naswca@socialworkers.org",
+    "registrationDate": "11/06/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL ASSOCIATION OF SOCIAL WORKERS, CALIFORNIA CHAPTER",
+        "type": "Employer",
+        "effectiveDate": "11/06/2025"
       }
     ]
   },
@@ -38414,7 +38486,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "05/19/2025"
       }
@@ -39722,11 +39794,18 @@
     "id": "1149321",
     "name": "SINGH-ALLEN, BOBBIE",
     "address": "1017 L STREET #419\nSACRAMENTO, CA 95814",
-    "phone": "(916) 627-1170",
+    "phone": "(916) 826-2075",
     "email": "bobbie@apca.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/06/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "AMERICAN PETROLEUM & CONVENIENCE STORE ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1469111",
@@ -39984,6 +40063,23 @@
     ]
   },
   {
+    "id": "1485247",
+    "name": "SMITH, JASMINE D",
+    "address": "2110 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 379-7607",
+    "email": "jsmith.naswca@socialworkers.org",
+    "registrationDate": "11/06/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NATIONAL ASSOCIATION OF SOCIAL WORKERS, CALIFORNIA CHAPTER",
+        "type": "Employer",
+        "effectiveDate": "11/06/2025"
+      }
+    ]
+  },
+  {
     "id": "1268678",
     "name": "SMITH, JEREMY L.",
     "address": "1231 I STREET, SUITE 302\nSACRAMENTO, CA 95814",
@@ -40106,9 +40202,16 @@
     "address": "711 HIGH STREET\nDES MOINES , IA 50392",
     "phone": "(562) 822-3355",
     "email": "smith.teri@principal.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/06/2026",
+    "ethicsCourseCompletionDate": "12/12/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "PRINCIPAL GLOBAL INVESTORS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1252185",
@@ -41121,7 +41224,7 @@
     "status": "Active",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -45332,6 +45435,7 @@
     "phone": "(646) 540-7371",
     "email": "ewhitelaw@walleyecapital.com",
     "registrationDate": "07/23/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -45825,7 +45929,7 @@
     "status": "Terminated",
     "relationships": [
       {
-        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING",
+        "entityName": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025",
         "terminationDate": "07/18/2025"
@@ -46026,7 +46130,9 @@
     "name": "WURSTEN, JACK",
     "address": "621 CAPITOL MALL, SUITE 2500\nSACRAMENTO, CA 95814",
     "phone": "(916) 442-8888",
+    "email": "jwursten@nossaman.com",
     "registrationDate": "01/05/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
