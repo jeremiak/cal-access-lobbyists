@@ -645,6 +645,23 @@
     ]
   },
   {
+    "id": "1306036",
+    "name": "ALLEY, JENNIFER J.",
+    "address": "7535 DELTAWIND DRIVE\nSACRAMENTO, CA 95831",
+    "phone": "(916) 205-4744",
+    "email": "jalley@comp-mat.org",
+    "mailingAddress": "5960 SOUTH LAND PARK DRIVE  #137\nSACRAMENTO, CA 95822",
+    "registrationDate": "01/15/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA OPIOID MAINTENANCE PROVIDERS (COMP)",
+        "type": "Employer",
+        "effectiveDate": "01/15/2026"
+      }
+    ]
+  },
+  {
     "id": "1373664",
     "name": "ALLRED, MEGAN ",
     "address": "7510 ISLAND WAY\nSACRAMENTO, CA 95831",
@@ -988,6 +1005,7 @@
     "phone": "(310) 314-6433",
     "email": "fangel@angellaw.com",
     "registrationDate": "04/16/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -10953,14 +10971,15 @@
     "address": "200 CLARENDON STREET, 55TH FLOOR\nBOSTON, MA 02116",
     "phone": "(617) 531-6300",
     "email": "gdipiietro@arclight.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "01/30/2026",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ARCLIGHT CAPITAL PARTNERS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/30/2026"
       }
     ]
   },
@@ -12419,6 +12438,23 @@
     "relationships": [
       {
         "entityName": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1443237",
+    "name": "ENGSTROM, JENNIFER A.",
+    "address": "4201 HUNTLEY AVENUE\nCULVER CITY, CA 90230",
+    "phone": "(916) 524-1145",
+    "email": "jengstrom@calpirg.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "11/06/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ENGSTROM; JENN",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
       }
@@ -34988,9 +35024,10 @@
     "id": "1485460",
     "name": "RAMEY, PAUL D.",
     "address": "1201 K STREET, SUITE 1250\nSACRAMENTO, CA 95814",
-    "phone": "(916) 442-7757",
+    "phone": "(916) 442-6646",
     "mailingAddress": "455 CAPITAL MALL. SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/06/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -37876,6 +37913,23 @@
         "entityName": "HINES PRIVATE WEALTH SOLUTIONS LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1487541",
+    "name": "SAPIRMAN, ALI",
+    "address": "555 MONTGOMERY STREET, SUITE 720\nSAN FRANCISCO, CA 94111",
+    "phone": "(415) 373-8879",
+    "email": "lobbying@rutan.com",
+    "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
+    "registrationDate": "02/10/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HOUSING ACTION COALITION",
+        "type": "Employer",
+        "effectiveDate": "02/10/2026"
       }
     ]
   },
