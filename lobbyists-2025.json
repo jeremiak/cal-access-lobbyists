@@ -4941,6 +4941,22 @@
     ]
   },
   {
+    "id": "1487337",
+    "name": "BREEN, AMY",
+    "address": "400 INTERPACE PARKWAY BUILDING A \nPARSIPPANY, NJ 07054",
+    "phone": "(760) 809-1276",
+    "email": "amy.breen@tevapharm.com",
+    "registrationDate": "02/10/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TEVA PHARMACEUTICALS USA, INC.",
+        "type": "Employer",
+        "effectiveDate": "02/10/2026"
+      }
+    ]
+  },
+  {
     "id": "1471539",
     "name": "BREIT, ZACHARY",
     "address": "250 VESEY STREET, 15TH FLOOR\nNEW YORK, NY 10281",
@@ -7654,6 +7670,7 @@
     "address": "925 L STREET, SUITE 350\nSACRAMENTO, CA 95814",
     "phone": "(916) 443-1749",
     "registrationDate": "12/17/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -11077,13 +11094,18 @@
   {
     "id": "1414690",
     "name": "DICKEY, AMANDA M.",
-    "address": "1029 J STREET, SUITE 220\nSACRAMENTO, CA 95814",
+    "address": "5716 FOLSOM BOULEVARD, SUITE 408\nSACRAMENTO, CA 95819",
     "phone": "(530) 301-3510",
-    "email": "adickey@sccoe.org",
-    "registrationDate": "07/01/2025",
+    "email": "adickey@completeconsultingcalifornia.co",
+    "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "01/30/2025",
-    "status": "In Suspense",
+    "status": "Active",
     "relationships": [
+      {
+        "entityName": "COMPLETE CONSULTING CALIFORNIA",
+        "type": "Firm",
+        "effectiveDate": "02/02/2026"
+      },
       {
         "entityName": "SANTA CLARA COUNTY OFFICE OF EDUCATION",
         "type": "Employer",
@@ -16581,9 +16603,16 @@
     "address": "100 PARK AVENUE, FLOOR 31\nNEW YORK, NY 10017",
     "phone": "(212) 771-1717",
     "email": "pgrad@arsenalcapital.com",
-    "registrationDate": "01/01/2026",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/11/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ARSENAL CAPITAL MANAGEMENT LP",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1475140",
@@ -17637,6 +17666,7 @@
     "phone": "(916) 443-5422",
     "email": "tony@cawrecycles.org",
     "registrationDate": "01/01/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -26147,6 +26177,7 @@
     "phone": "(212) 419-2416",
     "email": "jeff.lumbard@apax.com",
     "registrationDate": "02/02/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -28406,9 +28437,16 @@
     "address": "11111 SANTA MONICA BOULEVARD 15TH FLOOR\nLOS ANGELES, CA 90025",
     "phone": "(310) 231-6100",
     "email": "cmcgeehin@causwaycap.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/10/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CAUSEWAY CAPITAL MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1470122",
@@ -36162,6 +36200,7 @@
     "phone": "(530) 574-4701",
     "email": "kayla@cawrecycles@.org",
     "registrationDate": "01/01/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -37580,6 +37619,7 @@
     "phone": "(916) 325-1162",
     "email": "clivers@rcoe.us",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -37636,6 +37676,7 @@
     "phone": "(312) 525-2639",
     "email": "marcel.sallis@nb.com",
     "registrationDate": "02/18/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -39592,9 +39633,16 @@
     "phone": "(916) 415-6756",
     "email": "compliance@veritascapital.com",
     "mailingAddress": "555 CAPITOL MALL STE 400\nSACRAMENTO, CA 95814",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/12/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "VERITAS CAPITAL FUND MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1149448",
@@ -40090,6 +40138,7 @@
     "phone": "(415) 969-1106",
     "email": "smith.darren@principal.com",
     "registrationDate": "01/22/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -41412,6 +41461,7 @@
     "phone": "(203) 899-3400",
     "email": "ksulich@grahamcapital.com",
     "registrationDate": "01/05/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -41634,6 +41684,7 @@
     "phone": "(203) 899-3400",
     "email": "rswersky@grahamcapital.com",
     "registrationDate": "05/16/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -42071,6 +42122,23 @@
         "entityName": "AMERICAN INSTITUTE OF ARCHITECTS CALIFORNIA",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1486459",
+    "name": "TERRY, LOYAL",
+    "address": "3643 1ST AVENUE, APT 6\nSACRAMENTO, CA 95817",
+    "phone": "(415) 732-7700",
+    "email": "lobbying@rutan.com",
+    "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ECONOMIC SECURITY CA ACTION",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
       }
     ]
   },
