@@ -8021,7 +8021,14 @@
     "email": "e.askcompliance@greystar.com",
     "registrationDate": "07/01/2025",
     "status": "Revoked",
-    "relationships": []
+    "relationships": [
+      {
+        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/30/2025"
+      }
+    ]
   },
   {
     "id": "1343101",
@@ -13940,6 +13947,22 @@
     ]
   },
   {
+    "id": "1486951",
+    "name": "FONTENOT, DANITH",
+    "address": "1630 BELL STREET, SUITE 215\nSACRAMENTO, CA 95825",
+    "phone": "(916) 801-6500",
+    "email": "dan.fontenot3@gmail.com",
+    "registrationDate": "01/27/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FONTENOT; DANITH",
+        "type": "Firm",
+        "effectiveDate": "01/27/2026"
+      }
+    ]
+  },
+  {
     "id": "1303784",
     "name": "FORD, DEVON ",
     "address": "1201 K STREET SUITE 1610\nSACRAMENTO, CA 95814",
@@ -17838,6 +17861,23 @@
     ]
   },
   {
+    "id": "1148242",
+    "name": "HALEVA, JERRY M.",
+    "address": "2377 GOLD MEADOW WAY, SUITE 100\nGOLD RIVER, CA 95670",
+    "phone": "(916) 214-6060",
+    "email": "sos@stephencompany.com",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "01/31/2024",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "HALEVA DBA SERGEANT MAJOR ASSOCIATES; JEROME M.",
+        "type": "Firm",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1486286",
     "name": "HALL, ANDREW",
     "address": "888 BOYLSTON STREET, SUITE 1600\nBOSTON, MA 02199",
@@ -17861,14 +17901,15 @@
     "address": "1033 WEST ROOSEVELT WAY, SUITE 500\nTEMPE, AZ 85288",
     "phone": "(209) 210-7059",
     "email": "compliance_ca_phi_1@multistate.us",
-    "registrationDate": "08/07/2025",
+    "registrationDate": "02/05/2026",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "PHI HEALTH, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/05/2026"
       }
     ]
   },
@@ -20098,6 +20139,22 @@
         "entityName": "HOUSTON MAGNANI AND ASSOCIATES",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1444303",
+    "name": "HOVERMAN, MICHAEL",
+    "address": "465 MEETING STREET\nCHARLESTON, SC 29403",
+    "phone": "(843) 579-9400",
+    "email": "askcompliance@greystar.com",
+    "registrationDate": "01/30/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GREYSTAR INVESTMENT GROUP, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/30/2025"
       }
     ]
   },
@@ -25318,14 +25375,15 @@
     "address": "250 PARK AVENUE, 15TH FLOOR\nNEW YORK, NY 10177",
     "phone": "(212) 400-8425",
     "email": "compliance@octagoncredit.com",
-    "registrationDate": "05/01/2025",
+    "registrationDate": "01/29/2026",
     "ethicsCourseCompletionDate": "06/20/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "OCTAGON CREDIT INVESTORS, LLC",
         "type": "Employer",
-        "effectiveDate": "05/01/2025"
+        "effectiveDate": "05/01/2025",
+        "terminationDate": "01/29/2026"
       }
     ]
   },
@@ -27784,7 +27842,8 @@
       {
         "entityName": "CIFC ASSET MANAGEMENT LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "01/31/2026"
       }
     ]
   },
@@ -30274,6 +30333,23 @@
     ]
   },
   {
+    "id": "1487946",
+    "name": "MORENO, KRYSTAL",
+    "address": "1121 L STREET, SUITE 206\nSACRAMENTO, CA 95814",
+    "phone": "(916) 440-8710",
+    "email": "kmoreno@iuoe.org",
+    "registrationDate": "02/03/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA-NEVADA CONFERENCE OF OPERATING ENGINEERS",
+        "type": "Employer",
+        "effectiveDate": "02/03/2026"
+      }
+    ]
+  },
+  {
     "id": "1294115",
     "name": "MORETTI, ERMELINDA",
     "address": "5001 EXECUTIVE PARKWAY, SUITE 200\nSAN RAMON, CA 94583",
@@ -31803,6 +31879,7 @@
     "phone": "(212) 232-1471",
     "email": "madison.oconnell@capstoneco.com",
     "registrationDate": "05/27/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -34087,6 +34164,7 @@
     "email": "npita@familydocs.org",
     "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -36944,6 +37022,22 @@
     ]
   },
   {
+    "id": "1335102",
+    "name": "ROSENGARTEN, MAGDALENA",
+    "address": "1345 AVENUE OF THE AMERICAS, 45TH FLOOR\nNEW YORK, NY 10105",
+    "phone": "(202) 849-9002",
+    "email": "mrosengarten.fortress@lexpolitica.com",
+    "registrationDate": "02/12/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "FORTRESS CAPITAL FORMATION LLC",
+        "type": "Employer",
+        "effectiveDate": "02/12/2026"
+      }
+    ]
+  },
+  {
     "id": "1352271",
     "name": "ROSENTHAL, ABRIELLE",
     "address": "65 EAST 55TH STREET, 19TH FLOOR\nNEW YORK , NY 10022",
@@ -39095,6 +39189,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW CORP, 428 J STREET, SUITE 412\nSACRAMENTO, CA 95814",
     "registrationDate": "07/15/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -41026,7 +41121,8 @@
       {
         "entityName": "CAPSTONE INVESTMENT ADVISORS, LLC AND AFFILIATES",
         "type": "Employer",
-        "effectiveDate": "05/27/2025"
+        "effectiveDate": "05/27/2025",
+        "terminationDate": "01/30/2026"
       }
     ]
   },
