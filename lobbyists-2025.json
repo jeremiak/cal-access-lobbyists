@@ -3096,6 +3096,7 @@
     "email": "info@keyslawcorp.com",
     "mailingAddress": "C/O KEYS LAW, 1001 G STREET, SUITE 201\nSACRAMENTO, CA 95814",
     "registrationDate": "01/16/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -13424,9 +13425,16 @@
     "address": "4 EMBARCADERO CENTER, FLOOR 24\nSAN FRANCISCO, CA 94111",
     "phone": "(415) 281-4517",
     "email": "anjuli.finch@lazard.com",
-    "registrationDate": "07/01/2025",
-    "status": "Revoked",
-    "relationships": []
+    "registrationDate": "02/17/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "LAZARD ASSET MANAGEMENT LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
   },
   {
     "id": "1424836",
@@ -14812,6 +14820,22 @@
         "entityName": "K STREET CONSULTING, LLC",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1414979",
+    "name": "GARCIA, BRANDON",
+    "address": "1801 PENNSYLVANIA AVENUE, NW, SUITE 410\nWASHINGTON, DC 20006",
+    "phone": "(202) 380-1950",
+    "email": "compliance_ca_aeu_2@multistate.us",
+    "registrationDate": "01/28/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "ADVANCED ENERGY UNITED",
+        "type": "Employer",
+        "effectiveDate": "01/28/2026"
       }
     ]
   },
@@ -19530,6 +19554,23 @@
         "entityName": "BELL, MC ANDREWS & HILTACHK, LLP",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1487925",
+    "name": "HINEMAN, VERONICA",
+    "address": "510 MADISON AVENUE, 23RD FLOOR\nNEW YORK, NY 10022",
+    "phone": "(212) 671-4500",
+    "email": "lobbying@rutan.com",
+    "mailingAddress": "455 MARKET STREET, SUITE 1400\nSAN FRANCISCO, CA 94105",
+    "registrationDate": "02/09/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "JAIN GLOBAL LLC",
+        "type": "Employer",
+        "effectiveDate": "02/09/2026"
       }
     ]
   },
@@ -26879,6 +26920,7 @@
     "email": "bmaienschein@bhfs.com",
     "mailingAddress": "1415 L STREET, SUITE 800\nSACRAMENTO, CA 95814",
     "registrationDate": "01/01/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
