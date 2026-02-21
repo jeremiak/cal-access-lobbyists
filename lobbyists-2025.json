@@ -712,6 +712,22 @@
     ]
   },
   {
+    "id": "1488032",
+    "name": "ALPETER, COURTNEY",
+    "address": "250 NICOLLET MALL, SUITE 900\nMINNEAPOLIS, MN 55401",
+    "phone": "(612) 851-3000",
+    "email": "courtney.alpeter@castlelake.com",
+    "registrationDate": "02/18/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CASTLELAKE, L.P.",
+        "type": "Employer",
+        "effectiveDate": "02/18/2026"
+      }
+    ]
+  },
+  {
     "id": "1479818",
     "name": "ALTAMIMI, OMAR",
     "address": "107 9TH STREET, SUITE 410\nSACRAMENTO, CA 95814",
@@ -3729,9 +3745,9 @@
   {
     "id": "1469099",
     "name": "BHATTACHARJEE, PURVA",
-    "address": "2201 K STREET, SUITE 100\nSACRAMENTO , CA 95816",
-    "phone": "(916) 449-2273",
-    "email": "pbhattacharjee@cacfs.org",
+    "address": "1107 9TH STREET\nSACRAMENTO , CA 95814",
+    "phone": "(916) 287-9885",
+    "email": "pbhattacharjee@housingca.org",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "07/11/2024",
     "status": "Active",
@@ -3739,7 +3755,13 @@
       {
         "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/12/2026"
+      },
+      {
+        "entityName": "HOUSING CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "02/17/2026"
       }
     ]
   },
@@ -13193,6 +13215,23 @@
     ]
   },
   {
+    "id": "1488037",
+    "name": "FERN, EVAN",
+    "address": "1831 K STREET\nSACRAMENTO, CA 95811",
+    "phone": "(916) 504-5987",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "02/02/2026",
+    "ethicsCourseCompletionDate": "02/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "DISABILITY RIGHTS CALIFORNIA",
+        "type": "Employer",
+        "effectiveDate": "02/02/2026"
+      }
+    ]
+  },
+  {
     "id": "1334811",
     "name": "FERNANDES, JULIA NOVAES",
     "address": "7 BRYANT PARK, 24TH FLOOR\nNEW YORK, NY 10018",
@@ -15491,6 +15530,7 @@
     "phone": "(916) 504-5800",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "11/03/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -17372,6 +17412,22 @@
         "entityName": "NOVARTIS SERVICES, INC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1324291",
+    "name": "GUERRERO, MARIO",
+    "address": "1110 K STREET\nSACRAMENTO , CA 95814",
+    "phone": "(916) 441-4848",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "10/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA FACULTY ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "10/01/2025"
       }
     ]
   },
@@ -28046,6 +28102,23 @@
         "entityName": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATES, SYSTEMATICA INVESTMENTS LIMITED AND SYSTEMATICA\nINVESTMENTS UK LLP",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1382729",
+    "name": "MAXWELL, CHRISTA M.",
+    "address": "222 BERKELEY STREET, FLOOR 15\nBOSTON, MA 02116",
+    "phone": "(617) 236-8900",
+    "email": "cmaxwell@gwkinvest.com",
+    "mailingAddress": "23527 AVILA RIDGE\nSAN ANTONIO, TX 78255\nPhone: (210) 799-9293\nEmail: cmaxwell@acuitasinvestments.com",
+    "registrationDate": "02/04/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "GW&K INVESTMENT MANAGEMENT, LLC",
+        "type": "Employer",
+        "effectiveDate": "02/04/2026"
       }
     ]
   },
@@ -40003,6 +40076,7 @@
     "phone": "(212) 867-9090",
     "email": "lobbying@shenkmancapital.com",
     "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -42363,6 +42437,23 @@
     ]
   },
   {
+    "id": "1480538",
+    "name": "THOMAS, ANNIE",
+    "address": "2201 K STREET\nSACRAMENTO, CA 95816",
+    "phone": "(916) 449-2273",
+    "email": "athomas@cacfs.org",
+    "registrationDate": "01/01/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+        "type": "Employer",
+        "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1441713",
     "name": "THOMAS, JEAN W.",
     "address": "33 WEST 60TH STREET, FLOOR 2\nNEW YORK, NY 10023",
@@ -42428,6 +42519,22 @@
         "entityName": "THOMAS ADVOCACY GROUP (TTAG);THE",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1397873",
+    "name": "THOMASON, JANE",
+    "address": "980 9TH STREET, SUITE 700\nSACRAMENTO, CA 95814",
+    "phone": "(916) 446-5021",
+    "email": "compliance@olsonremcho.com",
+    "registrationDate": "01/20/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA NURSES ASSOCIATION",
+        "type": "Employer",
+        "effectiveDate": "01/20/2026"
       }
     ]
   },
