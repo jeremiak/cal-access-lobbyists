@@ -1758,6 +1758,7 @@
     "phone": "(310) 575-1716",
     "email": "zach.axelrod@carlyle.com",
     "registrationDate": "05/30/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -7744,7 +7745,8 @@
       {
         "entityName": "OMNI GOVERNMENT RELATIONS",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/13/2026"
       }
     ]
   },
@@ -11623,6 +11625,22 @@
     ]
   },
   {
+    "id": "1466890",
+    "name": "DORAN , JEFFREY",
+    "address": "200 CLARENDON STREET FLOOR 59\nBOSTON, MA 02116",
+    "phone": "(617) 889-3023",
+    "email": "jeff@sparkcapital.com",
+    "registrationDate": "01/01/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "SPARK CAPITAL PARTNERS, LLC",
+        "type": "Employer",
+        "effectiveDate": "01/01/2026"
+      }
+    ]
+  },
+  {
     "id": "1480310",
     "name": "DOSHI, PURVI",
     "address": "743 SEWARD STREET, SUITE 200\nLOS ANGELES, CA 90038",
@@ -11696,6 +11714,7 @@
     "phone": "(212) 561-5240",
     "email": "kate.dowley@axa-im.com",
     "registrationDate": "04/01/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -14445,14 +14464,15 @@
     "address": "233 WILSHIRE BOULEVARD, SUITE 525\nSANTA MONICA, CA 90401",
     "phone": "(949) 945-4849",
     "email": "mfriedrich@monroecap.com",
-    "registrationDate": "01/01/2025",
+    "registrationDate": "02/11/2026",
     "ethicsCourseCompletionDate": "04/04/2025",
-    "status": "Active",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "MONROE CAPITAL MANAGEMENT ADVISORS, LLC",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "02/11/2026"
       }
     ]
   },
@@ -16687,7 +16707,7 @@
   {
     "id": "1353786",
     "name": "GRAD, PATRICIA",
-    "address": "100 PARK AVENUE, FLOOR 31\nNEW YORK, NY 10017",
+    "address": "277 PARK AVENUE, FLOOR 34\nNEW YORK, NY 10172",
     "phone": "(212) 771-1717",
     "email": "pgrad@arsenalcapital.com",
     "registrationDate": "02/11/2026",
@@ -19787,8 +19807,8 @@
   {
     "id": "1476694",
     "name": "HODGKINS, JENNIFER",
-    "address": "2015 J STREET, SUITE 100\nSACRAMENTO , CA 95811",
-    "phone": "(916) 426-8537",
+    "address": "ONE FIRST STREET, SUITE 6\nLOS ALTOS, CA 94022",
+    "phone": "(916) 769-1783",
     "registrationDate": "02/01/2025",
     "ethicsCourseCompletionDate": "01/16/2025",
     "status": "Active",
@@ -20461,6 +20481,7 @@
     "phone": "(916) 804-2737",
     "email": "hugheswf@hughesadvocacycom.com",
     "registrationDate": "08/25/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -22760,6 +22781,23 @@
     ]
   },
   {
+    "id": "1366177",
+    "name": "KEMPNER, EDITH BAILY BLAIR",
+    "address": "299 PARK AVENUE, 30TH FLOOR\nNEW YORK, NY 10171",
+    "phone": "(212) 350-7700",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "10/01/2025",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "KELSO & COMPANY",
+        "type": "Employer",
+        "effectiveDate": "10/01/2025"
+      }
+    ]
+  },
+  {
     "id": "1445168",
     "name": "KENDRICK, JONATHAN",
     "address": "1215 K STREET, SUITE 1400\nSACRAMENTO, CA 95814",
@@ -23620,6 +23658,7 @@
     "phone": "(919) 493-3211",
     "email": "bill.schwartz@qmscapital.com",
     "registrationDate": "10/22/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -26686,6 +26725,7 @@
     "address": "909 12TH STREET SUITE 202\nSACRAMENTO, CA 95814",
     "phone": "(916) 557-1101",
     "registrationDate": "12/19/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
