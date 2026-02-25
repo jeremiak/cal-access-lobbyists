@@ -133,14 +133,8 @@
     "email": "stephan.ackermann@axa-im.com",
     "registrationDate": "09/25/2025",
     "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AXA INVESTMENT MANAGERS US INC. & ITS AFFILIATES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "status": "In Suspense",
+    "relationships": []
   },
   {
     "id": "1411571",
@@ -13251,6 +13245,22 @@
     ]
   },
   {
+    "id": "1241758",
+    "name": "FERNANDES, ALAN N.",
+    "address": "1414 K STREET\nSACRAMENTO, CA 95814",
+    "phone": "(916) 955-1791",
+    "email": "calobby@nmgovlaw.com",
+    "registrationDate": "01/06/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "NOBLE LAW, A PROFESSIONAL COMPANY",
+        "type": "Firm",
+        "effectiveDate": "01/06/2026"
+      }
+    ]
+  },
+  {
     "id": "1334811",
     "name": "FERNANDES, JULIA NOVAES",
     "address": "7 BRYANT PARK, 24TH FLOOR\nNEW YORK, NY 10018",
@@ -16261,15 +16271,21 @@
     "name": "GONZALEZ, CHER",
     "address": "1215 K STREET, SUITE 1100\nSACRAMENTO, CA 95814",
     "phone": "(916) 397-4734",
-    "email": "cher@resolutecompany.com",
+    "email": "cher@gonzalezconsult.com",
     "registrationDate": "01/01/2025",
     "ethicsCourseCompletionDate": "12/05/2024",
     "status": "Active",
     "relationships": [
       {
+        "entityName": "GONZALEZ GOVERNMENT CONSULTING",
+        "type": "Firm",
+        "effectiveDate": "01/01/2026"
+      },
+      {
         "entityName": "RESOLUTE",
         "type": "Firm",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "01/01/2025",
+        "terminationDate": "12/31/2025"
       }
     ]
   },
@@ -20870,6 +20886,23 @@
     ]
   },
   {
+    "id": "1487978",
+    "name": "ISDANER, RORY",
+    "address": "7 BRYANT PARK, 24TH FLOOR\nNEW YORK, NY 10018",
+    "phone": "(650) 614-8200",
+    "email": "fppc@bmhlaw.com",
+    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
+    "registrationDate": "02/02/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TCMI, INC. AND AFFILIATED ENTITIES",
+        "type": "Employer",
+        "effectiveDate": "02/02/2026"
+      }
+    ]
+  },
+  {
     "id": "1442889",
     "name": "ISIDRO, MARK ISAAC",
     "address": "1100 K STREET, SUITE 400\nSACRAMENTO, CA 95814",
@@ -23211,62 +23244,21 @@
   {
     "id": "1396304",
     "name": "KIDANE, AWET ",
-    "address": "1121 L STREET, SUITE 100\nSACRAMENTO, CA 95814",
-    "phone": "(916) 441-6222",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "12/05/2024",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LANG HANSEN GIROUX & KIDANE",
-        "type": "Firm",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1337505",
     "name": "KIEFER, ANDREW",
-    "address": "1215 K STREET, SUITE 2010\nSACRAMENTO, CA 95814",
-    "phone": "(916) 552-2960",
-    "email": "bsca@politicomlaw.com",
-    "registrationDate": "01/01/2025",
-    "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "BLUE SHIELD OF CALIFORNIA",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1484819",
     "name": "KIEFFER, TASIA",
-    "address": "1150 SOUTH OLIVE STREET, FLOOR 10\nLOS ANGELES, CA 90015",
-    "phone": "(323) 889-4348",
-    "email": "fppc@bmhlaw.com",
-    "mailingAddress": "455 CAPITOL MALL, SUITE 600\nSACRAMENTO, CA 95814",
-    "registrationDate": "11/01/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "LOS ANGELES COUNTY BUSINESS FEDERATION (BIZFED)",
-        "type": "Employer",
-        "effectiveDate": "11/01/2025"
-      }
-    ]
+    "relationships": []
   },
   {
     "id": "1426256",
     "name": "KIFLOM, ADIAM",
-    "address": "28 STATE STREET\nBOSTON, MA 02109",
-    "phone": "(617) 720-7966",
-    "email": "adiam.kiflom@abrdn.com",
-    "registrationDate": "08/08/2025",
-    "ethicsCourseCompletionDate": "03/06/2025",
-    "status": "In Suspense",
     "relationships": []
   },
   {
@@ -24426,14 +24418,8 @@
     "email": "fiona.choikurz@axa-im.com",
     "registrationDate": "09/25/2025",
     "ethicsCourseCompletionDate": "08/13/2025",
-    "status": "Active",
-    "relationships": [
-      {
-        "entityName": "AXA INVESTMENT MANAGERS US INC. & ITS AFFILIATES",
-        "type": "Employer",
-        "effectiveDate": "01/01/2025"
-      }
-    ]
+    "status": "In Suspense",
+    "relationships": []
   },
   {
     "id": "1416320",
@@ -26430,6 +26416,22 @@
         "entityName": "GOLDEN STATE ADVOCACY PARTNERS",
         "type": "Firm",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1488189",
+    "name": "LYNCH, ANDREA",
+    "address": "1215 K STREET, SUITE 1400\nSACRAMENTO, CA 95814",
+    "phone": "(916) 930-1249",
+    "email": "andrea.lynch@calchamber.com",
+    "registrationDate": "02/17/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "CALIFORNIA CHAMBER OF COMMERCE",
+        "type": "Employer",
+        "effectiveDate": "02/17/2026"
       }
     ]
   },
@@ -29932,13 +29934,14 @@
     "address": "888 SEVENTH AVENUE, 31ST FLOOR\nNEW YORK, NY 10019",
     "phone": "(212) 479-0657",
     "email": "cmitchell@adventcap.com",
-    "registrationDate": "08/12/2025",
-    "status": "Active",
+    "registrationDate": "01/06/2026",
+    "status": "Terminated",
     "relationships": [
       {
         "entityName": "ADVENT CAPITAL MANAGEMENT, LLC",
         "type": "Employer",
-        "effectiveDate": "08/12/2025"
+        "effectiveDate": "08/12/2025",
+        "terminationDate": "01/06/2026"
       }
     ]
   },
@@ -33378,6 +33381,7 @@
     "phone": "(916) 442-2952",
     "email": "compliance@olsonremcho.com",
     "registrationDate": "12/05/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
@@ -35607,6 +35611,22 @@
         "entityName": "NUVEEN SERVICES LLC",
         "type": "Employer",
         "effectiveDate": "01/01/2025"
+      }
+    ]
+  },
+  {
+    "id": "1487453",
+    "name": "REALE, NICHOLAS",
+    "address": "400 INTERPACE PARKWAY, BUILDING A\nPARSIPPANY, NJ 07054",
+    "phone": "(619) 357-2258",
+    "email": "nick.reale@tevapharm.com",
+    "registrationDate": "02/18/2026",
+    "status": "Active",
+    "relationships": [
+      {
+        "entityName": "TEVA PHARMACEUTICALS USA, INC.",
+        "type": "Employer",
+        "effectiveDate": "02/18/2026"
       }
     ]
   },
@@ -40156,7 +40176,7 @@
       {
         "entityName": "AMERICAN PETROLEUM & CONVENIENCE STORE ASSOCIATION",
         "type": "Employer",
-        "effectiveDate": "01/01/2025"
+        "effectiveDate": "02/05/2025"
       }
     ]
   },
@@ -43551,6 +43571,7 @@
     "phone": "(916) 352-0747",
     "email": "bturner@axiomadvisors.com",
     "registrationDate": "11/03/2025",
+    "ethicsCourseCompletionDate": "02/05/2026",
     "status": "Active",
     "relationships": [
       {
